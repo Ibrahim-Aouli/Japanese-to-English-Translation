@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow}  [Ochu]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+You should equip armor that prevents status ailments such as
+“Darkness” from “Ochu Dance” and “Poison” from “Poison Claws.”
+Its HP is high, so attack it with fire-element weapons or magic,
+which plants are weak to, or put it to sleep with “Sleep Attack.”
+--------------------------------------------------End--

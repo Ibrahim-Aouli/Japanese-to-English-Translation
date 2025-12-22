@@ -1,0 +1,10 @@
+{WINDOW}
+Attacks can’t reach from here.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [About Trigger Commands]
+--------------------------------------------------End--
+{WINDOW}
+{White} During battle, there are times when special commands can be used.
+Press {Directional Left} in the command window.
+--------------------------------------------------End--

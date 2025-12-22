@@ -1,0 +1,9 @@
+{WINDOW}
+{Yellow}  [Coeurl]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+It uses many magic attacks, so attack it with
+“Silence Buster” or weapons that have the added
+“Silence” effect.
+--------------------------------------------------End--

@@ -1,0 +1,14 @@
+{WINDOW}
+{Tidus}
+Whoa! What are they?
+--------------------------------------------------End--
+{WINDOW}
+{Lulu}
+Ancient machina salvaged
+by the {Al Bhed}.
+--------------------------------------------------End--
+{WINDOW}
+{Lulu}
+They are mostly
+vulnerable to lightning.
+--------------------------------------------------End--

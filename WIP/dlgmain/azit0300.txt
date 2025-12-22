@@ -1,0 +1,229 @@
+{Cid} 
+Damn it!
+--------------------------------------------------End--
+{Cid} 
+{Rikku}! Can you hear me!?
+--------------------------------------------------End--
+{Cid} 
+You guys too—run underground!
+We’re blowing up {Home}!
+--------------------------------------------------End--
+{Cid} 
+We’ll blast it away—{fiend} and all!
+--------------------------------------------------End--
+{Rikku} 
+No way!?
+--------------------------------------------------End--
+{Wakka} 
+Direct hit!
+--------------------------------------------------End--
+{Rikku} 
+A-anyway, get underground!
+--------------------------------------------------End--
+{Auron} 
+Where is {Yuna}?
+--------------------------------------------------End--
+{Rikku} 
+Probably the {Blue} [Summoner’s Room]{White}!
+This way!
+--------------------------------------------------End--
+{Rikku} 
+This way, this way!
+--------------------------------------------------End--
+{Wakka} 
+This place is done for already…
+--------------------------------------------------End--
+{Wakka} 
+{Rikku} …
+--------------------------------------------------End--
+{Wakka} 
+Tch! Rampaging all over the place!
+What the hell do the {Guado} want!?
+--------------------------------------------------End--
+{Lulu} 
+Hey, {Rikku}—
+what is the Summoner’s Room?
+--------------------------------------------------End--
+{Rikku} 
+The {Al Bhed} protect summoners.
+Because we don’t want them to die.
+--------------------------------------------------End--
+{Wakka} 
+So that’s why you kidnapped them, huh.
+--------------------------------------------------End--
+{Rikku} 
+Yeah.
+--------------------------------------------------End--
+{Rikku} 
+You might not understand, but…
+--------------------------------------------------End--
+{Wakka} 
+I get the logic, but still…
+--------------------------------------------------End--
+{Tidus} 
+Hey?
+--------------------------------------------------End--
+{Tidus} 
+Hey!
+--------------------------------------------------End--
+{Kimahri} 
+It’s quiet now.
+{Kimahri} goes.
+--------------------------------------------------End--
+{Rikku} 
+Please, {Yunie}, stay here!
+--------------------------------------------------End--
+{Rikku} 
+Yeah… no good…
+--------------------------------------------------End--
+{Rikku} 
+The {Al Bhed2} didn’t have a homeland.
+--------------------------------------------------End--
+{Rikku} 
+The island we used to live on
+was destroyed by ‘{Sin}’.
+--------------------------------------------------End--
+{Rikku} 
+The tribe was scattered,
+living all over the place.
+--------------------------------------------------End--
+{Rikku} 
+But Dad gathered everyone back together.
+--------------------------------------------------End--
+{Rikku} 
+He said, “Let’s work together
+and make a new homeland.”
+--------------------------------------------------End--
+{Rikku} 
+It was going well.
+Everyone worked hard.
+--------------------------------------------------End--
+{Rikku} 
+So why…
+why did it end up like this…?
+--------------------------------------------------End--
+{Tidus} 
+I don’t really get it.
+--------------------------------------------------End--
+{Tidus} 
+Just because they might die on the journey,
+isn’t this going too far?
+--------------------------------------------------End--
+{Tidus} 
+If summoners don’t go on the pilgrimage,
+you can’t defeat ‘{Sin}’, right?
+--------------------------------------------------End--
+{Tidus} 
+I get that you’re worried,
+but they’ve got guardians.
+--------------------------------------------------End--
+{Tidus} 
+If the guardians protect them properly,
+the summoners won’t die!
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer Vol. 21!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} letters!
+{VAR07:31} ‘{OPurple}Ba{White}’ → ‘{Pink}za{White}’
+{VAR07:31} ‘{OPurple}Gi{White}’ → ‘{Pink}ji{White}’
+{VAR07:31} ‘{OPurple}Bu{White}’ → ‘{Pink}zu{White}’
+{VAR07:31} ‘{OPurple}Ge{White}’ → ‘{Pink}ze{White}’
+{VAR07:31} ‘{OPurple}Bo{White}’ → ‘{Pink}zo{White}’
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [{Al Bhed} Language Primer]{White}
+An unknown language, ‘{Al Bhed}’, can be learned
+by finding {Al Bhed} Primers.
+{OPurple}Rebaha! {Al Bhed} yanusā! Tensofum miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Beginner]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Novice]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Intermediate {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Proficient]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Advanced {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Fluent]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Master]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Ultimate {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.1]{White}
+You can record your journey on a sphere!
+With the automatic recovery function that
+soothes travel fatigue,
+HP/MP are fully restored!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.2]{White}
+Thanks to the efforts of the {Besaid Aurochs},
+a transfer function to the {blitzball} stadium
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System]{White}
+Across the lands of {Spira},
+hidden talented players
+continue to train at Blitzball.
+Press {Button Square} to talk to them
+and you may be able to scout them.
+Scout promising players and lead
+the {Besaid Aurochs} to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} do not have enough members
+and cannot participate in a match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray} To Blitz Stadium{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.3]{White}
+Thanks to the goodwill of {Al Bhed2} and {Rin},
+a transfer function to the airship
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{CHOICE:32}To Blitz Stadium
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray} To Airship{White}
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{Gray} To Blitz Stadium{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

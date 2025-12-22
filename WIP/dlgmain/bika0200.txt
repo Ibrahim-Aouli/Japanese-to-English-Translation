@@ -1,0 +1,344 @@
+{WINDOW}
+{Yellow} [{Al Bhed} Emergency Aid Box]{White}
+An emergency aid box installed by the {Al Bhed2}
+to prevent casualties in the desert.
+--------------------------------------------------End--
+
+Letters of {Al Bhed3} are written here.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Beware of {fiend}!]{White}
+Go right to face weaker {fiend}
+Go left to face stronger {fiend}
+--------------------------------------------------End--
+{Rikku}
+Huh~?
+Which way was it again…
+--------------------------------------------------End--
+{Rikku}
+Um… this way!
+--------------------------------------------------End--
+{Rikku}
+Sorry, looks like I got lost.
+--------------------------------------------------End--
+{Rikku}
+This way, this way!
+--------------------------------------------------End--
+{Rikku}
+That way~!
+--------------------------------------------------End--
+{Rikku}
+Wait for me~!
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer Vol. 17!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} letters!
+{VAR07:31} “{OPurple}U{White}” → “{Pink}ru{White}”
+{VAR07:31} “{OPurple}E{White}” → “{Pink}re{White}”
+{VAR07:31} “{OPurple}No{White}” → “{Pink}ro{White}”
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [{Al Bhed} Language Introduction]{White}
+An unknown language, “{Al Bhed} language,” can be learned
+by discovering {Al Bhed} language dictionaries.
+{OPurple} Rebaha! {Al Bhed} yanusā! Tensofum miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Shufkonkya]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Kyokinkya]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Asayoso {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Sanchinyufudar]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Nyufhyofuha {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Ponapona]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Denhiginhai]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Yāzenanuha {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Yanusā]{White}!
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer Vol. 18!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} letters!
+{VAR07:31} “{OPurple}Ka{White}” → “{Pink}wa{White}”
+{VAR07:31} “{OPurple}Mu{White}” → “{Pink}wo{White}”
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.1]{White}
+You can record your journey on a sphere!
+With the automatic recovery function
+that soothes travel fatigue,
+HP/MP are fully restored!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.2]{White}
+Thanks to the efforts of the {Besaid Aurochs},
+a transfer function to the {blitzball} stadium
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System]{White}
+Across the lands of {Spira},
+hidden talented players
+continue their blitz training.
+Press {Button Square} to talk to them
+and you may be able to scout them.
+Scout promising players and lead
+the {Besaid Aurochs} to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} do not have enough members
+and cannot participate in a match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}To Blitz Stadium{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.3]{White}
+Thanks to the goodwill of {Al Bhed2} and {Rin},
+a transfer function to the airship
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{CHOICE:32}To Blitz Stadium
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}To Airship{White}
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{Gray}To Blitz Stadium{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+Suuha
+Kuris
+--------------------------------------------------End--
+{WINDOW}
+
+Something is written here.
+--------------------------------------------------End--
+{WINDOW}
+3!
+--------------------------------------------------End--
+{WINDOW}
+2!
+--------------------------------------------------End--
+{WINDOW}
+1!
+--------------------------------------------------End--
+{WINDOW}
+START!!
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE!!
+--------------------------------------------------End--
+{WINDOW}
+TIME OVER!!
+--------------------------------------------------End--
+{WINDOW}
+=1st TRIAL=
+--------------------------------------------------End--
+{WINDOW}
+=2nd TRIAL=
+--------------------------------------------------End--
+{WINDOW}
+=3rd TRIAL=
+--------------------------------------------------End--
+{WINDOW}
+Hari-hari mambon
+--------------------------------------------------End--
+{WINDOW}
+Hari-hari…
+--------------------------------------------------End--
+{WINDOW}
+…fell over
+--------------------------------------------------End--
+{WINDOW}
+Hari…
+--------------------------------------------------End--
+{WINDOW}
+
+Destination undecided
+= Currently searching =
+--------------------------------------------------End--
+{WINDOW}
+
+Something is written here.
+--------------------------------------------------End--
+{WINDOW}
+
+Go a little further
+and you can rest.
+--------------------------------------------------End--
+{WINDOW}
+
+{Home} is this way
+--------------------------------------------------End--
+{WINDOW}
+
+Shortcut to {Home}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Tōme]{White}
+・Fetches water every day
+・Easygoing, often gets left behind
+・Slow
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Robibia]{White}
+・Always irritated at slow friends
+・Inexperienced
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Chapa]{White}
+・Recently learned to count to 50
+・Friendly
+・Easily distracted
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Alec & Aroya]{White}
+・Always together, close siblings
+・They move in perfect sync
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Barchela]{White}
+・Loves new things
+・Strict with others, lenient with self
+・Impatient
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Robeira]{White}
+・Careless
+・Likes squeezing into tight spaces
+・Proudly displaying collection!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Israya]{White}
+・The tribe’s greatest guardian
+・Watching over the desert again today
+・Extremely cautious
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Elio]{White}
+・What lies beyond the desert?
+・Driven by curiosity, he set out on a journey
+・Overly dramatic
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Fryle]{White}
+・Quietly joins the group before anyone notices
+・Sneaky
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Cactuar Village]{White}
+・Using the power of spheres to control sand,
+the cactuars protect their village
+and are known as “Gatekeepers”
+・When all ten spheres they possess
+are offered to the stone pedestal,
+the path to the village will open
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Gatekeeper Path 1]{White}
+・Even if they look like they’re standing still,
+the gatekeepers are proud warriors
+・They dislike fighting, but will attack
+anyone who gets behind them
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Gatekeeper Path 2]{White}
+・If you fail to get behind them,
+the gatekeepers will lose interest
+and quickly leave the area
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Gatekeeper Path 3]{White}
+・While the cactuar’s back is turned,
+move close and challenge them to battle
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Sphere]{White}
+・Fail to get behind them and you receive a Loser’s Sphere
+・Succeed and you receive a named sphere
+・Collect many named spheres to receive a reward
+in the village
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tōme’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robibia’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chapa’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alec & Aroya’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Barchela’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeira’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Israya’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+…Obtained Elio’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Fryle’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Loser’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained 2 Black Magic Spheres!
+--------------------------------------------------End--
+{WINDOW}
+Obtained a Light Magic Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained a Holy Magic Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{Blue} TIME {VAR12:32}:{VAR12:31}:{VAR12:30}{White}
+--------------------------------------------------End--

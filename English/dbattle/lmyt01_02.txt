@@ -1,0 +1,15 @@
+Belgemine
+Choose your aeon well, summoner.
+--------------------------------------------------End--
+Belgemine
+You have a lot to learn.
+--------------------------------------------------End--
+Belgemine
+Stop. That is enough.
+--------------------------------------------------End--
+{WINDOW}
+Ixion defends!
+--------------------------------------------------End--
+{WINDOW}
+Ixion evades!
+--------------------------------------------------End--

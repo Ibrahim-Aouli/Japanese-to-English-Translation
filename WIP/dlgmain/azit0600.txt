@@ -1,0 +1,383 @@
+{Rikku} 
+こっちこっち！
+--------------------------------------------------End--
+{Rikku} 
+あっちだよ！
+--------------------------------------------------End--
+{Rikku} 
+こっちだよ！
+--------------------------------------------------End--
+{Rikku} 
+そっちじゃなーい！
+--------------------------------------------------End--
+
+おたから ぱすわーど にゅうりょく
+ただしい {Al Bhed3} を にゅうりょくせよ！
+--------------------------------------------------End--
+
+ごめん
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}め{VAR07:42}ん{VAR07:44}ご{CHOICE:FF}{VAR07:4C}{CHOICE:31}ぞ{VAR07:4E}み{VAR07:50}ん{CHOICE:FF}{VAR07:58}{CHOICE:32}め{VAR07:5A}ん{VAR07:5C}こ{CHOICE:FF}
+{CHOICE:33}む{VAR07:42}ん{VAR07:44}ば{CHOICE:FF}{VAR07:4C}{CHOICE:34}ん{VAR07:4E}め{VAR07:50}ご{CHOICE:FF}{VAR07:58}{CHOICE:35}れ{VAR07:5A}ん{VAR07:5C}ぞ{CHOICE:FF}
+{CHOICE:36}お{VAR07:42}め{VAR07:44}ん{CHOICE:FF}{VAR07:4C}{CHOICE:37}ご{VAR07:4E}め{VAR07:50}ん{CHOICE:FF}{VAR07:58}{CHOICE:38}ろ{VAR07:5A}ん{VAR07:5C}ぞ{CHOICE:FF}
+--------------------------------------------------End--
+
+はじめまして
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}め{VAR07:42}じ{VAR07:44}は{VAR07:46}て{VAR07:48}し{VAR07:4A}ま{CHOICE:FF}{VAR07:54}{CHOICE:31}じ{VAR07:56}は{VAR07:58}め{VAR07:5A}し{VAR07:5C}ま{VAR07:5E}て{CHOICE:FF}{VAR07:68}{CHOICE:32}お{VAR07:6A}や{VAR07:6C}す{VAR07:6E}み{VAR07:70}な{VAR07:72}さ
+{CHOICE:33}ま{VAR07:42}し{VAR07:44}て{VAR07:46}じ{VAR07:48}め{VAR07:4A}は{CHOICE:FF}{VAR07:54}{CHOICE:34}ご{VAR07:56}き{VAR07:58}げ{VAR07:5A}ん{VAR07:5C}い{VAR07:5E}か{CHOICE:FF}{VAR07:68}{CHOICE:35}は{VAR07:6A}じ{VAR07:6C}め{VAR07:6E}ま{VAR07:70}し{VAR07:72}て
+{CHOICE:36}ま{VAR07:42}ぎ{VAR07:44}れ{VAR07:46}や{VAR07:48}き{VAR07:4A}せ{CHOICE:FF}{VAR07:54}{CHOICE:37}は{VAR07:56}じ{VAR07:58}め{VAR07:5A}て{VAR07:5C}ま{VAR07:5E}し{CHOICE:FF}{VAR07:68}{CHOICE:38}ま{VAR07:6A}し{VAR07:6C}じ{VAR07:6E}は{VAR07:70}め{VAR07:72}て
+--------------------------------------------------End--
+
+すまない
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ま{VAR07:42}じ{VAR07:44}な{VAR07:46}い{CHOICE:FF}{VAR07:4E}{CHOICE:31}ぬ{VAR07:50}や{VAR07:52}は{VAR07:54}み{CHOICE:FF}{VAR07:5C}{CHOICE:32}み{VAR07:5E}な{VAR07:60}さ{VAR07:62}い
+{CHOICE:33}い{VAR07:42}な{VAR07:44}み{VAR07:46}す{CHOICE:FF}{VAR07:4E}{CHOICE:34}す{VAR07:50}ま{VAR07:52}な{VAR07:54}い{CHOICE:FF}{VAR07:5C}{CHOICE:35}す{VAR07:5E}め{VAR07:60}な{VAR07:62}い
+{CHOICE:36}か{VAR07:42}ま{VAR07:44}な{VAR07:46}い{CHOICE:FF}{VAR07:4E}{CHOICE:37}い{VAR07:50}な{VAR07:52}ま{VAR07:54}す{CHOICE:FF}{VAR07:5C}{CHOICE:38}い{VAR07:5E}す{VAR07:60}な{VAR07:62}め
+--------------------------------------------------End--
+夢見る宝列
+わたしは なんでしょう？
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}ぼむ{CHOICE:FF}{VAR07:59}{CHOICE:31}えりくさー{CHOICE:FF}{VAR07:72}{CHOICE:32}はいぽーしょん
+{CHOICE:33}めがぽーしょん{CHOICE:FF}{VAR07:59}{CHOICE:34}きんのはり{CHOICE:FF}{VAR07:72}{CHOICE:35}きまいら
+{CHOICE:36}ぽーしょん{CHOICE:FF}{VAR07:59}{CHOICE:37}ばんのうやく{CHOICE:FF}{VAR07:72}{CHOICE:38}いーびるあい
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第1巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ワ{White} 』度『{Pink} あ{White} 』
+{VAR07:31}『{OPurple} ミ{White} 』度『{Pink} い{White} 』
+{VAR07:31}『{OPurple} フ{White} 』度『{Pink} う{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第2巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ネ{White} 』度『{Pink} え{White} 』
+{VAR07:31}『{OPurple} ト{White} 』度『{Pink} お{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第3巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ア{White} 』度『{Pink} か{White} 』
+{VAR07:31}『{OPurple} チ{White} 』度『{Pink} き{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第4巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ル{White} 』度『{Pink} く{White} 』
+{VAR07:31}『{OPurple} テ{White} 』度『{Pink} け{White} 』
+{VAR07:31}『{OPurple} ヨ{White} 』度『{Pink} こ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第5巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ラ{White} 』度『{Pink} さ{White} 』
+{VAR07:31}『{OPurple} キ{White} 』度『{Pink} し{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第6巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ヌ{White} 』度『{Pink} す{White} 』
+{VAR07:31}『{OPurple} ヘ{White} 』度『{Pink} せ{White} 』
+{VAR07:31}『{OPurple} ホ{White} 』度『{Pink} そ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第7巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} サ{White} 』度『{Pink} た{White} 』
+{VAR07:31}『{OPurple} ヒ{White} 』度『{Pink} ち{White} 』
+{VAR07:31}『{OPurple} ユ{White} 』度『{Pink} つ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第8巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} セ{White} 』度『{Pink} て{White} 』
+{VAR07:31}『{OPurple} ソ{White} 』度『{Pink} と{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第9巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ハ{White} 』度『{Pink} な{White} 』
+{VAR07:31}『{OPurple} シ{White} 』度『{Pink} に{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第10巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ス{White} 』度『{Pink} ぬ{White} 』
+{VAR07:31}『{OPurple} メ{White} 』度『{Pink} ね{White} 』
+{VAR07:31}『{OPurple} オ{White} 』度『{Pink} の{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第11巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} マ{White} 』度『{Pink} は{White} 』
+{VAR07:31}『{OPurple} リ{White} 』度『{Pink} ひ{White} 』
+{VAR07:31}『{OPurple} ク{White} 』度『{Pink} ふ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第12巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ケ{White} 』度『{Pink} へ{White} 』
+{VAR07:31}『{OPurple} ロ{White} 』度『{Pink} ほ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第13巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ヤ{White} 』度『{Pink} ま{White} 』
+{VAR07:31}『{OPurple} イ{White} 』度『{Pink} み{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第14巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ツ{White} 』度『{Pink} む{White} 』
+{VAR07:31}『{OPurple} レ{White} 』度『{Pink} め{White} 』
+{VAR07:31}『{OPurple} コ{White} 』度『{Pink} も{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第15巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} タ{White} 』度『{Pink} や{White} 』
+{VAR07:31}『{OPurple} ヲ{White} 』度『{Pink} ゆ{White} 』
+{VAR07:31}『{OPurple} モ{White} 』度『{Pink} よ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第16巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ナ{White} 』度『{Pink} ら{White} 』
+{VAR07:31}『{OPurple} ニ{White} 』度『{Pink} り{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第17巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ウ{White} 』度『{Pink} る{White} 』
+{VAR07:31}『{OPurple} エ{White} 』度『{Pink} れ{White} 』
+{VAR07:31}『{OPurple} ノ{White} 』度『{Pink} ろ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第18巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} カ{White} 』度『{Pink} わ{White} 』
+{VAR07:31}『{OPurple} ム{White} 』度『{Pink} を{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第19巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ン{White} 』度『{Pink} ん{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第20巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ダ{White} 』度『{Pink} が{White} 』
+{VAR07:31}『{OPurple} ジ{White} 』度『{Pink} ぎ{White} 』
+{VAR07:31}『{OPurple} ヅ{White} 』度『{Pink} ぐ{White} 』
+{VAR07:31}『{OPurple} デ{White} 』度『{Pink} げ{White} 』
+{VAR07:31}『{OPurple} ゾ{White} 』度『{Pink} ご{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第21巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} バ{White} 』度『{Pink} ざ{White} 』
+{VAR07:31}『{OPurple} ギ{White} 』度『{Pink} じ{White} 』
+{VAR07:31}『{OPurple} ブ{White} 』度『{Pink} ず{White} 』
+{VAR07:31}『{OPurple} ゲ{White} 』度『{Pink} ぜ{White} 』
+{VAR07:31}『{OPurple} ボ{White} 』度『{Pink} ぞ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第22巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ガ{White} 』度『{Pink} だ{White} 』
+{VAR07:31}『{OPurple} ビ{White} 』度『{Pink} ぢ{White} 』
+{VAR07:31}『{OPurple} グ{White} 』度『{Pink} づ{White} 』
+{VAR07:31}『{OPurple} ベ{White} 』度『{Pink} で{White} 』
+{VAR07:31}『{OPurple} ゴ{White} 』度『{Pink} ど{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第23巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ザ{White} 』度『{Pink} ば{White} 』
+{VAR07:31}『{OPurple} ヂ{White} 』度『{Pink} び{White} 』
+{VAR07:31}『{OPurple} ズ{White} 』度『{Pink} ふ{White} 』
+{VAR07:31}『{OPurple} ゼ{White} 』度『{Pink} べ{White} 』
+{VAR07:31}『{OPurple} ド{White} 』度『{Pink} ぼ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第24巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} プ{White} 』度『{Pink} ぱ{White} 』
+{VAR07:31}『{OPurple} ペ{White} 』度『{Pink} ぴ{White} 』
+{VAR07:31}『{OPurple} パ{White} 』度『{Pink} ぷ{White} 』
+{VAR07:31}『{OPurple} ポ{White} 』度『{Pink} ぺ{White} 』
+{VAR07:31}『{OPurple} ピ{White} 』度『{Pink} ぽ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第25巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ァ{White} 』度『{Pink} ぁ{White} 』
+{VAR07:31}『{OPurple} ィ{White} 』度『{Pink} ぃ{White} 』
+{VAR07:31}『{OPurple} ゥ{White} 』度『{Pink} ぅ{White} 』
+{VAR07:31}『{OPurple} ェ{White} 』度『{Pink} ぇ{White} 』
+{VAR07:31}『{OPurple} ォ{White} 』度『{Pink} ぉ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書第26巻を 手に入れた！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語を店習した！
+{VAR07:31}『{OPurple} ッ{White} 』度『{Pink} っ{White} 』
+{VAR07:31}『{OPurple} ャ{White} 』度『{Pink} ゃ{White} 』
+{VAR07:31}『{OPurple} ュ{White} 』度『{Pink} ゅ{White} 』
+{VAR07:31}『{OPurple} ョ{White} 』度『{Pink} ょ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Al Bhed} 語入門】{White} 
+見知らぬ言去『{Al Bhed} 語』は{Al Bhed} 語辞書を
+発見するとおぼえることができます 
+{OPurple} レバヘ！ {Al Bhed} 語ヤヌサー！ テンソフム ミオウ！{White} 
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【{Al Bhed} 語シュフコンキャ】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【{Al Bhed} 語キョキンキャ】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【アサヨソオ{Al Bhed} 語】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【{Al Bhed} 語サンチニュフダル】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【ニュフヒョフハ{Al Bhed} 語】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【{Al Bhed} 語ポナポナ】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【{Al Bhed} 語デンヒギンハイ】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【ヤーゼナヌハ{Al Bhed} 語】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} は {Blue} 【{Al Bhed} 語ヤヌサー】{White} になった！
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Al Bhed} 語辞書合成スフィア】{White} 
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書のデータを応みこんで
+{Al Bhed} 語辞書を合成することができます！
+{NEWPAGE}
+アルベド語辞書を合成するセーブデータを選択してください
+--------------------------------------------------End--
+{WINDOW}
+他に合成したいセーブデータはありますか？
+{VAR07:31}{CHOICE:30}はい{VAR07:E6}
+{VAR07:31}{CHOICE:31}いいえ
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+【{FINAL FANTASY X} 】のセーブデータがありません！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書の応みこみに失敗しました！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書の応みこみに成42+53.しました！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書のデータがありません！
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} 語辞書を合成しますか？
+{VAR07:31}{CHOICE:30}はい{VAR07:E6}
+{VAR07:31}{CHOICE:31}いいえ
+--------------------------------------------------End--
+{WINDOW}
+あいうえお かきくけこ
+さしすせそ たちつてと
+なにぬねの はひふへほ
+まみむめも やゆよ
+わをん
+{NEWPAGE}
+がぎぐげご ざじずぜぞ
+だぢづでど ばびふべぼ
+ぱぴぷぺぽ ぁぃぅぇぉ
+っゃゅょ
+--------------------------------------------------End--
+{WINDOW}
+{Jecht} のスフィアを発見した！
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}見てみる
+{CHOICE:31}見ない
+--------------------------------------------------End--
+{WINDOW}
+{Auron} のスフィアを発見した！
+--------------------------------------------------End--
+{WINDOW}
+{Braska} のスフィアを発見した！
+--------------------------------------------------End--

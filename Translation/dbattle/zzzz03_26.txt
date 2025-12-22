@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow} Chimera
+--------------------------------------------------End--
+{WINDOW}
+{White}Chimera's HP is high, so be ready
+for a long fight. Use {OCyan}Power Break{White}
+and {OCyan}Magic Break{White} to reduce damage.
+Kimahri can use {OCyan}Lancet{White} to learn
+Chimera's {OCyan}Aqua Breath{White} attack.
+--------------------------------------------------End--

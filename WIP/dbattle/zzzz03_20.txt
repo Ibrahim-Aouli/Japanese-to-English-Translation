@@ -1,0 +1,171 @@
+{WINDOW}
+{Yellow}  [Bomb]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+It swells up each time it takes damage.
+After taking damage three times, it will use “Self-Destruct,”
+causing heavy damage to the attacker.
+You should defeat it within three attacks, but if you can’t,
+use “Barfire” to reduce the fire-element damage from “Self-Destruct.”
+It is weak to ice, so “Blizzard” is effective.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Dual Horn]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+It has very high HP, so the battle will be long.
+Its attack power is high, so use “Blind Attack”
+to inflict the “Darkness” status.
+“Sleep Attack” is also effective, but while asleep,
+it will wake up quickly unless you attack with magic.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Vulture]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Its attack power is high, so use “Blind Attack”
+to inflict the “Darkness” status.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Fungongo]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Its Fire attacks are not very powerful, but when attacked,
+it counterattacks with a flower [40+48?] that has a “Sleep” effect.
+To prevent the “Flower [40+48?],” “Sleep Attack” is effective.
+As a plant-type enemy, it is weak to fire-element weapons and magic.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Basilisk]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+You should equip armor that prevents “Petrification”
+from its “Gaze Attack.”
+Aeons are immune to status ailments like “Petrification,”
+so you may also leave the battle to an aeon.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Ochu]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+You should equip armor that prevents status ailments such as
+“Darkness” from “Ochu Dance” and “Poison” from “Poison Claws.”
+Its HP is high, so attack using fire-element weapons or magic,
+which plants are weak to, or put it to sleep with “Sleep Attack.”
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Larva]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+When its HP is reduced by half, it casts “Thundara” on itself
+to recover HP and further increase its magic power.
+Before that happens, inflict “Silence” using “Silence Attack.”
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Iron Giant]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+It occasionally uses “[40+49?] Slash,” dealing heavy damage
+to all allies, so inflict “Darkness” beforehand using
+“Blind Buster.”
+“Sleep Attack” may work rarely, and if it falls asleep,
+attack it with magic.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Kushipos]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Its attack power is high, so “Power Break” is effective.
+You can reliably inflict “Darkness” using “Blind Buster.”
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Chimera]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+It has very high HP, so the battle will be long.
+Using “Power Break” and “Magic Break”
+to reduce damage taken is effective.
+You can obtain the enemy skill “Aqua Breath”
+using {Kimahri}’s “Lancet.”
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Zu]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+You can reliably inflict “Darkness” using “Blind Buster.”
+Once you deal enough damage and it falls to the ground,
+it can be defeated easily.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Cactuar]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+When its HP gets low, it will quickly try to escape.
+“Sleep” does not work, so use another strategy
+to prevent it from fleeing.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Coeurl]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+It frequently uses magic attacks, so use “Silence Buster”
+or weapons with added “Silence” effects.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Malboro]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Beware of “Bad Breath,” which simultaneously inflicts
+“Poison,” “Darkness,” “Silence,” “Confusion,” and “Slow.”
+After receiving a certain amount of [40+50?] damage,
+it will use “Bad Breath,” so defeat it before then,
+either by accelerating enemy actions [40+51?]
+[40+52?], or by equipping armor that prevents status ailments.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Ashura]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+After receiving a certain amount of [40+50?] damage,
+it will counterattack powerfully against physical attacks,
+but will not counter magic.
+“Sleep Buster” and “Blind Buster” are effective.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}  [Ghost]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+At the start of battle, it will cast “Doom.”
+“Magic Break” and “Silence Buster” are effective.
+--------------------------------------------------End--

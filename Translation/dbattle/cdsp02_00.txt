@@ -1,0 +1,29 @@
+Silence Attack
+--------------------------------------------------End--
+Dark Attack
+--------------------------------------------------End--
+Sleep Attack
+--------------------------------------------------End--
+The crane seems to respond.
+--------------------------------------------------End--
+{Tidus}
+Hey, we can use this crane!
+--------------------------------------------------End--
+{Tidus}
+C'mon, move!
+--------------------------------------------------End--
+{Lulu}
+It's probably out of power.
+--------------------------------------------------End--
+{Tidus}
+I know! {Lulu}, use that
+Thunder spell on it!
+It might make it work!
+--------------------------------------------------End--
+{Tidus}
+It's out of power?
+--------------------------------------------------End--
+{Tidus}
+Power? Electricity?
+I know! Thunder spells!
+--------------------------------------------------End--

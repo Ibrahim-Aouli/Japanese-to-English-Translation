@@ -1,0 +1,75 @@
+{Rikku}
+Oooh! A treasure chest!
+--------------------------------------------------End--
+{Rikku}
+I wonder what's inside?
+--------------------------------------------------End--
+{Rikku}
+You should know, I'm
+scary when I get mad!
+--------------------------------------------------End--
+{Rikku}
+I'm gonna use that item I just
+got on you! You'll be sorry!
+--------------------------------------------------End--
+{Tidus}
+That was great!
+--------------------------------------------------End--
+{Wakka}
+Wh-What did you just do!?
+--------------------------------------------------End--
+{Lulu}
+Was that...?
+--------------------------------------------------End--
+{Yuna}
+Wow!
+--------------------------------------------------End--
+{Auron}
+Not bad.
+--------------------------------------------------End--
+{Kimahri}
+{Kimahri} does not know that skill.
+--------------------------------------------------End--
+{Rikku}
+I can combine items
+and use them like this.
+--------------------------------------------------End--
+{Rikku}
+It's not that tough, really.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Treasure Chests in Battles
+--------------------------------------------------End--
+{WINDOW}
+{White}Use the {Yellow}Special{White} ability {Yellow}Steal{White} to open
+treasure chests found on the battlefield.
+--------------------------------------------------End--
+{WINDOW}
+Be careful! The battle will end as soon
+as your foes are defeated, and any
+unopened treasure chests will be lost.
+Also, attacking a treasure chest will
+destroy it and all of its contents.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Mixing
+--------------------------------------------------End--
+{WINDOW}
+Rikku's Overdrive {Yellow}Mix{White} allows her
+{WINDOW}
+to combine two items in stock and
+{WINDOW}
+create various special effects.
+{WINDOW}
+The results are unknown until
+{WINDOW}
+the items are actually mixed.
+--------------------------------------------------End--
+{WINDOW}
+Try mixing the two Bomb Cores you
+{WINDOW}
+just found to see what happens.
+--------------------------------------------------End--

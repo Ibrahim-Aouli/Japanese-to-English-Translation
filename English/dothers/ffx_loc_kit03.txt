@@ -1,0 +1,9 @@
+New Save Data
+
+Delete save data?
+Cancel save?
+Data is corrupt.
+Save data created by another user has been loaded. If you continue in this state, no new trophies can be acquired and new save data cannot be created.
+Save data from another user has been loaded. You will not be able to save.
+The file is corrupted. Unable to load save data.
+Data from other users cannot be used for@el@Al Bhed Primer synthesis. Please select@el@another save data.

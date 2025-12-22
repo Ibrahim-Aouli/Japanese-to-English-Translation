@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow}  [Fungongo]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Its Fire attacks are not very powerful, but when attacked,
+it counterattacks with a flower [40+48?] that has a “Sleep” effect.
+To prevent the “Flower [40+48?],” “Sleep Attack” is effective.
+As a plant-type enemy, it is weak to fire-element weapons and magic.
+--------------------------------------------------End--

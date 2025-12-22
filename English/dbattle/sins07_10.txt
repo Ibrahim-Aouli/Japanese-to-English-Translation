@@ -1,0 +1,33 @@
+{WINDOW}
+The left Yu Pagoda stops!
+--------------------------------------------------End--
+{WINDOW}
+The right Yu Pagoda stops!
+--------------------------------------------------End--
+{WINDOW}
+The left Yu Pagoda moves!
+--------------------------------------------------End--
+{WINDOW}
+The right Yu Pagoda moves!
+--------------------------------------------------End--
+{WINDOW}
+The left Yu Pagoda is gathering power!
+--------------------------------------------------End--
+{WINDOW}
+The right Yu Pagoda is gathering power!
+--------------------------------------------------End--
+{WINDOW}
+Both Yu Pagodas stop!
+--------------------------------------------------End--
+{WINDOW}
+Yu Yevon appears!
+--------------------------------------------------End--
+{WINDOW}
+Yu Yevon searches for an aeon.
+--------------------------------------------------End--
+{WINDOW}
+Yu Yevon tries to escape.
+--------------------------------------------------End--
+{WINDOW}
+Yu Yevon is powerless!
+--------------------------------------------------End--

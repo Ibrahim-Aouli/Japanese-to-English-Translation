@@ -1,0 +1,29 @@
+{Lulu} 
+No good. I’ll take it down with magic.
+--------------------------------------------------End--
+{Wakka} 
+Gah! So even smacking it
+doesn’t work!?
+--------------------------------------------------End--
+{Lulu} 
+{Kimahri}!
+Why not try “Lancet”?
+--------------------------------------------------End--
+{Tidus} 
+What’s “Lancet”?
+--------------------------------------------------End--
+{Lulu} 
+Normally, it’s a technique that weakens enemies
+and restores your own strength.
+--------------------------------------------------End--
+{Lulu} 
+But when a Ronso uses it,
+there are times you can make a monster’s technique
+your own.
+--------------------------------------------------End--
+{Tidus} 
+Oh—sounds awesome!
+--------------------------------------------------End--
+{Lulu} 
+!
+--------------------------------------------------End--

@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow}  [Ghost]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+At the start of battle, it uses “Doom.”
+“Magic Break” and “Silence Buster” are effective.
+--------------------------------------------------End--

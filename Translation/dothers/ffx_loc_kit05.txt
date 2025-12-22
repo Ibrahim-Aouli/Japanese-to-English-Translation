@@ -1,0 +1,2 @@
+The game content is still in downloading.The saved data can’t be loaded. Please try it  after $number$ minutes.
+

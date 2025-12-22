@@ -1,0 +1,69 @@
+Message 0
+--------------------------------------------------End--
+{WINDOW}
+Copied {Tidus}'s status!
+--------------------------------------------------End--
+{WINDOW}
+Copied {Wakka}'s status!
+--------------------------------------------------End--
+{WINDOW}
+Copied {Rikku}'s status!
+--------------------------------------------------End--
+{WINDOW}
+{WINDOW}
+Geosgaeno became {Red}Zombie{White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Poisoned{White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Power Break{White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Magic Break{White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Armor Break{White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Mental Break{White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Asleep{White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Silenced{White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Darkness{White}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Shell{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Protect{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Reflect{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Barwater{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Barfire{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Barthunder{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Barfrost{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Regen{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Haste{White} was cast on Geosgaeno.
+--------------------------------------------------End--
+{WINDOW}
+Geosgaeno became {Red}Slow{White}.
+--------------------------------------------------End--

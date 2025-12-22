@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow}  [Kushipos]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Its attack power is high, so “Power Break” is effective.
+You can reliably inflict “Darkness” with “Blind Buster.”
+--------------------------------------------------End--

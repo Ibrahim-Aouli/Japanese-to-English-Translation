@@ -1,0 +1,12 @@
+{Tidus}
+{Auron}!
+--------------------------------------------------End--
+{Tidus}
+What're you doing just standing around!
+--------------------------------------------------End--
+{Auron}
+Waiting for you.
+--------------------------------------------------End--
+{Tidus}
+Would you make some sense for once?!
+--------------------------------------------------End--

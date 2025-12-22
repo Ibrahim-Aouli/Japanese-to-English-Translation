@@ -1,0 +1,34 @@
+{Tidus}
+How many of these things are there!?
+--------------------------------------------------End--
+{Wakka}
+The fin! Attack the fin!
+--------------------------------------------------End--
+{Lulu}
+The fin!
+That's where they're coming from!
+--------------------------------------------------End--
+{Tidus}
+What? We hit the fin first?
+--------------------------------------------------End--
+{Yuna}
+When's this going to end?
+--------------------------------------------------End--
+{Wakka}
+This place is crawling!
+--------------------------------------------------End--
+{Yuna}
+The fin, quick!
+--------------------------------------------------End--
+The sinspawn will keep coming
+if you don't attack the fin.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Fighting at a Distance
+--------------------------------------------------End--
+{WINDOW}
+{White}Regular sword attacks cannot hit targets
+at a distance, such as {Sin}'s fin.
+Attack these enemies using magic or
+{Wakka}'s blitzball attack.
+--------------------------------------------------End--

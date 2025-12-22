@@ -1,0 +1,9 @@
+{WINDOW}
+{Yellow} Ochu
+--------------------------------------------------End--
+{WINDOW}
+{White}Equip armor that prevents status ailments
+such as {OCyan}darkness{White} caused by the {OCyan}Ochu Dance{White} or
+{OCyan}poison{White} from its {OCyan}Poison Claw{White}. Use fire attacks
+or put it to {OCyan}sleep{White} with {OCyan}Sleep Attack{White}.
+--------------------------------------------------End--

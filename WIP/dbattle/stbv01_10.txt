@@ -1,0 +1,54 @@
+Message 0
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+I see.
+Do you desire the repose of death as well?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Shut up already!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+I would say “welcome back,”
+but it seems you have no intention of coming with me.
+--------------------------------------------------End--
+{WINDOW}
+Yuna
+The only one going
+to the Farplane is you!
+--------------------------------------------------End--
+{WINDOW}
+Auron
+Kinoc, whom you slaughtered
+like an insect…
+--------------------------------------------------End--
+{WINDOW}
+Auron
+He was once a [40+49?] of mine.
+I’ll claim his vengeance.
+--------------------------------------------------End--
+Message 7
+--------------------------------------------------End--
+Message 8
+--------------------------------------------------End--
+{WINDOW}
+Seymour is silenced!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+Begone!
+--------------------------------------------------End--
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}’s {Yellow}Attack Power{White} increased!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}’s {Yellow}Magic Defense{White} increased!
+--------------------------------------------------End--
+{WINDOW}
+{Auron}’s {Yellow}Attack Power{White} increased!
+--------------------------------------------------End--

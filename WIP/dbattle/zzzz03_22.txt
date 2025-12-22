@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow}  [Basilisk]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+You should equip armor that prevents “Petrification”
+from its “Gaze Attack.”
+Aeons are immune to status ailments such as “Petrification,”
+so you can also leave the battle to an aeon.
+--------------------------------------------------End--

@@ -1,0 +1,39 @@
+Belgemine
+Summon Valefor.
+--------------------------------------------------End--
+Belgemine
+Show me how strong of a
+link you've forged with your aeons.
+--------------------------------------------------End--
+Belgemine
+You have a lot to learn.
+--------------------------------------------------End--
+Belgemine
+Stop. That is enough.
+--------------------------------------------------End--
+{WINDOW}
+An aeon's attributes rise with those
+of its summoner.
+Thus, the Ifrit one summoner calls may
+be very different from one called by
+another summoner.
+--------------------------------------------------End--
+{WINDOW}
+Because this Ifrit's strength and HP are
+both high, it will win in a straight fight.
+Try fighting using your aeon's {Yellow}Shield{White} and
+{Yellow}Boost{White} commands.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Shield{White} stops your aeon's Overdrive gauge, but
+reduces the amount of damage it receives.
+{Yellow}Boost{White} accelerates the Overdrive gauge, but
+increases the amount of damage received.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Shield{White} is best when you expect the enemy
+to hit your aeon with a powerful attack.
+This Ifrit alternates between {Yellow}Attack{White} and
+{Yellow}Meteor Strike{White}. A {Yellow}Meteor Strike{White} is coming
+up next, so defend your aeon with {Yellow}Shield{White}!
+--------------------------------------------------End--

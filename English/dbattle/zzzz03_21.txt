@@ -1,0 +1,7 @@
+{WINDOW}
+{Yellow} Garuda
+--------------------------------------------------End--
+{WINDOW}
+{White}Its strength is high, so use
+{OCyan}Dark Attack{White} to blind it.
+--------------------------------------------------End--

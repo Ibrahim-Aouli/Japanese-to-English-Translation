@@ -1,0 +1,9 @@
+{WINDOW}
+{Yellow}  [Cactuar]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+When its HP gets low, it will quickly try to escape.
+“Sleep” does not work, so using another method
+to take away its chance to flee is effective.
+--------------------------------------------------End--

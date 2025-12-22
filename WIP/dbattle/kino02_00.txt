@@ -1,0 +1,45 @@
+{WINDOW}
+{Tidus} 
+That arm’s a pain!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+It stopped my shot!?
+That’s one heck of an arm!
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+So the arm’s [40+48?] purpose is defense.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Leave that spot to me!
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+I’ll strike the head with magic!
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+It’s about to make a move…
+Hit the head and stop it!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+This looks bad—
+let’s smack the head!
+--------------------------------------------------End--
+Message 7
+--------------------------------------------------End--
+{WINDOW}
+The arm regenerated!
+--------------------------------------------------End--
+{WINDOW}
+The head is moving suspiciously!
+--------------------------------------------------End--
+{WINDOW}
+The suspicious movement stopped!
+--------------------------------------------------End--
+{WINDOW}
+The head stopped moving.
+--------------------------------------------------End--

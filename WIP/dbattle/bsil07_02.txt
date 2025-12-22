@@ -1,0 +1,74 @@
+{Wakka} 
+I’ll handle the flying ones!
+Don’t overdo it!
+--------------------------------------------------End--
+{Lulu} 
+You should stop.
+Aerial enemies are {Wakka}’s specialty.
+--------------------------------------------------End--
+{Wakka} 
+Leave that one to Lulu!
+--------------------------------------------------End--
+{Lulu} 
+I told you earlier.
+That one’s better taken down with magic.
+--------------------------------------------------End--
+{Wakka} 
+Tch! I missed finishing it off!
+--------------------------------------------------End--
+{Wakka} 
+With my attacks,
+I can’t take it down in one hit.
+--------------------------------------------------End--
+{Lulu} 
+You’re just wasting your time.
+Why not leave it to her?
+--------------------------------------------------End--
+{Wakka} 
+Yeah… this one’s not my forte.
+It’s gonna take a while…
+--------------------------------------------------End--
+{Lulu} 
+I’ll take care of it.
+Don’t interfere.
+--------------------------------------------------End--
+{Wakka} 
+That’s not like you.
+It’s not really our kind of opponent, is it?
+--------------------------------------------------End--
+{Lulu} 
+No good… it’s too fast.
+--------------------------------------------------End--
+{Wakka} 
+Flying enemies are my job, right?
+Guess you don’t trust me…
+--------------------------------------------------End--
+{Lulu} 
+Maybe I can’t handle it after all.
+--------------------------------------------------End--
+{Lulu} 
+If I use magic, it’s one hit.
+--------------------------------------------------End--
+{Lulu} 
+Leave the small fry to the guards.
+Stay back.
+--------------------------------------------------End--
+{Wakka} 
+{Yuna}, heal them!
+--------------------------------------------------End--
+{Lulu} 
+Heal that child!
+--------------------------------------------------End--
+{Wakka} 
+You okay?
+--------------------------------------------------End--
+{Wakka} 
+If things get bad,
+have {Yuna} heal you.
+--------------------------------------------------End--
+{Lulu} 
+Once {Yuna} heals you—
+--------------------------------------------------End--
+{Tidus} 
+Thanks!
+--------------------------------------------------End--

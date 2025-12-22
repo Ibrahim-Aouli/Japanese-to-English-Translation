@@ -1,0 +1,27 @@
+{Lulu}
+Stop!
+Only magic can hurt this one.
+--------------------------------------------------End--
+{Wakka}
+Man! Blows can't hurt it, huh?
+--------------------------------------------------End--
+{Lulu}
+{Kimahri}, why don't you
+use "Lancet" on it?
+--------------------------------------------------End--
+{Tidus}
+What's a "Lancet"?
+--------------------------------------------------End--
+{Lulu}
+Normally, it's a skill that weakens
+enemies and heals the user.
+--------------------------------------------------End--
+{Lulu}
+But when a Ronso uses it, that Ronso
+can sometimes learn fiends' abilities.
+--------------------------------------------------End--
+{Tidus}
+Hey, sounds cool!
+--------------------------------------------------End--
+!
+--------------------------------------------------End--

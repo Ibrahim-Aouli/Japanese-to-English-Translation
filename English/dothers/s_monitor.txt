@@ -1,0 +1,1008 @@
+Directional Button SE
+{x0BF0000103001D0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Circle Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Circle Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}
+{x0BF0000103001D0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Dummy
+{END}
+--------------------------------------------------End--
+ {END}
+--------------------------------------------------End--
+Tutorials
+{END}
+--------------------------------------------------End--
+Fiend Info
+{END}
+--------------------------------------------------End--
+Basic Controls
+{END}
+--------------------------------------------------End--
+Basic Terms
+{END}
+--------------------------------------------------End--
+Reference
+{END}
+--------------------------------------------------End--
+Display tutorials.
+{END}
+--------------------------------------------------End--
+Simulate battle with fiends.
+{END}
+--------------------------------------------------End--
+Information on basic controls.
+{END}
+--------------------------------------------------End--
+Information on basic terms.
+{END}
+--------------------------------------------------End--
+Various information.
+{END}
+--------------------------------------------------End--
+Using the Sphere Grid
+{END}
+--------------------------------------------------End--
+Opening Locks on the Sphere Grid
+{END}
+--------------------------------------------------End--
+Customizing Equipment
+{END}
+--------------------------------------------------End--
+Tutorial on how to upgrade characters.
+{END}
+--------------------------------------------------End--
+Tutorial on how to access locked areas.
+{END}
+--------------------------------------------------End--
+Tutorial on how to customize weapons and armor.
+{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Button X}: Exit
+{END}
+--------------------------------------------------End--
+{Direcional Left}{Direcional Up}{Direcional Down}{Direcional Right}: Select {Button Circle}: Confirm {Button X}: Exit
+{END}
+--------------------------------------------------End--
+{Button X}: Exit
+{END}
+--------------------------------------------------End--
+Select fiend to fight against.
+{END}
+--------------------------------------------------End--
+
+{x0BF402013601C1000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF40201360137000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF4020136012C000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF402013601B9000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF402013601BD000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF402013601D1000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF402013601B5000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF40201360157000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF402013601D9000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF402013601D0000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF4020136012D000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF40201360132000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF40201360140000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF40201360159000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF40201360143000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF402013601D6000000}
+{END}
+--------------------------------------------------End--
+
+{x0BF00000030006001E000000000001000000}
+{x0BF1}
+{x0BF0000403000A0000000000000043040000}
+{x0BF1}
+{x0BF7580B0100}
+{x0BF3}
+{x0BF700000000}
+{x0BF2}
+{x0BF3}
+{x0BF00000030006001F000000000001000000}
+{x0BF1}
+{x0BF0000403000A0000000000000043040000}
+{x0BF1}
+{x0BF7580B0100}
+{x0BF3}
+{x0BF700000000}
+{x0BF2}
+{x0BF2}
+{x0BF3}
+{x0BF0000403000A0000000000000043040000}
+{x0BF1}
+{x0BF700000000}
+{x0BF3}
+{x0BF700000000}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+
+{x0BF00000030006001E000000000001000000}
+{x0BF1}
+{x0BF0000403000A0000000000000043040000}
+{x0BF1}
+{x0BF7B8FC0000}
+{x0BF3}
+{x0BF700000000}
+{x0BF2}
+{x0BF3}
+{x0BF00000030006001F000000000001000000}
+{x0BF1}
+{x0BF0000403000A0000000000000043040000}
+{x0BF1}
+{x0BF7B8FC0000}
+{x0BF3}
+{x0BF700000000}
+{x0BF2}
+{x0BF2}
+{x0BF3}
+{x0BF0000403000A0000000000000043040000}
+{x0BF1}
+{x0BF700000000}
+{x0BF3}
+{x0BF700000000}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+
+{x0BF0000003000B0000000000000000000000}
+{x0BF1}
+{x0BF7580B0100}
+{x0BF3}
+{x0BF0000003000B0000000000000001000000}
+{x0BF1}
+{x0BF7580B0100}
+{x0BF3}
+{x0BF0000003000B000000000000000A000000}
+{x0BF1}
+{x0BF7580B0100}
+{x0BF3}
+{x0BF7B8FC0000}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+Fiend Jump
+{x0BF0000003000B0000000000000002000000}
+{x0BF1}
+{x0BF7E8930000}
+{x0BF3}
+{x0BF0000003000B0000000000000003000000}
+{x0BF1}
+{x0BF7E8930000}
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000004000000}
+{x0BF1}
+{x0BF728B10000}
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000005000000}
+{x0BF1}
+{x0BF780860000}
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000006000000}
+{x0BF1}
+{x0BF7D0660000}
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000007000000}
+{x0BF1}
+{x0BF718790000}
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000008000000}
+{x0BF1}
+{x0BF750A10000}
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000009000000}
+{x0BF1}
+{x0BF768590000}
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B000000000000000A000000}
+{x0BF1}Simulated battle vs. Chimera
+{x0BF2}
+{x0BF3}
+{x0BF770C30000}
+{x0BF2}
+{END}
+--------------------------------------------------End--
+Point Jump
+{x0BF0000403000A0000000000000043040000}
+{x0BF1}
+{x0BF770EA0000}
+{x0BF3}
+{x0BF0000403000A00000000000000ED020000}
+{x0BF1}
+{x0BF7D0DB0000}
+{x0BF2}
+{x0BF3}
+{x0BF730CD0000}
+{x0BF2}
+{END}
+--------------------------------------------------End--
+
+{x0BF0000003000B0000000000000000000000}
+{x0BF1}Monitor number 0
+{x0BF3}
+{x0BF0000003000B0000000000000001000000}
+{x0BF1}Monitor number 1
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000002000000}
+{x0BF1}Monitor number 2
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000003000000}
+{x0BF1}Monitor number 3
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000004000000}
+{x0BF1}Monitor number 4
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000005000000}
+{x0BF1}Monitor number 5
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000006000000}
+{x0BF1}Monitor number 6
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000007000000}
+{x0BF1}Monitor number 7
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000008000000}
+{x0BF1}Monitor number 8
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B0000000000000009000000}
+{x0BF1}Monitor number 9
+{x0BF3}
+{x0BF0000003000B000000000000000A000000}
+{x0BF1}Monitor number 10
+{x0BF2}
+{x0BF2}
+{x0BF3}
+{x0BF0000003000B000000000000000B000000}
+{x0BF1}Monitor number 11
+{x0BF2}
+{x0BF2}
+{END}
+--------------------------------------------------End--
+{xDE}{BIG_POINT}{xF9}zsSu
+{2}{xC3}{xB2}{xD7}
+{END}
+--------------------------------------------------End--
+{BETA}"{xCB}{xF9}
+{3/4}{xFA}{xB2}{xF2}"{xBB}{xF1}{xF7}{xBD}{xCD}"{x8C}{u2D}{x93}vE{xC1}{xEC}{xFE}{xD7}{u2D}{xBF}{u2E}={u2D}{x93}{x8C}{xBB}{xF1}{xF7}{x8C}{u2E}{xB7}{x8C}{u2D})z~
+{u26}!{x8C}{xA6}UyE{END}{BETA}"{xCB}{xF9}[{u2D}{xDE}{u2C}{xF5}d{xAA}uS{RIGHT}hB{END}
+--------------------------------------------------End--
+{u2E}{xCE}{u2E}4{x8C}{u2C}a{u2C}iz~E{u2C}{xB8}{u2C}§{xDE}{BIG_POINT}{xF9}z{u2C}{Registered}{u2C}lfuS{xA9}{3/4}{xFA}{xB2}{xF2}"{xBB}{xF1}{xF7}{xBD}{xCD}"{x8C}
+{u2E}1{u2D}[ {u2C}7{u2C}%={+-}{FUNC}{BIG_POINT}{xEB}{xB2}{xFE}{BIG_POINT} {M}{u2C}%={xEC}{xC6}{FUNC}{xBD}{xEB}{xB2}{xFE}{BIG_POINT} [{u2D}{xDE}{u2C}{xF5}d{xAA}uS{RIGHT}hB
+{xC1}{xEC}{xFE}{xD7}{u2D}{xBF}{u2E}={u2D}{x93}{x8C}{xBB}{xF1}{xF7}z~E{u26}!{x8C}{xA6}Uy{u2D}KS{END}{NOTE}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}hB{END}
+--------------------------------------------------End--
+{u2C}7{u2C}%F{M}{u2C}%{u2D}{xDE}{u2C}{xF5}{x8C}{u2C}izQ{xA9}E{xC0}"{xC6}~EC{xB8}"{xDE}"{xD7}{xF7}{xB2}{1/2}{xC0}"{xC6}DvhB
+{xB8}"{xDE}"{xD7}{xF7}{xB2}{1/2}w~E{u2C}5{u2C}5{u2C}-{x8C}{u2D}{>}{u2C}{xDE}{u2C}«{x8C}{u2E}1{u2D}[vEb{x8C}{xC0}"{xC6}[
+b{x8C}{xC0}"{xC6}~E{xC0}"{xEE}[{u2C}{/}{RIGHT}rn{u2E}{xB4}{u2D}{xA7}v~E{u2C}{xC9}{u2C}{xB0}{xAD}{u2D}2`{xA9}bwv{u2D}){u2D}'fuS\{RIGHT}hB
+b{x8C}{xC0}"{xC6}[E{u2C}5{u2C}*{u2C}!{u2C}!zy{xA9}wEl{x8C}{xBB}{xF1}{xF7}{x8C}{xC1}{xEC}{xFE}{xD7}{u2D}{xBF}{u2E}={u2E}{xB4}z~E
+{xC1}{xEC}{xFE}{xD7}{xB4}{xB2}{xFE}{xD7}{xB4}{x8C}{u2D})zE{u26}!{x8C}{xA6}Uy{xB8}"{xDE}"{xD7}{xF7}{xB2}{1/2}{u2D}.{u2D}q{xAD}{u2C}{xF5}h{xB0}{xB2}{xC1}{xFE}[
+{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}hB{END}
+--------------------------------------------------End--
+{xEF}{xB2}{xFE}{xB4}{xB2}{xFE}{xD7}{xB4}~E{u2C}{xB8}{u2C}§{xC1}{xEC}{xFE}{xD7}{u2D}{xBF}{u2E}={u2D}{x93}{x8C}{xBB}{xF1}{xF7}{xBD}{xCD}"[{u2D}Y{u2D}xv\{xA9}{u2C}{xCE}{u2D}{xB4}[
+{u2D}{xDE}{u2C}{xF5}d{xAA}uS{RIGHT}hB{u2C}5{u2C}5{u2C}-v~E{u2D}“{u2C}{x93}zyrn{u2E}{xB4}{u2D}{xA7}v~{xBB}{xF1}{xF7}{xBD}{xCD}"{x8C}v\{xA9}{u2C}{xCE}{u2D}{xB4}~
+l{xAA}m{xAA}{u2F}>vhB{u2C}{xCE}{u2D}{xB4}{x8C}{u2D}{xBC}{u2E}!~E{xC0}"{xEE}{xAD}{u2D}<°u{xBB}{xF1}{xF7}{xBD}{xCD}"{xAD}{u2D}F{u2D}{UP}djS^bwv
+{u2D}bWuS\{RIGHT}hBl{x8C}{u2D}+{u2C}„z~4s°{u2E}{xA2}{u2C}{xCF}~E{u26}!{x8C}{xA6}Uy{xC7}{xBD}{xFB}"{xF9}{u2D}{xDE}{u2C}{xF5}zy{xA8}E
+{u2C}iz{xC1}{xEC}{xFE}{xD7}[Q{xA9}bw{xAD}{u2C}{xF5}f{RIGHT}hB
+{u2C}«E{u2D}{xF8}{u2D}{xF2}E{xB0}{xB2}‘{xEE}yx{x8C}{xC1}{xEC}{xFE}{xD7}~E{xC1}{xEC}{xFE}{xD7}{u2D}Y{u2D}x{u2C}{xBE}zE{u2C}{BETA}{u2F}>{x8C}{u2D}Y{u2D}x{x8C}{xB4}{xB2}{xD7}{xB4}[{u2C}y\{RIGHT}hB
+{u2D}{xF8}{u2D}{xF2}E{u2C}«{x8C}{u2E}1{u2D}[{x8C}{u2C}azQ{xA9}{u2D}C{u2C}{xF0}~{u2D}({u2D}’h{xA9}{M}{u2C}%{xAD}{u2C}{xF5}fuS{RIGHT}hB
+{xB0}{xB2}‘{xEE}{x8C}{u2E}1{u2D}[{x8C}{u2C}azQ{xA9}{u2D}C{u2C}{xF0}~{u2D}"{u2C}{xF2}{u2D}C{xAD}{u2D}{xDE}fE{u2C}{xD7}zQ{xA9}{xB0}{xB2}{xC1}{xFE}~{xB0}{xB2}‘{xEE}{x8C}{u2E}{~}{u2F}0{xAD}{u2C}{xF5}fuS{RIGHT}hB{END}
+--------------------------------------------------End--
+{END}{xB8}"{xDE}"{xD7}{xF7}{xB2}{1/2}{u2D}.{u2D}q{x8C}{xBB}{xF1}{xF7}{x8C}{xC1}{xEC}{xFE}{xD7}{u2D}{xBF}{u2E}={u2E}{xB4}({u26}!)
+{END}{BIG_POINT}{xF8}{xBA}"{xC1}{xEC}{xFE}{xD7}({END}){u2E}{xB1}{u2D}{xC3}y{u2E}{xB4}{x8C}{xC1}{xEC}{xFE}{xD7}{u2D}{xBF}{u2E}={u2E}{xB4}({u26}!)
+{x8C}2s{x8C}{u2D}.{u2D}q{x8C}w\E{xEF}{xB2}{xFE}{x8C}{xC1}{xEC}{xFE}{xD7}{xB4}{xB2}{xFE}{xD7}{xB4}[{u2C}ySuS{xA9}{u2D}.{u2D}qv{END}{xBB}"({END}{u2E}{xCF}{u2C}{xF0})
+{xAD}{u2F}=hw{u2D}{BETA}{u2D}0{xC1}{xEC}{xFE}{xD7}{u2E}#{x8C}{xB4}{xB2}{xFE}{xD7}{xB4}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{BIG_POINT}{xF8}{xBA}"{xC1}{xEC}{xFE}{xD7}~E{u2D}{BETA}{u2D}0y{xDE}{BIG_POINT}{xF9}{x8C}{u2E}{xB4}z{END}{u2F}{xB6}{xAD}{u2D}{xFB}nhw{u2D}{xDE}{u2C}{xF5}d{xAA}{xA9}{xC1}{xEC}{xFE}{xD7}vh
+{END}
+--------------------------------------------------End--
+{xEF}{xB2}{xFE}{xB4}{xB2}{xFE}{xD7}{xB4}Z{xA7}{END}{xBB}"({END}{u2E}{xCF}{u2C}{xF0}){xAD}{u2F}=hw
+{u2D}{1/4}{u2C}—{u2C}{xC1}{u2C}{]}E{u2D}{xF4}{u2C}{xAB}{u2C}{xC1}{u2C}{]}E{u2D}{xB2}a{xA9} [{u2D}Y{u2D}xv\{xA9}E{xC3}{1/2}{xB4}{xB2}{xFE}{xD7}{xB4}[{u2C}y\{RIGHT}hB({u26}!)
+b{x8C}{xB4}{xB2}{xFE}{xD7}{xB4}~Ssv{xA0}{u2C}y`uE{xC1}{xEC}{xFE}{xD7}~E{u2D}\{xBB}{xF1}{xF7}{END}{u2D}«vhB{END}
+--------------------------------------------------End--
+{u2C}5{u2C}5{u2C}-v~E{xDE}{BIG_POINT}{xF9}{u2D}{x93}z{u2D}{1/4}{u2C}—E{u2D}{xF4}{u2C}{xAB}{x8C}{u2C}{xC1}{u2C}{]}{xAD}v\{RIGHT}hB
+{xC1}{xEC}{xFE}{xD7}{xAD}{u2D}Y{u2D}xh{xA9}wE{u2C}{xC1}{u2C}{]}v\{xA9}{u2D}{1/4}{u2C}—ySf{u2D}{xF4}{u2C}{xAB}{x8C}{xF8}{xC7}{BIG_POINT}[{u2D}{xDE}{u2C}{xF5}d{xAA}E{u2C}{xB8}{u2C}§{u2D}`{u2D}{TM}{u2D}{x93}{x8C}{xA0}{x8C}z~
+{END}z{u26}!{x8C}{xA6}Uy{xEC}"{xBD}[s\{RIGHT}hB
+{BETA}"{xCB}{xF9}{xAD}{u2C}„{xAC}juS{xA9}{u2D}{1/4}{u2C}—F{u2D}{xF4}{u2C}{xAB}zsSuS{xA9}{u2C}{UP}{u2D}{xC3}~E{u2D}{1/4}{u2C}—{xB4}{xB2}{xFE}{xD7}{xB4}{x8C}{u2C}az{u26}!{x8C}{xA6}Uz{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}hB
+{END}
+--------------------------------------------------End--
+{u2D}{xBA}zsSu
+{u2D}{xBA}~b{xAC}Sm!!{END}
+--------------------------------------------------End--
+{xF9}{BETA}{u2D}-{u2D}{xEF}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{xED}{*}{xFE}{u2C}{x8C}{u2D}{xB7}{u2D}-{u2D}{xEF}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{xC6}{xF5}{xCA}{u2C}{xF1}{u2C}_{u2D}-{u2D}{xEF}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{u2E}%{u2D}{...}{u2C}{xB5}{u2D}-{u2D}{xEF}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{xEC}{BETA}{xF7}"{TM}{xF1}{u2D}-{u2D}{xEF}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{u2C}{~}{u2D}{xC9}{u2D}-{u2D}{xEF}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{u2D}{~}{u2C}{xAC}{u2D}{xA3}{u2D}-{u2D}{xEF}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{~}{xBC}{u2D}{...}{u2C}{xB5}{u2D}-{u2D}{xEF}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{u2D}{xB2}a{xA9}{xC1}{xEC}{xFE}{xD7}~E{u2D}Y“bwvl{x8C}{xBB}{xF1}{xF7}({u2E}{x8A}{u2D}{x97})1{u2D}?({u2E}{x8A}{u2D}{x97}{u2D}5)o`{xAD}{xDE}{BIG_POINT}{xF9}Z{xA7}{u2D}{xB2}[h{xA0}{x8C}vhB
+{u2D}{xB2}a{xA9}[{u2D}F{u26}5fnQw~E{u2C}{1/4}{xA8}{x8C}{xBB}{xF1}{xF7}vl{x8C}{xDE}{BIG_POINT}{xF9}{xAD}{u2D}UUbwzy{xA8}{RIGHT}hB
+{u2D}{xB2}a{xA9}~E{u2C}{xF8}{u2D}{xC5}h{xA9}bw{xA0}Q{xA8}{RIGHT}hB{u2C}{xF8}{u2D}{xC5}h{xA9}w{u26}!{x8C}{xA6}Uy{u2F}{xB8}gv{xBB}{xF1}{xF7}l{xAA}m{xAA}z{u2C}{xF8}{u2D}{xC5}fn{u2D}{xB4}\{xAD}fn
+Qwz{xDE}{BIG_POINT}{xF9}{u2C}W{u2D}{NOTE}z{u2E}7{xA8}{RIGHT}hB{u2D}F{u26}5h{xA9}ZxUZ~E{xDE}{BIG_POINT}{xF9}{xC5}"{xFE}z{xA6}ru{u2C}Xy{xA8}{RIGHT}hB
+{END}{u2D}{BETA}{u2D}°{x8C}{u2D}U{u2D}{xB3}v~E{u2D}{xB2}a{xA9}[{u2D}Y{u2D}xv\ySbw[Q{xA8}{RIGHT}hB
+{END}
+--------------------------------------------------End--
+{xC1}{xEC}{xFE}{xD7}{u2D}Y{u2D}x{u2D}{x93}{x8C}{xBB}{xF1}{xF7}{xBD}{xCD}"z{u2C}k{xA0}djiz{u2D}5{u2E};djnSw\zE{END}({END}{u2E}{xCF}{u2C}{xF0}){xEA}{xCD}{xFE}{xAD}{u2F}=hbwv
+{xBB}{xF1}{xF7}{xAD}{u2D}{xF4}{u2C}{xBF}{u2D}.{u2D}qzfu{u2C}{xCE}{u2D}{xB4}{xAD}{u2D}5{u2E};h{xA9}bw[v\{RIGHT}hB
+{u2D}{xF4}{u2C}{xBF}{u2D}.{u2D}qzyrn{xBB}{xF1}{xF7}~E{u26}!{x8C}{xA6}Uy{u2C}{xCB}W{xAD}fuE{u2C}{xC9}{u2C}{xB0}{xAD}{u2D}2`nw\z{x8C}{xCE}{xEF}"{xC6}[1/2zy{xA8}{RIGHT}hB
+{END}{xCF}{xF3}"{BIG_POINT}{xF8}{xB0}{xF9}{x8C}{xDE}{BIG_POINT}{xF9}vE{END}{u2D}{xF4}{u2C}{xBF}[{u2C}{1/2}{u2E}#v\ySbw[Q{xA8}{RIGHT}hB{END}
+--------------------------------------------------End--
+{u2E}{xCE}{u2E}4{x8C}{u2C}az{u2D} uS{xA9}{xB4}{xB2}{xFE}{xD7}{xB4}[E{u2C}{xCE}{u2D}{xB4}{u2E}{xF9}{xAD}{u2C}{xF5}fn{xB4}{xB2}{xFE}{xD7}{xB4}vhB
+{3/4}{xFA}{xB2}{xF2}"{xBB}{xF1}{xF7}{xBD}{xCD}"z{u2E}{xED}fu~E{u26}!{x8C}{xA6}Uzl{xAA}m{xAA}{x8C}{xBB}{xF1}{xF7}{x8C}{END}[{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}hB
+{u2C}{xB8}{u2C}§{xC1}{xEC}{xFE}{xD7}{u2D}Y{u2D}x{u2D}{x93}{x8C}{xBB}{xF1}{xF7}~{u2C}\{u2D}…{u2D})z{u2D}{xDE}{u2C}{xF5}d{xAA}E{u26}!{x8C}{xA6}Uy{xEC}"{xBD}[s\{RIGHT}hB
+{u2D})Z{xA7}{u2E}{xF9}{u2D}…z{u2C}{xCE}{u2D}{xB4}{xAD}fuS\E{u2C}{xCE}{u2D}{xB4}{x8C}{u2D}5{xAC}rn{xBB}{xF1}{xF7}~{u2E}0^y{xA8}E{u2D})zx{xAE}x{xAE}t{xAA}uS\{RIGHT}hB
+{u2E}{xF9}{u2D}…{u2E}{xA5}{u2D}°~E16{u2C}{xCE}{u2D}{xB4}{u2E}{xF9}{RIGHT}v{u2E}#{u2E}{[}fuQ{xA8}E{xC1}{xEC}{xFE}{xD7}{u2D}Y{u2D}x{u2D}{x93}~E{R}2({END}{u2E}{xCF}{u2C}{xF0})v{u2C}iz{xC7}{xBD}{xFB}"{xF9}
+{R}1v{u2D})z{xC7}{xBD}{xFB}"{xF9}f{RIGHT}hB
+{END}
+--------------------------------------------------End--
+{xF0}{xFE}{xC7}{xCD}"{A}{u2C}1{u2C}2wSU{u2D}{xDE}{u2C}{RIGHT}~E{BETA}"{xCB}{xF9}v{u2D}Y{xAE}ow\z{u26}!{x8C}{xA6}UzE{xF0}{xFE}{xC7}{xCD}"{u2E}1{x8C}{u2C}{xD7}z{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}hB
+{xEA}{xC7}{xEA}{xC7}{xF0}{xFE}{xC7}{xCD}"{x8C}{u2D}+{u2C}„E{A}{u2C}1{u2C}2wSU{u2D}{xDE}{u2C}{RIGHT}~y^yruEb{x8C}{xB0}{xB2}{xC1}{xFE}v{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}hB
+{xEA}{xC7}{x8C}{u2C}\{u2D}{1/2}{xEA}{xC7}[{u2E}{1/2}{u2D}CS{xA9}{u2D}{BETA}{u2D}0{POINT}{xDE}{BIG_POINT}{xF9}{x8C}{u2D}+{u2C}„{xA2}E{u2D}o{x8C}{u2C}\{u2D}{1/2}[{u2D}{xF7}{u2D}ow{u2F}>{u2C}{xCE}{u2D}{xB4}h{xA9}{u2D}{BETA}{u2D}0y{xEA}{xC7}{x8C}{u2D}+{u2C}„z{u2C}{1/2}S{RIGHT}hB
+{u2D}%{u2C}{[}{u2D}8{xF4}{xB4}{~}[{u26}"{NOTE}{u2D} fn{u2D}%{u2C}{[}{u2D}8~Eb{x8C}{xB0}{xB2}{xC1}{xFE}v{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{u2D}{xA4}{x8C}{u2D}%{u2C}{[}{u2D}8{xF4}{xB4}{~}{u2E}{xA2}{u2C}{x8A}{x8C}{u2D}%{u2C}{[}{u2C}{...}[{u26}"{NOTE}{u2D} fn{u2D}%{u2C}{[}{u2D}8~Eb{x8C}{xB0}{xB2}{xC1}{xFE}v{u2D}{xDE}{u2C}{xF5}d{xAA}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{xC1}{xEC}{xFE}{xD7}z{xA6}ru{u2C}{xCE}{u2D}{xB4}fnw\z{u2D}({u2D}’h{xA9}{u2E}{xB4}{u2C}{x93}[{u26}4S{RIGHT}hB
+b{x8C}{u2D}{xDE}{u2C}{xF5}{x8C}{u2E}{xF9}{u2D}…~EC{u2D}UUD{xAD}{xA2}rnw\{x8C}{xA0}{x8C}vh{x8C}v{u2D}Y{u2D}xh{xA9}{xC1}{xEC}{xFE}{xD7}z{xA6}ru~El{x8C}{xBB}{xF1}{xF7}{x8C}
+{u2C}{xF3}{x8C}{u2C}{xCE}{u2D}{xB4}{u2E}{xF9}[{u2D}{xEB}{xA8}{RIGHT}hB
+{xB0}{xB2}‘{xEE}E{u2D}{1/4}{u2C}—{u2C}{xC1}{u2C}{]}E{u2D}{xF4}{u2C}{xAB}{u2C}{xC1}{u2C}{]}~E{u2D}UU{xA6}{xA8}{END}S{u2E}{xB4}{u2C}{x93}v{u2C}{xCE}yWuE{u2E}{HEART}^{u2C}{xF3}{x8C}{u2C}{xCE}{u2D}{xB4}[{u2C}sru\{RIGHT}hB
+b{xAA}~{BETA}"{xCB}{xF9}{xAD}{xC1}{xEC}{xFE}{xD7}z{u2C}„{xAC}jn{u2E}{xB4}{u2D}{xA7}v{u2D}{xEB}{u2C}jf{RIGHT}h{x8C}vE{u2C}~{u2D}{xC0}fy[{xA7}{xC1}{xEC}{xFE}{xD7}{xAD}{u2D}Y{xAE}v¨u^odSB
+{xF0}{xFE}{xC7}{xCD}"{x8C}{u2E}{xF9}{u2D}…~E{u2C}{xCE}{u2D}{xB4}{u2D}{xBC}{u2E}!z{xA6}{xA9}{u2D}{xEB}{u2C}j~f{RIGHT}j{xAE}B
+{END}
+--------------------------------------------------End--
+{u2D}`{u2D}{TM}fS{xA9}{u2D}{1/4}{u2C}—E{u2D}{xF4}{u2C}{xAB}zC{u2C}{xB3}{u2E}{x97}{xA9}D{x8C}{xB8}"{BIG_POINT}{xB0}{2}{xF8}‘{xB1}[sSuS{xA9}
+{xBB}{xF1}{xF7}[{xDE}{BIG_POINT}{xF9}z{u2C}{Registered}{u2C}lfuS{xA9}w{u2D}{xA4}{xAD}{u2D}Y{u2D}xfuS{xA9}w\zE
+{u2E}{xCE}{u2E}4{u2C}{xD7}{u2D})zE{u26}!{x8C}{xA6}UyE{u2D}-{u2D}{xEF}{xB4}{xB2}{xFE}{xD7}{xB4}[{u2C}y\
+{u2E}{xCE}{u2E}4{u2D}){x8C}{u2E}1{u2D}[{x8C}{u2C}az{xA0}E{u2C}\{u2F}E{u2C}{xC9}{u2E}`{u2D}-{u2D}{xEF}[{u2D} {RIGHT}hB
+{END}
+--------------------------------------------------End--
+{u2D}-{u2D}{xEF}{xB4}{xB2}{xFE}{xD7}{xB4}~E{xF0}{xFE}{xC7}{xCD}"{x8C}
+{u2C}{xB8}{u2C}§{x8C}{u2C}7{u2C}%/{u2E}{xA8}{u2D}u{x8C}{u2C}7{u2C}%
+{u2D}h{u2D}Ez{u2D}ph{xA9}{u2F}{xBF}{u2D}E[{u2D}{xDE}{u2C}{xF5}d{xAA}uS{RIGHT}h
+{u2F}{xBF}{u2D}E~E{u2C}{xFC}{u2D}{xA7}E{u2D}{xCF}{u2C}{xB7}E{u2E}0{u2C}{xC4}E{u2C}»{u2D}3vh
+{u2C}{xFC}{u2D}{xA7}{x8C}{u2D}+{u2C}„E{xCE}{xEF}-{xC6}[1.5{u2D}{xC7}E{u2D}{xCF}{u2C}{xB7}~E1/2E{u2E}0{u2C}{xC4}~0E
+{u2C}»{u2D}3~{u2E} Wn{xCE}{xEF}"{xC6}{u2D}{/}{xF0}{xFE}{xC7}{xCD}"{x8C}{u2C}7{u2C}%[{u2C}s{u2D}{3/4}fuf{RIGHT}S{RIGHT}h
+{1/4}{xAF}{xB2}{xB0}E{1/2}{xF8}{xC4}{xD7}E{xC3}{xFE}{xCE}"E{xB4}{xB7}"{xCD}{x8C}{u2D}h{u2D}E{u2D}{xF8}{u2D}{xF2}o`vy^E
+{u2C}{1/2}{u2E}#fuS{xA9}{u2D}{1/4}{u2C}—z{u2D}h{u2D}E[sSuSn{u2D}+{u2C}„{xA0}{u2E}{3/4}g{xA6}Uz{u2C}{xC4}{u2C}n[{u2D} {RIGHT}h
+{END}
+--------------------------------------------------End--
+{u2C}e~{u26}8E{u2D}§~{u2D}{xC8}E{u2E}%~{u26}#{u2F}{xCD}E{u2D}A~{u2D}Kvh({u26}!)
+{u2C}{xFC}{u2D}{xA7}E{u2D}{xCF}{u2C}{xB7}E{u2E}0{u2C}{xC4}E{u2C}»{u2D}3~{u26}!{x8C}{xA6}Uy{xB0}{xB2}{xC1}{xFE}v{u2D}{xDE}{u2C}{xF5}d{xAA}uS{RIGHT}hB
+{u26}!{xAD}{u26}$z{u2C}{xFD}{xA9}wEbw{xF0}{xFE}{xC7}{xCD}"~E{u2C}{xFC}{u2D}{xA7}[{u2C}eE{u2D}A{u2D}h{u2D}E~{u2C}»{u2D}3E{u2D}§w{u2E}%{u2D}h{u2D}E~{u2D}{xCF}{u2C}{xB7}
+wSUbwzy{xA8}{RIGHT}hB
+{END}
+--------------------------------------------------End--
+{xF0}{xFE}{xC7}{xCD}"{x8C}{u2D}{x93}z~E{u2C}{xC9}{u2C}{xB0}z{xA6}ru{3/4}{xFA}{xB2}{xF2}"{xBB}{xF1}{xF7}{xAD}{xC7}‘"{xCD}{xC7}{u2C}X{u2D},{x8C}{u2D}.{u2D}q
+zh{xA9}{xA0}{x8C}{xA0}S{RIGHT}h
+{xC7}‘"{xCD}{xC7}{u2C}X{u2D},zyrn{u2D}+{u2C}„El{x8C}{xBB}{xF1}{xF7}zy{xAE}{xA7}Z{x8C}{u2D}{xEB}{u2C}j[{u2C}{xB8}{xAA}{RIGHT}h
+{u26}$W{POINT}E{u2D}{xBA}E{u2C}U{u2C}VE{u2D}B{u2D}{xFF}E{u2D}{RIGHT}{u2E}5{u26}!'4)wSrn{u2F}{xB8}gvh
+{END}
+--------------------------------------------------End--
+{u2D}{xBA}{u2D}.{u2D}qzy{xA9}wEl{x8C}{xBB}{xF1}{xF7}[{u2C}{xCE}{u2D}{xB4}{xAD}{u2D}5{u2E};h{xA9}cwz
+{u2E}{xA8}{u2D}u{u2C}7{u2C}%{x8C}1/4{x8C}{xCE}{xEF}"{xC6}{xAD}{u2D}2`{RIGHT}h
+{u2E}{HEART}^{u2C}s{u2D}{3/4}{xAD}fySwEh_z{u2D}U{u2D}{xB3}{u2D}{+-}{u2D}{xC3}zyruf{RIGHT}U{x8C}v{u2E}{POINT}{u2E}{[}[{u2D}{>}{u2E}$vh
+C{u2D}{xBA}{u2D}(fD{xB0}{xB2}‘{xEE}{xAD}{u2C}{1/2}{u2E}#h{xA9}bwvE{u2C}s{u2D}{3/4}v\{RIGHT}h
+{END}
+--------------------------------------------------End--
+{u2C}U{u2C}V{u2D}.{u2D}qzy{xA9}wEl{x8C}{xBB}{xF1}{xF7}{x8C}{u2D}{*}{u2E}*{u2C}{xC9}{u2C}{xB0}[Q{RIGHT}{xA8}{u2E}2{u2D}{x93}fy^y{xA8}{RIGHT}h
+C{u2E}6{u2E}9D{xB0}{xB2}‘{xEE}{xAD}{u2C}{1/2}{u2E}#h{xA9}bwv{u2C}s{u2D}{3/4}v\{RIGHT}h
+{END}
+--------------------------------------------------End--
+{u2D}B{u2D}{xFF}{u2D}.{u2D}qzy{xA9}wEl{x8C}{xBB}{xF1}{xF7}[{u2C}{xF6}{u2D}{/}{x8C}{u2C}{xCE}{u2D}{xB4}{u2E}{xF9}[\u{xA0}{u2C}k{xA0}fy^y{xA8}{RIGHT}h
+{u2D}B{u2D}{xFF}{u2D}.{u2D}q~E{u2D}{*}{u2E}*{u2C}{xC9}{u2C}{xB0}{xAD}{u2D}2`{xA9}bwv{u2D}{3/4}{u2E}{xA6}f{RIGHT}h
+{u2D}{xF8}{u2D}{xF2}{u2C}{xC9}{u2C}{xB0}v~E{xCE}{xEF}"{xC6}{xAD}{u2D}2`u{xA0}E{u2D}B{u2D}{xFF}{u2D}.{u2D}q{x8C}{RIGHT}{RIGHT}zy{xA8}{RIGHT}h
+{END}
+--------------------------------------------------End--
+{u2D}{RIGHT}{u2E}5{u2D}.{u2D}qzy{xA9}wEl{x8C}{xBB}{xF1}{xF7}[{u2D}{xC8}{u2D}{xF8}{u2D}{xF2}F{u2C}‘{u2D}{xF8}{u2D}{xF2}[{u2F}{xC8}W{xA7}{xAA}y^y{xA8}{RIGHT}h
+C{xA2}{RIGHT}{NOTE}blUD{xB0}{xB2}‘{xEE}{xAD}{u2C}{1/2}{u2E}#h{xA9}bwv{u2C}s{u2D}{3/4}v\{RIGHT}h
+{END}
+--------------------------------------------------End--
+Dummy
+{END}
+--------------------------------------------------End--
+ 
+{END}
+--------------------------------------------------End--
+ 
+{END}
+--------------------------------------------------End--
+Directional Button SE
+{x0BF0000103001D0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Battles fought:    Times KO'd:   Enemies defeated:
+{END}
+--------------------------------------------------End--
+Circle and Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Circle and Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}
+{x0BF0000103001D0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Party
+
+Tidus
+
+Yuna
+
+Auron
+
+Kimahri
+
+Wakka
+
+Lulu
+
+Rikku{END}
+--------------------------------------------------End--
+
+{x0BF40000020000000000}
+
+
+{x0BF40000020001000000}
+
+
+{x0BF40000020002000000}
+
+
+{x0BF40000020003000000}
+
+
+{x0BF40000020004000000}
+
+
+{x0BF40000020005000000}
+
+
+{x0BF40000020006000000}
+
+{END}
+--------------------------------------------------End--
+
+{x0BF40000030000000000}
+
+
+{x0BF40000030001000000}
+
+
+{x0BF40000030002000000}
+
+
+{x0BF40000030003000000}
+
+
+{x0BF40000030004000000}
+
+
+{x0BF40000030005000000}
+
+
+{x0BF40000030006000000}
+
+{END}
+--------------------------------------------------End--
+
+{x0BF40000040000000000}
+
+
+{x0BF40000040001000000}
+
+
+{x0BF40000040002000000}
+
+
+{x0BF40000040003000000}
+
+
+{x0BF40000040004000000}
+
+
+{x0BF40000040005000000}
+
+
+{x0BF40000040006000000}
+
+{END}
+--------------------------------------------------End--
+Overdrives
+{END}
+--------------------------------------------------End--
+Overdrive Modes
+{END}
+--------------------------------------------------End--
+Auto-Abilities
+{END}
+--------------------------------------------------End--
+Command Abilities
+{END}
+--------------------------------------------------End--
+About Overdrives.
+{END}
+--------------------------------------------------End--
+About Overdrive modes.
+{END}
+--------------------------------------------------End--
+About Command Abilities.
+{END}
+--------------------------------------------------End--
+About Auto-Abilities.
+{END}
+--------------------------------------------------End--
+Basic Controls{END}
+--------------------------------------------------End--
+Basic Terms{END}
+--------------------------------------------------End--
+Reference{END}
+--------------------------------------------------End--
+Information on basic controls.{END}
+--------------------------------------------------End--
+Information on basic terms.{END}
+--------------------------------------------------End--
+Various information.{END}
+--------------------------------------------------End--
+Basic Controls (Normal Mode){END}
+--------------------------------------------------End--
+Basic Controls (Battle Mode){END}
+--------------------------------------------------End--
+Basic Controls (Menu Screen){END}
+--------------------------------------------------End--
+Controls in Normal Mode.{END}
+--------------------------------------------------End--
+Controls in Battle Mode.{END}
+--------------------------------------------------End--
+Controls in the Menu Screen.{END}
+--------------------------------------------------End--
+CTB Window{END}
+--------------------------------------------------End--
+Trigger Commands{END}
+--------------------------------------------------End--
+Overdrives{END}
+--------------------------------------------------End--
+Change Weapon/Armor{END}
+--------------------------------------------------End--
+Defend{END}
+--------------------------------------------------End--
+Switch{END}
+--------------------------------------------------End--
+Damage Indicators{END}
+--------------------------------------------------End--
+The Info Window{END}
+--------------------------------------------------End--
+Overkill{END}
+--------------------------------------------------End--
+Elements{END}
+--------------------------------------------------End--
+Status Ailments{END}
+--------------------------------------------------End--
+Information on the CTB window.{END}
+--------------------------------------------------End--
+Information on Trigger Commands.{END}
+--------------------------------------------------End--
+Information on Overdrives.{END}
+--------------------------------------------------End--
+Changing weapons and armor during battle.{END}
+--------------------------------------------------End--
+How to defend oneself during battle.{END}
+--------------------------------------------------End--
+Switching party members in and out of battle.{END}
+--------------------------------------------------End--
+Information on damage indicators.{END}
+--------------------------------------------------End--
+Information on the info window.{END}
+--------------------------------------------------End--
+Information on Overkill.{END}
+--------------------------------------------------End--
+Information on elements.{END}
+--------------------------------------------------End--
+Information on status ailments.{END}
+--------------------------------------------------End--
+Information on the Battle Mode.{END}
+--------------------------------------------------End--
+{Direcional Left}{Direcional Up}{Direcional Down}{Direcional Right}: Select {Button Circle}: Confirm {Button X}: Exit{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Button X}: Exit to Menu{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Button X}: Exit{END}
+--------------------------------------------------End--
+{Button X}: Exit{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Direcional Right}: Next Page {Button X}: Exit
+{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Direcional Left}{Direcional Right}: Turn Page {Button X}: Exit
+{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Direcional Left}: Previous Page {Button X}: Exit
+{END}
+--------------------------------------------------End--
+Battle Mode{END}
+--------------------------------------------------End--
+1: Help Window
+Displays various information.{END}
+--------------------------------------------------End--
+2: Command Window
+Displays available commands.{END}
+--------------------------------------------------End--
+3: CTB Window
+Displays order of all turns.{END}
+--------------------------------------------------End--
+4: Status Window
+Displays party's HP & MP.{END}
+--------------------------------------------------End--
+Overdrives
+{END}
+--------------------------------------------------End--
+Beneath each character's HP and MP meters is an
+Overdrive gauge. When it fully charges, the character
+can perform a special attack called an Overdrive. In
+the command window, press {Direcional Left} to access Overdrives.
+
+By default, the Overdrive gauge charges whenever a
+character takes damage. This setting can be changed
+later in the game.
+{END}
+--------------------------------------------------End--
+The CTB Window
+{END}
+--------------------------------------------------End--
+This window shows the turn order for all
+enemies and allies involved in a battle.
+The party member or enemy currently
+ready to act appears at the top of the
+list. Use {u0B:21} and {u0B:22} to scroll up and down
+the list, which can display up to 16 turns
+at a time. 
+Letters like A, B, and C represent
+enemies. Check the letter displayed
+beside an enemy's name when it's
+targeted with the cursor.
+Turn order is arranged as if everyone
+will use the "Attack" command next.
+Different commands shift a character's
+next turn up or down the queue.
+{END}
+--------------------------------------------------End--
+Trigger Commands
+{END}
+--------------------------------------------------End--
+In certain battles, characters will be able to use
+special commands. An indicator like the one shown
+above will appear above the command window.
+Press {Direcional Left} to access Trigger Commands.
+Examples of Trigger Commands include the following:
+
+Pincer Attack: Change position in battle.
+Talk: Talk to an enemy.
+Pull back: Maneuver a vehicle while fighting.{END}
+--------------------------------------------------End--
+Change Weapon/Armor{END}
+--------------------------------------------------End--
+Press {Direcional Right} during battle to
+access the commands {OCyan}Weapon{White}
+and {OCyan}Armor{White}, which allow
+characters to change
+equipment.
+Equipped items are denoted
+by a mark on the upper left
+corner of their icons.
+A window on the right displays
+the selected item's abilities.
+{END}
+--------------------------------------------------End--
+Defend{END}
+--------------------------------------------------End--
+When you want a character to pass up
+his turn in battle, press {Button Triangle} to have
+him assume a defensive stance.
+
+Characters defending like this take only
+half damage from physical attacks, but
+still take full damage from magical
+attacks.
+
+This {Button Triangle} defense cannot be used
+in certain battles.
+{END}
+--------------------------------------------------End--
+Switch{END}
+--------------------------------------------------End--
+Press {u0B:20} during battle to
+switch a frontline character
+with one in reserve.
+
+The character who enters the
+battle can act right away, so
+even if you accidentally bring
+in the wrong character, you
+can immediately switch him
+with someone else.
+{END}
+--------------------------------------------------End--
+Damage Indicators{END}
+--------------------------------------------------End--
+In battle, white numbers appear above
+combatants to indicate the amount of
+damage inflicted on them by attacks.
+Green numbers indicate HP recovery.
+
+"MP" precedes any numbers indicating
+MP loss or recovery.
+
+"MISS" indicates a failed attack or
+failure to inflict a status ailment.
+
+"IMMUNE" indicates resistance to a
+status ailment. When facing an attack
+capable of inflicting multiple status
+ailments, the target must resist them
+all in order for "IMMUNE" to appear.
+{END}
+--------------------------------------------------End--
+The Info Window{END}
+--------------------------------------------------End--
+The auto-ability {OCyan}Sensor{White}, found in certain weapons, reveals
+information on enemies during battle. The information
+window at the upper left corner of the screen displays
+the target's current HP/MP, status, and elemental affinity.
+There are four affinity levels: weakness, half damage,
+immunity, and absorption. On the chart shown, fire = red,
+lightning = yellow, water = blue, ice = white. In the example
+above, the target is weak against ice, absorbs fire, takes
+half damage from lightning and water, and has been slowed.
+{END}
+--------------------------------------------------End--
+Overkill
+{END}
+--------------------------------------------------End--
+This icon appears when you strike
+an enemy down with an extremely
+powerful blow.
+
+When {OCyan}Overkill{White} is achieved, more AP
+and spheres are earned at the end
+of the battle.
+
+To attain Overkill, the finishing blow
+must deal a massive amount of
+damage to the enemy. To increase
+the chances of an Overkill, exploit
+the enemy's elemental weaknesses.
+{END}
+--------------------------------------------------End--
+Elements
+{END}
+--------------------------------------------------End--
+There are four elements: {OCyan}fire{White}, {OCyan}ice{White}, {OCyan}lightning{White}, and
+{OCyan}water{White}, manifested in spells like Fire, Blizzard, Thunder,
+and Water. Fire and ice oppose each other, as do
+lightning and water.
+
+Many enemies are vulnerable to one or more elements,
+and suffer 50 percent more damage from attacks of
+that element. Some resistant enemies take only half
+damage from certain elements, while others take no
+damage at all. A few enemies actually absorb elemental
+spells and attacks, thereby healing themselves.
+
+Different enemies have different elemental strengths
+and weaknesses, so use abilities like Scan and Sensor
+to figure them out.
+{END}
+--------------------------------------------------End--
+Status Ailments
+{END}
+--------------------------------------------------End--
+Enemy attacks sometimes inflict status ailments
+in addition to normal damage.
+
+A character afflicted with {OCyan}poison{White} suffers damage
+every turn, equal to 1/4 of his maximum HP. Cure him
+with an Antidote quickly to prevent his being KO'd.
+
+When a character afflicted with {OCyan}darkness{White} attempts
+physical attacks, he almost always misses.
+Use Eye Drops to restore his eyesight.
+
+A character put to {OCyan}sleep{White} is unable to act. Physical
+attacks will wake him, but magic attacks will not.
+
+A character afflicted with {OCyan}silence{White} is unable to cast
+magic spells. Cure him with an Echo Screen.
+{END}
+--------------------------------------------------End--
+Dummy
+{END}
+--------------------------------------------------End--
+Select a topic.
+{END}
+--------------------------------------------------End--
+Select a character.
+{END}
+--------------------------------------------------End--
+Select an Overdrive mode.
+{END}
+--------------------------------------------------End--
+Move character{END}
+--------------------------------------------------End--
+Move character{END}
+--------------------------------------------------End--
+Move cursor{END}
+--------------------------------------------------End--
+Move cursor{END}
+--------------------------------------------------End--
+/Press left or right to change command windows{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Talk/Examine/Confirm{END}
+--------------------------------------------------End--
+Confirm{END}
+--------------------------------------------------End--
+Hold down to walk
+/{END}
+--------------------------------------------------End--
+Cancel{END}
+--------------------------------------------------End--
+Hold down to walk{END}
+--------------------------------------------------End--
+Menu Screen{END}
+--------------------------------------------------End--
+Defend (pass up turn){END}
+--------------------------------------------------End--
+Change character{END}
+--------------------------------------------------End--
+Display Switch Screen{END}
+--------------------------------------------------End--
+/Select character to switch in{END}
+--------------------------------------------------End--
+Scroll lists{END}
+--------------------------------------------------End--
+Character Switch{END}
+--------------------------------------------------End--
+Scroll CTB window{END}
+--------------------------------------------------End--
+Scroll CTB window{END}
+--------------------------------------------------End--

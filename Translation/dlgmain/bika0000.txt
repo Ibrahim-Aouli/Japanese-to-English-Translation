@@ -1,0 +1,338 @@
+
+{Font Italic}Where am I?{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}I forgive you, this time.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}Be good for a while, okay?{Font Normal}
+--------------------------------------------------End--
+{Tidus}
+The others?
+--------------------------------------------------End--
+{Lulu}
+Haven't found them yet.
+--------------------------------------------------End--
+{Lulu}
+We're supposed to stay in
+one place if we get split up.
+--------------------------------------------------End--
+{Tidus}
+Wait here if you want.
+--------------------------------------------------End--
+{Tidus}
+He's not.
+--------------------------------------------------End--
+{Tidus}
+{Wakka}!
+--------------------------------------------------End--
+{Tidus}
+You alone?
+--------------------------------------------------End--
+{Wakka}
+Where's {Yuna}?
+--------------------------------------------------End--
+{Wakka}
+Dammit!
+--------------------------------------------------End--
+{Wakka}
+First I lose {Yuna}, then
+I'm ambushed by machina!
+--------------------------------------------------End--
+{Wakka}
+Great day I'm having.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{Al Bhed} First Aid Kit{White}
+A first aid kit placed by the {Al Bhed2}
+to aid desert travelers.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. I!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}Y{White} {RIGHT} {Pink}A{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. III!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}L{White} {RIGHT} {Pink}C{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+3!
+--------------------------------------------------End--
+{WINDOW}
+2!
+--------------------------------------------------End--
+{WINDOW}
+1!
+--------------------------------------------------End--
+{WINDOW}
+GO!
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE!
+--------------------------------------------------End--
+{WINDOW}
+TIME'S UP!!!
+--------------------------------------------------End--
+{WINDOW}
+= 1st TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+= 2nd TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+= 3rd TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+Needletime!
+--------------------------------------------------End--
+{WINDOW}
+Needles!
+--------------------------------------------------End--
+{WINDOW}
+Whoopsie!
+--------------------------------------------------End--
+{WINDOW}
+Prickle!
+--------------------------------------------------End--
+{WINDOW}
+
+Destination Undetermined
+= Under Construction =
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Tomay{White}
+- {VAR07:43}Duties: Fetching water.
+ {VAR07:43}Takes his time and, as a
+ {VAR07:43}result, is often left
+ {VAR07:43}behind.
+- {VAR07:43}A little dim.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Rovivea{White}
+- {VAR07:43}Has no patience for
+ {VAR07:43}certain dim-witted friends.
+- {VAR07:43}Not a progressive thinker.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Chava{White}
+- {VAR07:43}Recently learned to
+ {VAR07:43}count to 50.
+- {VAR07:43}A little needy.
+- {VAR07:43}Attention deficit.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Alek & Aloja{White}
+- {VAR07:43}Two brothers, rarely separated.
+- {VAR07:43}They move as one, their closeness
+ {VAR07:43}a paragon of brotherhood.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Vachella{White}
+- Loves new things.
+- Hard on others, easy on self.
+- Stingy.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Robeya{White}
+- A real needle brain.
+- Likes cramped spaces.
+- Check out his great collection!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Isrra{White}
+- {VAR07:43}The philosopher about town.
+ {VAR07:43}Today, he digs holes. Again.
+- {VAR07:43}A cautious sort.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Elio{White}
+- {VAR07:43}To see what lies beyond the sands,
+ {VAR07:43}he travels far to distant lands.
+- {VAR07:43}Hyper-reactive and a bad poet.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Flaile{White}
+- {VAR07:43}The guy you never invite
+ {VAR07:43}but he always shows up anyway.
+- {VAR07:43}Cheeky.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Village of the Cactuars{White}
+- {VAR07:43}Using spheres to control the sands,
+ {VAR07:43}the Cactuars defend their village.
+ {VAR07:43}They are the Gatekeepers.
+- {VAR07:43}Present all 10 of the spheres they
+ {VAR07:43}bear to the stone altar,
+ {VAR07:43}and the way to the village will open.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Way of the Gatekeepers I{White}
+- {VAR07:43}It may look like fun and games, but the
+ {VAR07:43}Gatekeepers are a proud race of warriors.
+- {VAR07:43}While they dislike combat, they will turn
+ {VAR07:43}and face any enemy that takes their back.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Way of the Gatekeepers II{White}
+- {VAR07:43}Should you fail to sneak up on them
+ {VAR07:43}they will realize they have over-estimated
+ {VAR07:43}their enemy and depart in disgust.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Way of the Gatekeepers III{White}
+- {VAR07:43}Sneak up on the cactuars when their
+ {VAR07:43}backs are turned to confront them.
+ {VAR07:43}It's better that way, believe me.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Spheres{White}
+- {VAR07:43}Fail to catch the gatekeeper
+ {VAR07:43}unaware, and you'll obtain the
+ {VAR07:43}Sphere del Perdedor!
+- {VAR07:43}Best the gatekeeper and obtain
+ {VAR07:43}his personalized sphere!
+- {VAR07:43}Collect lots of spheres to
+ {VAR07:43}receive an award at the village.
+--------------------------------------------------End--
+{WINDOW}
+
+Writing appears when the sphere
+is set into the stone!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tomay's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Rovivea's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chava's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alek and Aloja's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Vachella's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Isrra's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Elio's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Flaile's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Sphere del Perdedor!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}Time: {VAR12:32}:{VAR12:31}.{VAR12:30}{White}
+--------------------------------------------------End--

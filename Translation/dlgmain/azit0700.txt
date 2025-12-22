@@ -1,0 +1,117 @@
+{Rikku}
+No, not that way!
+--------------------------------------------------End--
+
+{Al Bhed} verification!
+--------------------------------------------------End--
+
+Are you {Al Bhed}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Sey
+{CHOICE:31}No
+{CHOICE:32}Yes
+{CHOICE:33}On
+--------------------------------------------------End--
+
+Name the son of the {Al Bhed} leader.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Al Bhed Psyches}
+{CHOICE:31}{Cid}
+{CHOICE:32}{Rin Travel Agency}
+{CHOICE:33}{Brother}
+--------------------------------------------------End--
+
+On what island do the {Al Bhed} live?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Yevon2}
+{CHOICE:31}{Bikanel Island}
+{CHOICE:32}{O'aka XXIII}
+{CHOICE:33}{Home}
+--------------------------------------------------End--
+
+What is {Al Bhed} in {Al Bhed3}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Al Bhed
+{CHOICE:31}Ab Lhed
+{CHOICE:32}El Bhad
+{CHOICE:33}Al Dheb
+--------------------------------------------------End--
+{WINDOW}
+
+The first digit is 4 plus 1.
+The second digit is 7 minus 1.
+The third digit is 3 times 1.
+The fourth digit is 2 plus 1.
+--------------------------------------------------End--
+{WINDOW}
+Password: {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{Al Bhed} Compilation Sphere{White}
+--------------------------------------------------End--
+{WINDOW}
+Use previously saved Al Bhed Primer
+data to synthesize a new
+Al Bhed primer!
+{NEWPAGE}
+Select save data to synthesize
+Al Bhed primer from.
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+Synthesize from other save data?
+{VAR07:31}{CHOICE:30}Yes
+{VAR07:31}{CHOICE:31}No{VAR07:E4}
+--------------------------------------------------End--
+{WINDOW}
+Error loading {Al Bhed} dictionary!
+--------------------------------------------------End--
+{WINDOW}
+No {Al Bhed} dictionary data found!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} dictionary successfully loaded!
+--------------------------------------------------End--
+{WINDOW}
+Compile {Al Bhed} dictionary?
+{VAR07:31}{CHOICE:30}Yes
+{VAR07:31}{CHOICE:31}No{VAR07:E4}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--

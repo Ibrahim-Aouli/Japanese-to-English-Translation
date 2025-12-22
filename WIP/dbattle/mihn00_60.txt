@@ -1,0 +1,39 @@
+Belgemine
+Summon Valefor.
+--------------------------------------------------End--
+Belgemine
+Show me how deeply
+you have bonded with your aeon.
+--------------------------------------------------End--
+Belgemine
+That will be all.
+--------------------------------------------------End--
+Belgemine
+That’s more than enough.
+--------------------------------------------------End--
+{WINDOW}
+An aeon’s parameters increase
+as the summoner grows stronger.
+Even the same Ifrit will differ in strength
+depending on the abilities of the summoner who
+[40+49?] summons it.
+--------------------------------------------------End--
+{WINDOW}
+This Ifrit has high HP and attack power,
+so fighting it head-on will result in defeat.
+Use the aeon commands {Yellow}[Defend]{White} and {Yellow}[Boost]{White}
+to fight effectively.
+--------------------------------------------------End--
+{WINDOW}
+Choosing “Defend” reduces the damage you take,
+but your Overdrive gauge will not increase.
+Choosing “Boost” increases the damage you take,
+but causes the gauge to fill more quickly.
+--------------------------------------------------End--
+{WINDOW}
+When the enemy is about to use a powerful attack,
+“Defend” is effective.
+This Ifrit alternates between “Attack” and “Meteor Strike.”
+It will use “Meteor Strike” next,
+so defend with “Defend.”
+--------------------------------------------------End--

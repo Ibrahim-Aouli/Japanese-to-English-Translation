@@ -1,0 +1,45 @@
+{WINDOW}
+{Tidus}
+Those arms are in the way!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+It blocked my shot?
+I don't believe it!
+--------------------------------------------------End--
+{WINDOW}
+{Auron}
+So the arms are for defense.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+That, I can hit!
+--------------------------------------------------End--
+{WINDOW}
+{Lulu}
+I'll cast a spell at its head!
+--------------------------------------------------End--
+{WINDOW}
+{Auron}
+It's going to attack!
+Aim for the head!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+It's gonna do something!
+Time for a head shot!
+--------------------------------------------------End--
+message 7
+--------------------------------------------------End--
+{WINDOW}
+The arms regenerated!
+--------------------------------------------------End--
+{WINDOW}
+The head is moving suspiciously!
+--------------------------------------------------End--
+{WINDOW}
+The head stops moving!
+--------------------------------------------------End--
+{WINDOW}
+The head is no longer moving.
+--------------------------------------------------End--

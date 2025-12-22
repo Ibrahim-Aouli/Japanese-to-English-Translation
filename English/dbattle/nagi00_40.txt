@@ -1,0 +1,16 @@
+Belgemine
+Choose your aeon well, summoner.
+--------------------------------------------------End--
+Belgemine
+You have a lot to learn.
+--------------------------------------------------End--
+Belgemine
+Stop. That is enough.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Attributes{White} in the Aeons menu to
+raise the attributes of your aeons.
+Use this to compensate for aeons' weaknesses
+by raising the physically weak {Shiva}'s HP,
+or increasing the usually slow {Ifrit}'s agility.
+--------------------------------------------------End--

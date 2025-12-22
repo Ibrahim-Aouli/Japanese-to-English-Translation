@@ -1,0 +1,9 @@
+{WINDOW}
+{Yellow}  [Zu]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+You can reliably inflict “Darkness” with “Blind Buster.”
+Once you deal a certain amount of damage and it falls to the ground,
+it can be defeated easily.
+--------------------------------------------------End--

@@ -1,0 +1,117 @@
+{Wakka} 
+Looks like a bit of a troublesome one’s shown up.
+--------------------------------------------------End--
+{Tidus} 
+Heh! This is nothing!
+--------------------------------------------------End--
+{Wakka} 
+See? That one’s better taken down with magic.
+--------------------------------------------------End--
+{Wakka} 
+If hitting it doesn’t work,
+use magic of the element it’s weak against.
+--------------------------------------------------End--
+{Tidus} 
+Magic? Elements?
+--------------------------------------------------End--
+{Wakka} 
+Then let’s have the black mage
+show us how it’s done.
+--------------------------------------------------End--
+{Wakka} 
+Lulu! You’re up!
+--------------------------------------------------End--
+{Lulu} 
+You really don’t know anything…
+This doesn’t bode well.
+--------------------------------------------------End--
+{Lulu} 
+An element refers to
+the nature of magic and monsters.
+--------------------------------------------------End--
+{Lulu} 
+Fire and ice, lightning and water…
+There are four types in total.
+--------------------------------------------------End--
+{Lulu} 
+Among them, fire and ice
+are opposing elements.
+--------------------------------------------------End--
+{Lulu} 
+Ice magic works well
+against fire-element monsters…
+--------------------------------------------------End--
+{Lulu} 
+Conversely, fire magic
+is the weakness of ice-element enemies.
+--------------------------------------------------End--
+{Lulu} 
+Fire and ice…
+They’re two sides of the same coin.
+--------------------------------------------------End--
+{Lulu} 
+Got it?
+--------------------------------------------------End--
+{Lulu} 
+There are four types of elements:
+fire, ice, lightning, and water.
+--------------------------------------------------End--
+{Lulu} 
+Fire-element monsters are weak to ice.
+Ice-element monsters are weak to fire.
+--------------------------------------------------End--
+{Lulu} 
+That makes sense now, right?
+--------------------------------------------------End--
+{Tidus} 
+Fire and ice I get,
+but what about lightning and water?
+--------------------------------------------------End--
+{Lulu} 
+The relationship between lightning and water
+is the same as fire and ice.
+--------------------------------------------------End--
+{Lulu} 
+That one’s a water-element monster,
+so its weakness is… you know, right?
+--------------------------------------------------End--
+{Lulu} 
+If you attack a water-element monster
+with lightning magic, it’s a one-hit kill.
+--------------------------------------------------End--
+{Lulu} 
+That was a clear example.
+--------------------------------------------------End--
+{Lulu} 
+Since it’s water-element,
+fire and ice don’t work very well.
+--------------------------------------------------End--
+{Wakka} 
+Hey, hey, hey!?
+Why are you healing the enemy!?
+--------------------------------------------------End--
+{Lulu} 
+If you choose the wrong element,
+this kind of thing can happen.
+--------------------------------------------------End--
+{Wakka} 
+Alright, that’s enough, Lulu.
+--------------------------------------------------End--
+{Wakka} 
+Let’s just finish it off cleanly.
+--------------------------------------------------End--
+{Wakka} 
+What are you messing around with?
+--------------------------------------------------End--
+{Wakka} 
+Enough dragging it out.
+Thunder’s the way to go.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [About Elements] 
+--------------------------------------------------End--
+{WINDOW}
+{White} The nature of magic and monsters is called an {Yellow}[Element]{White}.
+There are four elements in this world: fire, ice, lightning, and water.
+Among these, fire and ice, and lightning and water, oppose each other.
+--------------------------------------------------End--

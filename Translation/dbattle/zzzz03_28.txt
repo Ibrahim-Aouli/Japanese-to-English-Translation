@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow} Cactuar
+--------------------------------------------------End--
+{WINDOW}
+{White}Cactuar tries to escape as soon as its
+HP gets low. {OCyan}Sleep{White} won't work, so find
+other means of keeping it from running.
+--------------------------------------------------End--

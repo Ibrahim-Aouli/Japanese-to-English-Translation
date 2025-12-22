@@ -1,0 +1,67 @@
+Message 0
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Do you not wish
+to ease Spira’s sorrow?
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+If you entrust yourself
+to the power of destruction,
+you can rest in peace.
+--------------------------------------------------End--
+{WINDOW}
+Yuna
+You’re just running away!
+--------------------------------------------------End--
+{WINDOW}
+Kimahri
+Kimahri will never forgive you!
+--------------------------------------------------End--
+{WINDOW}
+Kimahri
+With the [40+48?] that bears
+the fury of the Ronso,
+I will strike you down!!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+…………
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Perish.
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+A merciless death!
+--------------------------------------------------End--
+{WINDOW}
+Seymour is silenced!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Begone!
+--------------------------------------------------End--
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+{WINDOW}
+Could not reflect it.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}’s {Yellow}Magic Defense{White} increased!
+--------------------------------------------------End--
+{WINDOW}
+{Kimahri}’s {Yellow}Attack Power{White} increased!
+--------------------------------------------------End--
+{WINDOW}
+Machina “Prayer Engine” special magic ready!
+--------------------------------------------------End--
+{WINDOW}
+Seymour is observing.
+--------------------------------------------------End--
+{WINDOW}
+Machina “Prayer Engine” automatic attack mode!
+--------------------------------------------------End--

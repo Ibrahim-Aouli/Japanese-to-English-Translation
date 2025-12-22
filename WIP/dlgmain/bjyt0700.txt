@@ -1,0 +1,8 @@
+{WINDOW}
+
+{White} {Button Circle}: Examine{White}
+--------------------------------------------------End--
+
+There is a rotten bouquet of flowers.
+It’s soaked, so it can’t be used as {Yellow}[Kindling]{White}.
+--------------------------------------------------End--

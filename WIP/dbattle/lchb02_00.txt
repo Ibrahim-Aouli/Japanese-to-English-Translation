@@ -1,0 +1,14 @@
+{WINDOW}
+{Tidus} 
+Whoa!? What are these things!?
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+They’re ancient machines
+developed by the Al Bhed.
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+It’s okay.
+You can take them down with lightning magic.
+--------------------------------------------------End--

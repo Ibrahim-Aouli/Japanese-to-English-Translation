@@ -1,0 +1,11 @@
+{WINDOW}
+{Yellow}  [Chimera]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Its HP is very high, so the battle will be long.
+Using “Power Break” and “Magic Break”
+to reduce the damage taken by allies is effective.
+With {Kimahri}’s “Lancet,”
+you can obtain the enemy ability “Aqua Breath.”
+--------------------------------------------------End--

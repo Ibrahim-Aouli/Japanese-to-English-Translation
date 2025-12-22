@@ -1,0 +1,15 @@
+{Auron}
+Hmph, this is getting out of hand...
+--------------------------------------------------End--
+{Auron}
+Hey, cut through that thing over there.
+--------------------------------------------------End--
+{Tidus}
+What for!
+--------------------------------------------------End--
+{Auron}
+I'll show you something interesting.
+--------------------------------------------------End--
+{Tidus}
+(Hmm...)
+--------------------------------------------------End--

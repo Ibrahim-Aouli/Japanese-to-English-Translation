@@ -1,0 +1,15 @@
+{WINDOW}
+{Yellow} Overdrives
+--------------------------------------------------End--
+{WINDOW}
+{White}When a character's {Yellow}Overdrive gauge{White} beneath
+the HP/MP display is full, that character may
+use a special unique attack once. Press {Direcional Left}
+in the command window to use an {Yellow}Overdrive{White}.
+--------------------------------------------------End--
+{Auron}
+Let's take care of them all at once.
+--------------------------------------------------End--
+{Tidus}
+What the hell is with these guys?!
+--------------------------------------------------End--

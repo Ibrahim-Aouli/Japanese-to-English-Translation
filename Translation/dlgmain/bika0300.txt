@@ -1,0 +1,407 @@
+{WINDOW}
+{VAR07:31}Installing…
+{VAR07:31}{VAR12:31}:{VAR12:32} min remaining
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}Installing…
+{VAR07:31}{VAR12:31}:0{VAR12:32} min remaining
+--------------------------------------------------End--
+
+Was she there before?
+--------------------------------------------------End--
+
+Don't look at me!
+--------------------------------------------------End--
+
+My child is lost in
+the ruins of {Home}.
+--------------------------------------------------End--
+
+Please, help me
+to find my child!
+--------------------------------------------------End--
+
+You check by the cliff.
+--------------------------------------------------End--
+{Auron}
+Hmph! Let's go.
+--------------------------------------------------End--
+
+I will check over here.
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+Where has she gone?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+
+There's nothing over there...
+now that {Home} is gone.
+--------------------------------------------------End--
+
+But then, we still
+have {blitz}, you see?
+--------------------------------------------------End--
+
+The ball...
+I think we forgot something.
+--------------------------------------------------End--
+{Rikku}
+Uhh...which way was it again?
+--------------------------------------------------End--
+{Rikku}
+Umm...this way!
+--------------------------------------------------End--
+{Rikku}
+Over here!
+--------------------------------------------------End--
+{Rikku}
+That way!
+--------------------------------------------------End--
+{Rikku}
+Aaaaaaa!
+--------------------------------------------------End--
+{Tidus}
+Rikku!
+--------------------------------------------------End--
+{Wakka}
+What? {Yuna}'s down there?
+--------------------------------------------------End--
+{Lulu}
+Of all the places...
+Let's go!
+--------------------------------------------------End--
+{WINDOW}
+3!
+--------------------------------------------------End--
+{WINDOW}
+2!
+--------------------------------------------------End--
+{WINDOW}
+1!
+--------------------------------------------------End--
+{WINDOW}
+= 1st TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+= 2nd TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+= 3rd TRIAL =
+--------------------------------------------------End--
+{WINDOW}
+GO!
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE!
+--------------------------------------------------End--
+{WINDOW}
+TIME'S UP!!!
+--------------------------------------------------End--
+{WINDOW}
+Needletime!
+--------------------------------------------------End--
+{WINDOW}
+Needles!
+--------------------------------------------------End--
+{WINDOW}
+Whoopsie!
+--------------------------------------------------End--
+{WINDOW}
+Prickle!
+--------------------------------------------------End--
+{WINDOW}
+20!
+--------------------------------------------------End--
+{WINDOW}
+
+Something's written here.
+--------------------------------------------------End--
+{WINDOW}
+
+{Home} is near.
+--------------------------------------------------End--
+{WINDOW}
+
+Danger!
+Beware of Sandstorms!
+--------------------------------------------------End--
+{WINDOW}
+
+Danger!
+Strong {fiend} in vicinity!
+--------------------------------------------------End--
+{WINDOW}
+
+The writing below is faded.
+--------------------------------------------------End--
+{WINDOW}
+
+20% Off All Travel Agency Goods!
+--------------------------------------------------End--
+{WINDOW}
+
+Looks like an old advertisement.
+--------------------------------------------------End--
+{WINDOW}
+
+There's writing on the stone.
+--------------------------------------------------End--
+{WINDOW}
+The sandstorm blocks your path!
+--------------------------------------------------End--
+{WINDOW}
+
+There's a valley beyond
+the sandstorm.
+--------------------------------------------------End--
+{WINDOW}
+
+There's a picture of a
+fiend on the stone here.
+--------------------------------------------------End--
+{WINDOW}
+
+Tomay's gone.
+Gone to fetch the water.
+--------------------------------------------------End--
+{WINDOW}
+
+Rovivea's gone walkabout.
+--------------------------------------------------End--
+{WINDOW}
+
+Little Chava likes big numbers.
+--------------------------------------------------End--
+{WINDOW}
+
+Alek and Aloja play tag
+in the ruins of men.
+--------------------------------------------------End--
+{WINDOW}
+
+Vachella seeks the
+shining blue.
+--------------------------------------------------End--
+{WINDOW}
+
+O, Robeya's stuck inside.
+--------------------------------------------------End--
+{WINDOW}
+
+A fiery inscription--The lord
+of the hole is gone. Isrra thinks.
+--------------------------------------------------End--
+{WINDOW}
+
+Much-curious Elio has left on a journey.
+--------------------------------------------------End--
+{WINDOW}
+
+Flaile is always behind.
+--------------------------------------------------End--
+{WINDOW}
+
+= Song of the Gatekeeper =
+--------------------------------------------------End--
+{WINDOW}
+
+10 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+9 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+8 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+7 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+6 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+5 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+4 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+3 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+2 little gatekeepers
+play in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+1 little gatekeeper
+plays in the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+Be back soon.
+--------------------------------------------------End--
+{WINDOW}
+
+Gone for good.
+--------------------------------------------------End--
+{WINDOW}
+
+Nobody's here.
+The sand is gone.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Tomay{White}
+- {VAR07:43}Duties: Fetching water.
+ {VAR07:43}Takes his time and, as a
+ {VAR07:43}result, is often left
+ {VAR07:43}behind.
+- {VAR07:43}A little dim.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Rovivea{White}
+- {VAR07:43}Has no patience for
+ {VAR07:43}certain dim-witted friends.
+- {VAR07:43}Not a progressive thinker.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Chava{White}
+- {VAR07:43}Recently learned to
+ {VAR07:43}count to 50.
+- {VAR07:43}A little needy.
+- {VAR07:43}Attention deficit.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Alek & Aloja{White}
+- {VAR07:43}Two brothers, rarely separated.
+- {VAR07:43}They move as one, their closeness
+ {VAR07:43}a paragon of brotherhood.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Vachella{White}
+- Loves new things.
+- Hard on others, easy on self.
+- Stingy.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Robeya{White}
+- A real needle brain.
+- Likes cramped spaces.
+- Check out his great collection!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Isrra{White}
+- {VAR07:43}The philosopher about town.
+ {VAR07:43}Today, he digs holes. Again.
+- {VAR07:43}A cautious sort.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Elio{White}
+- {VAR07:43}To see what lies beyond the sands,
+ {VAR07:43}he travels far to distant lands.
+- {VAR07:43}Hyper-reactive and a bad poet.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Flaile{White}
+- {VAR07:43}The guy you never invite
+ {VAR07:43}but he always shows up anyway.
+- {VAR07:43}Cheeky.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Village of the Cactuars{White}
+- {VAR07:43}Using spheres to control the sands,
+ {VAR07:43}the Cactuars defend their village.
+ {VAR07:43}They are the Gatekeepers.
+- {VAR07:43}Present all 10 of the spheres they
+ {VAR07:43}bear to the stone altar,
+ {VAR07:43}and the way to the village will open.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Way of the Gatekeepers I{White}
+- {VAR07:43}It may look like fun and games, but the
+ {VAR07:43}Gatekeepers are a proud race of warriors.
+- {VAR07:43}While they dislike combat, they will turn
+ {VAR07:43}and face any enemy that takes their back.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Way of the Gatekeepers II{White}
+- {VAR07:43}Should you fail to sneak up on them
+ {VAR07:43}they will realize they have over-estimated
+ {VAR07:43}their enemy and depart in disgust.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Way of the Gatekeepers III{White}
+- {VAR07:43}Sneak up on the cactuars when their
+ {VAR07:43}backs are turned to confront them.
+ {VAR07:43}It's better that way, believe me.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Spheres{White}
+- {VAR07:43}Fail to catch the gatekeeper
+ {VAR07:43}unaware, and you'll obtain the
+ {VAR07:43}Sphere del Perdedor!
+- {VAR07:43}Best the gatekeeper and obtain
+ {VAR07:43}his personalized sphere!
+- {VAR07:43}Collect lots of spheres to
+ {VAR07:43}receive an award at the village.
+--------------------------------------------------End--
+{WINDOW}
+
+Writing appears when the sphere
+is set into the stone!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tomay's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Rovivea's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chava's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alek and Aloja's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Vachella's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Isrra's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Elio's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Flaile's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Sphere del Perdedor!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue}Time: {VAR12:32}:{VAR12:31}.{VAR12:30}{White}
+--------------------------------------------------End--

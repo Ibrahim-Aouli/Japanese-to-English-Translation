@@ -1,0 +1,76 @@
+{Wakka}
+Don't strain yourself!
+I'll handle the bird.
+--------------------------------------------------End--
+{Lulu}
+You'd best stop that. {Wakka}'s
+in charge of flyers, remember?
+--------------------------------------------------End--
+{Wakka}
+Leave that one to Lu!
+--------------------------------------------------End--
+{Lulu}
+Didn't I just tell you?
+You need magic to harm that one.
+--------------------------------------------------End--
+{Wakka}
+Geez! Tougher
+than I thought.
+--------------------------------------------------End--
+{Wakka}
+It'll take more than
+one shot to do the job.
+--------------------------------------------------End--
+{Lulu}
+Why don't you let the
+boy handle that one?
+--------------------------------------------------End--
+{Wakka}
+Hmm... This is
+gonna take a while.
+--------------------------------------------------End--
+{Lulu}
+I'll handle it.
+Step aside.
+--------------------------------------------------End--
+{Wakka}
+Hey, that one's
+not ours, remember?
+--------------------------------------------------End--
+{Lulu}
+No good.
+It's too fast.
+--------------------------------------------------End--
+{Wakka}
+Excuse me? I'm in charge
+of swatting those, ya?
+--------------------------------------------------End--
+{Lulu}
+Just thought I'd give it a try!
+--------------------------------------------------End--
+{Lulu}
+Magic, sweet magic.
+--------------------------------------------------End--
+{Lulu}
+Let us guardians
+handle the likes of these.
+--------------------------------------------------End--
+{Wakka}
+{Yuna}, could you heal him?
+--------------------------------------------------End--
+{Lulu}
+Could you heal the boy, please?
+--------------------------------------------------End--
+{Wakka}
+You okay?
+--------------------------------------------------End--
+{Wakka}
+If you get hurt,
+get {Yuna} to fix you up.
+--------------------------------------------------End--
+{Lulu}
+Why not ask {Yuna} to heal you?
+--------------------------------------------------End--
+{Tidus}
+Whoa, thanks!
+--------------------------------------------------End--

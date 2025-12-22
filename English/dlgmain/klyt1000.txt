@@ -1,0 +1,133 @@
+
+The Kilika Sphere doesn't fit!
+--------------------------------------------------End--
+
+A sphere can be placed here.
+--------------------------------------------------End--
+
+The flames vanish!
+--------------------------------------------------End--
+
+Flames are already burning!
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one sphere at a time.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}glyph{White} appears.
+--------------------------------------------------End--
+
+The glyph repels you!
+--------------------------------------------------End--
+
+{WINDOW}
+You see a sphere-shaped recess.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Kilika Sphere{White} is set here.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Glyph Sphere{White} is set here.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}Destruction Sphere{White} is set here.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Kilika Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You are holding a {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one {Yellow}sphere{White} at a time.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Kilika Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Inserted {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Kilika Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Glyph Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+Removed {Yellow}Destruction Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow}glyph{White} glows on the wall.
+--------------------------------------------------End--
+
+{WINDOW}
+The door seems to be sealed
+by an unseen force.
+--------------------------------------------------End--
+
+{WINDOW}
+Countless filaments run across the walls.
+--------------------------------------------------End--
+
+{WINDOW}
+The filaments stop glowing.
+--------------------------------------------------End--
+
+{WINDOW}
+You hear a sound in the distance.
+--------------------------------------------------End--
+
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+
+{WINDOW}
+Received fabulous treasure!
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}Move the pedestal with
+{WINDOW}
+{Yellow}{Button X} + directional button.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}You cannot push the pedestal over steps.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Insert sphere.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take sphere.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Touch glyph.
+{WINDOW}
+{CHOICE:31}Cancel.
+--------------------------------------------------End--

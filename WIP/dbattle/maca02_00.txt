@@ -1,0 +1,39 @@
+{WINDOW}
+5 turns until magic beam
+--------------------------------------------------End--
+{WINDOW}
+4 turns until magic beam
+--------------------------------------------------End--
+{WINDOW}
+3 turns until magic beam
+--------------------------------------------------End--
+{WINDOW}
+2 turns until magic beam
+--------------------------------------------------End--
+{WINDOW}
+1 turn until magic beam
+--------------------------------------------------End--
+{WINDOW}
+The magic beam failed to fire.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+So their magic doesn’t work either?
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Their magic’s sealed too, huh?
+Machines are idiots.
+--------------------------------------------------End--
+{WINDOW}
+The {Yellow}[Al Bhed Sealer]{White}
+seals magic and summoning!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Lulu! You can use magic now!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+{Yuna}, you can use magic and summon now!
+--------------------------------------------------End--

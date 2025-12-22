@@ -1,0 +1,40 @@
+{WINDOW}
+Mana Beam in: 5 turns
+--------------------------------------------------End--
+{WINDOW}
+Mana Beam in: 4 turns
+--------------------------------------------------End--
+{WINDOW}
+Mana Beam in: 3 turns
+--------------------------------------------------End--
+{WINDOW}
+Mana Beam in: 2 turns
+--------------------------------------------------End--
+{WINDOW}
+Mana Beam in: 1 turn
+--------------------------------------------------End--
+{WINDOW}
+Mana Beam interrupted!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+They can't use magic, either?
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Stupid machina!
+They sealed their magic away, too!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Negator{White} disables
+all magic and summoning!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Lu! Cast your spells, now!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku}
+{Yuna}! You can use magic
+and call aeons now!
+--------------------------------------------------End--

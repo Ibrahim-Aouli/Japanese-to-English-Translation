@@ -1,0 +1,20 @@
+{Wakka} 
+There you are…
+--------------------------------------------------End--
+{Wakka} 
+Perfect for practice.
+Try out that sword.
+--------------------------------------------------End--
+{Tidus} 
+Easy win.
+--------------------------------------------------End--
+{Wakka} 
+Whoa! Not bad!
+You can keep up with its speed!
+--------------------------------------------------End--
+{Wakka} 
+You might make a good guard after all!
+--------------------------------------------------End--
+{Wakka} 
+Leave the flying ones to me.
+--------------------------------------------------End--

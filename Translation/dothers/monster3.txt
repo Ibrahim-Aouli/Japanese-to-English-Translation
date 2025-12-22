@@ -1,0 +1,2117 @@
+Iron Giant
+--------------------------------------------------End--
+{OCyan}Dark Buster{White} is effective, but beware its {OCyan}Reaper{White} attack.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Targets character with lowest HP.
+Beware its {OCyan}Reaper{White} attack, which
+hits all characters.
+No elemental weaknesses.
+Takes half damage from lightning.
+Use {OCyan}piercing{White} weapons and {OCyan}Dark
+Buster{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Gemini
+--------------------------------------------------End--
+When paired together they unleash {OCyan}Double Reaper{White}. Focus your attacks to defeat one quickly.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When paired, after receiving a certain
+amount of damage, they unleash a
+powerful synchronized attack,
+the {OCyan}Double Reaper{White}.
+One absorbs lightning and fire,
+while the other absorbs water
+and ice.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Gemini
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Gemini
+--------------------------------------------------End--
+When paired together they unleash {OCyan}Double Reaper{White}. Focus your attacks to defeat one quickly.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When paired, after receiving a certain
+amount of damage, they unleash a
+powerful synchronized attack,
+the {OCyan}Double Reaper{White}.
+One absorbs lightning and fire,
+while the other absorbs water
+and ice.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Basilisk
+--------------------------------------------------End--
+Watch out for its {OCyan}Stone Gaze{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Beware the third eye. Its {OCyan}Stone
+Gaze{White} may cause {OCyan}petrification{White}.
+If {OCyan}petrified{White}, restore with {OCyan}Esuna{White}
+or Soft.
+
+{Yellow}Kimahri can learn {OCyan}Stone Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Anacondaur
+--------------------------------------------------End--
+Watch out for its {OCyan}Stone Gaze{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+The third eye's {OCyan}Stone Gaze{White}
+often causes {OCyan}petrification{White}.
+After taking multiple hits, it
+retaliates with {OCyan}Sonic Tail{White},
+which strikes all.
+
+{Yellow}Kimahri can learn {OCyan}Stone Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Adamantoise
+--------------------------------------------------End--
+Covered by a hard shell.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Protected by a hard shell.
+Attacks mutliple targets with
+its fire-based {OCyan}Breath{White}.
+{OCyan}Armor Break{White} and {OCyan}Mental Break{White}
+are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Varuna
+--------------------------------------------------End--
+Resistant to all four elements.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Haste{White} on himself and
+attacks with magic, so use {OCyan}Dispel{White}
+on him.
+After his {OCyan}Mana Focus{White}, he'll cast
+{OCyan}Emblem of Fate{White}.
+You can reduce damage with {OCyan}Shell{White},
+but he can cast {OCyan}Dispel{White} on you, too.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ochu
+--------------------------------------------------End--
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When HP is low, it performs
+{OCyan}Ochu Dance{White}, which inflicts
+{OCyan}darkness{White}, {OCyan}silence{White}, {OCyan}confusion{White},
+and {OCyan}slow{White}.
+Beware of its {OCyan}poison{White} claws.
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mandragora
+--------------------------------------------------End--
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+The more damage it takes, the
+sooner it uses {OCyan}Earthquake{White}.
+Its {OCyan}Ochu Dance{White} inflicts {OCyan}darkness{White},
+{OCyan}silence{White}, {OCyan}confusion{White}, and {OCyan}slow{White}.
+Also beware of {OCyan}poison{White}.
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+YAT-99
+--------------------------------------------------End--
+Close in to melee range by defeating frontline enemies first.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Forbidden machina secretly
+used by Yevon.
+Hits multiple targets when firing
+from a distance.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+YAT-97
+--------------------------------------------------End--
+Close in to melee range by defeating frontline enemies first.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Hits multiple targets when firing
+from a distance.
+Immune to {OCyan}delay{White} skills.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bomb
+--------------------------------------------------End--
+Retaliates with {OCyan}Self-Destruct{White} after receiving damage three times.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Retaliates with {OCyan}Self-Destruct{White}
+against whoever deals damage to it
+a third time.
+Use {OCyan}NulBlaze{White} if you can't defeat it
+before then.
+Vulnerable to ice, so use {OCyan}Blizzard{White}.
+
+{Yellow}Kimahri can learn {OCyan}Self-Destruct{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Grenade
+--------------------------------------------------End--
+Retaliates with {OCyan}Self-Destruct{White} after receiving damage three times.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Retaliates with {OCyan}Self-Destruct{White}
+against whoever deals damage to it
+a third time.
+Weak against ice, but has high magic
+defense, so use {OCyan}Mental Break{White} and
+your best ice magic.
+
+{Yellow}Kimahri can learn {OCyan}Self-Destruct{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+YKT-63
+--------------------------------------------------End--
+If it's the last enemy standing, it will unleash a vicious {OCyan}Thrust Kick{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Forbidden machina secretly used
+by Yevon.
+If it's the last enemy standing,
+it throws a mean {OCyan}Thrust Kick{White} that
+ejects the target from battle.
+
+{Yellow}Kimahri can learn {OCyan}Thrust Kick{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+YKT-11
+--------------------------------------------------End--
+If it's the last enemy standing, it will unleash a vicious {OCyan}Thrust Kick{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+If it's the last enemy standing,
+it throws a mean {OCyan}Thrust Kick{White}
+that ejects the target from battle.
+Immune to {OCyan}delay{White} techniques.
+
+{Yellow}Kimahri can learn {OCyan}Thrust Kick{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Warrior Monk
+--------------------------------------------------End--
+Attacks single targets with rifle.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+St. Bevelle sentry and soldier
+of Yevon.
+Attacks single targets with his
+rifle.
+{OCyan}Sleep{White} attacks are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Fallen Monk
+--------------------------------------------------End--
+{OCyan}Zombie{White}. Vulnerable to healing magic and items.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+A soldier who continues to
+protect the Yevon Dome even
+after death.
+His rifle hits single targets.
+He can inflict {OCyan}zombie{White} status,
+so watch out.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Warrior Monk
+--------------------------------------------------End--
+Attacks multiple targets with flamethrower.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+St. Bevelle sentry and soldier
+of Yevon.
+Attacks all targets with his
+flamethrower for fire-based
+damage.
+{OCyan}Sleep{White} attacks are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Fallen Monk
+--------------------------------------------------End--
+{OCyan}Zombie{White}. Vulnerable to healing magic and items.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+A soldier who continues to
+protect the Yevon Dome even
+after death.
+Attacks all targets with his
+flamethrower for fire-based
+damage.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+PuPu
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Magic Urn
+--------------------------------------------------End--
+Hit the correct eye for prizes!
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Hit the correct target to win
+items.
+The wrong target ends the battle
+with a bang.
+Damage is substantial, so be sure
+to heal.
+Eight fabulous prizes in all,
+while supplies last.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Magic Urn
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Magic Urn
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Magic Urn
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Magic Urn
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Qactuar
+--------------------------------------------------End--
+You'll get a treat if you can defeat it before it gets away.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Beware of {OCyan}1000 Needles{White}, as it
+inflicts 1000 points of damage.
+Resistant to both physical and
+magical attacks.
+Runs away when HP is low.
+{OCyan}Threaten{White} is recommended.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Cactuar
+--------------------------------------------------End--
+You'll get a treat if you can defeat it before it gets away.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}10000 Needles{White} inflict
+10000 points of damage.
+Resistant to both physical
+and magical attacks.
+Runs away when HP is low.
+Hard to defeat, but worth
+a lot of AP.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Larva
+--------------------------------------------------End--
+Casts {OCyan}Thundara{White} on itself to replenish HP and grow even more powerful.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When HP is halved, it casts
+{OCyan}Thundara{White} on itself to recover
+HP and increase magic power.
+Silence it with {OCyan}Silence Attack{White}.
+It's vulnerable to water,
+so {OCyan}Watera{White} is the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Barbatos
+--------------------------------------------------End--
+Protected by tough armor. Try {OCyan}Armor Break{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered in thick armor.
+{OCyan}Armor Break{White} works well, but
+watch out for a powerful
+counterattack.
+All of its attacks deal great
+damage, so beware.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+???
+--------------------------------------------------End--
+{OCyan}Steal{White} to get the stuff inside.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Not ready yet.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Wendigo
+--------------------------------------------------End--
+Only uses physical attacks. Curing its {OCyan}berserk{White} status will lower its strength...
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Uses physical attacks only.
+Once it puts up its dukes,
+it'll retaliate to any physical
+attacks with a deadly
+counterattack.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Guado Guardian
+--------------------------------------------------End--
+Heals himself with {OCyan}Auto-Potion{White}, so stop him from using items.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Try to stop him from healing
+himself with {OCyan}Auto-Potion{White}.
+He sometimes casts {OCyan}Berserk{White}
+on other enemies, making them
+stronger.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Funguar
+--------------------------------------------------End--
+Occasionally counters with {OCyan}Pollen{White}, which induces {OCyan}sleep{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Fire{White}, so it's best to
+{OCyan}silence{White} it.
+Occasionally retaliates with
+{OCyan}sleep{White}-inducing {OCyan}Pollen{White}.
+Putting it to {OCyan}sleep{White} is effective.
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Thorn
+--------------------------------------------------End--
+Counters physical attacks with {OCyan}Pollen{White}, which induces {OCyan}sleep{White} and {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Fira{White}.
+Putting it to {OCyan}sleep{White} is effective.
+Releases {OCyan}sleep{White}- and {OCyan}darkness{White}-
+inducing {OCyan}Pollen{White} when hit by a
+weapon.
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Exoray
+--------------------------------------------------End--
+Counters physical attacks with {OCyan}Pollen{White}, which induces {OCyan}poison{White}, {OCyan}silence{White}, and {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Firaga{White}, but {OCyan}Silence{White}
+works well.
+Sometimes counters physical attacks
+with pollen that may cause {OCyan}poison{White},
+{OCyan}silence{White} and {OCyan}darkness{White}.
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Xiphos
+--------------------------------------------------End--
+Occasionally succumbs to {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble.
+{OCyan}Darkness{White} works, but {OCyan}Threaten{White}
+is the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Puroboros
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Spirit
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Wraith
+--------------------------------------------------End--
+Casts {OCyan}Doom{White} at the beginning of battle.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Elemental strengths/weaknesses
+are different each encounter.
+Casts {OCyan}Doom{White} in battle.
+If nobody is {OCyan}Doomed{White}, it may
+unleash {OCyan}Death{White}, so watch out.
+
+{Yellow}Kimahri can learn {OCyan}Doom{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sandragora
+--------------------------------------------------End--
+Absorbs water.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}Seed Burst{White} doesn't hurt
+much, but may cause {OCyan}confusion{White}.
+As a desert plant it absorbs
+water, but burns easily.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Guado Guardian
+--------------------------------------------------End--
+Tries to nullify Lulu's magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Controls fiends like Bombs
+and Chimeras.
+Tries to stop Lulu's magic
+with {OCyan}Silence{White} and {OCyan}Confuse{White}.
+Hit him with {OCyan}Silence Attack{White}
+first to leave him helpless.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Tonberry
+--------------------------------------------------End--
+Advances closer four times. Defeat it before then, or else...
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+After four {OCyan}waddles{White}, he stabs
+with his {OCyan}Chef's Knife{White}.
+His counterattack {OCyan}Karma{White} deals
+damage based on the number of
+enemies that character has
+defeated.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Master Tonberry
+--------------------------------------------------End--
+Advances closer four times. Defeat it before then, or else...
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+After four {OCyan}waddles{White}, he stabs
+with his {OCyan}Chef's Knife{White}.
+His counterattack {OCyan}Karma{White} deals
+damage based on the number of
+enemies that character has
+defeated.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Evil Eye
+--------------------------------------------------End--
+Aerial creature with high magic defense. Beware of its {OCyan}confusion{White} attack.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Vulnerable to fire, but
+has high magic defense.
+Its {OCyan}Gaze{White} may cause
+{OCyan}confusion{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bomb
+--------------------------------------------------End--
+Retaliates with {OCyan}Self-Destruct{White} when attacked three times.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Retaliates with {OCyan}Self-Destruct{White}
+against whoever attacks it a third
+time.
+Use {OCyan}NulBlaze{White} if you can't defeat it
+before then.
+Vulnerable to ice, so use {OCyan}Blizzara{White}.
+
+{Yellow}Kimahri can learn {OCyan}Self-Destruct{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Chimera
+--------------------------------------------------End--
+{OCyan}Darkness{White} and {OCyan}silence{White} work well. Vulnerable to {OCyan}Threaten{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+The snake casts {OCyan}Thundara{White}, the bull
+{OCyan}Assaults{White}, the hawk uses {OCyan}Aqua
+Breath{White}, and the lion uses {OCyan}Megiddo
+Flame{White}, in that order.
+Vulnerable to {OCyan}Threaten{White}, {OCyan}darkness{White},
+and {OCyan}silence{White}.
+
+{Yellow}Kimahri can learn {OCyan}Aqua Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dual Horn
+--------------------------------------------------End--
+Inflict {OCyan}darkness{White} to evade its attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}Gore{White} is powerful, but
+inflict {OCyan}darkness{White} or use {OCyan}Sleep
+Attack{White} to avoid it easily.
+
+{Yellow}Kimahri can learn {OCyan}Fire Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Defender X
+--------------------------------------------------End--
+Made of stone. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Boasts very high physical attack
+and defense.
+Its counterattack {OCyan}Blast Punch{White}
+delays target and causes damage.
+Casts {OCyan}Mighty Guard{White} and {OCyan}Slowga{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Garuda
+--------------------------------------------------End--
+Dodging its attacks is easier after inflicting {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+It has high strength and
+tons of HP.
+Beware of {OCyan}Sonic Boom{White}, which hits
+all characters.
+Dodge its attacks more easily by
+inflicting {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dingo
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+High magic defense.
+Must defeat it quickly
+or be attacked.
+Have {Tidus} beat it
+pronto.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Water Flan
+--------------------------------------------------End--
+Water elemental. Vulnerable to opposing element. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Water-based.
+So soft, it's hard to damage
+physically.
+Weak against lightning, so blast
+it with Lulu's {OCyan}Thunder{White} spell.
+Don't use {OCyan}Water{White} or it will
+recover HP.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Condor
+--------------------------------------------------End--
+Aerial. Magic attacks are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Have Wakka shoot it down
+or let Lulu toast it with {OCyan}Fire{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ragora
+--------------------------------------------------End--
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Beware the powerful {OCyan}Seed Cannon{White}.
+It can {OCyan}KO{White} in a single shot.
+Most plant fiends burn easily,
+so have Lulu cast {OCyan}Fira{White}.
+
+{Yellow}Kimahri can learn {OCyan}Seed Cannon{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Raldo
+--------------------------------------------------End--
+Covered by a hard shell. {OCyan}Piercing{White} weapons are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered by a hard shell.
+Slow-moving, but has high physical
+and magic defense.
+Vulnerable to ice.
+Falls easily to {OCyan}piercing{White} weapons.
+Have Auron slice it down the middle.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bunyip
+--------------------------------------------------End--
+Covered by a hard shell. {OCyan}Piercing{White} weapons are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered by a hard shell.
+Slow-moving, but has high physical
+and magic defense.
+Vulnerable to ice and water.
+Falls easily to {OCyan}piercing{White} weapons.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+???
+--------------------------------------------------End--
+???
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Not ready yet.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Zu
+--------------------------------------------------End--
+Beware the {OCyan}Sonic Boom{White} when its wings glow.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+High HP. Aerial, but so big that
+it's easy to hit.
+Its wings will start flashing
+the turn before it unleashes
+{OCyan}Sonic Boom{White}.
+
+Use {OCyan}Dark Buster{White} and strong
+attacks, or else...
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Zaurus
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Halma
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aqua Flan
+--------------------------------------------------End--
+Water elemental. Vulnerable to opposing element. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Water-based.
+So soft, it's hard to damage
+physically.
+Weak against lightning, so blast
+it with {OCyan}Thunder{White}.
+Water attacks heal it, so avoid
+using them.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Floating Death
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Maze Larva
+--------------------------------------------------End--
+Casts {OCyan}Watera{White} on itself to replenish HP and grow even more powerful.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When HP is halved, it casts
+{OCyan}Watera{White} on itself to recover HP
+and raise magic power.
+Use {OCyan}Silence Attack{White} to silence it.
+Vulnerable to lightning, so
+{OCyan}Thundaga{White} is the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Machea
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Cave Iguion
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+It has high magic defense
+and takes half damage from
+fire and water.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Swamp Mafdet
+--------------------------------------------------End--
+Covered by a hard shell. {OCyan}Piercing{White} weapons are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to lightning and ice.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bat Eye
+--------------------------------------------------End--
+Aerial. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Vulnerable to fire, but has high
+magic defense.
+Its {OCyan}Gaze{White} can inflict {OCyan}confusion{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Isaaru
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mira
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Belgemine
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mimic
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mimic
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mimic
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Wing
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Magic Urn
+--------------------------------------------------End--
+Hit the correct eye for prizes!
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Hit the correct target to win
+items.
+The wrong target ends the battle
+with a bang.
+Damage is substantial, so be sure
+to heal.
+Eight fabulous prizes in all,
+while supplies last.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mimic
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mimic Parts
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Valefor
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ifrit
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mimic Parts
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mimic Parts
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mimic Parts
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Rifle
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Fire Rifle
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Koma Inu
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Katana
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Kozuka
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Shuriken
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Head
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Arm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Nishida
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sword
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Nemesis
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Catastrophe
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+None
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Earth Eater
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ultima Buster
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Greater Sphere
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Th'uban
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Shinryu
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Fist
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ixion
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Shiva
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sword
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Yojimbo
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sandy
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Cindy
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mindy
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Tanket
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Vidatu
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Fenrir
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Jumbo Flan
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ornitholestes
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Pteryx
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Hornet
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+One-Eye
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Stratoavis
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Abyss Worm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Juggernaut
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Fafnir
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Malboro Menace
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Kottos
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Nega Elemental
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Catoblepas
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Chimerageist
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Coeurlregina
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ironclad
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Jormungand
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Abaddon
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bomb King
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Cactuar King
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Vorban
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sleep Sprout
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Don Tonberry
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Espada
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bomb
+--------------------------------------------------End--
+Retaliates with {OCyan}Self-Destruct{White} when attacked three times.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dual Horn
+--------------------------------------------------End--
+Afflict it with {OCyan}darkness{White} so it can't hit you.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Vulture
+--------------------------------------------------End--
+Once it succumbs to {OCyan}darkness{White}, its attacks miss.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Basilisk
+--------------------------------------------------End--
+Watch out for its {OCyan}Stone Gaze{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ochu
+--------------------------------------------------End--
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Larva
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Iron Giant
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Chimera
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Monster 84
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Qactuar
+--------------------------------------------------End--
+You'll get a treat if you can defeat it before it gets away.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Zu
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sand Worm
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ghost
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Malboro
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bashura
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Valefor
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Ifrit
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Ixion
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Shiva
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Bahamut
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Anima
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Yojimbo
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Cindy
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Sandy
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Mindy
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Penance
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Right Arm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Left Arm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+?
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+-{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}
+--------------------------------------------------End--

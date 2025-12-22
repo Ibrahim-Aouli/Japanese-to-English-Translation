@@ -1,0 +1,123 @@
+{Wakka} 
+What’s wrong?
+Something up?
+--------------------------------------------------End--
+{Tidus} 
+Back here before,
+I almost got eaten
+by a huge fiend.
+--------------------------------------------------End--
+{Tidus} 
+This is payback!
+--------------------------------------------------End--
+
+It won’t open…
+--------------------------------------------------End--
+
+{Yellow} [{Celestial Mirror}]{White} is reacting…
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [{Celestial Mirror}]{White}…
+{CHOICE:30}Use
+{CHOICE:31}Don’t use
+--------------------------------------------------End--
+
+{Yellow} [{Cloudy Mirror}]{White} is reacting…
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [{Cloudy Mirror}]{White}…
+{CHOICE:30}Use
+{CHOICE:31}Don’t use
+--------------------------------------------------End--
+
+It seems you don’t have enough power…
+--------------------------------------------------End--
+{Tidus} 
+This is bad!
+--------------------------------------------------End--
+{Wakka} 
+Guess it can’t be helped…
+Alright! I’ll help you out!
+--------------------------------------------------End--
+Effect
+The ground swells up violently
+--------------------------------------------------End--
+Effect
+Water splashes up with a huge crash
+--------------------------------------------------End--
+Effect
+A pillar collapses with a boom
+--------------------------------------------------End--
+Battle
+Special boss monster battle begins
+--------------------------------------------------End--
+{WINDOW}
+
+{White}{Button Square}: Return to surface
+{Button X}: Dive{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.1]{White}
+You can record your journey on a sphere!
+With the automatic recovery function
+that relieves travel fatigue,
+HP/MP are fully restored!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.2]{White}
+Thanks to the efforts of the {Besaid Aurochs},
+a transfer function to the {blitzball} stadium
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System]{White}
+Across the lands of {Spira},
+hidden talented players
+continue their blitz training.
+Press {Button Square} to talk to them
+and you may be able to scout them.
+Scout promising players and guide
+the {Besaid Aurochs} to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} do not have enough members
+to participate in a match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}To Blitz Stadium{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.3]{White}
+Thanks to the goodwill of {Al Bhed2} and {Rin},
+a transfer function to the airship
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{CHOICE:32}To Blitz Stadium
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}To Airship{White}
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{Gray}To Blitz Stadium{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

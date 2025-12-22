@@ -1,0 +1,32 @@
+Invincible & Intensify
+Invincible & Intensify On
+Invincible & Intensify Off
+Encounter Override
+Normal
+No Encounters
+Frequently
+Get 50000 Gils
+Get 2000 Gils
+Full Restoration
+Free Camera
+Free Camera On
+Free Camera Off
+Hide HUD
+Hide HUD On
+Hide HUD Off
+Time Stop 
+Time Stop On
+Time Stop Off
+Auto Battle
+Auto Battle On
+Auto Battle Off
+Turbo
+Normal
+Turbo 2X
+Turbo 4X
+
+Keep pressing {Direcional Left} {Direcional Right}
+: Skip
+Press {Button X} to quit Auto Battle.
+Auto Battle
+Auto battle.

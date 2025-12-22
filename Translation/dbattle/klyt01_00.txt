@@ -1,0 +1,15 @@
+{WINDOW}
+{Tidus}
+It's hard as rock!
+My sword's no good!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+My ball can't hurt it, either!
+How 'bout magic!?
+--------------------------------------------------End--
+{WINDOW}
+{Lulu}
+Its tentacles absorb
+any spells cast at its body!
+--------------------------------------------------End--

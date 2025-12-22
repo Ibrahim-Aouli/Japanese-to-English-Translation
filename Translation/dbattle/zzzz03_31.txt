@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow} Ghost
+--------------------------------------------------End--
+{WINDOW}
+{White}Ghost uses {OCyan}Doom{White} as soon as battle
+begins. {OCyan}Magic Break{White} and {OCyan}Silence Buster{White}
+are effective countermeasures.
+--------------------------------------------------End--

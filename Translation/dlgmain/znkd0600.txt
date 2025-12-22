@@ -1,0 +1,6 @@
+
+{Font Italic}This may be the end...{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}So I want to tell everything.{Font Normal}
+--------------------------------------------------End--

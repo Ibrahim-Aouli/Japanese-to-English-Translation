@@ -1,0 +1,92 @@
+Tasgio
+Lady Yuna, it is
+a pleasure to meet you.
+{NEWPAGE}
+Tasgio
+I heard your speech
+two years ago in the stadium.
+--------------------------------------------------End--
+Tasgio
+But seeing you this close,
+you look so much more...
+I mean, you are truly beautiful.
+--------------------------------------------------End--
+Yuna
+That's very kind of you to say.
+--------------------------------------------------End--
+Tasgio
+The reason I've come here today is
+to talk to you about my grandson.
+--------------------------------------------------End--
+Tasgio
+He's joined the Youth League, you see.
+--------------------------------------------------End--
+Tasgio
+I've nothing against the League, mind you.
+It's just me and the missus
+belong to New Yevon.
+--------------------------------------------------End--
+Tasgio
+My grandson used to attend all the 
+party meetings with his parents, of course.
+{NEWPAGE}
+Tasgio
+That is, until one day...
+{NEWPAGE}
+Tasgio
+I'm sure being around people his
+own age can't be bad for the boy.
+{NEWPAGE}
+Tasgio
+Still, I am worried about him.
+--------------------------------------------------End--
+Tasgio
+I feel...oh, how shall I say this...
+like our grandchildren are 
+moving too quickly.
+--------------------------------------------------End--
+
+{Font Italic}In the last two years, new groups
+have been springing up all over.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}Everyone wants to be part of a new age.
+Everyone wants to build a new age.
+Everyone wants to build a new Spira.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}And they're all racing to find
+their own way to do it.{Font Normal}
+--------------------------------------------------End--
+Tasgio
+I only want what's best for him.
+But it troubles me when
+we agree on so little.
+--------------------------------------------------End--
+
+{Font Italic}People have different ideas,
+and sometimes, they disagree
+on the right thing to do.
+{NEWPAGE}
+
+
+Some people worry about
+what the new age will bring.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}Sometimes, I worry too.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}I just have to tell myself that for now, 
+I'm doing the right thing.{Font Normal}
+--------------------------------------------------End--
+Yuna
+I understand how you feel.
+But Tasgio, maybe you should try
+talking to your grandson first.
+--------------------------------------------------End--
+Yuna
+He may walk a different path,
+but I'm sure he wants the same
+for Spira as we all do.
+--------------------------------------------------End--

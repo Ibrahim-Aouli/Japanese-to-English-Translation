@@ -1,0 +1,106 @@
+
+Data Transfer
+--------------------------------------------------End--
+
+Share save data and trophies between PlayStation{Registered}3 and PlayStation{Registered}Vita
+--------------------------------------------------End--
+
+To use cloud save
+--------------------------------------------------End--
+
+Make sure PlayStation{Registered}3 and PlayStation{Registered}Vita are signed into the same PSN account.
+Then you can store,share and synchronize saves over PlayStation{Registered}Net work between 
+them by linking saves to cloud server.
+--------------------------------------------------End--
+
+To synchronize trophies
+--------------------------------------------------End--
+
+Make sure PlayStation{Registered}Network account has been signed in,then system will share and 
+synchronize trophies when using data transfer.
+--------------------------------------------------End--
+
+Loading
+--------------------------------------------------End--
+
+Cancel
+--------------------------------------------------End--
+
+Data transfer error!
+--------------------------------------------------End--
+
+Confirm
+--------------------------------------------------End--
+
+Local Save
+--------------------------------------------------End--
+
+Cloud Server
+--------------------------------------------------End--
+
+Save Data $n$
+--------------------------------------------------End--
+
+Play Time: $t$
+--------------------------------------------------End--
+
+STORY Lv.$n$
+--------------------------------------------------End--
+
+LINKED
+--------------------------------------------------End--
+
+Cloud Save
+--------------------------------------------------End--
+
+Link save to cloud server
+--------------------------------------------------End--
+
+Delete cloud save
+--------------------------------------------------End--
+
+Delete Cloud Save $n$?
+--------------------------------------------------End--
+
+YES
+--------------------------------------------------End--
+
+NO
+--------------------------------------------------End--
+
+Deleting from cloud server
+--------------------------------------------------End--
+
+Failed to delete selected cloud save…
+--------------------------------------------------End--
+
+Link Save Data $n$ to cloud?
+--------------------------------------------------End--
+
+YES
+--------------------------------------------------End--
+
+NO
+--------------------------------------------------End--
+
+Linking to cloud server
+--------------------------------------------------End--
+
+Failed to link save to cloud server…
+--------------------------------------------------End--
+
+Connect to PlayStation{Registered}Network
+--------------------------------------------------End--
+
+!No Internet Access
+--------------------------------------------------End--
+
+Reconnecting
+--------------------------------------------------End--
+
+Cloud server is full
+--------------------------------------------------End--
+
+Local save is full,
+can't synchronize all the cloud sav
+--------------------------------------------------End--

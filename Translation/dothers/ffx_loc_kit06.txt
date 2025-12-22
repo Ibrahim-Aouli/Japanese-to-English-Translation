@@ -1,0 +1,44 @@
+Music
+Original
+Listen to the original soundtrack.
+Arranged
+Listen to the arranged soundtrack.
+
+ADDITIONAL CREDITS
+{Button X} Cancel/Quit
+
+{[}Soundtrack{]}
+Select a soundtrack type.{NEWLINE}Original{NEWLINE}Arranged
+{[}Original{]}
+{[}Arranged{]}
+Play the original soundtrack? {NEWLINE} Yes {NEWLINE} No
+Play the arranged soundtrack? {NEWLINE} Yes {NEWLINE} No
+
+Select a soundtrack type.{NEWLINE}Original{NEWLINE}Arranged
+
+{Button X} Cancel/Quit
+
+SETTING
+FINAL FANTASY X/X-2 LAUNCHER
+Language
+Text
+English
+Voice
+English
+Audio
+Master volume
+Video
+Resolution
+Screen mode
+Full Screen Mode
+Window Mode
+Borderless Mode
+Video Quality Setting
+Low
+Medium
+High
+Custom
+OK
+Cancel
+Apply
+

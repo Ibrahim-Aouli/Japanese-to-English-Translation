@@ -1,0 +1,71 @@
+--------------------------------------------------End--
+{WINDOW}
+The movement of the left 【Ju-Pagoda】 has stopped!
+--------------------------------------------------End--
+{WINDOW}
+The movement of the right 【Ju-Pagoda】 has stopped!
+--------------------------------------------------End--
+{WINDOW}
+The left 【Ju-Pagoda】 has started moving!
+--------------------------------------------------End--
+{WINDOW}
+The right 【Ju-Pagoda】 has started moving!
+--------------------------------------------------End--
+{WINDOW}
+The left 【Ju-Pagoda】 is storing power!
+--------------------------------------------------End--
+{WINDOW}
+The right 【Ju-Pagoda】 is storing power!
+--------------------------------------------------End--
+{WINDOW}
+The movement of both 【Ju-Pagodas】 has stopped!
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+Break status was removed.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+I won’t lose!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+I won’t lose to you anymore!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+(Talking voice 3)
+--------------------------------------------------End--
+{WINDOW}
+I can’t reach him anymore…
+--------------------------------------------------End--
+{WINDOW}
+Jecht is startled by {Tidus}’s voice!
+--------------------------------------------------End--
+{WINDOW}
+Jecht is confused!
+--------------------------------------------------End--
+{WINDOW}
+Jecht is hesitating!
+--------------------------------------------------End--
+{WINDOW}
+Jecht OVERDRIVE!
+--------------------------------------------------End--
+{WINDOW}
+There is no response…
+--------------------------------------------------End--
+{WINDOW}
+Jecht’s power decreased.
+--------------------------------------------------End--
+{WINDOW}
+I can’t reach him anymore…
+--------------------------------------------------End--
+2
+--------------------------------------------------End--
+3
+--------------------------------------------------End--

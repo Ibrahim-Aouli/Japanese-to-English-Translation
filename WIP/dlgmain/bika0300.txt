@@ -1,0 +1,395 @@
+{WINDOW}
+{VAR07:31}Installing game data
+{VAR07:31}Time remaining {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}Installing game data
+{VAR07:31}Time remaining {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+
+Was there someone like that?
+--------------------------------------------------End--
+
+Was there really…?
+--------------------------------------------------End--
+
+A child hasn’t come back
+from the burned remains of {Home}.
+--------------------------------------------------End--
+
+Could someone please
+help us look for them?
+--------------------------------------------------End--
+
+Please search a little more
+toward the cliffs.
+--------------------------------------------------End--
+{Auron} 
+Alright… let’s go.
+--------------------------------------------------End--
+
+I’ll try searching over here.
+--------------------------------------------------End--
+{Tidus} 
+Whoa!
+--------------------------------------------------End--
+
+Where could they have gone?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--
+
+There’s nothing over there.
+{Home} is completely destroyed…
+--------------------------------------------------End--
+
+But hey, big brother,
+we still have {blitz}!
+--------------------------------------------------End--
+
+The ball…
+I left it inside.
+--------------------------------------------------End--
+{Rikku} 
+Huh~?
+Which way was it again?
+--------------------------------------------------End--
+{Rikku} 
+Um… this way.
+--------------------------------------------------End--
+{Rikku} 
+This way, this way!
+--------------------------------------------------End--
+{Rikku} 
+That way~!
+--------------------------------------------------End--
+{Rikku} 
+Aaaaah!?
+--------------------------------------------------End--
+{Tidus} 
+Rikku!?
+--------------------------------------------------End--
+{Wakka} 
+You’re saying Yuna’s over there!?
+--------------------------------------------------End--
+{Lulu} 
+Only if someone went there first…
+--------------------------------------------------End--
+{WINDOW}
+3!
+--------------------------------------------------End--
+{WINDOW}
+2!
+--------------------------------------------------End--
+{WINDOW}
+1!
+--------------------------------------------------End--
+{WINDOW}
+=1st TRIAL=
+--------------------------------------------------End--
+{WINDOW}
+=2nd TRIAL=
+--------------------------------------------------End--
+{WINDOW}
+=3rd TRIAL=
+--------------------------------------------------End--
+{WINDOW}
+START!!
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE!!
+--------------------------------------------------End--
+{WINDOW}
+TIME OVER!!
+--------------------------------------------------End--
+{WINDOW}
+Hari-hari mambon
+--------------------------------------------------End--
+{WINDOW}
+Hari-hari…
+--------------------------------------------------End--
+{WINDOW}
+…fell over
+--------------------------------------------------End--
+{WINDOW}
+Hari…
+--------------------------------------------------End--
+{WINDOW}
+20!
+--------------------------------------------------End--
+{WINDOW}
+
+Something is written here.
+--------------------------------------------------End--
+{WINDOW}
+
+Almost there to {Home}.
+--------------------------------------------------End--
+{WINDOW}
+
+Danger!
+Watch out for sandstorms!
+--------------------------------------------------End--
+{WINDOW}
+
+Caution!
+Strong {fiend} appear!
+--------------------------------------------------End--
+{WINDOW}
+
+Faded letters can be seen beneath it.
+--------------------------------------------------End--
+{WINDOW}
+
+Travel agency: 20% off all tours!
+--------------------------------------------------End--
+{WINDOW}
+
+Looks like an old advertisement.
+--------------------------------------------------End--
+{WINDOW}
+
+Letters are carved into the stone.
+--------------------------------------------------End--
+{WINDOW}
+A fierce sandstorm blocks the path ahead!
+--------------------------------------------------End--
+{WINDOW}
+
+Land can be seen beyond the raging sandstorm.
+--------------------------------------------------End--
+{WINDOW}
+
+On the stone pillar ahead,
+{fiend} traces are engraved.
+--------------------------------------------------End--
+{WINDOW}
+
+Easygoing Tōme went to fetch water.
+--------------------------------------------------End--
+{WINDOW}
+
+Robibia got lost along the way.
+--------------------------------------------------End--
+{WINDOW}
+
+Little Chapa loves big numbers.
+--------------------------------------------------End--
+{WINDOW}
+
+Alec and Aroya are playing tag in the ruins.
+--------------------------------------------------End--
+{WINDOW}
+
+Barchela seeks a blue light.
+--------------------------------------------------End--
+{WINDOW}
+
+Robeira carelessly got trapped.
+--------------------------------------------------End--
+{WINDOW}
+
+In the shimmering heat,
+Israya watches over the desert.
+--------------------------------------------------End--
+{WINDOW}
+
+Curiosity-filled Elio set out on a journey.
+--------------------------------------------------End--
+{WINDOW}
+
+Fryle is always bringing up the rear.
+--------------------------------------------------End--
+{WINDOW}
+
+= Gatekeepers =
+--------------------------------------------------End--
+{WINDOW}
+
+10 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+9 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+8 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+7 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+6 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+5 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+4 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+3 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+2 Gatekeepers
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+1 Gatekeeper
+They control the sand.
+--------------------------------------------------End--
+{WINDOW}
+
+Still hasn’t returned.
+--------------------------------------------------End--
+{WINDOW}
+
+Won’t be coming back anymore.
+--------------------------------------------------End--
+{WINDOW}
+
+Everyone is gone,
+and even the protective sand has faded.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Tōme]{White} 
+・Fetches water every day
+・Easygoing, often left behind by companions
+・Slow
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Robibia]{White} 
+・Always irritated with slow friends
+・Inexperienced
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Chapa]{White} 
+・Recently learned to count up to 50
+・Friendly
+・Easily distracted
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Alec & Aroya]{White} 
+・Close siblings, always together
+・They move in perfect sync
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Barchela]{White} 
+・Loves new things
+・Strict with others, lenient with self
+・Impatient
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Robeira]{White} 
+・Careless
+・Loves squeezing into tight spaces
+・Proudly showing off her collection!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Israya]{White} 
+・The tribe’s greatest guardian
+・Watching over the desert again today
+・Extremely cautious
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Elio]{White} 
+・What lies beyond the desert?
+・Driven by curiosity, he set out on a journey
+・Overly dramatic
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Fryle]{White} 
+・Quietly joins the group before anyone notices
+・Sneaky
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Cactuar Village]{White} 
+・Using the power of spheres to control sand,
+the cactuars protect their village
+and are known as “Gatekeepers”
+・When all ten spheres they possess
+are offered to the stone pedestal,
+the path to the village will open
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Gatekeeper Path 1]{White} 
+・Even if they appear to be standing still,
+the gatekeepers are proud warriors
+・They dislike fighting, but will attack
+anyone who gets behind them
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Gatekeeper Path 2]{White} 
+・If you fail to get behind them,
+the gatekeepers will lose interest
+and quickly leave the area
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Gatekeeper Path 3]{White} 
+・While the cactuar’s back is turned,
+move closer and challenge them to battle
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Sphere]{White} 
+・Fail to get behind them and receive a Loser’s Sphere
+・Succeed and receive a named sphere
+・Collect many named spheres to earn a reward
+in the village
+--------------------------------------------------End--
+{WINDOW}
+
+When the sphere was placed in the stone pedestal,
+new letters appeared!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tōme’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robibia’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chapa’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alec & Aroya’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Barchela’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeira’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Israya’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+…Obtained Elio’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Fryle’s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Loser’s Sphere!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue} TIME {VAR12:32}:{VAR12:31}:{VAR12:30}{White} 
+--------------------------------------------------End--

@@ -1,0 +1,74 @@
+{Rikku} 
+Ah—! A treasure [40+48?]!
+--------------------------------------------------End--
+{Rikku} 
+I wonder what’s inside~?
+--------------------------------------------------End--
+{Rikku} 
+You know, when I get mad,
+I can be pretty scary~!
+--------------------------------------------------End--
+{Rikku} 
+Watch this~! I’ll use the item I just got
+and smash ’em!
+--------------------------------------------------End--
+{Tidus} 
+That’s some insane [40+49?] power!
+--------------------------------------------------End--
+{Wakka} 
+What the heck did you do!?
+--------------------------------------------------End--
+{Lulu} 
+What was that…?
+--------------------------------------------------End--
+{Yuna} 
+Amazing!
+--------------------------------------------------End--
+{Auron} 
+Nicely done.
+--------------------------------------------------End--
+{Kimahri} 
+A technique {Kimahri} does not know.
+--------------------------------------------------End--
+{Rikku} 
+When you combine items and use them,
+you can do stuff like that.
+--------------------------------------------------End--
+{Rikku} 
+Well, I’m kinda just winging it though.
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}  [Treasure [40+48?] That Appear in Battle] 
+--------------------------------------------------End--
+{WINDOW}
+{White} Treasure [40+48?] placed in battle scenes
+can be opened using the {Yellow}[Special]{White} command’s {Yellow}[Steal]{White}.
+--------------------------------------------------End--
+{WINDOW}
+Once the monsters are gone, the battle ends,
+so if a treasure [40+48?] hasn’t been opened,
+you won’t obtain its contents.
+Also, if you attack it, the treasure [40+48?] will be destroyed.
+In that case as well, you won’t obtain its contents.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}  [About Mix] 
+--------------------------------------------------End--
+{WINDOW}
+Rikku’s Overdrive technique {Yellow}[Mix]{White} is
+{WINDOW}
+a technique that combines two items you currently have
+{WINDOW}
+to trigger a variety of effects.
+{WINDOW}
+However, you won’t know what effect will occur
+{WINDOW}
+until you try it.
+--------------------------------------------------End--
+{WINDOW}
+Now, try mixing
+{WINDOW}
+the two Bomb Spirits you just obtained from the treasure [40+48?].
+--------------------------------------------------End--

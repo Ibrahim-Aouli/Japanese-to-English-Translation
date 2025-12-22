@@ -1,0 +1,27 @@
+{Wakka}
+Another one of those?
+--------------------------------------------------End--
+{Lulu}
+Everyone, look sharp!
+--------------------------------------------------End--
+{Yuna}
+Sorry!
+I can't summon yet!
+--------------------------------------------------End--
+{Wakka}
+No problem! Leave
+this one to me, ya?
+--------------------------------------------------End--
+{Wakka}
+Say goodnight, birdie!
+--------------------------------------------------End--
+{Tidus}
+Not one of these again!
+--------------------------------------------------End--
+{Yuna}
+Oh, no... I still
+can't summon yet!
+--------------------------------------------------End--
+{Lulu}
+{Wakka}, this is your show!
+--------------------------------------------------End--

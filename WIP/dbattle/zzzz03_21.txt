@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow}  [Garuda]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Its attack power is high, so use “Blind Attack”
+to inflict the “Darkness” status.
+--------------------------------------------------End--

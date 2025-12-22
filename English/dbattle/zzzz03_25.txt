@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow} Iron Giant
+--------------------------------------------------End--
+{WINDOW}
+{White}Iron Giant occasionally uses {OCyan}Reaper{White} to
+deal damage to the entire party.
+Use {OCyan}Dark Buster{White} to hinder its attacks.
+{OCyan}Sleep Attack{White} sometimes works, so
+put it to {OCyan}sleep{White}, and attack with magic.
+--------------------------------------------------End--

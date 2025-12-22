@@ -1,0 +1,14 @@
+{WINDOW}
+{Yellow} Bomb
+--------------------------------------------------End--
+{WINDOW}
+{White}Swelling up each time they are hit, Bombs
+{OCyan}Self-Destruct{White} after being attacked three
+times, dealing great damage to the attacker.
+--------------------------------------------------End--
+{WINDOW}
+{White}If you are unable to defeat a Bomb in under
+three attacks, use {OCyan}NulBlaze{White} to prevent damage
+from {OCyan}Self-Destruct{White}. Bombs are weak against
+ice, so {OCyan}Blizzard{White} works well against them.
+--------------------------------------------------End--

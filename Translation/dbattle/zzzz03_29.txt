@@ -1,0 +1,9 @@
+{WINDOW}
+{Yellow} Zu
+--------------------------------------------------End--
+{WINDOW}
+{White}Use {OCyan}Dark Buster{White} to blind it.
+After taking a certain amount of damage,
+Zu will fall to the ground, where
+it should be easy to finish off.
+--------------------------------------------------End--

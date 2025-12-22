@@ -1,0 +1,9 @@
+{WINDOW}
+{Yellow} Basilisk
+--------------------------------------------------End--
+{WINDOW}
+{White}Equip armor that prevents {OCyan}petrification{White}
+to protect yourself from its {OCyan}Stone Gaze{White}.
+Using aeons is also an option since
+they are immune to status ailments.
+--------------------------------------------------End--

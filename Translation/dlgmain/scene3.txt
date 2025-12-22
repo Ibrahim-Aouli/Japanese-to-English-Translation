@@ -1,0 +1,148 @@
+Wakka
+Hey there!
+--------------------------------------------------End--
+Yuna
+What is it, another visitor?
+--------------------------------------------------End--
+Wakka
+No, no... Just wanted to chat, ya?
+--------------------------------------------------End--
+Wakka
+It's just... The old folks in the village,
+they'd like to see you get...y'know...
+--------------------------------------------------End--
+Yuna
+And who is it this time?
+--------------------------------------------------End--
+Wakka
+Well, they're saying it's the son of
+the Chairman of New Yevon, ya?
+--------------------------------------------------End--
+Yuna
+Tell them no.
+--------------------------------------------------End--
+Yuna
+He would only use me, after all.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+Wakka
+Right. I'm sorry.
+--------------------------------------------------End--
+Yuna
+Don't worry. I'll go tell them myself.
+--------------------------------------------------End--
+Wakka
+No, no, you leave that to me, ya?
+--------------------------------------------------End--
+Wakka
+You really don't want to see them
+anyway. You know how they get.
+--------------------------------------------------End--
+Yuna
+Yeah.
+--------------------------------------------------End--
+
+Lady Yuna!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+Lady Yuna, allow me to introduce myself.
+My name is Yaibal.
+I've come on Youth League business.
+--------------------------------------------------End--
+
+I bring a message for you
+from our leader, Meyvn Nooj.
+--------------------------------------------------End--
+Wakka
+She's not interested in joining, ya?
+--------------------------------------------------End--
+Yaibal
+Oh?
+--------------------------------------------------End--
+Yuna
+Is that why you've come?
+--------------------------------------------------End--
+Yaibal
+That is correct, my lady.
+--------------------------------------------------End--
+Yuna
+I'm sorry, but I will not
+be joining any group.
+--------------------------------------------------End--
+Yaibal
+Perhaps the lady will start
+a group of her own?
+--------------------------------------------------End--
+Yuna
+Leave us. Please.
+--------------------------------------------------End--
+Rikku
+Yuna! Wakka!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

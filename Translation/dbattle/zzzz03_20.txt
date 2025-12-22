@@ -1,0 +1,139 @@
+{WINDOW}
+{Yellow} Bomb
+--------------------------------------------------End--
+{WINDOW}
+{White}Swelling up each time they are hit, Bombs
+{OCyan}Self-Destruct{White} after being attacked three
+times, dealing great damage to the attacker.
+--------------------------------------------------End--
+{WINDOW}
+{White}If you are unable to defeat a Bomb in under
+three attacks, use {OCyan}NulBlaze{White} to prevent damage
+from {OCyan}Self-Destruct{White}. Bombs are weak against
+ice, so {OCyan}Blizzard{White} works well against them.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Dual Horn
+--------------------------------------------------End--
+{WINDOW}
+{White}Lots of HP means this will be a long
+battle. Use {OCyan}darkness{White} to evade attacks.
+{OCyan}Sleep Attack{White} works well, but only use
+magic to avoid waking it up afterward.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Garuda
+--------------------------------------------------End--
+{WINDOW}
+{White}Its strength is high, so use
+{OCyan}Dark Attack{White} to blind it.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Funguar
+--------------------------------------------------End--
+{WINDOW}
+{White}Its {OCyan}Fire{White} isn't too powerful, but it responds
+to attacks by releasing {OCyan}sleep{White}-inducing {OCyan}Pollen{White}.
+{OCyan}Sleep Attack{White} is a good defense against this.
+Being a plant fiend, it is weak against fire.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Basilisk
+--------------------------------------------------End--
+{WINDOW}
+{White}Equip armor that prevents {OCyan}petrification{White}
+to protect yourself from its {OCyan}Stone Gaze{White}.
+Using aeons is also an option since
+they are immune to status ailments.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Ochu
+--------------------------------------------------End--
+{WINDOW}
+{White}Equip armor that prevents status ailments
+such as {OCyan}darkness{White} caused by the {OCyan}Ochu Dance{White} or
+{OCyan}poison{White} from its {OCyan}Poison Claw{White}. Use fire attacks
+or put it to {OCyan}sleep{White} with {OCyan}Sleep Attack{White}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Larva
+--------------------------------------------------End--
+{WINDOW}
+{White}When its HP is halved, it will use
+{OCyan}Thundara{White} on itself to heal and raise
+its magic, so use {OCyan}Silence Attack{White} on
+it before that happens!
+--------------------------------------------------End--
+Larva's magic increased!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Iron Giant
+--------------------------------------------------End--
+{WINDOW}
+{White}Iron Giant occasionally uses {OCyan}Reaper{White} to
+deal damage to the entire party.
+Use {OCyan}Dark Buster{White} to hinder its attacks.
+{OCyan}Sleep Attack{White} sometimes works, so
+put it to {OCyan}sleep{White}, and attack with magic.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Xiphos
+--------------------------------------------------End--
+{WINDOW}
+{White}Xiphos has a high strength, so
+{OCyan}Power Break{White} is recommended.
+{OCyan}Dark Buster{White} is also effective.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Chimera
+--------------------------------------------------End--
+{WINDOW}
+{White}Chimera's HP is high, so be ready
+for a long fight. Use {OCyan}Power Break{White}
+and {OCyan}Magic Break{White} to reduce damage.
+Kimahri can use {OCyan}Lancet{White} to learn
+Chimera's {OCyan}Aqua Breath{White} attack.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Zu
+--------------------------------------------------End--
+{WINDOW}
+{White}Use {OCyan}Dark Buster{White} to blind it.
+After taking a certain amount of damage,
+Zu will fall to the ground, where
+it should be easy to finish off.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Cactuar
+--------------------------------------------------End--
+{WINDOW}
+{White}Cactuar tries to escape as soon as its
+HP gets low. {OCyan}Sleep{White} won't work, so find
+other means of keeping it from running.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Coeurl
+--------------------------------------------------End--
+{WINDOW}
+{White}Coeurl uses lots of magic, so use
+{OCyan}Silence Buster{White} or weapons that
+inflict {OCyan}silence{White} when they hit.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Malboro
+--------------------------------------------------End--
+{WINDOW}
+{White}Watch out for its {OCyan}Bad Breath{White}! It causes {OCyan}poison{White},
+{OCyan}darkness{White}, {OCyan}silence{White}, {OCyan}confusion{White}, and {OCyan}slow{White} all at the
+same time. It uses {OCyan}Bad Breath{White} after taking a
+certain amount of damage, so either try to slow
+it down, or wear protective armor.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Bashura
+--------------------------------------------------End--
+{WINDOW}
+{White}Damage Bashura enough, and it will strike
+back hard, unless you attack with magic.
+{OCyan}Sleep Buster{White} and {OCyan}Dark Buster{White} are effective.
+--------------------------------------------------End--

@@ -1,0 +1,119 @@
+{Wakka}
+That...looks
+like trouble.
+--------------------------------------------------End--
+{Tidus}
+Heh! Watch this!
+--------------------------------------------------End--
+{Wakka}
+Told you. Only magic
+can beat that thing.
+--------------------------------------------------End--
+{Wakka}
+If you can't beat 'em down, you gotta
+use magic of an element they don't like.
+--------------------------------------------------End--
+{Tidus}
+Magic? Element?
+--------------------------------------------------End--
+{Wakka}
+Let's have our black mage
+show you what I mean.
+--------------------------------------------------End--
+{Wakka}
+Lu! You're up!
+--------------------------------------------------End--
+{Lulu}
+Clueless, aren't you?
+Good thing I'm here.
+--------------------------------------------------End--
+{Lulu}
+Elements are the essence
+of both magic and fiends.
+--------------------------------------------------End--
+{Lulu}
+Fire and ice, lighting and
+water--four elements in all.
+--------------------------------------------------End--
+{Lulu}
+The fire element and
+ice element are opposed.
+--------------------------------------------------End--
+{Lulu}
+Spells of ice work well
+against fire fiends...
+--------------------------------------------------End--
+{Lulu}
+And ice fiends are
+weak against fire magic.
+--------------------------------------------------End--
+{Lulu}
+The elements of fire and ice are
+two sides of the same coin.
+--------------------------------------------------End--
+{Lulu}
+You follow?
+--------------------------------------------------End--
+{Lulu}
+There are four elements:
+fire, ice, lightning, and water.
+--------------------------------------------------End--
+{Lulu}
+Fire fiends are weak against ice magic,
+and ice fiends are weak against fire.
+--------------------------------------------------End--
+{Lulu}
+Make sense?
+--------------------------------------------------End--
+{Tidus}
+I get fire and ice, but what
+about lightning and water?
+--------------------------------------------------End--
+{Lulu}
+Lightning and water are opposed,
+just like fire and ice.
+--------------------------------------------------End--
+{Lulu}
+This one here is a
+water fiend, which means...
+--------------------------------------------------End--
+{Lulu}
+If you hit a water fiend with a
+lightning attack it should only take one hit.
+--------------------------------------------------End--
+{Lulu}
+Uh, that was a bad example.
+--------------------------------------------------End--
+{Lulu}
+This one's a water fiend, so
+fire and ice aren't very effective.
+--------------------------------------------------End--
+{Wakka}
+Whoa! Hey! What are you
+healing that thing for?
+--------------------------------------------------End--
+{Lulu}
+This is the sort of thing that can
+happen if you pick the wrong element.
+--------------------------------------------------End--
+{Wakka}
+Enough with the lesson, Lu.
+--------------------------------------------------End--
+{Wakka}
+Let's get this over with, ya?
+--------------------------------------------------End--
+{Wakka}
+Uh...having fun yet?
+--------------------------------------------------End--
+{Wakka}
+Man, just use the
+Thunder on that thing, ya?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Elements
+--------------------------------------------------End--
+{WINDOW}
+{White}Magic and fiends have properties called {Yellow}elements{White}.
+There are four elements: fire, ice, lightning, and water.
+Fire and ice are opposed, as are lightning and water.
+--------------------------------------------------End--

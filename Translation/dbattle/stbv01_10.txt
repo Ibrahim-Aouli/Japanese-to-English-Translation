@@ -1,0 +1,54 @@
+message 0
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+So you, too, seek freedom
+from this painful life?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+You talk too much, Seymour!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+It is good to see you again, Lady Yuna,
+but you don't seem pleased...
+--------------------------------------------------End--
+{WINDOW}
+Yuna
+I'll only be pleased when
+you're gone to the Farplane!
+--------------------------------------------------End--
+{WINDOW}
+Auron
+Although he was not
+the man I once knew...
+--------------------------------------------------End--
+{WINDOW}
+Auron
+Kinoc was still my friend, Seymour.
+You will pay for his death!
+--------------------------------------------------End--
+message 7
+--------------------------------------------------End--
+message 8
+--------------------------------------------------End--
+{WINDOW}
+Seymour is silent!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour}
+Death awaits you!
+--------------------------------------------------End--
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}'s {Yellow}Strength{White} increases!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}'s {Yellow}Magic Defense{White} increases!
+--------------------------------------------------End--
+{WINDOW}
+{Auron}'s {Yellow}Strength{White} increases!
+--------------------------------------------------End--

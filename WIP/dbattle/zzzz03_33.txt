@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow}  [Ashura]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+After receiving a certain amount of [40+48?] damage,
+it will launch powerful counterattacks against physical attacks,
+but it will not counter if attacked with magic.
+“Sleep Buster” and “Blind Buster” are effective.
+--------------------------------------------------End--

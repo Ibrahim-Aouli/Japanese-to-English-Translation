@@ -1,0 +1,14 @@
+{Rikku}
+Let me handle the machina!
+--------------------------------------------------End--
+{Rikku}
+I can take them
+apart piece by piece!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Help Format
+--------------------------------------------------End--
+{WINDOW}
+{White}Sample Help
+Title, contents configuration.
+--------------------------------------------------End--

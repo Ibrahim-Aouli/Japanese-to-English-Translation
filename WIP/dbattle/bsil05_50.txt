@@ -1,0 +1,51 @@
+{Tidus} 
+The flying ones are
+{Wakka}’s [40+48?] thing, right?
+--------------------------------------------------End--
+{Wakka} 
+Yeah, that’s not wrong, but…
+--------------------------------------------------End--
+{Wakka} 
+Since we’re here! Let’s have the Summoner
+show us what she’s got!
+--------------------------------------------------End--
+{Wakka} 
+It’s her first real battle.
+Go on, nail it!
+--------------------------------------------------End--
+{Lulu} 
+Show us the results of your training.
+Do your best!
+--------------------------------------------------End--
+{Yuna} 
+Yes!
+--------------------------------------------------End--
+{Tidus} 
+Uhyah~……
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}  [About Switching During Battle] 
+--------------------------------------------------End--
+{WINDOW}
+{White} By pressing {u0B:20} during battle,
+you can switch with a character who is not participating.
+A character who switches in can act immediately.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}  [About Summoning] 
+--------------------------------------------------End--
+{WINDOW}
+{White} By using the {Yellow}[Summon]{White} command during battle,
+you can call forth an aeon that lends its power to {Yuna}.
+The {Yellow}[Summon]{White} command is a special ability only {Yuna} has
+and can be used at any time.
+--------------------------------------------------End--
+{WINDOW}
+Aeons lose HP when they take damage.
+When their HP reaches 0, they disappear from battle
+and cannot be [40+49?] summoned for a while.
+An aeon’s HP is restored at save spheres.
+--------------------------------------------------End--
+Test
+Test message
+--------------------------------------------------End--

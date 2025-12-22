@@ -1,0 +1,1457 @@
+Monster 0
+--------------------------------------------------End--
+Info window message
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan window message
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Raldo
+--------------------------------------------------End--
+Covered by a hard shell. {OCyan}Piercing{White} weapons are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to ice.
+Falls easily to {OCyan}piercing{White} weapons.
+Have Auron slice it down the
+middle.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bunyip
+--------------------------------------------------End--
+Covered by a hard shell. {OCyan}Piercing{White} weapons are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to ice and water.
+Falls easily to {OCyan}piercing{White} weapons.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Murussu
+--------------------------------------------------End--
+Covered by a hard shell. {OCyan}Piercing{White} weapons are the way to go. Watch out for {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to fire and lightning.
+Its {OCyan}Bash{White} may inflict {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mafdet
+--------------------------------------------------End--
+Covered by a hard shell. {OCyan}Piercing{White} weapons are the way to go. Watch out for {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to lightning and ice.
+Its {OCyan}Bash{White} may inflict {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Shred
+--------------------------------------------------End--
+Covered by a hard shell. {OCyan}Piercing{White} weapons are the way to go. Watch out for {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to fire, but takes
+only half damage from other
+elements.
+Its {OCyan}Bash{White} may inflict {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Gandarewa
+--------------------------------------------------End--
+Aerial. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Casts {OCyan}Thunder{White}.
+It's vulnerable to water, but
+has high magic defense.
+Use Wakka to knock it out of
+the sky.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerouge
+--------------------------------------------------End--
+Aerial. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+It's weak against water,
+but has high magic defense.
+The only attack it has is
+{OCyan}Thundara{White}, so inflict {OCyan}silence{White}
+to leave it powerless.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Imp
+--------------------------------------------------End--
+Aerial. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+It's weak against water,
+but has high magic defense.
+The only attack it has is
+{OCyan}Thundaga{White}, so inflict {OCyan}silence{White}
+to leave it powerless.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dingo
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Try to defeat it quickly to
+avoid damage.
+Attack swiftly with {Tidus}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mi'ihen Fang
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+It's vulnerable to fire- and
+water-based attacks, so use
+weapons with these elements
+to inflict greater damage.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Garm
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+It's vulnerable to lightning
+and fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Snow Wolf
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+It's vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sand Wolf
+--------------------------------------------------End--
+Very nimble. Resistant to magic. Watch out for {OCyan}sleep{White} and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Vulnerable to fire and ice.
+Its attacks may cause {OCyan}sleep{White}
+and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Skoll
+--------------------------------------------------End--
+Very nimble. Resistant to magic. Watch out for {OCyan}sleep{White} and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Vulnerable to fire and lightning.
+Its attacks may cause {OCyan}sleep{White}
+and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bandersnatch
+--------------------------------------------------End--
+Very nimble. Resistant to magic. Watch out for {OCyan}sleep{White} and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Vulnerable to fire.
+Its attacks may cause {OCyan}sleep{White}
+and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Water Flan
+--------------------------------------------------End--
+Water elemental. Vulnerable to opposing element. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Water-based.
+So soft, it's hard to damage
+physically.
+Weak against lightning, so blast
+it with Lulu's {OCyan}Thunder{White} spell.
+Don't use {OCyan}Water{White} or it will
+recover HP.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Thunder Flan
+--------------------------------------------------End--
+Lightning elemental. Vulnerable to opposing element. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Lightning-based.
+So soft, it's hard to damage
+physically.
+Weak against water, so blast
+it with {OCyan}Water{White}.
+Don't use lightning or it will
+recover HP.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Snow Flan
+--------------------------------------------------End--
+Ice elemental. Vulnerable to opposing element. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ice-based.
+So soft, it's hard to damage
+physically.
+Weak against fire, but will
+absorb HP from ice.
+Casts {OCyan}Blizzard{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ice Flan
+--------------------------------------------------End--
+Ice elemental. Vulnerable to opposing element. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ice-based.
+So soft, it's hard to damage
+physically.
+Weak against fire, but will
+absorb HP from ice.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Flame Flan
+--------------------------------------------------End--
+Fire elemental. Vulnerable to opposing element. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Fire-based.
+So soft, it's hard to damage
+physically.
+Weak against ice, but absorbs
+HP from fire.
+Casts {OCyan}Firaga{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Flan
+--------------------------------------------------End--
+No elemental weaknesses. Resistant to physical attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Resistant to physical attacks
+and cuts all elemental damage
+by half.
+Casts non-elemental magic
+like {OCyan}Demi{White}, {OCyan}Bio{White}, {OCyan}Flare{White}, {OCyan}Osmose{White},
+and {OCyan}Drain{White}.
+
+{Yellow}Kimahri can learn {OCyan}White Wind{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dinonix
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Vulnerable to ice.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ipiria
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Takes only half damage from 
+fire, but vulnerable to ice.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Raptor
+--------------------------------------------------End--
+Very nimble. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Takes only half damage from
+fire and lightning, but is
+vulnerable to ice.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Melusine
+--------------------------------------------------End--
+Very nimble. Resistant to magic. Watch out for {OCyan}petrification{White} and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Takes only half damage from
+fire and lightning.
+Attacks may cause {OCyan}petrification{White}
+and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Iguion
+--------------------------------------------------End--
+Very nimble. Resistant to magic. Watch out for {OCyan}petrification{White} and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Takes only half damage from
+fire and water.
+Attacks may cause {OCyan}petrification{White}
+and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Yowie
+--------------------------------------------------End--
+Very nimble. Resistant to magic. Watch out for {OCyan}petrification{White} and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble and hard to hit.
+Magic defense is also high.
+Takes only half damage from
+fire, lightning, and water.
+Attacks may cause {OCyan}petrification{White}
+and {OCyan}silence{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Condor
+--------------------------------------------------End--
+Aerial. Magic attacks are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Use Wakka's attack to knock it
+down.
+It's vulnerable to fire, so you
+can also use Lulu's {OCyan}Fire{White} spell.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Simurgh
+--------------------------------------------------End--
+Aerial. Magic attacks are the way to go. Watch out for {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to fire, so use
+{OCyan}Fira{White} to achieve Overkill.
+Attacks may inflict {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Alcyone
+--------------------------------------------------End--
+Aerial. Magic attacks are the way to go. Watch out for {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to fire, so use
+{OCyan}Fira{White} to achieve Overkill.
+Attacks may inflict {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Killer Bee
+--------------------------------------------------End--
+Aerial. Vulnerable to ice. Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Use Wakka's attack to knock it
+down.
+It's vulnerable to ice, so {OCyan}Blizzard{White}
+is also effective.
+Attacks may inflict {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bite Bug
+--------------------------------------------------End--
+Aerial. Vulnerable to ice. Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to ice, so cast
+{OCyan}Blizzard{White} to achieve Overkill.
+Attacks may inflict {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Wasp
+--------------------------------------------------End--
+Aerial. Vulnerable to ice. Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to ice, so cast
+{OCyan}Blizzara{White} to achieve Overkill.
+Attacks may inflict {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Nebiros
+--------------------------------------------------End--
+Aerial. Vulnerable to ice. Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to ice, so cast
+{OCyan}Blizzaga{White} to achieve Overkill.
+Attacks may inflict {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Floating Eye
+--------------------------------------------------End--
+Aerial. Resistant to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Its weakness is lightning, but
+it has high magic defense.
+Use Wakka's attack to defeat it.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Buer
+--------------------------------------------------End--
+Aerial. Resistant to magic. Watch out for {OCyan}confusion{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Its weakness is water, but
+it has high magic defense.
+Its {OCyan}Gaze{White} may cause {OCyan}confusion{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Evil Eye
+--------------------------------------------------End--
+Aerial. Resistant to magic. Watch out for {OCyan}confusion{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+Its weakness is fire, but
+it has high magic defense.
+Its {OCyan}Gaze{White} may cause {OCyan}confusion{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ahriman
+--------------------------------------------------End--
+Aerial. Resistant to magic. Watch out for {OCyan}confusion{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Aerial and hard to hit.
+It has high magic defense and
+no elemental weaknesses.
+Its {OCyan}Gaze{White} may cause {OCyan}confusion{White}.
+It also has {OCyan}Ultrasonics{White}, which
+strikes all characters.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ragora
+--------------------------------------------------End--
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Watch out for its powerful {OCyan}Seed
+Cannon{White}.
+One bad hit will knock characters
+out.
+Plants tend to be weak against
+fire, so have Lulu cast {OCyan}Fira{White}.
+
+{Yellow}Kimahri can learn {OCyan}Seed Cannon{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Grat
+--------------------------------------------------End--
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}Seed Cannon{White} packs quite
+a punch.
+{OCyan}Seed Burst{White} doesn't do much
+damage, but may inflict
+{OCyan}confusion{White} on characters.
+Vulnerable to fire.
+
+{Yellow}Kimahri can learn {OCyan}Seed Cannon{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sahagin
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sahagin
+--------------------------------------------------End--
+Vulnerable to lightning. Slow on land.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble, but attacks are
+weak.
+HP is also low, so it's no threat
+when it appears alone.
+Vulnerable to lightning.
+Cripple it early by inflicting
+{OCyan}darkness{White} or {OCyan}sleep{White} on it.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sahagin
+--------------------------------------------------End--
+Vulnerable to lightning. Slow on land.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Although it's slow on land,
+watch out for its {OCyan}Water Spurt{White}.
+Vulnerable to lightning.
+Cripple it early by inflicting
+{OCyan}darkness{White} or {OCyan}sleep{White} on it.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Garuda
+--------------------------------------------------End--
+Dodging its attacks is easier after inflicting {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+It has high strength and
+tons of HP.
+Beware of {OCyan}Sonic Boom{White}, which hits
+all characters.
+Dodge its attacks more easily by
+inflicting {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Zu
+--------------------------------------------------End--
+Watch out for {OCyan}Sonic Boom{White} when wings glow.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+High HP. Aerial, but so big that
+it's easy to hit.
+Its wings will start flashing
+the turn before it unleashes
+{OCyan}Sonic Boom{White}.
+
+Use {OCyan}Dark Buster{White} and strong
+attacks, or else...
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sand Worm
+--------------------------------------------------End--
+Watch out for {OCyan}Earthquake{White}, which hits all. Inflict {OCyan}darkness{White} to avoid its head butt.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Watch out for its {OCyan}Earthquake{White},
+which hits all characters.
+If a character is {OCyan}Swallowed{White},
+he will be unavailable until the
+worm {OCyan}Regurgitates{White} him back out.
+Try inflicting {OCyan}darkness{White} and {OCyan}sleep{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Land Worm
+--------------------------------------------------End--
+Watch out for {OCyan}Earthquake{White}, which hits all.  It'll be a long battle, so keep an eye on your HP.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Beware of its {OCyan}Earthquake{White},
+which hits all.
+Inflict {OCyan}sleep{White} and {OCyan}darkness{White}
+on it to hinder its attacks.
+Both its physical and magic
+defense are high, so use
+{OCyan}Armor Break{White} and {OCyan}Mental Break{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Defender
+--------------------------------------------------End--
+Low magic defense.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Strength and defense are high.
+There is a 1/2 chance of the
+monster using {OCyan}Haymaker{White}, so
+be sure to raise your defense.
+Use magic often, since its
+magic defense is low.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Defender Z
+--------------------------------------------------End--
+{OCyan}Mental Break{White} works well.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Strength, physical, and magic
+defense are high.
+There is a 1/2 chance of the
+monster using {OCyan}Haymaker{White}.
+When HP is low, it also releases
+{OCyan}Blast Punch{White}, which delays turns.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ghost
+--------------------------------------------------End--
+Casts {OCyan}Doom{White} at the beginning of battle.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Doom{White} at the beginning of
+battle.
+Defeat it before the countdown
+runs out to avoid {OCyan}KO{White}.
+Its elemental weaknesses change
+every battle.
+
+{Yellow}Kimahri can learn {OCyan}Doom{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Phlegyas
+--------------------------------------------------End--
+Watch out when it starts glowing. It releases {OCyan}Sonic Wave{White} after the third pulse.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+It starts glowing when hit.
+After the 3rd pulse, it attacks
+with a {OCyan}Sonic Wave{White} that hits all.
+Put it to {OCyan}sleep{White} to prevent it
+from glowing.
+It takes only half damage from
+water.
+Weak against lightning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Achelous
+--------------------------------------------------End--
+Watch out when it starts glowing. It releases {OCyan}Sonic Wave{White} after the third pulse.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+It starts glowing when hit.
+After the 3rd pulse, it attacks
+with a {OCyan}Sonic Wave{White}.
+Put it to {OCyan}sleep{White} to prevent it
+from glowing.
+It takes no damage from water,
+but is weak against lightning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Remora
+--------------------------------------------------End--
+Watch out for {OCyan}Maelstrom{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+The more you attack it the
+sooner it casts {OCyan}Maelstrom{White}.
+Takes half damage from water.
+Weak against lightning.
+{OCyan}Darkness{White} and {OCyan}poison{White} are the
+way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Maelspike
+--------------------------------------------------End--
+Watch out for {OCyan}Maelstrom{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+The more you attack it the
+sooner it casts {OCyan}Maelstrom{White}.
+Immune to water and weak
+against lightning.
+{OCyan}Darkness{White} and {OCyan}poison{White} are the
+way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dual Horn
+--------------------------------------------------End--
+Inflict {OCyan}darkness{White} to evade its attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}Gore{White} is powerful, but
+inflict {OCyan}darkness{White} or use {OCyan}Sleep
+Attack{White} to avoid it easily.
+
+{Yellow}Kimahri can learn {OCyan}Fire Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Valaha
+--------------------------------------------------End--
+Inflict {OCyan}darkness{White} to evade its attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Inflict {OCyan}darkness{White} to hinder its
+attacks.
+Its {OCyan}Flame Ball{White} is a powerful
+fire attack that hits all, but
+it needs to {OCyan}Charge{White} before
+it's released.
+
+{Yellow}Kimahri can learn {OCyan}Fire Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Grendel
+--------------------------------------------------End--
+Inflict {OCyan}darkness{White} to evade its attacks. {OCyan}Piercing{White} weapons are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Inflict {OCyan}darkness{White} to hinder its
+attacks.
+Its {OCyan}Flame Ball{White} is a powerful fire
+attack that hits all, but it needs
+to {OCyan}Charge{White} before it's released.
+Use {OCyan}poison{White} and {OCyan}piercing{White} weapons.
+
+{Yellow}Kimahri can learn {OCyan}Fire Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Octopus
+--------------------------------------------------End--
+Head is covered by a hard shell.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Since it's covered by a hard
+shell, {OCyan}piercing{White} weapons are the
+way to go.
+Magic defense is low, and it's
+also weak against lightning.
+Its attacks may inflict {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Vouivre
+--------------------------------------------------End--
+Covered with hard scales. {OCyan}Piercing{White} weapons are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered with hard scales, but
+{OCyan}piercing{White} weapons can easily
+defeat it.
+Physical and magic defense are
+high, but it's weak against ice.
+Watch out for its {OCyan}Breath{White}, which
+hits all.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Lamashtu
+--------------------------------------------------End--
+Covered with hard scales. {OCyan}Piercing{White} weapons are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered with hard scales.
+Physical and magic defense are
+high, but it's weak against fire.
+Its attack may cause {OCyan}slow{White}.
+Watch out for its ice-based
+{OCyan}Breath{White}, which hits all.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Kusariqqu
+--------------------------------------------------End--
+Covered with hard scales. {OCyan}Piercing{White} weapons are the way to go. Watch out for {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered with hard scales.
+Physical and magic defense
+are high, but it's weak against
+water.
+Its attack may cause {OCyan}slow{White}.
+Watch out for its lightning-
+based {OCyan}Breath{White}, which hits all.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mushussu
+--------------------------------------------------End--
+Covered with hard scales. {OCyan}Piercing{White} weapons are the way to go. Watch out for {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered with hard scales.
+Physical and magic defense are
+high.
+It only takes half damage from
+fire, but it's weak against ice.
+Its attack may cause {OCyan}slow{White}.
+Beware of its fire-based {OCyan}Breath{White},
+which hits all.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Nidhogg
+--------------------------------------------------End--
+Covered with hard scales. {OCyan}Piercing{White} weapons are the way to go. Watch out for {OCyan}slow{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Covered with hard scales.
+Physical and magic defense are
+high.
+It only takes half damage from
+fire, but it's weak against ice.
+Its attack may cause {OCyan}slow{White}.
+Beware of its fire-based {OCyan}Breath{White},
+which hits all.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Malboro
+--------------------------------------------------End--
+Watch out for its {OCyan}Bad Breath{White} attack, which causes multiple status effects.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}Bad Breath{White} inflicts multiple
+status effects on all characters.
+Guard against the status effects
+with armor, and attack with fire.
+
+{Yellow}Kimahri can learn {OCyan}Bad Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Great Malboro
+--------------------------------------------------End--
+Breathes {OCyan}Bad Breath{White} 1/3 of the time. Be ready for anything.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Danger! There is a 1/3 chance
+of it attacking with {OCyan}Bad Breath{White}.
+To avoid being wiped out, equip
+armor that guards against status
+effects and attack with fire.
+
+{Yellow}Kimahri can learn {OCyan}Bad Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ogre
+--------------------------------------------------End--
+Be careful if it puts up its dukes.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When it puts up its dukes, it
+will respond to physical attacks
+with a mighty counterattack.
+Fire-based attacks are the way
+to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Bashura
+--------------------------------------------------End--
+Be careful if it puts up its dukes.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When it puts up its dukes, it will
+respond to physical attacks
+with a mighty counter.
+Use magic and {OCyan}poison{White} to soften
+it up.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Piranha
+--------------------------------------------------End--
+Low attack and HP.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Attacks by biting.
+Low HP and strength.
+It should be an easy
+enemy to handle.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Piranha
+--------------------------------------------------End--
+Attacks in packs of two.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Attacks by biting.
+Both HP and attack power
+are higher when they appear
+in pairs.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Piranha
+--------------------------------------------------End--
+Attacks in packs of three.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Attacks by biting.
+Both HP and attack power are
+higher when they appear in
+groups of three.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Splasher
+--------------------------------------------------End--
+Watch out for {OCyan}Self-Destruct{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When defeated, it sometimes
+inflicts damage on its attacker
+with {OCyan}Self-Destruct{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Splasher
+--------------------------------------------------End--
+Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Acts in pairs.
+May inflict {OCyan}poison{White} when it bites.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Splasher
+--------------------------------------------------End--
+Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Acts in groups of three.
+May inflict {OCyan}poison{White} when it bites.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Vepar
+--------------------------------------------------End--
+Watch out for {OCyan}Self-Destruct{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When defeated, it sometimes
+inflicts damage on its attacker
+with {OCyan}Self-Destruct{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Vepar
+--------------------------------------------------End--
+Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Acts in pairs.
+May inflict {OCyan}poison{White} when it bites.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Vepar
+--------------------------------------------------End--
+Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Acts in groups of three.
+May inflict {OCyan}poison{White} when it bites.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Yellow Element
+--------------------------------------------------End--
+Lightning elemental. Vulnerable to opposing element.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Thunder{White}.
+Physical attacks hardly hurt it.
+Absorbs lightning, so {OCyan}Water{White} is
+the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+White Element
+--------------------------------------------------End--
+Ice elemental. Vulnerable to opposing element.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Blizzard{White}.
+Physical attacks hardly hurt it.
+Absorbs ice, so {OCyan}Fire{White} is the way
+to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Red Element
+--------------------------------------------------End--
+Fire elemental. Vulnerable to opposing element.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Fire{White}.
+Physical attacks hardly hurt it.
+Absorbs fire, so {OCyan}Blizzard{White} is the
+way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Gold Element
+--------------------------------------------------End--
+Lightning elemental. Vulnerable to opposing element.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Thunder{White}.
+Physical attacks hardly hurt it.
+Absorbs lightning, so use {OCyan}Watera{White}
+for an Overkill.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Blue Element
+--------------------------------------------------End--
+Water elemental. Vulnerable to opposing element.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Watera{White}.
+Physical attacks hardly hurt it.
+Absorbs water, so {OCyan}Thundara{White} is
+the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Dark Element
+--------------------------------------------------End--
+No elemental weaknesses. Casts {OCyan}Reflect{White} on itself.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+No elemental weaknesses, and
+physical attacks hardly hurt it.
+Casts {OCyan}Reflect{White} on itself.
+If its Reflect is dispelled, it
+retaliates with {OCyan}Bio{White}, {OCyan}Osmose{White}, and
+{OCyan}Drain{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Black Element
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Preparing
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Epaaj
+--------------------------------------------------End--
+Watch out for {OCyan}poison{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Very nimble.
+Its claws can inflict {OCyan}poison{White}.
+Inflicting {OCyan}darkness{White} or {OCyan}Threaten{White}
+on it are the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Behemoth
+--------------------------------------------------End--
+Watch out for {OCyan}Heave{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}Thundara{White}, {OCyan}Heave{White}, and claw
+attacks are deadly.
+One good hit will knock you out.
+
+{Yellow}Kimahri can learn {OCyan}Mighty Guard{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Behemoth King
+--------------------------------------------------End--
+Retaliates with {OCyan}Meteor{White} when defeated.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its claws, lightning, and {OCyan}Heave{White}
+attacks are deadly.
+Watch out for the {OCyan}Meteor{White} it casts
+before it dies.
+Cast Protect, or defend with
+{Button Triangle} to survive.
+
+{Yellow}Kimahri can learn {OCyan}Mighty Guard{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Chimera
+--------------------------------------------------End--
+{OCyan}Darkness{White} and {OCyan}silence{White} work well. Vulnerable to {OCyan}Threaten{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+The snake casts {OCyan}Thundara{White}, the bull
+{OCyan}Assaults{White}, the hawk uses {OCyan}Aqua
+Breath{White}, and the lion uses {OCyan}Megiddo
+Flame{White}, in that order.
+Vulnerable to {OCyan}Threaten{White}, {OCyan}darkness{White},
+and {OCyan}silence{White}.
+
+{Yellow}Kimahri can learn {OCyan}Aqua Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Chimera Brain
+--------------------------------------------------End--
+{OCyan}Darkness{White} and {OCyan}silence{White} work well. Vulnerable to {OCyan}Threaten{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+The snake casts lightning magic,
+the bull {OCyan}Assaults{White}, the hawk uses
+{OCyan}Aqua Breath{White}, and the lion uses
+{OCyan}Megiddo Flame{White}, in that order.
+Vulnerable to {OCyan}Threaten{White}, {OCyan}darkness{White},
+and {OCyan}silence{White}.
+
+{Yellow}Kimahri can learn {OCyan}Aqua Breath{Yellow}.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Coeurl
+--------------------------------------------------End--
+Casts {OCyan}Drain{White} and {OCyan}Blaster{White} when low on HP.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+High magic attack and defense.
+Casts {OCyan}Thundara{White} and {OCyan}Blizzara{White}.
+Also casts {OCyan}Drain{White} when HP is low.
+Beware of {OCyan}Blaster{White}, since it's
+unblockable and causes
+{OCyan}petrification{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Master Coeurl
+--------------------------------------------------End--
+Casts {OCyan}Drain{White}, {OCyan}Confusion{White}, and {OCyan}Blaster{White} when low on HP.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+High magic attack and defense.
+Casts {OCyan}Thundaga{White} and {OCyan}Blizzaga{White}.
+Also casts {OCyan}Drain{White} and {OCyan}Confuse{White}
+when HP is low.
+Beware of {OCyan}Blaster{White}, since it's
+unblockable and causes instant
+death.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mech Guard
+--------------------------------------------------End--
+{OCyan}Steal{White} to inflict terminal malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Same type of machina as the
+Workers at Luca.
+{OCyan}Stealing{White} will cause a terminal
+malfunction, so leave it to Rikku.
+Vulnerable to lightning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mech Scouter
+--------------------------------------------------End--
+{OCyan}Steal{White} to inflict terminal malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Higher HP and strength than the
+ones in the Sanubia Desert.
+{OCyan}Steal{White} to cause a terminal
+malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mech Scouter
+--------------------------------------------------End--
+{OCyan}Steal{White} to inflict terminal malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Higher HP and strength than the
+ones in the Sanubia Desert.
+{OCyan}Steal{White} to cause a terminal
+malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mech Leader
+--------------------------------------------------End--
+{OCyan}Steal{White} to inflict terminal malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Abandoned machina from ages past.
+Its {OCyan}Electrocute{White} attack inflicts
+severe lightning damage.
+{OCyan}Steal{White} to terminate immediately.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Demonolith
+--------------------------------------------------End--
+Beware of its {OCyan}Breath{White}, which can {OCyan}petrify{White} you.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Beware of its {OCyan}Pharaoh's Curse{White},
+which inflicts {OCyan}poison{White}, {OCyan}silence{White},
+{OCyan}darkness{White}, and {OCyan}curse{White}.
+If attacked when {OCyan}petrified{White}, the
+party member will be unable to
+return to battle.
+Also watch out for {OCyan}zombie{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mech Gunner
+--------------------------------------------------End--
+{OCyan}Steal{White} to inflict terminal malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ancient machina.
+Has higher HP than the Mech Guard,
+but {OCyan}Stealing{White} parts will destroy it
+in one shot, so leave it to Rikku.
+Weak against lightning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mech Hunter
+--------------------------------------------------End--
+{OCyan}Steal{White} to inflict terminal malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Higher HP and strength than the
+ones in the Sanubia Desert.
+{OCyan}Steal{White} to cause a terminal
+malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mech Defender
+--------------------------------------------------End--
+{OCyan}Steal{White} to inflict terminal malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Abandoned machina from ages past.
+Higher HP and defense than the
+Mech Leader.
+{OCyan}Steal{White} to cause a terminal
+malfunction.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ultima Weapon
+--------------------------------------------------End--
+Give it all you've got!
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Omega Weapon
+--------------------------------------------------End--
+Give it all you've got!
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}
+--------------------------------------------------End--

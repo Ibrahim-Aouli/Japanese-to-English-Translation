@@ -1,0 +1,33 @@
+{WINDOW}
+The left Yu Pagoda stops!
+--------------------------------------------------End--
+{WINDOW}
+The right Yu Pagoda stops!
+--------------------------------------------------End--
+{WINDOW}
+The left Yu Pagoda moves!
+--------------------------------------------------End--
+{WINDOW}
+The right Yu Pagoda moves!
+--------------------------------------------------End--
+{WINDOW}
+The left Yu Pagoda is gathering power!
+--------------------------------------------------End--
+{WINDOW}
+The right Yu Pagoda is gathering power!
+--------------------------------------------------End--
+{WINDOW}
+Both Yu Pagodas stop!
+--------------------------------------------------End--
+{WINDOW}
+{Mindy} Overdrive!
+--------------------------------------------------End--
+{WINDOW}
+{Sandy} Overdrive!
+--------------------------------------------------End--
+{WINDOW}
+{Cindy} Overdrive!
+--------------------------------------------------End--
+{WINDOW}
+ The Magus Sisters appear!
+--------------------------------------------------End--

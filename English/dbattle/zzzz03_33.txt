@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow} Bashura
+--------------------------------------------------End--
+{WINDOW}
+{White}Damage Bashura enough, and it will strike
+back hard, unless you attack with magic.
+{OCyan}Sleep Buster{White} and {OCyan}Dark Buster{White} are effective.
+--------------------------------------------------End--

@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow} Coeurl
+--------------------------------------------------End--
+{WINDOW}
+{White}Coeurl uses lots of magic, so use
+{OCyan}Silence Buster{White} or weapons that
+inflict {OCyan}silence{White} when they hit.
+--------------------------------------------------End--

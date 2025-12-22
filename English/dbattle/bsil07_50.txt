@@ -1,0 +1,20 @@
+{Wakka}
+Here comes one now...
+--------------------------------------------------End--
+{Wakka}
+Hey, why don't ya try out
+that sword I gave you?
+--------------------------------------------------End--
+{Tidus}
+No problem!
+--------------------------------------------------End--
+{Wakka}
+Not too shabby! You kept
+up with him pretty well.
+--------------------------------------------------End--
+{Wakka}
+Might make a good guardian someday.
+--------------------------------------------------End--
+{Wakka}
+A flyer! My kind of customer!
+--------------------------------------------------End--

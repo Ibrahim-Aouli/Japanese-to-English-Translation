@@ -1,0 +1,51 @@
+{Tidus}
+A flyer...that's
+your department, right?
+--------------------------------------------------End--
+{Wakka}
+True, true.
+But, uh...
+--------------------------------------------------End--
+{Wakka}
+Why don't we let our summoner
+show us what she's made of!
+--------------------------------------------------End--
+{Wakka}
+Your first real battle!
+Let's see some style!
+--------------------------------------------------End--
+{Lulu}
+Show us what your training
+has taught you, {Yuna}!
+--------------------------------------------------End--
+{Yuna}
+Okay!
+--------------------------------------------------End--
+{Tidus}
+Whew...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Switching Members During Battle
+--------------------------------------------------End--
+{WINDOW}
+{White}Press {u0B:20} during battle to switch in
+a character not currently being used.
+Just switch them in, and they're ready to go!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Summoning Aeons
+--------------------------------------------------End--
+{WINDOW}
+{White}Use the {Yellow}Summon{White} command to have {Yuna} call an aeon
+to aid her in battle. Only {Yuna} can summon aeons.
+Use it when you need help against tough opponents.
+--------------------------------------------------End--
+{WINDOW}
+When aeons take damage, their HP decreases.
+Should their HP reach 0, they will leave
+battle and become unavailable for a time.
+Aeons recover HP at Save Spheres.
+--------------------------------------------------End--
+Test
+Test message
+--------------------------------------------------End--

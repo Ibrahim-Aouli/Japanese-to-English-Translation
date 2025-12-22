@@ -1,0 +1,12 @@
+{WINDOW}
+Out of attack range.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Trigger Commands
+--------------------------------------------------End--
+{WINDOW}
+{White}Special commands become available
+in certain battles.
+Press {Direcional Left} in the command window
+to access them.
+--------------------------------------------------End--

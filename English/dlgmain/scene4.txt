@@ -1,0 +1,62 @@
+
+{Font Italic}Rikku sometimes visits us
+here in Besaid.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}She's been traveling around Spira,
+salvaging ancient machina
+and teaching people how to use them.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}It's tiring work, but you wouldn't
+know it from looking at her.{Font Normal}
+--------------------------------------------------End--
+Wakka
+Hey, cut it out!
+--------------------------------------------------End--
+Rikku
+Love sure got a handle on you!
+--------------------------------------------------End--
+Rikku
+Where's Lulu?
+--------------------------------------------------End--
+Wakka
+Back in the village. Go say hi, ya?
+--------------------------------------------------End--
+Rikku
+You betcha!
+--------------------------------------------------End--
+Rikku
+And Yuna, you...
+seem the same as always.
+--------------------------------------------------End--
+Yuna
+Yeah, same as always.
+--------------------------------------------------End--
+Wakka
+Is Kimahri still on Mt. Gagazet?
+--------------------------------------------------End--
+Rikku
+Yeah, he's been up there teaching
+the orphaned Ronso all kinds of stuff.
+--------------------------------------------------End--
+Rikku
+He's like this big guru now.
+--------------------------------------------------End--
+Rikku
+Oh, that reminds me,
+I got something for you.
+Hmm, where is it, where is it...?
+--------------------------------------------------End--
+Rikku
+Here we go. Kimahri found it up on the mountain.
+--------------------------------------------------End--
+Yuna
+A sphere?
+--------------------------------------------------End--
+Wakka
+Funny looking design, ya?
+--------------------------------------------------End--
+Rikku
+Take a good look, Yuna.
+--------------------------------------------------End--

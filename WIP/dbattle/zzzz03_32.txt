@@ -1,0 +1,12 @@
+{WINDOW}
+{Yellow}  [Malboro]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+Beware of “Bad Breath,” which simultaneously inflicts
+“Poison,” “Darkness,” “Silence,” “Confusion,” and “Slow.”
+After receiving a certain amount of [40+48?] damage,
+it will use “Bad Breath,” so devise a strategy to
+[40+49?] the enemy’s actions [40+50?] beforehand,
+or equip armor that prevents status ailments.
+--------------------------------------------------End--

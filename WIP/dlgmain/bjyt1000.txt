@@ -1,0 +1,8 @@
+{WINDOW}
+There are six treasures in six temples.
+Open all of the {Yellow}[Treasure Chests]{White}
+hidden in the {Yellow}[Cloister of Trials]{White},
+and place them before the statues.
+If you do so, the door to the
+{Blue}[Chamber of the Fayth]{White} will open.
+--------------------------------------------------End--

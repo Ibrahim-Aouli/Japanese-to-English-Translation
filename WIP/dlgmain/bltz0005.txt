@@ -1,0 +1,784 @@
+{WINDOW}
+
+{VAR07:40}{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Movement Mode]{White}
+{CHOICE:30}Auto
+{CHOICE:31}Manual A
+--------------------------------------------------End--
+{WINDOW}
+Please select Manual.
+--------------------------------------------------End--
+{WINDOW}
+Please select Auto.
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}{VAR12:31}
+{VAR12:32}{VAR12:33}
+{VAR12:34}{VAR12:35}
+{VAR12:36}{VAR12:37}
+{VAR12:38}{VAR12:39}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not break through
+{CHOICE:31}Break through up to {VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not break through
+{CHOICE:31}Break through up to {VAR12:31}
+{CHOICE:32}Break through up to {VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not break through
+{CHOICE:31}Break through up to {VAR12:31}
+{CHOICE:32}Break through up to {VAR12:32}
+{CHOICE:33}Break through up to {VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not break through
+{CHOICE:31}Break through up to {VAR12:31}
+{CHOICE:32}Break through up to {VAR12:32}
+{CHOICE:33}Break through up to {VAR12:33}
+{CHOICE:34}Break through up to {VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not break through
+{CHOICE:31}Break through up to {VAR12:31}
+{CHOICE:32}Break through up to {VAR12:32}
+{CHOICE:33}Break through up to {VAR12:33}
+{CHOICE:34}Break through up to {VAR12:34}
+{CHOICE:35}Break through up to {VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Action Command]{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31}HP
+{CHOICE:32}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Action Command]{White}
+{CHOICE:30}{Blue} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{White} Shoot{VAR07:4F}{VAR12:31}HP
+{CHOICE:32}Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Action Command]{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30}HP
+{Blue}{CHOICE:31}Shoot{VAR07:4F}{VAR12:31}HP
+{CHOICE:32}{White} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Action Command]{White}
+{CHOICE:30}{Blue} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31}HP
+{CHOICE:32}{White} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Action Command]{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Action Command]{White}
+{CHOICE:30}{Blue} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{White} Shoot{VAR07:4F}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Action Command]{White}
+{CHOICE:30}Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{Blue} Shoot{VAR07:4F}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Action Command]{White}
+{CHOICE:30}{Blue} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}Shoot{VAR07:4F}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+This command will be explained later.
+For now, please choose {Yellow}Pass{White}.
+--------------------------------------------------End--
+{WINDOW}
+This command will be explained later.
+For now, please choose {Yellow}Shoot{White}.
+--------------------------------------------------End--
+{WINDOW}
+This command will be explained later.
+For now, please choose {Yellow}Dribble{White}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+{CHOICE:35}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E}HP
+{CHOICE:36}Back
+--------------------------------------------------End--
+{WINDOW}
+Special Technique: {VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+Do not break through
+--------------------------------------------------End--
+{WINDOW}
+Break through {VAR12:30} players
+--------------------------------------------------End--
+{WINDOW}
+Action: Pass
+--------------------------------------------------End--
+{WINDOW}
+Action: Shoot
+--------------------------------------------------End--
+{WINDOW}
+Action: Dribble
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Pass Command]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+Please select {Tidus}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [{blitzball} Tutorial]{White}
+{CHOICE:30}About Movement
+{CHOICE:31}About Action Commands
+{CHOICE:32}About Passing
+{CHOICE:33}About Shooting
+{CHOICE:34}About HP Consumption
+{CHOICE:35}About Encounters
+{CHOICE:36}About Breakthrough
+{CHOICE:37}About Capturing
+{CHOICE:38}Review Parameters
+{CHOICE:39}About Status Effects
+{CHOICE:3A}About Abilities
+{CHOICE:3B}About Game Modes
+{CHOICE:3C}End Tutorial
+--------------------------------------------------End--
+(Announcer)
+Goal! Goal! Goal!
+Amazing!!
+Is history about to be made!?
+--------------------------------------------------End--
+(Announcer)
+The supporters are fired up too!!
+--------------------------------------------------End--
+Aurochs Player 0
+--------------------------------------------------End--
+Aurochs Player 1
+--------------------------------------------------End--
+Aurochs Player 2
+--------------------------------------------------End--
+Aurochs Player 3
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [League Match]{White}
+Play a total of 10 matches
+and compete for victory using a point system.
+A win earns 3 points, a draw earns 1 point.
+Only when your team is losing,
+you can press {Button Triangle} to give up.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Tournament]{White}
+Win 2–3 matches in a row
+to claim overall victory.
+There are no draws; if tied,
+an overtime match will be played.
+Only when your team is losing,
+you can press {Button Triangle} to give up.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Exhibition]{White} is a practice match.
+You won’t earn items,
+but you can capture abilities.
+You can give up at any time
+by pressing {Button Triangle}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [About Abilities]{White}
+
+Blitzball abilities are learned by
+{Yellow}capturing them from enemies{White} during matches
+or by using rewards obtained from
+league and tournament victories.
+--------------------------------------------------End--
+{WINDOW}
+The types of abilities you can learn
+are limited depending on the player.
+At first, only some abilities
+can be learned.
+--------------------------------------------------End--
+{WINDOW}
+However, by learning three types of
+{Yellow}[Key Abilities]{White},
+a player’s potential expands,
+allowing them to obtain abilities
+they couldn’t learn before.
+--------------------------------------------------End--
+{WINDOW}
+The types of key abilities differ by player.
+Each one learned expands
+the range of abilities available.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [About Status Effects]{White}
+
+{CHOICE:30}Poison
+{CHOICE:31}Sleep
+{CHOICE:32}Power Down
+{CHOICE:33}Back
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Poison]{White}
+HP decreases more easily.
+HP drains faster while holding the ball,
+and HP does not recover when not holding it.
+It will recover naturally over time.
+--------------------------------------------------End--
+{WINDOW}
+While poisoned,
+{Yellow}special techniques cannot be used{White}.
+First, shooting techniques become unavailable.
+If poison stacks via “Pile Venom,”
+tackling techniques are sealed next,
+and finally passing techniques
+become unusable.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Sleep]{White}
+You cannot take any actions.
+You will wake up over time
+or if the ball hits you.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Power Down]{White}
+One parameter is reduced to {Yellow}1/2{White}.
+It will recover naturally over time.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [HP]{White} (Action Power)
+・Consumed by movement
+・Consumed by passing and shooting
+・Recovers when not holding the ball
+・If HP is insufficient, pass and shoot power are halved
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [PH]{White} (Physical)
+・Resistance against enemy tackles
+・(vs AT)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [PS]{White} (Passing)
+・Passing ability
+・Higher values allow longer passes
+・(vs CU)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ST]{White} (Shooting)
+・Shooting ability
+・Higher values allow longer shots
+・(vs CU, CA)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [AT]{White} (Attack)
+・Tackling ability
+・(vs PH)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [CU]{White} (Catch/Intercept)
+・Ability to intercept passes and shots
+・(vs PS, ST)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [CA]{White} (Goalkeeper Catch)
+・Goalkeeper’s catching ability
+・(vs ST)
+--------------------------------------------------End--
+{WINDOW}
+Players consume {Yellow}HP{White}.
+This HP is different from battle HP.
+Even if HP reaches 0,
+the player will not be incapacitated.
+--------------------------------------------------End--
+{WINDOW}
+In blitzball,
+HP represents the stamina needed
+to take actions.
+--------------------------------------------------End--
+{WINDOW}
+Players holding the ball
+continuously lose stamina,
+meaning HP gradually decreases.
+--------------------------------------------------End--
+{WINDOW}
+For example, focus on
+{Tidus}’s HP {Pink}{VAR12:30}{White}.
+Let’s resume the game.
+--------------------------------------------------End--
+{WINDOW}
+You should see that
+his HP has decreased.
+--------------------------------------------------End--
+{WINDOW}
+Taking actions like passing or shooting
+consumes a fixed amount of HP.
+Next, let’s confirm this.
+--------------------------------------------------End--
+{WINDOW}
+Please choose {Yellow}Shoot{White}.
+The HP cost for shooting is {Pink}10{White}.
+Watch as {Pink}10{White} is subtracted from HP.
+--------------------------------------------------End--
+{WINDOW}
+Please observe again.
+HP decreased from
+{Pink}{VAR12:31}{White} to {Pink}{VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+As you can see,
+player actions consume HP.
+--------------------------------------------------End--
+{WINDOW}
+So what happens
+if you don’t have enough HP?
+--------------------------------------------------End--
+{WINDOW}
+Even if HP falls below {Pink}10{White},
+you can still shoot.
+--------------------------------------------------End--
+{WINDOW}
+However, your normal shooting power
+will be reduced to {Yellow}half{White}.
+--------------------------------------------------End--
+{WINDOW}
+Notice that the Shoot command
+is highlighted in {Blue}blue{White}.
+Also note that shooting power,
+normally {Pink}10{White},
+has been reduced to {Pink}5{White}.
+--------------------------------------------------End--
+{WINDOW}
+Players not holding the ball
+gradually recover HP.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 5{White}
+・HP decreases while holding the ball
+・HP recovers when not holding the ball
+・Passing and shooting consume HP
+・If HP is insufficient, pass/shoot power is halved
+--------------------------------------------------End--
+{WINDOW}
+Next, let’s learn
+how to {Yellow}Shoot{White}.
+The basic idea is the same as passing.
+--------------------------------------------------End--
+{WINDOW}
+The shooting parameter is {Yellow}ST{White}.
+Focus on ST value {Pink}10{White}.
+--------------------------------------------------End--
+{WINDOW}
+Just like passing,
+ST decreases based on distance to the goal.
+--------------------------------------------------End--
+{WINDOW}
+If ST reaches {Pink}0{White}
+before the ball reaches the goal,
+the shot fails.
+If ST remains at {Pink}1{White} or more,
+the shot succeeds.
+--------------------------------------------------End--
+{WINDOW}
+Unlike passing,
+the enemy goalkeeper is involved.
+The goalkeeper defends the goal
+from {Tidus}’s shot.
+--------------------------------------------------End--
+{WINDOW}
+Let’s try it.
+Press {Button Square}
+to open the action command.
+--------------------------------------------------End--
+{WINDOW}
+Please select {Yellow}Shoot{White}.
+--------------------------------------------------End--
+{WINDOW}
+When you select Shoot,
+the enemy goalkeeper’s stats
+appear beneath your own.
+--------------------------------------------------End--
+{WINDOW}
+The background color indicates:
+{Blue}Blue{White} for your team,
+{Red}Red{White} for the enemy team.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}CA{White}
+represents the goalkeeper’s
+catching ability.
+--------------------------------------------------End--
+{WINDOW}
+In other words,
+the enemy goalkeeper Roudia
+has a catching ability of {Pink}8{White}.
+--------------------------------------------------End--
+{WINDOW}
+Let’s resume the shot.
+Watch how your
+{Yellow}ST{White} decreases.
+--------------------------------------------------End--
+{WINDOW}
+Focus on {Tidus}’s
+{Yellow}ST{White}.
+--------------------------------------------------End--
+{WINDOW}
+After subtracting distance,
+it is now {Pink}{VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+Next, the goalkeeper’s
+{Yellow}CA{White} value
+will be subtracted.
+--------------------------------------------------End--
+{WINDOW}
+If ST reaches {Pink}0{White}
+after subtracting CA,
+the shot fails.
+--------------------------------------------------End--
+{WINDOW}
+However, CA is not always subtracted
+at its exact value.
+A random value between
+50% and 150% of the base value
+is applied.
+--------------------------------------------------End--
+{WINDOW}
+If CA is {Pink}8{White},
+approximately {Pink}4{White} to {Pink}12{White}
+will be subtracted.
+--------------------------------------------------End--
+{WINDOW}
+Let’s resume the shot.
+Watch whether
+{Yellow}ST{White} reaches {Pink}0{White}.
+--------------------------------------------------End--
+{WINDOW}
+Since ST is {Pink}{VAR12:30}{White},
+the shot succeeded.
+--------------------------------------------------End--
+{WINDOW}
+Next, use {Yellow}Manual Control{White}
+to shoot from farther away
+and see a failed shot.
+--------------------------------------------------End--
+{WINDOW}
+Since ST reached {Pink}0{White},
+the shot failed.
+--------------------------------------------------End--
+{WINDOW}
+Next, use {Yellow}Manual Control{White}
+to get closer to the goal
+and try a successful shot.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 4{White}
+・Shooting power depends on ST
+・ST decreases with distance to the goal
+・ST is reduced by (approx.) the goalkeeper’s CA
+・If ST reaches {Pink}0{White}, the shot fails
+--------------------------------------------------End--
+{WINDOW}
+Next, let’s learn
+how to {Yellow}Pass{White}.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Square}.
+--------------------------------------------------End--
+{WINDOW}
+Please select {Yellow}Pass{White}.
+--------------------------------------------------End--
+{WINDOW}
+Select a pass target.
+The target’s stats
+will appear in the top-right.
+--------------------------------------------------End--
+{WINDOW}
+The pass succeeded,
+and the ball was passed to {VAR12:30}.
+--------------------------------------------------End--
+{WINDOW}
+Pass success is greatly affected
+by player parameters.
+--------------------------------------------------End--
+{WINDOW}
+Check the {Yellow}PS{White}
+parameter.
+--------------------------------------------------End--
+{WINDOW}
+{Pink}10{White}
+is the passing ability
+of player {VAR12:30}.
+--------------------------------------------------End--
+{WINDOW}
+Now pass the ball
+back to {Tidus}.
+Open the command
+with {Button Square}.
+--------------------------------------------------End--
+{WINDOW}
+Pass to {Tidus}.
+Focus on the pass value {Pink}10{White}.
+--------------------------------------------------End--
+{WINDOW}
+You should see
+the value decreasing.
+--------------------------------------------------End--
+{WINDOW}
+The value decreases
+based on pass {Yellow}distance{White}.
+Longer distances consume more.
+--------------------------------------------------End--
+{WINDOW}
+If PS reaches {Pink}0{White}
+before the ball arrives,
+the pass fails.
+--------------------------------------------------End--
+{WINDOW}
+Currently, {Tidus}
+has low passing ability.
+Note that PS is {Pink}3{White}.
+--------------------------------------------------End--
+{WINDOW}
+Now perform the pass
+and watch PS {Pink}3{White}.
+--------------------------------------------------End--
+{WINDOW}
+When a pass fails,
+the ball becomes a {Yellow}loose ball{White}.
+The enemy may pick it up.
+--------------------------------------------------End--
+{WINDOW}
+As you can see,
+higher PS allows longer passes.
+--------------------------------------------------End--
+{WINDOW}
+Conversely, players with low PS
+are poor passers,
+and may lose the ball to the enemy.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 3{White}
+・Passing ability depends on PS
+・PS decreases with pass distance
+・If PS reaches {Pink}0{White}, the pass fails
+--------------------------------------------------End--
+{WINDOW}
+To take any action,
+you must open the
+{Yellow}[Action Command]{White}.
+--------------------------------------------------End--
+{WINDOW}
+Open the action command
+by pressing {Button Square}.
+--------------------------------------------------End--
+{WINDOW}
+While the action command is open,
+time stops.
+Take your time choosing.
+--------------------------------------------------End--
+{WINDOW}
+There are only three possible actions:
+{Yellow}Pass, Shoot, Dribble{White}.
+--------------------------------------------------End--
+{WINDOW}
+The {Yellow}Dribble{White} command
+does nothing except resume movement.
+--------------------------------------------------End--
+{WINDOW}
+In the end,
+only {Yellow}Pass{White} and {Yellow}Shoot{White}
+are truly important.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 2{White}
+・Press {Button Square} to open action commands
+・Available commands: Pass, Shoot, Dribble
+・Dribble does nothing
+--------------------------------------------------End--
+{WINDOW}
+There are five players
+on the field.
+--------------------------------------------------End--
+{WINDOW}
+You can check their positions
+on the {Yellow}[Mini-Map]{White}
+in the bottom-right.
+(No enemies appear this time.)
+--------------------------------------------------End--
+{WINDOW}
+Right now,
+{Tidus} has the ball.
+--------------------------------------------------End--
+{WINDOW}
+The player holding the ball
+is highlighted with a {Yellow}marker{White}.
+--------------------------------------------------End--
+{WINDOW}
+Let’s start moving.
+--------------------------------------------------End--
+{WINDOW}
+Things may feel hectic at first,
+but stay calm.
+--------------------------------------------------End--
+{WINDOW}
+Movement is basically handled
+by {Yellow}Auto{White}.
+Players move on their own.
+--------------------------------------------------End--
+{WINDOW}
+Always keep track of positions
+using the {Yellow}[Mini-Map]{White}.
+--------------------------------------------------End--
+{WINDOW}
+The enemy goal is shown as
+a {Red}red circle{White}
+with an inverted triangle.
+--------------------------------------------------End--
+{WINDOW}
+This is the enemy goal.
+On the {Yellow}[Mini-Map]{White},
+it is located on the left.
+--------------------------------------------------End--
+{WINDOW}
+Resume movement.
+Understand the positional relationship
+between yourself and the goal.
+--------------------------------------------------End--
+{WINDOW}
+Once you get used to it,
+try moving players manually.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Triangle}.
+--------------------------------------------------End--
+{WINDOW}
+Auto movement has been disabled.
+Use {Direcional Up}{Direcional Right}{Direcional Down}{Direcional Left}
+to move the player in {Yellow}Manual Mode{White}.
+--------------------------------------------------End--
+{WINDOW}
+Players you are not controlling
+will act automatically
+based on the situation.
+--------------------------------------------------End--
+{WINDOW}
+Because the camera shifts rapidly,
+manual movement takes practice.
+Try it once you’re comfortable.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Triangle} again.
+--------------------------------------------------End--
+{WINDOW}
+Returned to {Yellow}Auto{White}.
+--------------------------------------------------End--
+{WINDOW}
+For now, try switching freely
+between Auto and Manual.
+--------------------------------------------------End--
+{WINDOW}
+Manual A aligns movement direction
+with the mini-map.
+--------------------------------------------------End--
+{WINDOW}
+To move toward the enemy goal,
+press {Direcional Left}.
+To move toward your own goal,
+press {Direcional Right}.
+--------------------------------------------------End--
+{WINDOW}
+In actual matches,
+Manual B with reversed controls also exists.
+Until you’re used to it,
+Auto mode is recommended.
+--------------------------------------------------End--
+{WINDOW}
+This explanation covered
+{Yellow}offensive{White} controls.
+When the enemy has the ball,
+that is {Yellow}defensive{White},
+manual control is not available.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan}Summary 1{White}
+・Check positions using the mini-map
+・Switch control modes with {Button Triangle}
+・During defense, only auto control is available
+--------------------------------------------------End--

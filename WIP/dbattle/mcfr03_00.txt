@@ -1,0 +1,11 @@
+{WINDOW}
+{Lulu} 
+Magic other than its weakness
+will be absorbed.
+--------------------------------------------------End--
+{WINDOW}
+Its weakness is no longer known!
+--------------------------------------------------End--
+{WINDOW}
+Magic other than its weakness will be absorbed!
+--------------------------------------------------End--

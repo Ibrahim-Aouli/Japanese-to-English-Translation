@@ -1,0 +1,30 @@
+{WINDOW}
+Ixion defends!
+--------------------------------------------------End--
+{WINDOW}
+Ixion evades!
+--------------------------------------------------End--
+Belgemine
+Call whichever aeon you want.
+--------------------------------------------------End--
+Belgemine
+Don't hold anything back.
+Show me what you've learned!
+--------------------------------------------------End--
+Belgemine
+You have a lot to learn.
+--------------------------------------------------End--
+Belgemine
+Stop. That is enough.
+--------------------------------------------------End--
+{WINDOW}
+Note that this Ixion used "Haste."
+How is it that it may use magic
+that {Yuna}'s {Ixion} cannot?
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Abilities{White} in the Aeons menu to find
+a list of new abilities your aeons can learn.
+For example, if you teach {Valefor}
+the ability "Cure," it can heal as well as fight.
+--------------------------------------------------End--

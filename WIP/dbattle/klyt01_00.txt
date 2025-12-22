@@ -1,0 +1,15 @@
+{WINDOW}
+{Tidus} 
+So tough!?
+My sword won’t work!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+My ball won’t work either!?
+Hey—how about magic!
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+Magic cast on the main body
+gets absorbed by the tentacles.
+--------------------------------------------------End--

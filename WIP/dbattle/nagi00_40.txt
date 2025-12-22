@@ -1,0 +1,17 @@
+Belgemine
+You may use whichever aeon you like.
+--------------------------------------------------End--
+Belgemine
+That will be all.
+--------------------------------------------------End--
+Belgemine
+That’s more than enough.
+--------------------------------------------------End--
+{WINDOW}
+By using the menu command {Yellow}[Develop]{White},
+you can increase an aeon’s parameters.
+You can train {Shiva}’s HP, which is weak against physical attacks,
+or increase {Bahamut}’s agility.
+In this way, you can make up for an aeon’s [40+50?] weaknesses
+and further enhance its strengths.
+--------------------------------------------------End--

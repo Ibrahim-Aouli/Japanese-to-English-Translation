@@ -1,0 +1,64 @@
+message 0
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Do you not want
+to heal Spira's sorrow?
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Let death carry you
+off into peaceful slumber.
+--------------------------------------------------End--
+{WINDOW}
+Yuna
+You can't run from your fate!
+--------------------------------------------------End--
+{WINDOW}
+Kimahri
+You have angered Kimahri!
+--------------------------------------------------End--
+{WINDOW}
+Kimahri
+The spirits of the Ronso
+will guide Kimahri's spear!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Accept your fate!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Die a gracious death!
+--------------------------------------------------End--
+{WINDOW}
+Seymour is silent!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Death awaits you!
+--------------------------------------------------End--
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+{WINDOW}
+Failed counterstrike.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}'s {Yellow}Magic Defense{White} increases!
+--------------------------------------------------End--
+{WINDOW}
+{Kimahri}'s {Yellow}Strength{White} increases!
+--------------------------------------------------End--
+{WINDOW}
+Mortiorchis: Ready to annihilate!
+--------------------------------------------------End--
+{WINDOW}
+Seymour watches...and waits.
+--------------------------------------------------End--
+{WINDOW}
+Mortiorchis: Auto-Attack mode!
+--------------------------------------------------End--

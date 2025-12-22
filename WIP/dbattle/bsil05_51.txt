@@ -1,0 +1,27 @@
+{Wakka} 
+The big one’s back again?
+--------------------------------------------------End--
+{Lulu} 
+Be careful!
+{Yuna} can’t summon for a while!
+--------------------------------------------------End--
+{Yuna} 
+Sorry!
+I still can’t summon!
+--------------------------------------------------End--
+{Wakka} 
+Alright!
+Now’s my [40+48?] to finish this!
+--------------------------------------------------End--
+{Wakka} 
+I’ll use my skill to blind it!
+--------------------------------------------------End--
+{Tidus} 
+This thing again?!
+--------------------------------------------------End--
+{Yuna} 
+What should I do… I still can’t summon!
+--------------------------------------------------End--
+{Lulu} 
+{Wakka}, it’s your turn!
+--------------------------------------------------End--

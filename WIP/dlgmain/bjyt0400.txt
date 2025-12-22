@@ -1,0 +1,161 @@
+{Tidus} 
+It’s cold…
+--------------------------------------------------End--
+{Tidus} 
+Fire…
+Where’s the fire…?
+--------------------------------------------------End--
+{Tidus} 
+I’m starving…
+--------------------------------------------------End--
+{Tidus} 
+Ah—h-hey, w-what is it!?
+Are you gonna disappear!?
+--------------------------------------------------End--
+{Tidus} 
+N-no, wait a sec!
+I’ll look for something!
+--------------------------------------------------End--
+{Tidus} 
+Ahhh—saved!
+--------------------------------------------------End--
+{Tidus} 
+What are you doing!?
+--------------------------------------------------End--
+
+Who is this guy?
+--------------------------------------------------End--
+
+It’s a {fiend}!
+It’s disguised as a human!
+--------------------------------------------------End--
+
+That’s it! That has to be it!
+--------------------------------------------------End--
+
+Should we take it out!?
+--------------------------------------------------End--
+
+Wait!
+--------------------------------------------------End--
+
+What if they’re human?
+--------------------------------------------------End--
+
+Then it can’t be helped.
+--------------------------------------------------End--
+
+No!
+Let’s take them onto the ship.
+--------------------------------------------------End--
+
+Sorry.
+--------------------------------------------------End--
+
+It’s the remains of a campfire.
+--------------------------------------------------End--
+
+If there’s something to burn,
+it looks like you could start a fire.
+--------------------------------------------------End--
+
+To start a fire,
+you’ll need an ignition tool.
+--------------------------------------------------End--
+
+To light a fire, you need something
+that burns easily as kindling.
+--------------------------------------------------End--
+
+…A creepy stone statue.
+--------------------------------------------------End--
+
+A withered flower is placed here.
+--------------------------------------------------End--
+
+It’s soaked from the rain,
+so it can’t be used as kindling…
+--------------------------------------------------End--
+Effect
+Lightning flash!!
+--------------------------------------------------End--
+Event
+Al Bhed Rikku marching formation appears
+--------------------------------------------------End--
+Event
+Nojima’s memories
+--------------------------------------------------End--
+How about adding an effect here
+where the eyes glow?
+(Make the map dark)
+--------------------------------------------------End--
+{WINDOW}
+
+{White} {Button Circle}: Examine{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.1]{White}
+You can record your journey on a sphere!
+With the automatic recovery function
+that heals travel fatigue,
+HP/MP are fully restored!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.2]{White}
+Thanks to the efforts of the {Besaid Aurochs},
+a transfer function to the {blitzball} stadium
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System]{White}
+Across the lands of {Spira},
+hidden talented players continue
+their blitz training.
+Press {Button Square} to talk to them,
+and you may be able to scout them.
+Scout promising players and lead
+the {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} don’t have enough members,
+so they can’t participate in a match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}To Blitz Stadium{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.3]{White}
+Thanks to the goodwill of {Al Bhed2} and {Rin},
+a transfer function to the airship
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{CHOICE:32}To Blitz Stadium
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}To Airship{White}
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{Gray}To Blitz Stadium{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

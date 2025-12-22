@@ -1,0 +1,12 @@
+{WINDOW}
+{Lulu}
+It absorbs all spells
+except its one weakness!
+--------------------------------------------------End--
+{WINDOW}
+What was its weakness again?
+--------------------------------------------------End--
+{WINDOW}
+It absorbs spells
+except its weakness!
+--------------------------------------------------End--

@@ -1,0 +1,56 @@
+{WINDOW}
+{CHOICE:30}             {CHOICE:FF}
+{CHOICE:31}             {CHOICE:FF}
+
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Character Advancement System Selection
+--------------------------------------------------End--
+{WINDOW}
+Select a Sphere Grid to use!
+
+{VAR07:44}{CHOICE:30}Standard Sphere Grid
+{VAR07:44}{CHOICE:31}Expert Sphere Grid
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}You have selected the:
+{VAR07:31}{Blue}Standard Sphere Grid{White}
+(You cannot switch Grids in-game!)
+{VAR07:31}Is this the one you want?
+
+{VAR07:51}{CHOICE:30}Yes
+{VAR07:51}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}You have selected the:
+{VAR07:31}{Blue}Expert Sphere Grid{White}.
+(You cannot switch Grids in-game!)
+{VAR07:31}Is this the one you want?
+
+{VAR07:51}{CHOICE:30}Yes
+{VAR07:51}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{[}Soundtrack{]}
+--------------------------------------------------End--
+{WINDOW}
+Select a soundtrack type.
+{VAR07:4A}{CHOICE:30}Arranged
+{VAR07:4A}{CHOICE:31}Original
+--------------------------------------------------End--
+{WINDOW}
+Play the arranged soundtrack?
+{VAR07:4F}{CHOICE:30}Yes
+{VAR07:4F}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Play the original soundtrack? 
+{VAR07:4E}{CHOICE:30}Yes
+{VAR07:4E}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{WINDOW}
+Use the HDD?
+{CHOICE:30}Yes
+{CHOICE:31}No
+--------------------------------------------------End--

@@ -1,0 +1,11 @@
+{WINDOW}
+{Yellow}  [Iron Giant]
+--------------------------------------------------End--
+{WINDOW}
+{White}
+It occasionally uses “Nagi[40+48?]i,” dealing heavy damage
+to all allies, so inflict “Darkness” beforehand with
+“Blind Buster.”
+“Sleep Attack” works rarely, and if it falls asleep,
+attack it with magic.
+--------------------------------------------------End--

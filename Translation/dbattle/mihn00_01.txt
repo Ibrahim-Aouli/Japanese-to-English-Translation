@@ -1,0 +1,21 @@
+{Auron}
+I told you.
+Let me handle their kind.
+--------------------------------------------------End--
+{Lulu}
+Leave those to Sir {Auron}.
+--------------------------------------------------End--
+{Wakka}
+Leave those hard-shelled
+ones to Sir {Auron}!
+--------------------------------------------------End--
+{Auron}
+Magic won't hurt their kind.
+--------------------------------------------------End--
+{Wakka}
+Stop that, you'll
+just waste magic, ya?
+--------------------------------------------------End--
+{Lulu}
+These ones seem resistant to magic.
+--------------------------------------------------End--

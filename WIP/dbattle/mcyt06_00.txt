@@ -1,0 +1,82 @@
+{WINDOW}
+{Tidus} 
+I didn’t like you
+from the very beginning.
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+Oh? That is quite [40+48?] and [40+49?].
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Don’t underestimate me!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+Even if you are a Maester,
+I… will fight!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+…………
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+Very well.
+That earnest gaze of yours is truly [40+50?].
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+Come to know my darkness…
+Appear, Anima!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+That power which repelled Anima—
+I will obtain it, no matter what.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Maester! Please, stop this!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Damn it… what the hell is going on…!?
+--------------------------------------------------End--
+{WINDOW}
+Guado Guard
+…………
+--------------------------------------------------End--
+{WINDOW}
+Guado Guard
+…………
+--------------------------------------------------End--
+{WINDOW}
+Anima is gathering power.
+--------------------------------------------------End--
+{WINDOW}
+Anima OVERDRIVE!!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}’s {Yellow}Attack Power{White} increased!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}’s {Yellow}Magic Defense{White} increased!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}’s {Yellow}Magic Defense{White} increased!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+Fayth, lend me your strength!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{Yuna}! It’s a new aeon!
+--------------------------------------------------End--
+{WINDOW}
+The Guado Guard does not respond.
+--------------------------------------------------End--
+{WINDOW}
+The Guado Guard does not respond.
+--------------------------------------------------End--

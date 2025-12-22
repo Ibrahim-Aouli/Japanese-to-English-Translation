@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow} Malboro
+--------------------------------------------------End--
+{WINDOW}
+{White}Watch out for its {OCyan}Bad Breath{White}! It causes {OCyan}poison{White},
+{OCyan}darkness{White}, {OCyan}silence{White}, {OCyan}confusion{White}, and {OCyan}slow{White} all at the
+same time. It uses {OCyan}Bad Breath{White} after taking a
+certain amount of damage, so either try to slow
+it down, or wear protective armor.
+--------------------------------------------------End--

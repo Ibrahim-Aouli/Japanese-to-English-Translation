@@ -1,0 +1,4233 @@
+Dummy
+{END}
+--------------------------------------------------End--
+ 
+{END}
+--------------------------------------------------End--
+ 
+{END}
+--------------------------------------------------End--
+Directional Button SE
+{x0BF0000103001D0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Battles fought:    Times KO'd:   Enemies defeated:
+{END}
+--------------------------------------------------End--
+Circle and Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Circle and Cross SE
+{x0BF000010300670000000000000000000000}
+{x0BF1}
+{x0BF8080003000000000004000000}
+{x0BF2}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}
+{x0BF0000103001D0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF2}{END}
+--------------------------------------------------End--
+Party
+
+Tidus
+
+Yuna
+
+Auron
+
+Kimahri
+
+Wakka
+
+Lulu
+
+Rikku{END}
+--------------------------------------------------End--
+
+{x0BF40000020000000000}
+
+
+{x0BF40000020001000000}
+
+
+{x0BF40000020002000000}
+
+
+{x0BF40000020003000000}
+
+
+{x0BF40000020004000000}
+
+
+{x0BF40000020005000000}
+
+
+{x0BF40000020006000000}
+
+{END}
+--------------------------------------------------End--
+
+{x0BF40000030000000000}
+
+
+{x0BF40000030001000000}
+
+
+{x0BF40000030002000000}
+
+
+{x0BF40000030003000000}
+
+
+{x0BF40000030004000000}
+
+
+{x0BF40000030005000000}
+
+
+{x0BF40000030006000000}
+
+{END}
+--------------------------------------------------End--
+
+{x0BF40000040000000000}
+
+
+{x0BF40000040001000000}
+
+
+{x0BF40000040002000000}
+
+
+{x0BF40000040003000000}
+
+
+{x0BF40000040004000000}
+
+
+{x0BF40000040005000000}
+
+
+{x0BF40000040006000000}
+
+{END}
+--------------------------------------------------End--
+Overdrives
+{END}
+--------------------------------------------------End--
+Overdrive Modes
+{END}
+--------------------------------------------------End--
+Auto-Abilities
+{END}
+--------------------------------------------------End--
+Command Abilities
+{END}
+--------------------------------------------------End--
+About Overdrives.
+{END}
+--------------------------------------------------End--
+About Overdrive modes.
+{END}
+--------------------------------------------------End--
+About Command Abilities.
+{END}
+--------------------------------------------------End--
+About Auto-Abilities.
+{END}
+--------------------------------------------------End--
+Basic Controls{END}
+--------------------------------------------------End--
+Basic Terms{END}
+--------------------------------------------------End--
+Reference{END}
+--------------------------------------------------End--
+Information on basic controls.{END}
+--------------------------------------------------End--
+Information on basic terms.{END}
+--------------------------------------------------End--
+Various information.{END}
+--------------------------------------------------End--
+Basic Controls (Normal Mode){END}
+--------------------------------------------------End--
+Basic Controls (Battle Mode){END}
+--------------------------------------------------End--
+Basic Controls (Menu Screen){END}
+--------------------------------------------------End--
+Controls in Normal Mode.{END}
+--------------------------------------------------End--
+Controls in Battle Mode.{END}
+--------------------------------------------------End--
+Controls in the Menu Screen.{END}
+--------------------------------------------------End--
+CTB Window{END}
+--------------------------------------------------End--
+Trigger Commands{END}
+--------------------------------------------------End--
+Overdrives{END}
+--------------------------------------------------End--
+Change Weapon/Armor{END}
+--------------------------------------------------End--
+Defend{END}
+--------------------------------------------------End--
+Switch{END}
+--------------------------------------------------End--
+Damage Indicators{END}
+--------------------------------------------------End--
+The Info Window{END}
+--------------------------------------------------End--
+Overkill{END}
+--------------------------------------------------End--
+Elements{END}
+--------------------------------------------------End--
+Status Ailments{END}
+--------------------------------------------------End--
+Information on the CTB window.{END}
+--------------------------------------------------End--
+Information on Trigger Commands.{END}
+--------------------------------------------------End--
+Information on Overdrives.{END}
+--------------------------------------------------End--
+Changing weapons and armor during battle.{END}
+--------------------------------------------------End--
+How to defend oneself during battle.{END}
+--------------------------------------------------End--
+Switching party members in and out of battle.{END}
+--------------------------------------------------End--
+Information on damage indicators.{END}
+--------------------------------------------------End--
+Information on the info window.{END}
+--------------------------------------------------End--
+Information on Overkill.{END}
+--------------------------------------------------End--
+Information on elements.{END}
+--------------------------------------------------End--
+Information on status ailments.{END}
+--------------------------------------------------End--
+Information on the Battle Mode.{END}
+--------------------------------------------------End--
+{Direcional Left}{Direcional Up}{Direcional Down}{Direcional Right}: Select {Button Circle}: Confirm {Button X}: Exit{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Button X}: Exit to Menu{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Button X}: Exit{END}
+--------------------------------------------------End--
+{Button X}: Exit{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Direcional Right}: Next Page {Button X}: Exit
+{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Direcional Left}{Direcional Right}: Turn Page {Button X}: Exit
+{END}
+--------------------------------------------------End--
+{Direcional Up}{Direcional Down}: Select {Button Circle}: Confirm {Direcional Left}: Previous Page {Button X}: Exit
+{END}
+--------------------------------------------------End--
+Battle Mode{END}
+--------------------------------------------------End--
+1: Help Window
+Displays various information.{END}
+--------------------------------------------------End--
+2: Command Window
+Displays available commands.{END}
+--------------------------------------------------End--
+3: CTB Window
+Displays order of all turns.{END}
+--------------------------------------------------End--
+4: Status Window
+Displays party's HP & MP.{END}
+--------------------------------------------------End--
+Overdrives
+{END}
+--------------------------------------------------End--
+Beneath each character's HP and MP meters is an
+Overdrive gauge. When it fully charges, the character
+can perform a special attack called an Overdrive. In
+the command window, press {Direcional Left} to access Overdrives.
+
+By default, the Overdrive gauge charges whenever a
+character takes damage. This setting can be changed
+later in the game.
+{END}
+--------------------------------------------------End--
+The CTB Window
+{END}
+--------------------------------------------------End--
+This window shows the turn order for all
+enemies and allies involved in a battle.
+The party member or enemy currently
+ready to act appears at the top of the
+list. Use {u0B:21} and {u0B:22} to scroll up and down
+the list, which can display up to 16 turns
+at a time. 
+Letters like A, B, and C represent
+enemies. Check the letter displayed
+beside an enemy's name when it's
+targeted with the cursor.
+Turn order is arranged as if everyone
+will use the "Attack" command next.
+Different commands shift a character's
+next turn up or down the queue.
+{END}
+--------------------------------------------------End--
+Trigger Commands
+{END}
+--------------------------------------------------End--
+In certain battles, characters will be able to use
+special commands. An indicator like the one shown
+above will appear above the command window.
+Press {Direcional Left} to access Trigger Commands.
+Examples of Trigger Commands include the following:
+
+Pincer Attack: Change position in battle.
+Talk: Talk to an enemy.
+Pull back: Maneuver a vehicle while fighting.{END}
+--------------------------------------------------End--
+Change Weapon/Armor{END}
+--------------------------------------------------End--
+Press {Direcional Right} during battle to
+access the commands {OCyan}Weapon{White}
+and {OCyan}Armor{White}, which allow
+characters to change
+equipment.
+Equipped items are denoted
+by a mark on the upper left
+corner of their icons.
+A window on the right displays
+the selected item's abilities.
+{END}
+--------------------------------------------------End--
+Defend{END}
+--------------------------------------------------End--
+When you want a character to pass up
+his turn in battle, press {Button Triangle} to have
+him assume a defensive stance.
+
+Characters defending like this take only
+half damage from physical attacks, but
+still take full damage from magical
+attacks.
+
+This {Button Triangle} defense cannot be used
+in certain battles.
+{END}
+--------------------------------------------------End--
+Switch{END}
+--------------------------------------------------End--
+Press {u0B:20} during battle to
+switch a frontline character
+with one in reserve.
+
+The character who enters the
+battle can act right away, so
+even if you accidentally bring
+in the wrong character, you
+can immediately switch him
+with someone else.
+{END}
+--------------------------------------------------End--
+Damage Indicators{END}
+--------------------------------------------------End--
+In battle, white numbers appear above
+combatants to indicate the amount of
+damage inflicted on them by attacks.
+Green numbers indicate HP recovery.
+
+"MP" precedes any numbers indicating
+MP loss or recovery.
+
+"MISS" indicates a failed attack or
+failure to inflict a status ailment.
+
+"IMMUNE" indicates resistance to a
+status ailment. When facing an attack
+capable of inflicting multiple status
+ailments, the target must resist them
+all in order for "IMMUNE" to appear.
+{END}
+--------------------------------------------------End--
+The Info Window{END}
+--------------------------------------------------End--
+The auto-ability {OCyan}Sensor{White}, found in certain weapons, reveals
+information on enemies during battle. The information
+window at the upper left corner of the screen displays
+the target's current HP/MP, status, and elemental affinity.
+There are four affinity levels: weakness, half damage,
+immunity, and absorption. On the chart shown, fire = red,
+lightning = yellow, water = blue, ice = white. In the example
+above, the target is weak against ice, absorbs fire, takes
+half damage from lightning and water, and has been slowed.
+{END}
+--------------------------------------------------End--
+Overkill
+{END}
+--------------------------------------------------End--
+This icon appears when you strike
+an enemy down with an extremely
+powerful blow.
+
+When {OCyan}Overkill{White} is achieved, more AP
+and spheres are earned at the end
+of the battle.
+
+To attain Overkill, the finishing blow
+must deal a massive amount of
+damage to the enemy. To increase
+the chances of an Overkill, exploit
+the enemy's elemental weaknesses.
+{END}
+--------------------------------------------------End--
+Elements
+{END}
+--------------------------------------------------End--
+There are four elements: {OCyan}fire{White}, {OCyan}ice{White}, {OCyan}lightning{White}, and
+{OCyan}water{White}, manifested in spells like Fire, Blizzard, Thunder,
+and Water. Fire and ice oppose each other, as do
+lightning and water.
+
+Many enemies are vulnerable to one or more elements,
+and suffer 50 percent more damage from attacks of
+that element. Some resistant enemies take only half
+damage from certain elements, while others take no
+damage at all. A few enemies actually absorb elemental
+spells and attacks, thereby healing themselves.
+
+Different enemies have different elemental strengths
+and weaknesses, so use abilities like Scan and Sensor
+to figure them out.
+{END}
+--------------------------------------------------End--
+Status Ailments
+{END}
+--------------------------------------------------End--
+Enemy attacks sometimes inflict status ailments
+in addition to normal damage.
+
+A character afflicted with {OCyan}poison{White} suffers damage
+every turn, equal to 1/4 of his maximum HP. Cure him
+with an Antidote quickly to prevent his being KO'd.
+
+When a character afflicted with {OCyan}darkness{White} attempts
+physical attacks, he almost always misses.
+Use Eye Drops to restore his eyesight.
+
+A character put to {OCyan}sleep{White} is unable to act. Physical
+attacks will wake him, but magic attacks will not.
+
+A character afflicted with {OCyan}silence{White} is unable to cast
+magic spells. Cure him with an Echo Screen.
+{END}
+--------------------------------------------------End--
+Dummy
+{END}
+--------------------------------------------------End--
+Select a topic.
+{END}
+--------------------------------------------------End--
+Select a character.
+{END}
+--------------------------------------------------End--
+Select an Overdrive mode.
+{END}
+--------------------------------------------------End--
+Move character{END}
+--------------------------------------------------End--
+Move character{END}
+--------------------------------------------------End--
+Move cursor{END}
+--------------------------------------------------End--
+Move cursor{END}
+--------------------------------------------------End--
+/Press left or right to change command windows{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Talk/Examine/Confirm{END}
+--------------------------------------------------End--
+Confirm{END}
+--------------------------------------------------End--
+Hold down to walk
+/{END}
+--------------------------------------------------End--
+Cancel{END}
+--------------------------------------------------End--
+Hold down to walk{END}
+--------------------------------------------------End--
+Menu Screen{END}
+--------------------------------------------------End--
+Defend (pass up turn){END}
+--------------------------------------------------End--
+Change character{END}
+--------------------------------------------------End--
+Display Switch Screen{END}
+--------------------------------------------------End--
+/Select character to switch in{END}
+--------------------------------------------------End--
+Scroll lists{END}
+--------------------------------------------------End--
+Character Switch{END}
+--------------------------------------------------End--
+Scroll CTB window{END}
+--------------------------------------------------End--
+Scroll CTB window{END}
+--------------------------------------------------End--
+{Tidus}
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF730E80300}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+
+{x0BF0000503000A0000000000000076000000}
+{x0BF1}{Gray}? ? ?
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000003000000}
+{x0BF7C8910100}
+{x0BF2}
+{x0BF2}
+{x0BF3}{Wakka}
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF758FF0300}
+{x0BF2}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+
+{x0BF0000503000A00000000000000DC000000}
+{x0BF1}{Gray}? ? ?
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000003000000}
+{x0BF700930100}
+{x0BF2}
+{x0BF2}
+{x0BF3}{Kimahri}
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF7002A0400}
+{x0BF2}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+
+{x0BF0000503000A00000000000000CC000000}
+{x0BF1}{Gray}? ? ?
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000003000000}
+{x0BF770950100}
+{x0BF2}
+{x0BF2}
+{x0BF3}{Yuna}
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF7F03F0400}
+{x0BF2}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+
+{x0BF0000503000A0000000000000058020000}
+{x0BF1}{Gray}? ? ?
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000003000000}
+{x0BF7A8960100}
+{x0BF2}
+{x0BF2}
+{x0BF3}{Auron}
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF710140400}
+{x0BF2}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+
+{x0BF0000503000A00000000000000CC000000}
+{x0BF1}{Gray}? ? ?
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000003000000}
+{x0BF7509A0100}
+{x0BF2}
+{x0BF2}
+{x0BF3}{Lulu}
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF7E0550400}
+{x0BF2}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+
+{x0BF0000503000A0000000000000046000000}
+{x0BF1}{Gray}? ? ?
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000003000000}
+{x0BF7889B0100}
+{x0BF2}
+{x0BF2}
+{x0BF3}{Rikku}
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF8080003000000000001000000}
+{x0BF7D06B0400}
+{x0BF2}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+{Tidus}
+{END}
+--------------------------------------------------End--
+{Wakka}
+{END}
+--------------------------------------------------End--
+{Kimahri}
+{END}
+--------------------------------------------------End--
+{Yuna}
+{END}
+--------------------------------------------------End--
+{Auron}
+{END}
+--------------------------------------------------End--
+{Lulu}
+{END}
+--------------------------------------------------End--
+{Rikku}
+{END}
+--------------------------------------------------End--
+Warrior / Comrade
+{END}
+--------------------------------------------------End--
+Stoic / Healer
+{END}
+--------------------------------------------------End--
+Tactician / Victim
+{END}
+--------------------------------------------------End--
+Dancer / Avenger
+{END}
+--------------------------------------------------End--
+Slayer / Hero
+{END}
+--------------------------------------------------End--
+Rook / Victor
+{END}
+--------------------------------------------------End--
+Coward / Ally
+{END}
+--------------------------------------------------End--
+Sufferer / Daredevil
+{END}
+--------------------------------------------------End--
+Loner
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 1 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 1 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 2 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 2 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 3 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 3 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 4 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 4 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 5 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 5 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 6 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 6 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 7 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 7 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 8 of 8
+{END}
+--------------------------------------------------End--
+Auto-Abilities: Page 8 of 8
+{END}
+--------------------------------------------------End--
+Sensor / Piercing
+{END}
+--------------------------------------------------End--
+First Strike / Initiative
+{END}
+--------------------------------------------------End--
+Firestrike / Fire Ward
+{END}
+--------------------------------------------------End--
+Fireproof / Fire Eater
+{END}
+--------------------------------------------------End--
+Lightningstrike / Lightning Ward
+{END}
+--------------------------------------------------End--
+Lightningproof / Lightning Eater
+{END}
+--------------------------------------------------End--
+Waterstrike / Water Ward
+{END}
+--------------------------------------------------End--
+Waterproof / Water Eater
+{END}
+--------------------------------------------------End--
+Icestrike / Ice Ward
+{END}
+--------------------------------------------------End--
+Iceproof / Ice Eater
+{END}
+--------------------------------------------------End--
+Darktouch / Darkstrike
+{END}
+--------------------------------------------------End--
+Dark Ward / Darkproof
+{END}
+--------------------------------------------------End--
+Silencetouch / Silencestrike
+{END}
+--------------------------------------------------End--
+Silence Ward / Silenceproof
+{END}
+--------------------------------------------------End--
+Sleeptouch / Sleepstrike
+{END}
+--------------------------------------------------End--
+Sleep Ward / Sleepproof
+{END}
+--------------------------------------------------End--
+Poisontouch / Poisonstrike
+{END}
+--------------------------------------------------End--
+Poison Ward / Poisonproof
+{END}
+--------------------------------------------------End--
+Stonetouch / Stonestrike
+{END}
+--------------------------------------------------End--
+Stone Ward / Stoneproof
+{END}
+--------------------------------------------------End--
+Deathtouch / Deathstrike
+{END}
+--------------------------------------------------End--
+Death Ward / Deathproof
+{END}
+--------------------------------------------------End--
+Zombietouch / Zombiestrike
+{END}
+--------------------------------------------------End--
+Zombie Ward / Zombieproof
+{END}
+--------------------------------------------------End--
+Slowtouch / Slowstrike
+{END}
+--------------------------------------------------End--
+Slow Ward / Slowproof
+{END}
+--------------------------------------------------End--
+Confuse Ward / Confuseproof
+{END}
+--------------------------------------------------End--
+Berserk Ward / Berserkproof
+{END}
+--------------------------------------------------End--
+Curseproof
+{END}
+--------------------------------------------------End--
+SOS NulBlaze / SOS NulShock
+{END}
+--------------------------------------------------End--
+SOS NulTide / SOS NulFrost
+{END}
+--------------------------------------------------End--
+SOS Shell / SOS Protect
+{END}
+--------------------------------------------------End--
+SOS Reflect / SOS Haste
+{END}
+--------------------------------------------------End--
+SOS Regen / Auto-Reflect
+{END}
+--------------------------------------------------End--
+Strength +3% / +5% / +10% / +20%
+{END}
+--------------------------------------------------End--
+Magic +3% / +5% / +10% / +20%
+{END}
+--------------------------------------------------End--
+Defense +3% / +5% / +10% / +20%
+{END}
+--------------------------------------------------End--
+Magic Def +3% / +5% / +10% / +20%
+{END}
+--------------------------------------------------End--
+HP +5% / +10% / +20% / +30%
+{END}
+--------------------------------------------------End--
+MP +5% / +10% / +20% / +30%
+{END}
+--------------------------------------------------End--
+Counter-Attack / Evade & Counter
+{END}
+--------------------------------------------------End--
+Magic Counter / Magic Booster
+{END}
+--------------------------------------------------End--
+Auto-Potion / Auto-Med
+{END}
+--------------------------------------------------End--
+Auto-Phoenix / Alchemy
+{END}
+--------------------------------------------------End--
+Half MP Cost / One MP Cost
+{END}
+--------------------------------------------------End--
+Double AP / Triple AP
+{END}
+--------------------------------------------------End--
+Overdrive {RIGHT} AP / SOS Overdrive
+{END}
+--------------------------------------------------End--
+Double Overdrive / Triple Overdrive / Gillionaire
+{END}
+--------------------------------------------------End--
+Pickpocket / Master Thief
+{END}
+--------------------------------------------------End--
+HP Stroll / MP Stroll / No Encounters
+{END}
+--------------------------------------------------End--
+Break HP Limit / Break MP Limit
+{END}
+--------------------------------------------------End--
+Break Damage Limit / Capture
+{END}
+--------------------------------------------------End--
+Auto-Shell / Auto-Protect
+{END}
+--------------------------------------------------End--
+Auto-Haste / Auto-Regen
+{END}
+--------------------------------------------------End--
+Sensor
+{END}
+--------------------------------------------------End--
+Piercing
+{END}
+--------------------------------------------------End--
+First Strike
+{END}
+--------------------------------------------------End--
+Initiative
+{END}
+--------------------------------------------------End--
+Firestrike
+{END}
+--------------------------------------------------End--
+Fire Ward
+{END}
+--------------------------------------------------End--
+Fireproof
+{END}
+--------------------------------------------------End--
+Fire Eater
+{END}
+--------------------------------------------------End--
+Lightningstrike
+{END}
+--------------------------------------------------End--
+Lightning Ward
+{END}
+--------------------------------------------------End--
+Lightningproof
+{END}
+--------------------------------------------------End--
+Lightning Eater
+{END}
+--------------------------------------------------End--
+Waterstrike
+{END}
+--------------------------------------------------End--
+Water Ward
+{END}
+--------------------------------------------------End--
+Waterproof
+{END}
+--------------------------------------------------End--
+Water Eater
+{END}
+--------------------------------------------------End--
+Icestrike
+{END}
+--------------------------------------------------End--
+Ice Ward
+{END}
+--------------------------------------------------End--
+Iceproof
+{END}
+--------------------------------------------------End--
+Ice Eater
+{END}
+--------------------------------------------------End--
+Darktouch
+{END}
+--------------------------------------------------End--
+Darkstrike
+{END}
+--------------------------------------------------End--
+Dark Ward
+{END}
+--------------------------------------------------End--
+Darkproof
+{END}
+--------------------------------------------------End--
+Silencetouch
+{END}
+--------------------------------------------------End--
+Silencestrike
+{END}
+--------------------------------------------------End--
+Silence Ward
+{END}
+--------------------------------------------------End--
+Silenceproof
+{END}
+--------------------------------------------------End--
+Sleeptouch
+{END}
+--------------------------------------------------End--
+Sleepstrike
+{END}
+--------------------------------------------------End--
+Sleep Ward
+{END}
+--------------------------------------------------End--
+Sleepproof
+{END}
+--------------------------------------------------End--
+Poisontouch
+{END}
+--------------------------------------------------End--
+Poisonstrike
+{END}
+--------------------------------------------------End--
+Poison Ward
+{END}
+--------------------------------------------------End--
+Poisonproof
+{END}
+--------------------------------------------------End--
+Stonetouch
+{END}
+--------------------------------------------------End--
+Stonestrike
+{END}
+--------------------------------------------------End--
+Stone Ward
+{END}
+--------------------------------------------------End--
+Stoneproof
+{END}
+--------------------------------------------------End--
+Deathtouch
+{END}
+--------------------------------------------------End--
+Deathstrike
+{END}
+--------------------------------------------------End--
+Death Ward
+{END}
+--------------------------------------------------End--
+Deathproof
+{END}
+--------------------------------------------------End--
+Zombietouch
+{END}
+--------------------------------------------------End--
+Zombiestrike
+{END}
+--------------------------------------------------End--
+Zombie Ward
+{END}
+--------------------------------------------------End--
+Zombieproof
+{END}
+--------------------------------------------------End--
+Slowtouch
+{END}
+--------------------------------------------------End--
+Slowstrike
+{END}
+--------------------------------------------------End--
+Slow Ward
+{END}
+--------------------------------------------------End--
+Slowproof
+{END}
+--------------------------------------------------End--
+Confuse Ward
+{END}
+--------------------------------------------------End--
+Confuseproof
+{END}
+--------------------------------------------------End--
+Berserk Ward
+{END}
+--------------------------------------------------End--
+Berserkproof
+{END}
+--------------------------------------------------End--
+Curse Ward
+{END}
+--------------------------------------------------End--
+Curseproof
+{END}
+--------------------------------------------------End--
+SOS NulBlaze
+{END}
+--------------------------------------------------End--
+SOS NulShock
+{END}
+--------------------------------------------------End--
+SOS NulTide
+{END}
+--------------------------------------------------End--
+SOS NulFrost
+{END}
+--------------------------------------------------End--
+SOS Shell
+{END}
+--------------------------------------------------End--
+SOS Protect
+{END}
+--------------------------------------------------End--
+SOS Reflect
+{END}
+--------------------------------------------------End--
+SOS Haste
+{END}
+--------------------------------------------------End--
+SOS Regen
+{END}
+--------------------------------------------------End--
+Strength +3% / +5% / +10% / +20%
+{END}
+--------------------------------------------------End--
+Magic +3% / +5% / +10% / +20%
+{END}
+--------------------------------------------------End--
+Defense +3% / +5% / +10% / +20%
+{END}
+--------------------------------------------------End--
+Magic Def +3% / +5% / +10% / +20%
+{END}
+--------------------------------------------------End--
+HP +5% / +10% / +20% / +30%
+{END}
+--------------------------------------------------End--
+MP +5% / +10% / +20% / +30%
+{END}
+--------------------------------------------------End--
+Counter-Attack
+{END}
+--------------------------------------------------End--
+Evade & Counter
+{END}
+--------------------------------------------------End--
+Magic Counter
+{END}
+--------------------------------------------------End--
+Magic Booster
+{END}
+--------------------------------------------------End--
+Auto-Potion
+{END}
+--------------------------------------------------End--
+Auto-Med
+{END}
+--------------------------------------------------End--
+Auto-Phoenix
+{END}
+--------------------------------------------------End--
+Alchemy
+{END}
+--------------------------------------------------End--
+Half MP Cost
+{END}
+--------------------------------------------------End--
+One MP Cost
+{END}
+--------------------------------------------------End--
+Double AP / Triple AP
+{END}
+--------------------------------------------------End--
+No AP
+{END}
+--------------------------------------------------End--
+Overdrive {RIGHT} AP
+{END}
+--------------------------------------------------End--
+SOS Overdrive
+{END}
+--------------------------------------------------End--
+Double Overdrive / Triple Overdrive
+{END}
+--------------------------------------------------End--
+Gillionaire
+{END}
+--------------------------------------------------End--
+Pickpocket
+{END}
+--------------------------------------------------End--
+Master Thief
+{END}
+--------------------------------------------------End--
+HP Stroll / MP Stroll
+{END}
+--------------------------------------------------End--
+No Encounters
+{END}
+--------------------------------------------------End--
+Break HP Limit
+{END}
+--------------------------------------------------End--
+Break MP Limit
+{END}
+--------------------------------------------------End--
+Break Damage Limit
+{END}
+--------------------------------------------------End--
+Capture
+{END}
+--------------------------------------------------End--
+Auto-Shell
+{END}
+--------------------------------------------------End--
+Auto-Protect
+{END}
+--------------------------------------------------End--
+Auto-Haste
+{END}
+--------------------------------------------------End--
+Auto-Regen
+{END}
+--------------------------------------------------End--
+Auto-Reflect
+{END}
+--------------------------------------------------End--
+Displays data about the character's current
+target, such as HP, elemental affinities,
+status ailments, and immunities.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Allows the wielder to damage{OCyan} armored{White} enemies
+normally.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Lets the wielder act first at the beginning of
+a battle.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Increases the probability of pre-emptive
+strikes and lowers the probability of being
+ambushed if wielded by one of the three
+characters on the front line.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Adds fire element to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Halves damage from fire attacks and magic.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants immunity to fire damage.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Converts fire damage to HP.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Adds lightning element to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Halves damage from lightning attacks and
+magic.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants immunity to lightning damage.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Converts lightning damage to HP.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Adds water element to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Halves damage from water attacks and magic.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants immunity to water damage.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Converts water damage to HP.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Adds ice element to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Halves damage from ice attacks and magic.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants immunity to ice damage.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Converts ice damage to HP.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Sometimes adds {OCyan}darkness{White} to attacks and
+skills.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Almost always adds {OCyan}darkness{White} to attacks and
+skills.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}darkness{White}.
+Characters afflicted with darkness are
+unable to strike enemies accurately.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity
+to {OCyan}darkness{White}.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Sometimes adds {OCyan}silence{White} to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Almost always adds {OCyan}silence{White} to attacks and
+skills.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}silence{White}.
+Silenced characters cannot cast spells.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to {OCyan}silence{White}.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Sometimes adds {OCyan}sleep{White} to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Almost always adds {OCyan}sleep{White} to attacks and
+skills.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}sleep{White}.
+Sleeping characters cannot act until
+awakened.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to {OCyan}sleep{White}.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Sometimes adds {OCyan}poison{White} to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Almost always adds {OCyan}poison{White} to attacks and
+skills.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}poison{White}.
+A character afflicted with poison loses
+1/4 of his maximum HP after each turn.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to {OCyan}poison{White}.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Sometimes adds {OCyan}petrification{White} to attacks and
+skills.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Almost always adds {OCyan}petrification{White} to attacks
+and skills.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}petrification{White}.
+Petrified characters cannot act until the
+battle ends or the petrification is cured.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to
+{OCyan}petrification{White}.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Sometimes adds {OCyan}death{White} to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Almost always adds {OCyan}death{White} to attacks and
+skills.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}death{White}.
+Death will instantly KO characters unless
+they're protected.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to {OCyan}death{White}.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Sometimes adds {OCyan}zombie{White} to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Almost always adds {OCyan}zombie{White} to attacks and
+skills.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}zombification{White}.
+Zombified characters take damage from
+healing spells and items.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to
+{OCyan}zombification{White}.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Sometimes adds {OCyan}slow{White} to attacks and skills.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Almost always adds {OCyan}slow{White} to attacks and
+skills.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}slow{White}.
+Slowed characters cannot act as often as 
+usual.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to {OCyan}slow{White}.
+
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}confusion{White}.
+Confused characters will keep attacking allies
+until the confusion is cured or wears off.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to
+{OCyan}confusion{White}.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}berserk{White}.
+Berserk characters will attack enemies
+relentlessly until they are cured or KO'd.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity to {OCyan}berserk{White}.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Helps prevent {OCyan}curse{White}.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Grants almost complete immunity
+to {OCyan}curse{White}. Cursed characters cannot use
+Overdrives, and their Overdrive gauges
+freeze.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Blocks fire damage by casting NulBlaze on the
+wearer whenever his or her HP falls below
+half. Once cast, NulBlaze remains in effect
+until the wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Blocks lightning damage by casting NulShock on
+the wearer whenever his or her HP falls below
+half. Once cast, NulShock remains in effect
+until the wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Blocks water damage by casting NulTide on
+the wearer whenever his or her HP falls below
+half. Once cast, NulTide remains in effect
+until the wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Blocks ice damage by casting NulFrost on the
+wearer whenever his or her HP falls below
+half. Once cast, NulFrost remains in effect
+until the wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Enhances Magic Defense by casting Shell
+on the wearer whenever his or her HP
+falls below half. The effect lasts until
+the wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Enhances Defense by casting Protect on
+the wearer whenever his or her HP falls
+below half. The effect lasts until the
+wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Bounces spells away from the wearer by
+casting Reflect whenever his or her HP
+falls below half. The effect lasts until
+the wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Accelerates the wearer by casting
+Haste whenever his or her HP falls
+below half. The effect lasts until the
+wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Gradually restores the wearer's HP by
+casting Regen whenever his or her HP
+falls below half. The effect lasts until
+the wearer's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Increases the damage output of physical
+attacks by the percentage displayed. The
+benefits are cumulative, so a weapon with
+Strength +3% and Strength +5% would inflict
+8% more damage than usual.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Increases the effectiveness of both black
+and white magic. The benefits are cumulative,
+so a weapon with Magic +3% and Magic +5%
+would make the wielder's spells 8% more
+effective than usual.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Reduces the damage inflicted on the wielder
+by physical attacks. The benefits are
+cumulative, so a character wearing armor
+with Defense +3% and Defense +5% would
+take 8% less physical damage than usual.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Reduces the damage inflicted on the wielder
+by magic attacks. The benefits are cumulative,
+so a character wearing armor with
+Magic Def +3% and Magic Def +5% would take
+8% less magical damage than usual.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Increases the wearer's maximum HP. The
+benefits are cumulative, so armor with
+HP +5% and HP +10% would boost its wearer's
+maximum HP by 15% as long as it is worn.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Increases the wearer's maximum MP. The
+benefits are cumulative, so armor with
+MP +5% and MP +10% would boost its wearer's
+maximum MP by 15% as long as it is worn.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Makes the character automatically retaliate
+whenever he is physically attacked.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Makes the character automatically evade
+physical attacks whenever possible, and then
+retaliate.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Makes the character automatically retaliate
+whenever he is attacked with magic.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Increases the effectiveness of all black and
+white magic by spending more MP.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Makes the character automatically use healing
+items after losing more than half of his
+maximum HP. Characters use Potions first,
+then Hi-Potions, and finally X-Potions, until all
+restorative items are used up.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Makes the character automatically cure his
+own status ailments with the corresponding
+item, like Antidotes for poison and Eye Drops
+for darkness. Characters will use Remedies if
+they lack the corresponding item. If no
+suitable items are in stock, nothing happens.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Makes the character automatically revive
+KO'd allies with Phoenix Downs. Only works
+when Phoenix Downs are in stock. Does not
+automatically revive the user of this ability
+himself.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Doubles the amount of HP and MP that healing
+items restore. Works well with Auto-Potion.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Reduces the MP cost of all abilities by half.
+Effective only during battles.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Reduces the MP cost of all abilities to one.
+Effective only during battles.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Doubles or triples the amount of AP earned
+for each enemy defeated while the wielder
+is present in battle.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Causes the character to earn no AP after
+each battle.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Suppresses the Overdrive gauge in exchange
+for more AP. Although the Overdrive gauge
+stops charging, Overdrives are still usable
+if the gauge happens to be full.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Doubles the charge rate of the wielder's
+Overdrive gauge whenever his or her HP
+falls below half. This effect lasts until
+the wielder's HP climbs above half again.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Makes the character's Overdrive gauge
+charge at double or triple normal speed.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Doubles the amount of Gil received after
+each battle. Only works if a character
+with this ability has participated in battle.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Improves the character's chances of
+stealing rare items from enemies.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Allows the character to steal only
+rare items from enemies.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Gradually restores the character's HP or MP
+as he moves around.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Prevents most random enemy encounters.
+
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Allows the character's HP to exceed
+9,999 as long as the armor with
+this ability is worn.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Allows the character's MP to exceed
+999 as long as the armor with
+this ability is worn.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Allows the character to inflict more
+than 9,999 points of physical or
+magical damage as long as the weapon
+with this ability is wielded.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Captures enemies when dealing the
+finishing blow. Some enemies cannot be
+captured.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Raises the character's Magic Defense by
+automatically casting {OCyan}Shell{White} each battle.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Raises the character's Defense by
+automatically casting {OCyan}Protect{White} each battle.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Accelerates the character by
+automatically casting {OCyan}Haste{White} each battle.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Gradually restores the character's HP
+by casting {OCyan}Regen{White} each battle.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Deflects spells cast on the character by
+generating a constant Reflect effect in
+battle.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 1 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 1 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 2 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 2 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 3 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 3 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 4 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 4 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 5 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 5 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 6 of 6
+{END}
+--------------------------------------------------End--
+Command Abilities: Page 6 of 6
+{END}
+--------------------------------------------------End--
+Dark Attack / Dark Buster
+{END}
+--------------------------------------------------End--
+Silence Attack / Silence Buster
+{END}
+--------------------------------------------------End--
+Sleep Attack / Sleep Buster
+{END}
+--------------------------------------------------End--
+Delay Attack / Delay Buster
+{END}
+--------------------------------------------------End--
+Zombie Attack / Triple Foul
+{END}
+--------------------------------------------------End--
+Power Break / Magic Break
+{END}
+--------------------------------------------------End--
+Armor Break / Mental Break
+{END}
+--------------------------------------------------End--
+Mug / Quick Hit
+{END}
+--------------------------------------------------End--
+Steal / Use
+{END}
+--------------------------------------------------End--
+Flee / Pray
+{END}
+--------------------------------------------------End--
+Cheer / Aim
+{END}
+--------------------------------------------------End--
+Focus / Reflex
+{END}
+--------------------------------------------------End--
+Luck / Jinx
+{END}
+--------------------------------------------------End--
+Lancet
+{END}
+--------------------------------------------------End--
+Guard / Sentinel
+{END}
+--------------------------------------------------End--
+Spare Change / Threaten
+{END}
+--------------------------------------------------End--
+Provoke / Entrust
+{END}
+--------------------------------------------------End--
+Copycat / Doublecast
+{END}
+--------------------------------------------------End--
+Bribe
+{END}
+--------------------------------------------------End--
+Cure / Cura / Curaga
+{END}
+--------------------------------------------------End--
+Esuna / Scan
+{END}
+--------------------------------------------------End--
+NulBlaze / NulShock
+{END}
+--------------------------------------------------End--
+NulTide / NulFrost
+{END}
+--------------------------------------------------End--
+Life / Full-Life
+{END}
+--------------------------------------------------End--
+Haste / Hastega
+{END}
+--------------------------------------------------End--
+Slow / Slowga
+{END}
+--------------------------------------------------End--
+Shell / Protect
+{END}
+--------------------------------------------------End--
+Reflect / Dispel
+{END}
+--------------------------------------------------End--
+Regen / Holy
+{END}
+--------------------------------------------------End--
+Auto-Life
+{END}
+--------------------------------------------------End--
+Fire / Fira / Firaga
+{END}
+--------------------------------------------------End--
+Thunder / Thundara / Thundaga
+{END}
+--------------------------------------------------End--
+Water / Watera / Waterga
+{END}
+--------------------------------------------------End--
+Blizzard / Blizzara / Blizzaga
+{END}
+--------------------------------------------------End--
+Bio / Demi
+{END}
+--------------------------------------------------End--
+Death / Drain
+{END}
+--------------------------------------------------End--
+Osmose / Flare
+{END}
+--------------------------------------------------End--
+Ultima
+{END}
+--------------------------------------------------End--
+Dark Attack
+{END}
+--------------------------------------------------End--
+Dark Buster
+{END}
+--------------------------------------------------End--
+Silence Attack
+{END}
+--------------------------------------------------End--
+Silence Buster
+{END}
+--------------------------------------------------End--
+Sleep Attack
+{END}
+--------------------------------------------------End--
+Sleep Buster
+{END}
+--------------------------------------------------End--
+Delay Attack
+{END}
+--------------------------------------------------End--
+Delay Buster
+{END}
+--------------------------------------------------End--
+Zombie Attack
+{END}
+--------------------------------------------------End--
+Triple Foul
+{END}
+--------------------------------------------------End--
+Power Break
+{END}
+--------------------------------------------------End--
+Magic Break
+{END}
+--------------------------------------------------End--
+Armor Break
+{END}
+--------------------------------------------------End--
+Mental Break
+{END}
+--------------------------------------------------End--
+Mug
+{END}
+--------------------------------------------------End--
+Quick Hit
+{END}
+--------------------------------------------------End--
+Steal
+{END}
+--------------------------------------------------End--
+Use
+{END}
+--------------------------------------------------End--
+Flee
+{END}
+--------------------------------------------------End--
+Pray
+{END}
+--------------------------------------------------End--
+Cheer
+{END}
+--------------------------------------------------End--
+Aim
+{END}
+--------------------------------------------------End--
+Focus
+{END}
+--------------------------------------------------End--
+Reflex
+{END}
+--------------------------------------------------End--
+Luck
+{END}
+--------------------------------------------------End--
+Jinx
+{END}
+--------------------------------------------------End--
+Lancet
+{END}
+--------------------------------------------------End--
+Defend
+{END}
+--------------------------------------------------End--
+Guard
+{END}
+--------------------------------------------------End--
+Sentinel
+{END}
+--------------------------------------------------End--
+Spare Change
+{END}
+--------------------------------------------------End--
+Threaten
+{END}
+--------------------------------------------------End--
+Provoke
+{END}
+--------------------------------------------------End--
+Entrust
+{END}
+--------------------------------------------------End--
+Copycat
+{END}
+--------------------------------------------------End--
+Doublecast
+{END}
+--------------------------------------------------End--
+Bribe
+{END}
+--------------------------------------------------End--
+Cure / Cura / Curaga
+{END}
+--------------------------------------------------End--
+Esuna
+{END}
+--------------------------------------------------End--
+Scan
+{END}
+--------------------------------------------------End--
+NulBlaze
+{END}
+--------------------------------------------------End--
+NulShock
+{END}
+--------------------------------------------------End--
+NulTide
+{END}
+--------------------------------------------------End--
+NulFrost
+{END}
+--------------------------------------------------End--
+Life
+{END}
+--------------------------------------------------End--
+Full-Life
+{END}
+--------------------------------------------------End--
+Haste
+{END}
+--------------------------------------------------End--
+Hastega
+{END}
+--------------------------------------------------End--
+Slow
+{END}
+--------------------------------------------------End--
+Slowga
+{END}
+--------------------------------------------------End--
+Shell
+{END}
+--------------------------------------------------End--
+Protect
+{END}
+--------------------------------------------------End--
+Reflect
+{END}
+--------------------------------------------------End--
+Dispel
+{END}
+--------------------------------------------------End--
+Regen
+{END}
+--------------------------------------------------End--
+Holy
+{END}
+--------------------------------------------------End--
+Auto-Life
+{END}
+--------------------------------------------------End--
+Fire / Fira / Firaga
+{END}
+--------------------------------------------------End--
+Thunder / Thundara / Thundaga
+{END}
+--------------------------------------------------End--
+Water / Watera / Waterga
+{END}
+--------------------------------------------------End--
+Blizzard / Blizzara / Blizzaga
+{END}
+--------------------------------------------------End--
+Bio
+{END}
+--------------------------------------------------End--
+Demi
+{END}
+--------------------------------------------------End--
+Death
+{END}
+--------------------------------------------------End--
+Drain
+{END}
+--------------------------------------------------End--
+Osmose
+{END}
+--------------------------------------------------End--
+Flare
+{END}
+--------------------------------------------------End--
+Ultima
+{END}
+--------------------------------------------------End--
+Skill, 5 MP
+
+If successful, this ability inflicts {OCyan}darkness{White}
+on the target for three turns, greatly
+reducing the accuracy of its physical attacks.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 10 MP
+
+Inflicts {OCyan}darkness{White} on a target for one turn.
+Success is virtually guaranteed, unless
+the target has some form of resistance.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 5 MP
+
+If successful, this ability inflicts {OCyan}silence{White}
+on the target for three turns, preventing
+it from casting any spells.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 10 MP
+
+Inflicts {OCyan}silence{White} on a target for one turn.
+Success is virtually guaranteed, unless
+the target has some form of resistance.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 5 MP
+
+If successful, this ability puts the target
+to {OCyan}sleep{White} until either three turns pass or
+it is hit by a physical attack.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 10 MP
+
+Puts a target to {OCyan}sleep{White} for one turn.
+Success is virtually guaranteed, unless
+the target has some form of resistance.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 8 MP
+
+Slightly delays the target's next turn.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 18 MP
+
+Greatly delays the target's next turn.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 10 MP
+
+Inflicts the target with {OCyan}zombie{White} status,
+causing restorative spells and items to
+damage the target.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 24 MP
+
+If successful, this ability inflicts {OCyan}silence{White},
+{OCyan}darkness{White}, and {OCyan}sleep{White} status ailments on the
+target for three turns.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 8 MP
+
+Lowers the target's Strength, thereby
+reducing the damage inflicted by its
+physical attacks.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 8 MP
+
+Lowers the target's Magic, thereby reducing
+the damage inflicted by its magic attacks.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 12 MP
+
+Lowers the target's Defense, leaving it
+vulnerable to greater physical damage.
+Also negates the target's {OCyan}armor{White}, allowing
+non-piercing weapons to deal normal damage.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 12 MP
+
+Lowers the target's Magic Defense, leaving it
+vulnerable to greater magical damage.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 10 MP
+
+Steal items from an enemy while simultaneously
+unleashing a physical attack.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Skill, 36 MP
+
+Strike a target quickly with reduced recovery
+time. The damage inflicted is no greater than
+that of a standard attack, but the character's
+next turn comes up much sooner.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Steal items from an enemy.
+Also useful for destroying machina by
+dismantling their vital parts.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Use powerful offensive, defensive,
+or healing items in stock.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Aid the party's escape from battle.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Restores some of the party's HP.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Raises the party's Strength and Defense.
+Party members deal greater damage to enemies
+while sustaining less damage themselves.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Raises the party's Accuracy.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Raises the party's Magic and Magic Defense.
+Party members deal greater magical damage
+to enemies while sustaining less damage
+themselves.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Raises the party's Evasion.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Raises the party's Luck, thereby enhancing the
+party's Accuracy, Evasion, and critical hit rate.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Lowers all enemies' Luck, thereby reducing
+their Accuracy, Evasion, and critical hit rate.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Transfers HP and MP from the target to the
+character. Kimahri can also use this ability
+to learn enemy skills.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Intercept physical attacks that are directed at
+any party member, and take damage in place of
+the intended target. Cannot intercept magic
+attacks or attacks that strike the entire party.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+While maintaining a defensive stance, intercept
+physical attacks that are directed at any party
+member. Cannot intercept magic attacks or
+attacks that strike the entire party.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Attack by throwing gil. The damage inflicted
+is proportional to the amount thrown.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, 12 MP
+
+Immobilizes the target with fear.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, 4 MP
+
+Draws the target's attacks towards
+the character.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, 8 MP
+
+Transfers the character's entire Overdrive
+charge to an ally's gauge.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, 28 MP
+
+Mimic the action of the last ally to take a turn
+in battle, even if it requires an ability the
+character has not yet learned.
+Summoning and Overdrives cannot be copied.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Cast two black magic spells in a row.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Special, No MP cost
+
+Pay off enemies in return for safe passage.
+Offer more gil for a more favorable response.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 4 MP / 10 MP / 20 MP
+
+Restores the target's HP. There are three
+levels of potency. Cure restores a small
+amount of HP, Cura a substantial amount
+of HP, and Curaga a massive amount of HP.
+The caster's Magic attribute influences
+the strength of all three spells.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 5 MP
+
+Cures the target's status ailments.
+Removes poison, darkness, silence, sleep,
+petrification, confusion, berserk, and slow.
+Ineffective against zombie, curse, Doom, and KO.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 1 MP
+
+Displays key information about the target,
+such as its HP, attributes, immunities,
+weaknesses, and methods of attack.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 2 MP
+
+Grants each party member immunity from one
+fire attack. Nullifies fire-based physical
+attacks as well as spells like Fira.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 2 MP
+
+Grants each party member immunity from one
+lightning attack. Nullifies lightning-based
+physical attacks as well as spells like Thundara.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 2 MP
+
+Grants each party member immunity from one
+water attack. Nullifies water-based physical
+attacks as well as spells like Watera.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 2 MP
+
+Grants each party member immunity from one
+ice attack. Nullifies ice-based physical
+attacks as well as spells like Blizzara.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 18 MP
+
+Revives a KO'd ally.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 60 MP
+
+Revives a KO'd ally and restores his HP
+to maximum.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 8 MP
+
+Accelerates the target so that his turns in
+battle come up sooner than normal.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 30 MP
+
+Accelerates the entire party so that all
+members' turns in battle come up sooner
+than normal.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 12 MP
+
+Slows the target down.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 20 MP
+
+Slows all enemies down.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 10 MP
+
+Helps the target better withstand magic
+attacks by raising his Magic Defense.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 12 MP
+
+Protects the target from physical
+attacks by increasing his Defense.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 14 MP
+
+Bounces spells cast at the target towards
+the enemy. Deflects both damaging and
+healing spells alike.
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 12 MP
+
+Negates any spell effects that are currently
+active on the target, such as Shell, Protect,
+Haste, and Reflect.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 40 MP
+
+Gradually restores the target's HP for a time.
+
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 85 MP
+
+Deals holy damage to the target.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+White Magic, 97 MP
+
+Automatically revives an ally the next time
+he is KO'd. The target will instantly awaken
+from KO with a small amount of HP.
+Effective only once per casting.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 4 MP / 8 MP / 16 MP
+
+Deals fire damage to the target. There are
+three levels of potency. Fire inflicts a
+relatively small amount of fire damage, Fira a
+more impressive amount of fire damage, and 
+Firaga a massive amount of fire damage.
+The caster's Magic attribute influences
+the strength of all three spells.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 4 MP / 8 MP / 16 MP
+
+Deals lightning damage to the target. There
+are three levels of potency. Thunder inflicts
+a relatively small amount of lightning damage,
+Thundara a more impressive amount of
+lightning damage, and Thundaga a massive
+amount of lightning damage.
+The caster's Magic attribute influences
+the strength of all three spells.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 4 MP / 8 MP / 16 MP
+
+Deals water damage to the target. There are
+three levels of potency. Water inflicts
+a relatively small amount of water damage,
+Watera a more impressive amount of water
+damage, and Waterga a massive amount of
+water damage.
+The caster's Magic attribute influences
+the strength of all three spells.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 4 MP / 8 MP / 16 MP
+
+Deals ice damage to the target. There are
+three levels of potency. Blizzard inflicts a
+relatively small amount of ice damage, Blizzara
+a more impressive amount of ice damage, and
+Blizzaga a massive amount of ice damage.
+The caster's Magic attribute influences
+the strength of all three spells.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 10 MP
+
+Poisons the target, which drains HP from it
+after every turn it takes in battle.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 32 MP
+
+Reduces the current HP of all enemies by 1/4.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 20 MP
+
+Can instantly KO the target.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 12 MP
+
+Transfers HP from the target to the caster.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, No MP cost
+
+Transfers MP from the target to the caster.
+
+
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 54 MP
+
+Deals non-elemental damage to the target.
+Works well on enemies that resist or
+absorb certain elements.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Black Magic, 90 MP
+
+Deals non-elemental damage to all enemies.
+Useful against enemies that resist or
+absorb certain elements.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{Tidus}{END}
+--------------------------------------------------End--
+{Wakka}{END}
+--------------------------------------------------End--
+{Kimahri}{END}
+--------------------------------------------------End--
+{Yuna}{END}
+--------------------------------------------------End--
+{Auron}{END}
+--------------------------------------------------End--
+{Lulu}{END}
+--------------------------------------------------End--
+
+{x0BF0000503000A0000000000000046000000}
+{x0BF1}{Gray}? ? ?
+{x0BF3}{Rikku}
+{x0BF0000103003A0000000000000000000000}
+{x0BF1}
+{x0BF0000103001C0100000000000000000000}
+{x0BF1}
+{x0BF7889B0100}
+{x0BF2}
+{x0BF2}
+{x0BF2}{END}
+--------------------------------------------------End--
+Overdrive Modes
+{END}
+--------------------------------------------------End--
+Overdrive modes determine how each character's
+{END}
+--------------------------------------------------End--
+Overdrive gauge charges up. For example, a {OCyan}Stoic{White}
+{END}
+--------------------------------------------------End--
+charges up whenever enemies damage him, while a{END}
+--------------------------------------------------End--
+{OCyan}Warrior{White} charges up each time he damages enemies,{END}
+--------------------------------------------------End--
+and a {OCyan}Healer{White} charges up by healing allies.{END}
+--------------------------------------------------End--
+All characters start out as Stoic, but learn new{END}
+--------------------------------------------------End--
+modes depending on their actions in battle.{END}
+--------------------------------------------------End--
+For example, a character who often restores{END}
+--------------------------------------------------End--
+allies' HP will learn Healer.{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+{Tidus}'s Overdrives
+{END}
+--------------------------------------------------End--
+{Wakka}'s Overdrives
+{END}
+--------------------------------------------------End--
+{Kimahri}'s Overdrives
+{END}
+--------------------------------------------------End--
+{Yuna}'s Overdrives
+{END}
+--------------------------------------------------End--
+{Auron}'s Overdrives
+{END}
+--------------------------------------------------End--
+{Lulu}'s Overdrives
+{END}
+--------------------------------------------------End--
+{Rikku}'s Overdrives
+{END}
+--------------------------------------------------End--
+Swordplay
+{END}
+--------------------------------------------------End--
+ When activated, a cursor moves left and right while{END}
+--------------------------------------------------End--
+ the clock ticks down. Stop the cursor in the middle{END}
+--------------------------------------------------End--
+ with {Button Circle} for maximum damage.
+{END}
+--------------------------------------------------End--
+ Some Overdrives, like {OCyan}Spiral Cut{White}, hit just one{END}
+--------------------------------------------------End--
+ enemy. Others, like {OCyan}Slice & Dice{White}, hit all enemies.
+{END}
+--------------------------------------------------End--
+ Try to use each Overdrive to its fullest.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Slots
+{END}
+--------------------------------------------------End--
+ When activated, three reels start spinning while
+{END}
+--------------------------------------------------End--
+ the clock ticks down. Hit {Button Circle} to stop each reel.
+ Different combinations yield different results.
+{END}
+--------------------------------------------------End--
+ {OCyan}Element Reels{White}
+{END}
+--------------------------------------------------End--
+ Match up ice, fire, water, and lightning symbols.
+{END}
+--------------------------------------------------End--
+ A two of a kind fires an elemental shot at one enemy.
+{END}
+--------------------------------------------------End--
+ A three of a kind fires an elemental shot at all enemies.
+{END}
+--------------------------------------------------End--
+ {OCyan}Attack Reels{White}
+{END}
+--------------------------------------------------End--
+ Line up symbols for cumulative attacks.
+{END}
+--------------------------------------------------End--
+{Wakka} starts with {OCyan}Element Reels{White}, and can learn up to
+three other Overdrives.
+{END}
+--------------------------------------------------End--
+Ronso Rage
+{END}
+--------------------------------------------------End--
+ Learn enemy techniques with the {OCyan}Lancet{White} ability
+{END}
+--------------------------------------------------End--
+ and unleash them in battle.
+{END}
+--------------------------------------------------End--
+  {OCyan}Fire Breath{White} burns all enemies with fire damage.
+{END}
+--------------------------------------------------End--
+  {OCyan}Aqua Breath{White} deals water damage to all enemies.
+{END}
+--------------------------------------------------End--
+  {OCyan}White Wind{White} restores the party's HP.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+ Use Lancet on fiends to learn more.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Grand Summon
+{END}
+--------------------------------------------------End--
+ Summon an aeon with a fully charged Overdrive
+{END}
+--------------------------------------------------End--
+ gauge. After the aeon unleashes an Overdrive
+{END}
+--------------------------------------------------End--
+ attack, its gauge returns to the state it was in
+{END}
+--------------------------------------------------End--
+ prior to the Grand Summon. This means that a
+{END}
+--------------------------------------------------End--
+ fully charged aeon called by a Grand Summon
+{END}
+--------------------------------------------------End--
+ can unleash two consecutive Overdrives.
+{END}
+--------------------------------------------------End--
+ 
+{END}
+--------------------------------------------------End--
+ 
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Bushido
+{END}
+--------------------------------------------------End--
+ Powerful techniques that require great concentration.
+{END}
+--------------------------------------------------End--
+ When activated, a series of commands appear.{END}
+--------------------------------------------------End--
+ Enter all commands before the time runs out{END}
+--------------------------------------------------End--
+ for maximum damage. If you mess up you'll have{END}
+--------------------------------------------------End--
+ to start over from the very beginning.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+ Some Overdrives, like {OCyan}Shooting Star{White}, hit just one{END}
+--------------------------------------------------End--
+ enemy. Others, like {OCyan}Dragon Fang{White}, hit all enemies.
+{END}
+--------------------------------------------------End--
+ Try to use each Overdrive to its fullest.
+{END}
+--------------------------------------------------End--
+Fury
+{END}
+--------------------------------------------------End--
+ Smite all enemies with a barrage of black magic.
+{END}
+--------------------------------------------------End--
+  {OCyan}Fire Fury{White} unleashes {OCyan}Fire{White} on all enemies.
+{END}
+--------------------------------------------------End--
+  {OCyan}Thunder Fury{White} zaps all enemies with {OCyan}Thunder{White}.
+{END}
+--------------------------------------------------End--
+
+
+{END}
+--------------------------------------------------End--
+
+ Once the countdown begins, rotate the right
+{END}
+--------------------------------------------------End--
+
+ analog stick (or repeat inputting {Direcional Left} {Direcional Right})
+{END}
+--------------------------------------------------End--
+
+ as fast as you can to increase the number
+{END}
+--------------------------------------------------End--
+
+ of spells cast at the enemy.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Mix
+{END}
+--------------------------------------------------End--
+ Combine two items from your inventory
+{END}
+--------------------------------------------------End--
+ for a myriad of uncanny effects. Some
+{END}
+--------------------------------------------------End--
+ outcomes are logical.
+{END}
+--------------------------------------------------End--
+ For example, mixing two Potions will
+{END}
+--------------------------------------------------End--
+ restore HP, and mixing two Bomb Fragments
+{END}
+--------------------------------------------------End--
+ will inflict fire damage.
+{END}
+--------------------------------------------------End--
+ Have fun creating your own combinations.
+{END}
+--------------------------------------------------End--
+ 
+{END}
+--------------------------------------------------End--
+ 
+{END}
+--------------------------------------------------End--
+Warrior
+{END}
+--------------------------------------------------End--
+Comrade
+{END}
+--------------------------------------------------End--
+Stoic
+{END}
+--------------------------------------------------End--
+Saint
+{END}
+--------------------------------------------------End--
+Tactician
+{END}
+--------------------------------------------------End--
+Victim
+{END}
+--------------------------------------------------End--
+Dancer
+{END}
+--------------------------------------------------End--
+Avenger
+{END}
+--------------------------------------------------End--
+Slayer
+{END}
+--------------------------------------------------End--
+Hero
+{END}
+--------------------------------------------------End--
+Rook
+{END}
+--------------------------------------------------End--
+Victor
+{END}
+--------------------------------------------------End--
+Coward
+{END}
+--------------------------------------------------End--
+Ally
+{END}
+--------------------------------------------------End--
+Sufferer
+{END}
+--------------------------------------------------End--
+Daredevil
+{END}
+--------------------------------------------------End--
+Loner
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when damaging enemy.
+{END}
+--------------------------------------------------End--
+Learn Number of times damaging enemy.
+{END}
+--------------------------------------------------End--
+The gauge rises when the character damages the enemy.
+{END}
+--------------------------------------------------End--
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when allies receive damage.
+{END}
+--------------------------------------------------End--
+Learn Number of times allies damaged.
+{END}
+--------------------------------------------------End--
+The gauge rises when allies receive damage.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when damaged.
+{END}
+--------------------------------------------------End--
+Learn Number of times damaged.
+{END}
+--------------------------------------------------End--
+The gauge rises when the character receives damage.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when healing allies.
+{END}
+--------------------------------------------------End--
+Learn Number of times healing allies.
+{END}
+--------------------------------------------------End--
+The gauge rises when healing allies.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when status attack successful.
+{END}
+--------------------------------------------------End--
+Learn Number of successful status attacks.
+{END}
+--------------------------------------------------End--
+The gauge rises when status attack is successful.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when receiving status ailments.
+{END}
+--------------------------------------------------End--
+Learn Number of times receiving status ailments
+{END}
+--------------------------------------------------End--
+The gauge rises when receiving status ailments.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when evading enemy attacks
+{END}
+--------------------------------------------------End--
+Learn Number of enemy attacks evaded
+{END}
+--------------------------------------------------End--
+The gauge rises when successfully evading enemy attacks.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Guage rises when allies are KO'd
+{END}
+--------------------------------------------------End--
+Learn Number of times allies KO'd
+{END}
+--------------------------------------------------End--
+The gauge rises when allies are KO'd.
+{END}
+--------------------------------------------------End--
+Only effective if allies are KO'd by enemy.
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when defeating enemy
+{END}
+--------------------------------------------------End--
+Learn Number of enemies defeated
+{END}
+--------------------------------------------------End--
+The gauge rises when defeating enemy.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when defeating enemy with high HP
+{END}
+--------------------------------------------------End--
+Learn Number of enemies with high HP defeated
+{END}
+--------------------------------------------------End--
+The gauge rises when deafeating an enemy with high HP.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when magically blocking attacks
+{END}
+--------------------------------------------------End--
+Learn Number of successful blocks
+{END}
+--------------------------------------------------End--
+The gauge rises when magically blocking enemy attacks.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when victorious in battle
+{END}
+--------------------------------------------------End--
+Learn Number of victories
+{END}
+--------------------------------------------------End--
+The gauge rises when victorious in battle.
+{END}
+--------------------------------------------------End--
+Must be in battle party at the end of battle.
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when fleeing from battle
+{END}
+--------------------------------------------------End--
+Rise Number of battles fled
+{END}
+--------------------------------------------------End--
+The gauge rises when successfully fleeing from battle.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when turn comes
+{END}
+--------------------------------------------------End--
+Learn Number of turns
+{END}
+--------------------------------------------------End--
+The gauge rises when the character's turn comes in battle.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when fighting with status ailments
+{END}
+--------------------------------------------------End--
+Learn Number of turns with status ailments
+{END}
+--------------------------------------------------End--
+The gauge rises when turn comes
+while fighting with status ailments.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+ise Gauge rises when fighting with low HP
+{END}
+--------------------------------------------------End--
+Learn Number of turns fought with low HP
+{END}
+--------------------------------------------------End--
+The gauge rises when turn comes while fighting with low HP.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Rise Gauge rises when fighting alone
+{END}
+--------------------------------------------------End--
+Learn Number of turns fighting alone
+{END}
+--------------------------------------------------End--
+The gauge rises when turn comes
+while fighting alone.
+{END}
+--------------------------------------------------End--
+
+{END}
+--------------------------------------------------End--
+Distill Power / Distill Mana
+{END}
+--------------------------------------------------End--
+Distill Speed / Distill Ability
+{END}
+--------------------------------------------------End--
+Ribbon
+{END}
+--------------------------------------------------End--
+Distill Power
+{END}
+--------------------------------------------------End--
+Distill Mana
+{END}
+--------------------------------------------------End--
+Distill Speed
+{END}
+--------------------------------------------------End--
+Distill Ability
+{END}
+--------------------------------------------------End--
+Ribbon
+{END}
+--------------------------------------------------End--
+Adds Power Distiller effect to attacks
+and skills.{END}
+--------------------------------------------------End--
+Adds Mana Distiller effect to attacks
+and skills.{END}
+--------------------------------------------------End--
+Adds Speed Distiller effect to attacks
+and skills.{END}
+--------------------------------------------------End--
+Adds Ability Distiller effect to attacks
+and skills.{END}
+--------------------------------------------------End--
+Grants almost complete immunity to
+{OCyan}all status ailments{White}.{END}
+--------------------------------------------------End--
+Extract Power / Extract Mana
+{END}
+--------------------------------------------------End--
+Extract Speed / Extract Ability
+{END}
+--------------------------------------------------End--
+Full Break / Mug
+{END}
+--------------------------------------------------End--
+Nab Gil / Quick Hit
+{END}
+--------------------------------------------------End--
+Lancet / Guard
+{END}
+--------------------------------------------------End--
+Sentinel / Spare Change
+{END}
+--------------------------------------------------End--
+Threaten / Provoke
+{END}
+--------------------------------------------------End--
+Entrust / Copycat
+{END}
+--------------------------------------------------End--
+Pilfer Gil / Quick Pockets
+{END}
+--------------------------------------------------End--
+Doublecast / Bribe
+{END}
+--------------------------------------------------End--
+Extract Power
+{END}
+--------------------------------------------------End--
+Extract Mana
+{END}
+--------------------------------------------------End--
+Extract Speed
+{END}
+--------------------------------------------------End--
+Extract Ability
+{END}
+--------------------------------------------------End--
+Full Break
+{END}
+--------------------------------------------------End--
+Nab Gil
+{END}
+--------------------------------------------------End--
+Pilfer Gil
+{END}
+--------------------------------------------------End--
+Quick Pockets
+{END}
+--------------------------------------------------End--
+Skill, 1 MP
+
+Adds Power Distiller effect to attacks and
+skills. Like the item of the same name, this
+makes an enemy drop Power Spheres.
+{END}
+--------------------------------------------------End--
+Skill, 1 MP
+
+Adds Mana Distiller effect to attacks and
+skills. Like the item of the same name, this
+makes an enemy drop Mana Spheres.
+{END}
+--------------------------------------------------End--
+Skill, 1 MP
+
+Adds Speed Distiller effect to attacks and
+skills. Like the item of the same name, this
+makes an enemy drop Speed Spheres.
+{END}
+--------------------------------------------------End--
+Skill, 1 MP
+
+Adds Ability Distiller effect to attacks and
+skills. Like the item of the same name, this
+makes an enemy drop Ability Spheres.{END}
+--------------------------------------------------End--
+Skill, 99 MP
+
+Lowers the target's Strength, Defense, Magic,
+and Magic Defense. Also negates {OCyan}armor{White}.
+{END}
+--------------------------------------------------End--
+Skill, 30 MP
+
+Steal gil from an enemy while simultaneously
+unleashing a physical attack.
+
+{END}
+--------------------------------------------------End--
+Skill, 20 MP
+
+Steal gil from an enemy.
+{END}
+--------------------------------------------------End--
+Special, 70 MP
+
+Use an item quickly with reduced recovery
+time. The character's next turn comes up
+much sooner than when using items normally.
+{END}
+--------------------------------------------------End--

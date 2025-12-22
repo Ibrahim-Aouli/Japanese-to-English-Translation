@@ -1,0 +1,31 @@
+{WINDOW}
+Ixion is defending.
+--------------------------------------------------End--
+{WINDOW}
+Ixion is evading.
+--------------------------------------------------End--
+Belgemine
+You may summon whichever aeon you like.
+--------------------------------------------------End--
+Belgemine
+Let us take a good, long look
+at just how strong you really are.
+--------------------------------------------------End--
+Belgemine
+That’s enough.
+--------------------------------------------------End--
+Belgemine
+You’ve done more than enough.
+--------------------------------------------------End--
+{WINDOW}
+Please note that this Ixion
+used “Haste.”
+Why is it able to use magic
+that {Yuna}’s {Ixion} cannot?
+--------------------------------------------------End--
+{WINDOW}
+By using the menu command {Yellow}[Learn]{White},
+you can teach aeons new abilities.
+For example, if you teach “Cure” to {Valefor},
+it can fight while restoring HP.
+--------------------------------------------------End--

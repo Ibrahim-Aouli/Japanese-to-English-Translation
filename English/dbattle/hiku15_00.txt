@@ -1,0 +1,73 @@
+       {Cid}
+Hold on!
+--------------------------------------------------End--
+       {Cid}
+Don't be falling, now!
+--------------------------------------------------End--
+       {Cid}
+Yeehaw! We're going in!
+--------------------------------------------------End--
+       {Tidus}
+Go back! Farther away!
+--------------------------------------------------End--
+       {Tidus}
+Closer! Go closer!
+--------------------------------------------------End--
+       {Rikku}
+Father! Go far!
+--------------------------------------------------End--
+       {Rikku}
+Go near more!
+--------------------------------------------------End--
+       {Cid}
+Just a minute!
+--------------------------------------------------End--
+       {Cid}
+Wait a moment!
+--------------------------------------------------End--
+       {Cid}
+This is it! I'm hitting
+it with all we got!
+--------------------------------------------------End--
+       {Cid}
+We're out of ammo?
+This really isn't my day...
+--------------------------------------------------End--
+       Move away from Evrae on {Cid}'s turn
+--------------------------------------------------End--
+       Approach Evrae on {Cid}'s turn
+--------------------------------------------------End--
+       Evrae Approach
+--------------------------------------------------End--
+       Prepare Breath
+--------------------------------------------------End--
+       Abort Breath
+--------------------------------------------------End--
+       Gaze
+--------------------------------------------------End--
+       Photon Spray
+--------------------------------------------------End--
+       HP Low -- Attack Mode
+--------------------------------------------------End--
+       Breath when hit
+--------------------------------------------------End--
+       No missiles left!
+--------------------------------------------------End--
+Salvos Remaining: 1
+--------------------------------------------------End--
+Salvos Remaining: 2
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Maneuvering the Airship
+--------------------------------------------------End--
+{WINDOW}
+{White}Use the trigger commands {Yellow}Move in{White} and {Yellow}Pull back{White} to
+adjust the distance between the airship and Evrae.
+Only {Tidus} and Rikku can give these orders.
+--------------------------------------------------End--
+{WINDOW}
+Give an order and Cid will move
+the airship on his next turn.
+To cancel an order, use the {Yellow}Cancel{White}
+command before Cid takes his turn.
+--------------------------------------------------End--

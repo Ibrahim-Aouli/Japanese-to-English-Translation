@@ -1,0 +1,79 @@
+
+
+FINAL FANTASY X HD Remaster
+Trophy initialization failed.{NEWLINE}Please exit game.
+Loading Trophy data...
+Exiting game due to insufficient free space in system storage.{NEWLINE}At least {VAR05:30} MB more free space is needed.
+FINAL FANTASY X Completion
+Obtain all available FINAL FANTASY X achievements
+Speaking in Tongues
+Find 1 Al Bhed Primer
+Teamwork in FINAL FANTASY X !
+Win a blitzball match in FINAL FANTASY X
+The Right Thing
+Clear the Besaid Cloister of Trials
+A Talent for Acquisition
+Steal successfully with Rikku 200 times
+All Together
+All party members come together
+Heartstrings
+View the "Underwater Date" scene
+Show Off!
+Win a blitzball tournament
+Striker
+Learn the Jecht shot
+Chocobo License
+Pass all chocobo training
+Overcoming the Past
+Defeat Yunalesca
+The Destination of Hatred
+Defeat Seymour Omnis
+Lightning Dancer
+Dodge 200 lightning strikes and obtain the reward
+Delta Attack!
+Obtain Magus Sisters
+Feel the Pain
+Obtain Anima
+It's All About the Money
+Obtain Yojimbo
+Theater Enthusiast
+Buy every sphere at the Luca Theater
+Chocobo Rider
+Win a race with a catcher chocobo with a total time of 0:0:0
+Power Strike
+Do 9999 damage or more in a single attack
+Under the Table
+Spend 100,000 gil or more in bribes
+Messenger from the Past
+Obtain all Jecht Spheres
+Mega Strike
+Deal 99999 damage with one attack
+Blitzball God
+Level one Blitzball player to Lv.99
+Chocobo Master
+Get 5 treasure chests during the Chocobo Race at Remiem Temple and win the race
+Master Linguist
+Find all 26 Al Bhed Primers
+Sphere Master
+Complete a Sphere Grid for one character
+Blitzball Master
+Unlock all slot reels
+Learning!
+Learn to use all enemy abilities
+Summon Master
+Obtain all Aeons
+Weapon Master
+Obtain all Celestial Weapons
+Perfect Sphere Master
+Complete the Sphere Grids for all main characters
+Perseverance
+Defeat Penance
+Overcoming the Nemesis
+Defeat Nemesis
+The Eternal Calm
+Defeat Yu Yevon
+A Journey's Catalyst
+View "Eternal Calm"
+
+FINAL FANTASY X/X-2 HD Remaster
+

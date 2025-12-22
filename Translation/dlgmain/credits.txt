@@ -1,0 +1,1067 @@
+{Font Italic}Two years—It’s been two years since
+Spira entered the Eternal Calm.
+--------------------------------------------------End--
+{Font Italic}I was given a new life.
+--------------------------------------------------End--
+{Font Italic}For a year, I was able to walk alongside Yuna.
+--------------------------------------------------End--
+{Font Italic}It was great... It really was.
+--------------------------------------------------End--
+{Font Italic}Kurgum and I were walking down
+Bevelle’s Stadium Road—formerly known
+as Mika Road.
+--------------------------------------------------End--
+{Font Italic}The stadium that was supposed to be 
+completed by now is still baring its 
+skeleton.
+--------------------------------------------------End--
+{Font Italic}Will the tournament really
+take place here?
+--------------------------------------------------End--
+{Font Italic}How will the Council take responsibility
+if it doesn’t?
+--------------------------------------------------End--
+{Font Italic}Well, it doesn’t really matter to me.
+--------------------------------------------------End--
+{Font Italic}It has no bearing on my life.
+--------------------------------------------------End--
+{Font Italic}The real issue for me is the crowd up
+ahead, and the “star” shining in the
+middle of it.
+--------------------------------------------------End--
+Kurgum: Hey Chuami, not that way!
+We gotta hurry.
+--------------------------------------------------End--
+Chuami: Waiting on you, so we might as well
+just be late.
+--------------------------------------------------End--
+Chuami: Anyway, look. Isn’t that Tidus?
+--------------------------------------------------End--
+Kurgum: Huh...? Wow, it is him!
+--------------------------------------------------End--
+Chuami: Let’s go take a closer look.
+--------------------------------------------------End--
+Kurgum: Okay...
+--------------------------------------------------End--
+Chuami: What, are you nervous?
+--------------------------------------------------End--
+Kurgum: Ahaha...
+--------------------------------------------------End--
+{Font Italic}The reason for Kurgum’s nervousness
+wasn’t Tidus's status as a blitzball
+superstar...
+--------------------------------------------------End--
+{Font Italic}but because he was one of the
+legendary guardians.
+--------------------------------------------------End--
+{Font Italic}Alongside High Summoner Yuna, he had
+literally saved Spira from annihilation.
+--------------------------------------------------End--
+{Font Italic}By the by, I, too, was feeling
+a little nervous.
+--------------------------------------------------End--
+{Font Italic}My reason being...that he knew
+my father.
+--------------------------------------------------End--
+Tidus: Hey, thanks.
+--------------------------------------------------End--
+Tidus: Cheer for me, okay?
+--------------------------------------------------End--
+Tidus: Yeahhh!
+--------------------------------------------------End--
+Tidus: Thank you, thank you!
+--------------------------------------------------End--
+Chuami: Tidus, we’re rooting for you!
+--------------------------------------------------End--
+Tidus: Yup, yup...
+--------------------------------------------------End--
+{Font Italic}"Yup, yup"... It wasn’t just his words
+that were hollow.
+--------------------------------------------------End--
+{Font Italic}When I shook his hand, his grip felt
+weak and lifeless.
+--------------------------------------------------End--
+Tidus: Okay, well, I gotta get going.
+--------------------------------------------------End--
+Tidus: I’ll see you all at the stadium!
+--------------------------------------------------End--
+Kurgum: Now that is what you call a star.
+--------------------------------------------------End--
+Chuami: That I won’t deny, but...
+--------------------------------------------------End--
+Kurgum: What is it?
+--------------------------------------------------End--
+Chuami: I think he’s injured.
+Or maybe he’s sick or something.
+--------------------------------------------------End--
+Chuami: Hey Kurgum, which team is favored
+to win it all?
+--------------------------------------------------End--
+Kurgum: Probably the Besaid Aurochs.
+--------------------------------------------------End--
+Chuami: And after them?
+--------------------------------------------------End--
+Kurgum: The Al Bhed Psyches, maybe?
+--------------------------------------------------End--
+Chuami: Okay, let’s find a betting parlor.
+We might make a fortune.
+--------------------------------------------------End--
+Kurgum: Chuami, is that really...you know...
+--------------------------------------------------End--
+{Font Italic}Allow me to make formal introductions.
+This is my childhood friend Kurgum.
+--------------------------------------------------End--
+{Font Italic}If all was right in the world,
+he’d be a summoner.
+--------------------------------------------------End--
+{Font Italic}But things as they are, he currently
+serves as a Council-authorized “sender”
+who ushers souls to the Farplane.
+--------------------------------------------------End--
+{Font Italic}My name is Chuami, and I serve as
+Kurgum’s assistant...
+--------------------------------------------------End--
+{Font Italic}but in reality, he serves me.
+--------------------------------------------------End--
+{Font Italic}Now don’t misunderstand:
+this isn’t about love or somesuch,
+and it never will be.
+--------------------------------------------------End--
+{Font Italic}The future may be uncertain,
+but that I know for sure.
+--------------------------------------------------End--
+{Font Italic}This is not some kind of ironic lead-in.
+--------------------------------------------------End--
+{Font Italic}Repeat, not a lead-in.
+--------------------------------------------------End--
+Kurgum: Come on, let’s go...
+--------------------------------------------------End--
+Chuami: All right, all right...
+--------------------------------------------------End--
+{Font Italic}We had been assigned to fly to
+Besaid Island on behalf of
+Spira Council Chancellor Baralai.
+--------------------------------------------------End--
+{Font Italic}Just a minor errand, really.
+--------------------------------------------------End--
+Kurgum: Is that Besaid Island?
+--------------------------------------------------End--
+Chuami: No, dummy. That’s Kilika.
+--------------------------------------------------End--
+Captain: We’re approaching Besaid.
+Prepare for landing!
+--------------------------------------------------End--
+Chuami: Did you just laugh???
+--------------------------------------------------End--
+Kurgum: Of course n...Chuami,
+I can’t brea...stop!
+--------------------------------------------------End--
+Captain: Prepare for landing, {Font Italic}oui pnydc{Font Normal} (you brats)!
+--------------------------------------------------End--
+{Font Italic}Our objective is to meet the
+one and only High Summoner Yuna.
+--------------------------------------------------End--
+{Font Italic}She currently serves as an adviser
+to the Yevoners.
+--------------------------------------------------End--
+{Font Italic}Now Yevoners, you know the story
+with them.
+--------------------------------------------------End--
+{Font Italic}Stuffy, anachronistic fossils.
+--------------------------------------------------End--
+{Font Italic}They’re the guard dogs of the old ways
+and so-called morality.
+--------------------------------------------------End--
+{Font Italic}The recent commotion caused by
+hard-line Yevoners has been quelled...
+--------------------------------------------------End--
+{Font Italic}but it’s nauseating to think that
+organizations like that still exist
+in Spira.
+--------------------------------------------------End--
+{Font Italic}I really don’t like these Yevoners, but
+I’d be lying if I said I wasn’t interested
+in meeting the heroine...
+--------------------------------------------------End--
+{Font Italic}who defeated Sin three years ago and
+freed Spira from a thousand-year curse.
+--------------------------------------------------End--
+{Font Italic}She also must have known my father well.
+--------------------------------------------------End--
+Lulu: So, what business does the Council
+have here?
+--------------------------------------------------End--
+Kurgum: My apologies, Mayor Lulu...
+--------------------------------------------------End--
+Kurgum: but my instructions are to speak to
+Lady Yuna in person.
+--------------------------------------------------End--
+Wakka: Oh, yeah? Well then I guess we
+should let you see her—NOT.
+--------------------------------------------------End--
+Wakka: Lots of people come here saying
+the same thing, yeah?
+--------------------------------------------------End--
+Lulu: We’re here to spare Yuna any
+unnecessary headaches.
+--------------------------------------------------End--
+Lulu: Now state your business.
+--------------------------------------------------End--
+Kurgum: But...
+--------------------------------------------------End--
+Wakka: Well, I guess you got a job to do, too.
+--------------------------------------------------End--
+Wakka: Let’s do this, I’ll take you to Yuna,
+but I sit in on the meeting, too.
+--------------------------------------------------End--
+Wakka: We’ll all share the pain, eh?
+--------------------------------------------------End--
+{Font Italic}“What ‘pain’ is there for you?”
+I thought, but I said nothing...
+--------------------------------------------------End--
+{Font Italic}because the big-breasted mayor
+and the oafish caretaker were also
+legendary guardians.
+--------------------------------------------------End--
+{Font Italic}They knew my father too, so it
+wouldn’t have been wise to start
+trouble right away.
+--------------------------------------------------End--
+Wakka: This place used to be called
+the Cloister of Trials.
+--------------------------------------------------End--
+Wakka: It’s just a regular passageway now that
+there’s no fayth.
+--------------------------------------------------End--
+Wakka: Summoners used to walk to the room
+farthest down to meet with the fayth.
+--------------------------------------------------End--
+Wakka: That’s where Yuna is right now.
+--------------------------------------------------End--
+Chuami: What is Lady Yuna doing there? 
+I mean, if there’s no fayth...?
+--------------------------------------------------End--
+Wakka: Even with no fayth, you can still pray.
+That’s what Yuna does now.
+--------------------------------------------------End--
+Kurgum: What does she pray for?
+--------------------------------------------------End--
+Wakka: Peace on Spira.
+--------------------------------------------------End--
+Chuami: Yeah right...
+--------------------------------------------------End--
+Wakka: Say again?
+--------------------------------------------------End--
+Chuami: Oh, nothing...
+Uh, by the way, Mr. Wakka...
+--------------------------------------------------End--
+Chuami: I’m a little confused about Yevoners.
+--------------------------------------------------End--
+Chuami: Their objective is *not* restoring
+power to the Yevon temples?
+--------------------------------------------------End--
+Wakka: What, we starting from there...?
+--------------------------------------------------End--
+Wakka: Well, I guess it’s pretty important,
+so I’ll explain.
+--------------------------------------------------End--
+Wakka: Yevoners aren’t trying to control the
+world through the teachings like
+the old temples did.
+--------------------------------------------------End--
+Wakka: All they’re trying to do is live their
+own lives by the teachings. That’s all.
+--------------------------------------------------End--
+Wakka: It’s just one way of living.
+--------------------------------------------------End--
+Chuami: I don’t quite understand
+the difference.
+--------------------------------------------------End--
+Wakka: The temples maintained several big lies.
+--------------------------------------------------End--
+Wakka: Sin being the manifestation of human
+misdeeds, the taboo against the use of
+machines, that kinda stuff.
+--------------------------------------------------End--
+Wakka: But everything else they said was
+pretty much on the money.
+--------------------------------------------------End--
+Wakka: Gratitude for the bounty of nature,
+respecting your neighbors...
+--------------------------------------------------End--
+Chuami: ...But all of that just sounds like
+common sense.
+--------------------------------------------------End--
+Chuami: I don’t think you need to become a
+Yevoner and pray...
+--------------------------------------------------End--
+Wakka: That’s why I said it’s one way to live,
+not the only way.
+--------------------------------------------------End--
+Wakka: How old are you?
+--------------------------------------------------End--
+Chuami: Seventeen.
+--------------------------------------------------End--
+Wakka: So you’ll learn soon.
+--------------------------------------------------End--
+Wakka: The older you get, the harder it
+becomes to change how you live.
+--------------------------------------------------End--
+Wakka: Even in this new age,
+there are people that are lost.
+--------------------------------------------------End--
+Wakka: Yevoners are a gathering of
+people like that.
+--------------------------------------------------End--
+Kurgum: So it’s different from say, New Yevon?
+--------------------------------------------------End--
+Wakka: Those guys were just using Yevon’s name
+to gain the people’s trust.
+--------------------------------------------------End--
+Wakka: Their views were actually progressive.
+--------------------------------------------------End--
+Chuami: So the Yevoners are backwards thinking?
+--------------------------------------------------End--
+Wakka: That’s not what I meant...
+--------------------------------------------------End--
+Wakka: Anyway, New Yevon is gone,
+and now it’s a council.
+--------------------------------------------------End--
+Wakka: What’s the point of discussing it now?
+--------------------------------------------------End--
+Chuami: So to sum up, Yevoners are basically
+a gathering of weak people?
+--------------------------------------------------End--
+Kurgum: Chuami!
+--------------------------------------------------End--
+Wakka: Why you gotta go and say it out loud?
+--------------------------------------------------End--
+Wakka: Everyone knows. They know.
+--------------------------------------------------End--
+Chuami: If they know, they shouldn’t just
+crawl into a hole.
+--------------------------------------------------End--
+Chuami: They should go out and try to live.
+--------------------------------------------------End--
+Chuami: They think they maintain the peace
+through prayer? Talk about delusional...
+--------------------------------------------------End--
+Wakka: Chuami, was it? Be kinder. Be bigger.
+--------------------------------------------------End--
+Wakka: Your kind of thinking will only
+hurt those people.
+--------------------------------------------------End--
+{Font Italic}I didn’t like how he said “those people.”
+As if he had no stake.
+--------------------------------------------------End--
+Wakka: Okay, wait here, I’ll bring Yuna.
+--------------------------------------------------End--
+Wakka: Just keep it to business.
+--------------------------------------------------End--
+Wakka: If you hassle her like you did with me,
+I’ll throw you out.
+--------------------------------------------------End--
+{Font Italic}“Hassle.” Perhaps I was hassling.
+--------------------------------------------------End--
+{Font Italic}I was irked.
+--------------------------------------------------End--
+{Font Italic}“Praying for peace”?
+Far too late for that.
+--------------------------------------------------End--
+{Font Italic}My mother was killed by
+Yevoner hunters.
+--------------------------------------------------End--
+{Font Italic}She was impaled by a spear and died
+with blood streaming from her chest.
+--------------------------------------------------End--
+{Font Italic}She wasn’t a Yevoner—just a
+sympathizer.
+--------------------------------------------------End--
+{Font Italic}If it wasn’t for them...
+--------------------------------------------------End--
+Kurgum: Chuami, I know how you feel,
+but please...we have a job to do.
+--------------------------------------------------End--
+Chuami: I know.
+--------------------------------------------------End--
+Kurgum: Just please...oh, it’s Lady Yuna.
+--------------------------------------------------End--
+Yuna: Hello, and welcome to Besaid,
+home of the Yevoners.
+--------------------------------------------------End--
+Yuna: I am the priestess Yuna.
+--------------------------------------------------End--
+Kurgum: Greetings, my lady.
+--------------------------------------------------End--
+Kurgum: I am Kurgum, an authorized sender.
+--------------------------------------------------End--
+Kurgum: I have long wanted to meet you...
+--------------------------------------------------End--
+Kurgum: and I have something for you from
+Chancellor Baralai, and...
+--------------------------------------------------End--
+Yuna: I see. Then please leave the package,
+and be on your way.
+--------------------------------------------------End--
+Chuami: Hold on there, did you just hear
+what he said?
+--------------------------------------------------End--
+Chuami: He said he’s waited a long time
+to meet you!
+--------------------------------------------------End--
+Chuami: Ever since he awakened, he’s been
+waiting for this day to...
+--------------------------------------------------End--
+Kurgum: No, it’s fine. You must be very busy.
+--------------------------------------------------End--
+Chuami: Kurgum, stay out of this.
+--------------------------------------------------End--
+Kurgum: But Lady Yuna said she’s busy...
+--------------------------------------------------End--
+Chuami: Busy? Too busy to eat?
+Too busy to sleep?
+--------------------------------------------------End--
+Chuami: Too busy to talk just a few moments to
+guests who came all the way from
+Bevelle?
+--------------------------------------------------End--
+Yuna: I apologize. I had to interrupt my
+prayer so I’m feeling a bit anxious.
+--------------------------------------------------End--
+Chuami: I think Spira is peaceful enough
+without your prayers.
+--------------------------------------------------End--
+Chuami: Sure, there’s trouble here and there,
+but the Council takes care of most 
+of them.
+--------------------------------------------------End--
+Yuna: I suppose so.
+--------------------------------------------------End--
+Chuami: Huh???
+--------------------------------------------------End--
+Wakka: Hey, we don’t need that kind of talk.
+--------------------------------------------------End--
+Wakka: You brought something?
+Then let’s see it.
+--------------------------------------------------End--
+Kurgum: Yes, um...here it is.
+--------------------------------------------------End--
+{Font Italic}Kurgum gave the sphere he received from
+Chancellor Baralai to Yuna.
+--------------------------------------------------End--
+{Font Italic}The sphere showed an image of 
+the Moonflow.
+--------------------------------------------------End--
+{Font Italic}In its currents were two enormous
+yet adorable shoopufs...
+--------------------------------------------------End--
+{Font Italic}wading together lovingly,
+tangling their long noses...
+--------------------------------------------------End--
+Wakka: Two shoopufs!?
+--------------------------------------------------End--
+Kurgum: One morning, there was another one.
+--------------------------------------------------End--
+Wakka: Well, where’d it come from?
+--------------------------------------------------End--
+Wakka: The Moonflow shoopuf is supposed to be
+the last one.
+--------------------------------------------------End--
+Kurgum: Thirty years ago there was a shoopuf
+couple, but the female was attacked
+and killed by Sin.
+--------------------------------------------------End--
+Kurgum: There are elderly folk who claim
+that it is that shoopuf.
+--------------------------------------------------End--
+Yuna: The Beckoning...
+--------------------------------------------------End--
+Wakka: Yeah, it has to be.
+--------------------------------------------------End--
+Yuna: But this time it’s not the Yevoners.
+--------------------------------------------------End--
+Yuna: We’ve forbidden the Beckoning
+outside of the Farplane.
+--------------------------------------------------End--
+Kurgum: I don’t know the reason...
+--------------------------------------------------End--
+Kurgum: but Chancellor Baralai insisted that
+Lady Yuna see this, then come to
+Bevelle to discuss it.
+--------------------------------------------------End--
+Yuna: Kurgum, you’re a sender, right?
+--------------------------------------------------End--
+Kurgum: Yes.
+--------------------------------------------------End--
+Yuna: Then you can do it, too.
+--------------------------------------------------End--
+Yuna: This shoopuf is merely an illusion.
+If you send it, it will cease to be.
+--------------------------------------------------End--
+Kurgum: That’s not the only problem.
+--------------------------------------------------End--
+Chuami: The Moonflow is overflowing again.
+--------------------------------------------------End--
+Chuami: The area around the Moonflow *is*
+always teeming with spiritual energy,
+but this is...abnormal.
+--------------------------------------------------End--
+Chuami: We need to find out why on top of
+finding out who brought back
+the shoopuf.
+--------------------------------------------------End--
+Chuami: I’m pretty sure the Council thinks
+it’s the Yevoners...
+--------------------------------------------------End--
+Chuami: so it’s best if Lady Yuna goes to see
+them personally.
+--------------------------------------------------End--
+Chuami: Her voice carries weight with many.
+--------------------------------------------------End--
+Wakka: Baralai...just wants Yuna to
+bail him out.
+--------------------------------------------------End--
+Wakka: Appease the Council yourself,
+why don’t you...?
+--------------------------------------------------End--
+Yuna: Wakka...
+--------------------------------------------------End--
+Wakka: Yuna was supposed to be spared
+from politics.
+--------------------------------------------------End--
+Wakka: That’s why she shouldn’t...
+--------------------------------------------------End--
+Chuami: She shouldn’t...?
+--------------------------------------------------End--
+Yuna: I’m so sorry, I can’t go.
+--------------------------------------------------End--
+Yuna: But, that’ll get you two in
+trouble, right?
+--------------------------------------------------End--
+Yuna: So let’s do this: I’ll create a
+letter sphere for the council,
+and you can take...
+--------------------------------------------------End--
+Chuami: I saw Tidus in Bevelle.
+Your boyfriend, right?
+--------------------------------------------------End--
+Yuna: Yes...did he look well?
+--------------------------------------------------End--
+Chuami: He was hiding it, but he looked injured.
+--------------------------------------------------End--
+Yuna: Really? Wakka, did you know?
+--------------------------------------------------End--
+Wakka: Nope.
+--------------------------------------------------End--
+Chuami: Probably doesn’t want to worry people.
+--------------------------------------------------End--
+Kurgum: Chuami...
+--------------------------------------------------End--
+Yuna: I see...yeah, okay...
+--------------------------------------------------End--
+Wakka: Yuna, let’s go talk to Lu.
+--------------------------------------------------End--
+Yuna: Alright.
+--------------------------------------------------End--
+{Font Italic}After leaving the temple, we were
+left alone for a while.
+--------------------------------------------------End--
+{Font Italic}I don’t know what they were discussing...
+--------------------------------------------------End--
+{Font Italic}but it was clear that Yuna was moved
+more by her boyfriend’s injury than
+Spira’s current problems.
+--------------------------------------------------End--
+Chuami: Hey, Kurgum?
+--------------------------------------------------End--
+Kurgum: Hmm?
+--------------------------------------------------End--
+Chuami: I’m a little annoyed.
+--------------------------------------------------End--
+Kurgum: But it looks like we can
+fulfill our duty.
+--------------------------------------------------End--
+Kurgum: Besides, we get to talk to
+Lady Yuna a bit more.
+--------------------------------------------------End--
+Kurgum: I always wanted her advice on how
+summoners should live in a world
+without the fayth.
+--------------------------------------------------End--
+Kurgum: And you, you can ask about
+Master Auron...
+--------------------------------------------------End--
+Chuami: Shh! If they find out I’m his daughter,
+they'll all start kowtowing!
+--------------------------------------------------End--
+Chuami: That info is our doomsday weapon!
+--------------------------------------------------End--
+Lulu: Auron’s daughter!?
+--------------------------------------------------End--
+Chuami: Mayor!?
+--------------------------------------------------End--
+Lulu: Is that true?
+--------------------------------------------------End--
+Chuami: ...Yes, it is.
+--------------------------------------------------End--
+Chuami: Did you just...? Did you laugh???
+--------------------------------------------------End--
+Lulu: Have you ever lived with him?
+--------------------------------------------------End--
+Chuami: No, but I heard stories from my mother.
+--------------------------------------------------End--
+Lulu: Have you even met him?
+--------------------------------------------------End--
+Chuami: I was too little to remember.
+--------------------------------------------------End--
+Lulu: Hmm...
+--------------------------------------------------End--
+Chuami: You can’t prove otherwise.
+--------------------------------------------------End--
+Lulu: You don’t look like him at all.
+--------------------------------------------------End--
+Chuami: I take after my mother.
+--------------------------------------------------End--
+Lulu: There were others that
+looked more like him.
+--------------------------------------------------End--
+Chuami: Huh?
+--------------------------------------------------End--
+Lulu: Auron, Braska, Jecht...
+--------------------------------------------------End--
+Lulu: I’ve met many a swindler claiming to be
+their children, asking for their things.
+--------------------------------------------------End--
+Chuami: And you think I’m one of them.
+Are you calling my mother a liar?
+--------------------------------------------------End--
+Lulu: I won’t go that far...
+--------------------------------------------------End--
+Lulu: but if Auron did have children,
+there’s no way you wouldn’t
+remember him...
+--------------------------------------------------End--
+Lulu: and he wouldn’t hide it from us.
+--------------------------------------------------End--
+Lulu: Auron isn’t that kind of man.
+--------------------------------------------------End--
+{Font Italic}Big breasts, bigger attitude.
+--------------------------------------------------End--
+{Font Italic}Just because she knows Auron,
+she thinks she can say anything.
+--------------------------------------------------End--
+{Font Italic}I’ve confirmed the mayor as a hostile...
+--------------------------------------------------End--
+{Font Italic}but that’s just fine.
+I’ll deal with her eventually.
+--------------------------------------------------End--
+{Font Italic}Anyway, we—I mean, Yuna, Kurgum,
+the caretaker Wakka and I—
+--------------------------------------------------End--
+{Font Italic}decided to stop by the Moonflow
+before going to Bevelle.
+--------------------------------------------------End--
+{Font Italic}The airship had mechanical problems and
+couldn’t fly, so it was an arduous trip.
+--------------------------------------------------End--
+{Font Italic}Furthermore, the banks of the Moonflow
+were packed with people wanting to see
+the new shoopuf.
+--------------------------------------------------End--
+Wakka: Oh yeah, there really are two shoopufs!
+--------------------------------------------------End--
+Wakka: But wow, there’s so many
+spectators here, yeah?
+--------------------------------------------------End--
+Yuna: Not precisely, Wakka.
+--------------------------------------------------End--
+Wakka: Huh? What are they if they’re not
+spectators?
+--------------------------------------------------End--
+Yuna: Half the people here are illusions.
+--------------------------------------------------End--
+Yuna: The Moonflow energy is responding to
+the will of the living.
+--------------------------------------------------End--
+Yuna: It’s as if we’re in the Farplane.
+--------------------------------------------------End--
+Kurgum: ...Yes.
+--------------------------------------------------End--
+Chuami: What!? You can sense it too, Kurgum?
+--------------------------------------------------End--
+Kurgum: Yes, I can. For instance,
+that family there.
+--------------------------------------------------End--
+Kurgum: The father and daughter are alive,
+but the mother...so sad...
+--------------------------------------------------End--
+Chuami: I’ve never been on a Farplane
+pilgrimage, but is it always
+this...vivid?
+--------------------------------------------------End--
+Yuna: Not quite...
+It’s true, this almost seems too...
+--------------------------------------------------End--
+Father: Come on, Maelu.
+We have to get home before night falls.
+--------------------------------------------------End--
+Maelu: Okay. Um, Mommy?
+You’re coming with us, right?
+--------------------------------------------------End--
+Father: She can’t do that, sweetheart.
+--------------------------------------------------End--
+Maelu: But why???
+She’s here! She came to see us!
+--------------------------------------------------End--
+Father: Come on, Maelu. We can come
+visit her again another time.
+--------------------------------------------------End--
+Maelu: No! I want her to come home!
+--------------------------------------------------End--
+Chuami: Ugh... Nice work, “Dad.”
+Of course she’s going to say that!
+--------------------------------------------------End--
+Chuami: It’s hard enough to say goodbye
+once to a dead parent, but twice...?
+That’s just cruel.
+--------------------------------------------------End--
+Maelu: Hey, Mommy?
+--------------------------------------------------End--
+Maelu: You’ll come with us, right?
+Come home...?
+--------------------------------------------------End--
+Mother: Yes, Maelu. Let’s go home.
+--------------------------------------------------End--
+Maelu: Really!?
+--------------------------------------------------End--
+Father: This can’t be...
+--------------------------------------------------End--
+Kurgum: Lady Yuna, could this be...
+--------------------------------------------------End--
+Yuna: Unbelievable...
+--------------------------------------------------End--
+Chuami: Kurgum, explain!
+--------------------------------------------------End--
+Kurgum: A beckoned illusion doesn’t speak.
+--------------------------------------------------End--
+Kurgum: More accurately, only the
+“beckoner” can hear the voice.
+--------------------------------------------------End--
+Chuami: So, what...? If it’s not an illusion,
+we call that “real,” right?
+--------------------------------------------------End--
+Yuna: You should report this to the
+Council at once.
+--------------------------------------------------End--
+Chuami: Agreed. Let’s go...
+--------------------------------------------------End--
+Chuami: Hey! Kurgum! What are you doing!?
+You’re gonna dance!?
+--------------------------------------------------End--
+Kurgum: Souls must be sent.
+Order must be maintained.
+--------------------------------------------------End--
+Yuna: Kurgum, not now.
+It’ll only cause sadness.
+--------------------------------------------------End--
+Kurgum: But this is too unnatural, it’s...wrong!
+--------------------------------------------------End--
+Kurgum: The Council must have known about this,
+and wanted you to see it, right?
+--------------------------------------------------End--
+Kurgum: So you can do something about it?
+--------------------------------------------------End--
+Yuna: Even if that were so,
+now is not the time.
+--------------------------------------------------End--
+Yuna: No one has the right to
+violate this reunion.
+--------------------------------------------------End--
+Yuna: Not me, not the Council.
+--------------------------------------------------End--
+Chuami: Forget about “rights”! Look!
+Look how happy they are.
+--------------------------------------------------End--
+Chuami: You two start sending everyone here,
+there’ll be a riot!
+--------------------------------------------------End--
+Chuami: I don’t want to be collateral damage.
+--------------------------------------------------End--
+Wakka: Well, a little sending here and there
+won’t take care of this, right?
+--------------------------------------------------End--
+Wakka: Let’s come back later.
+--------------------------------------------------End--
+Kurgum: But...
+--------------------------------------------------End--
+Yuna: Kurgum, please...
+--------------------------------------------------End--
+{Font Italic}And so, we returned to Bevelle.
+--------------------------------------------------End--
+Kurgum: Chuami, your shoe...
+--------------------------------------------------End--
+Chuami: Humph!
+--------------------------------------------------End--
+Chuami: What are we waiting on?
+--------------------------------------------------End--
+Kurgum: More importantly...
+--------------------------------------------------End--
+Chuami: “More importantly”?
+--------------------------------------------------End--
+Chuami: Is there anything more important
+than my question?
+--------------------------------------------------End--
+Chuami: Uh-uh. I don’t think so.
+--------------------------------------------------End--
+Kurgum: When I stopped the sending,
+Lady Yuna looked relieved, right?
+--------------------------------------------------End--
+Chuami: I guess.
+--------------------------------------------------End--
+Kurgum: I thought Lady Yuna was...
+a righteous person.
+--------------------------------------------------End--
+Chuami: Excessive hero worship.
+You expect too much.
+--------------------------------------------------End--
+Kurgum: Maybe...you’re right.
+--------------------------------------------------End--
+{Font Italic}Looking back now, we could have
+predicted this.
+--------------------------------------------------End--
+{Font Italic}What we saw that day at the Moonflow
+wasn’t just an omen.
+--------------------------------------------------End--
+{Font Italic}It was a clear sign of the return.
+--------------------------------------------------End--
+{Font Italic}The return of what is now right
+before my eyes—Sin.
+--------------------------------------------------End--
+Kurgum: Sin...?
+--------------------------------------------------End--
+Kurgum: It has to be a mistake, right, Chuami?
+--------------------------------------------------End--
+Kurgum: It’s just some big monster...
+--------------------------------------------------End--
+Yuna: No...that is Sin.
+The Sin that should no longer be.
+--------------------------------------------------End--
+Kurgum: Are you saying someone...
+beckoned it to return?
+--------------------------------------------------End--
+Yuna: Yes, very strongly.
+Someone strongly wished for Sin.
+--------------------------------------------------End--
+Chuami: But what...what are we gonna do...?
+--------------------------------------------------End--
+Yuna: Only a summoner and the
+Final Aeon can defeat Sin.
+--------------------------------------------------End--
+Kurgum: But Lady Yuna, without the fayth...
+--------------------------------------------------End--
+Wakka: Yuna, let’s go back to Besaid.
+They’ll push this all on you.
+--------------------------------------------------End--
+Wakka: It doesn’t matter to people that
+there’s no fayth. Sin is for summoners,
+in their minds.
+--------------------------------------------------End--
+Wakka: That’s just how it is.
+--------------------------------------------------End--
+Wakka: Kurgum, you coming?
+--------------------------------------------------End--
+Kurgum: I...will abide by Lady Yuna’s decision.
+--------------------------------------------------End--
+Kurgum: Lady Yuna!
+--------------------------------------------------End--
+Yuna: I...have to see Tidus.
+--------------------------------------------------End--
+{Font Italic}What is the deal with this woman!?
+Seriously!
+--------------------------------------------------End--
+Kurgum: Chuami...
+--------------------------------------------------End--
+Chuami: What are we waiting on now!?
+--------------------------------------------------End--
+Kurgum: Chuami!
+--------------------------------------------------End--
+Kurgum: Chuami, that room is...
+--------------------------------------------------End--
+Chuami: Shhh!
+--------------------------------------------------End--
+Kurgum: Uh, Chuami, it’s not polite
+to eavesdrop.
+--------------------------------------------------End--
+Chuami: Don’t tell me you’re not curious about
+what the high summoner and the
+superstar are talking about.
+--------------------------------------------------End--
+Tidus: What does that mean?
+--------------------------------------------------End--
+Yuna: You have that girl, so...
+--------------------------------------------------End--
+Tidus: I told you, Marphie is just a friend.
+--------------------------------------------------End--
+Yuna: Really...?
+--------------------------------------------------End--
+Tidus: Come on, Yuna,
+if you just think for a minute...
+--------------------------------------------------End--
+Yuna: I can’t think.
+--------------------------------------------------End--
+Tidus: You’re not yourself!
+--------------------------------------------------End--
+Yuna: Yeah, something’s...wrong with me.
+--------------------------------------------------End--
+Yuna: I didn’t think this would...I’m sorry.
+--------------------------------------------------End--
+Tidus: As long as you’re aware of it.
+--------------------------------------------------End--
+Yuna: No, that’s not what I mean.
+--------------------------------------------------End--
+Yuna: I’m sorry but...I’m no longer
+looking at you.
+--------------------------------------------------End--
+Tidus: What?
+--------------------------------------------------End--
+Yuna: I think...I’m in love with someone else.
+--------------------------------------------------End--
+Tidus: Uh...who?
+--------------------------------------------------End--
+Yuna: Someone you don’t know.
+--------------------------------------------------End--
+Tidus: Let me meet him, then.
+--------------------------------------------------End--
+Yuna: I’m sorry...
+--------------------------------------------------End--
+Chuami: Kurgum, this is unreal. Un-real.
+--------------------------------------------------End--
+Chuami: The world is about to end,
+and she’s having a spat!
+--------------------------------------------------End--
+Chuami: ...Uh, why on Spira are *you*
+crying, Kurgum?
+--------------------------------------------------End--
+Kurgum: Chuami, I’m sorry.
+--------------------------------------------------End--
+Kurgum: I’m in love with Lady Yuna.
+That’s why...I can’t be with you.
+--------------------------------------------------End--
+Kurgum: I’m sorry.
+--------------------------------------------------End--
+Chuami: Say what, now?
+--------------------------------------------------End--
+Chuami: Since when is our relationship
+like that???
+--------------------------------------------------End--
+Chuami: What’s going on here!?
+--------------------------------------------------End--
+Kurgum: If it’s not like that, then it’s fine.
+--------------------------------------------------End--
+Kurgum: Yes, let’s say goodbye here.
+--------------------------------------------------End--
+Kurgum: We each have to go our separate ways.
+--------------------------------------------------End--
+Chuami: Kurgum?
+--------------------------------------------------End--
+Kurgum: You can’t understand, Chuami.
+--------------------------------------------------End--
+Kurgum: Only summoners can.
+--------------------------------------------------End--
+Chuami: Ahh, and there it is!
+--------------------------------------------------End--
+Chuami: The doomsday statement!
+--------------------------------------------------End--
+Kurgum: I’m sorry.
+--------------------------------------------------End--
+Chuami: Whatever!
+--------------------------------------------------End--
+{Font Italic}So I left the summoners and came back
+to Besaid.
+--------------------------------------------------End--
+{Font Italic}I was a little frazzled and
+not thinking straight...
+--------------------------------------------------End--
+{Font Italic}but I probably came here to drag out
+the people who defeated Sin once.
+--------------------------------------------------End--
+{Font Italic}Determined though he may be,
+it was too big a task for Kurgum.
+--------------------------------------------------End--
+Tidus: ...And that was it.
+--------------------------------------------------End--
+Lulu: So you just came crawling back here?
+That’s a laugh.
+--------------------------------------------------End--
+Tidus: So, who do you think this guy is Yuna loves?
+--------------------------------------------------End--
+Lulu: Figure it out yourself.
+--------------------------------------------------End--
+Tidus: But she said it was someone
+I don’t know.
+--------------------------------------------------End--
+Tidus: What?
+--------------------------------------------------End--
+Lulu: Look for her. Find her. Embrace her.
+--------------------------------------------------End--
+Tidus: But that’s...
+--------------------------------------------------End--
+Lulu: You’re really pathetic.
+--------------------------------------------------End--
+Lulu: I thought you knew Yuna
+better than that.
+--------------------------------------------------End--
+Tidus: I thought I did.
+--------------------------------------------------End--
+Lulu: “Thought” you did....
+--------------------------------------------------End--
+Chuami: I hate to interrupt, but Sin???
+--------------------------------------------------End--
+Chuami: Those two knew it was hopeless, but...
+--------------------------------------------------End--
+Lulu: Who said it was hopeless?
+--------------------------------------------------End--
+Chuami: What?
+--------------------------------------------------End--
+Lulu: I mean, Sin came back, right?
+--------------------------------------------------End--
+Lulu: What’s to stop anything else from
+coming back?
+--------------------------------------------------End--
+Chuami: Does that mean...
+--------------------------------------------------End--
+{Font Italic}I didn’t quite understand,
+so I looked at Tidus.
+--------------------------------------------------End--
+{Font Italic}With furrowed brows, he looked intently
+at the mayor, then suddenly opened
+his eyes wide.
+--------------------------------------------------End--
+Lulu: We have to go.
+--------------------------------------------------End--
+Tidus: Yeah.
+--------------------------------------------------End--
+{Font Italic}I was as confused as ever...
+--------------------------------------------------End--
+{Font Italic}but I couldn’t ask.
+All I could ask was—
+--------------------------------------------------End--
+Chuami: I wonder where they are now.
+--------------------------------------------------End--
+Tidus: Wherever they are,
+we have to get there.
+--------------------------------------------------End--
+Chuami: Even though she dumped you?
+--------------------------------------------------End--
+Tidus: I made a promise—that we’d
+always be together.
+--------------------------------------------------End--
+{Font Italic}“Really? The mushy stuff, now?”
+I thought.
+--------------------------------------------------End--
+{Font Italic}But as I saw the pain in his face,
+I could say nothing.
+--------------------------------------------------End--
+Yuna: I will defeat Sin... 
+I must defeat Sin.
+--------------------------------------------------End--

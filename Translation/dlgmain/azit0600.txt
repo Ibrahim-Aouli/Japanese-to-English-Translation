@@ -1,0 +1,347 @@
+{Rikku}
+Over here!
+--------------------------------------------------End--
+{Rikku}
+That way!
+--------------------------------------------------End--
+{Rikku}
+This way!
+--------------------------------------------------End--
+{Rikku}
+No, not that way!
+--------------------------------------------------End--
+
+Enter the password
+in proper {Al Bhed3}!
+--------------------------------------------------End--
+
+Sorry
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Tally{CHOICE:FF}{VAR07:54}{CHOICE:31}Tarry{CHOICE:FF}{VAR07:68}{CHOICE:32}Lorry{CHOICE:FF}
+{CHOICE:33}Rally{CHOICE:FF}{VAR07:54}{CHOICE:34}Worry{CHOICE:FF}{VAR07:68}{CHOICE:35}Lilly{CHOICE:FF}
+{CHOICE:36}Carry{CHOICE:FF}{VAR07:54}{CHOICE:37}Sorry{CHOICE:FF}{VAR07:68}{CHOICE:38}Filly{CHOICE:FF}
+--------------------------------------------------End--
+
+Wait
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Howl{CHOICE:FF}{VAR07:54}{CHOICE:31}Bear{CHOICE:FF}{VAR07:68}{CHOICE:32}Caul
+{CHOICE:33}Meat{CHOICE:FF}{VAR07:54}{CHOICE:34}Peat{CHOICE:FF}{VAR07:68}{CHOICE:35}Wait
+{CHOICE:36}Seat{CHOICE:FF}{VAR07:54}{CHOICE:37}Heat{CHOICE:FF}{VAR07:68}{CHOICE:38}Bait
+--------------------------------------------------End--
+
+Pardon
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Warden{CHOICE:FF}{VAR07:54}{CHOICE:31}Silver{CHOICE:FF}{VAR07:68}{CHOICE:32}Harder
+{CHOICE:33}Burton{CHOICE:FF}{VAR07:54}{CHOICE:34}Pardon{CHOICE:FF}{VAR07:68}{CHOICE:35}Larder
+{CHOICE:36}Martin{CHOICE:FF}{VAR07:54}{CHOICE:37}Kelvin{CHOICE:FF}{VAR07:68}{CHOICE:38}Melvin
+--------------------------------------------------End--
+
+The treasure chest of dreams asks:
+What do I contain?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Bomb{CHOICE:FF}{VAR07:5B}{CHOICE:31}Elixir{CHOICE:FF}{VAR07:76}{CHOICE:32}Hi-Potion
+{CHOICE:33}Mega-Potion{CHOICE:FF}{VAR07:5B}{CHOICE:34}Soft{CHOICE:FF}{VAR07:76}{CHOICE:35}Chimera
+{CHOICE:36}Potion{CHOICE:FF}{VAR07:5B}{CHOICE:37}Remedy{CHOICE:FF}{VAR07:76}{CHOICE:38}Evil Eye
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. I!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}Y{White} {RIGHT} {Pink}A{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. II!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}P{White} {RIGHT} {Pink}B{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. III!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}L{White} {RIGHT} {Pink}C{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. IV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}T{White} {RIGHT} {Pink}D{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. V!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}A{White} {RIGHT} {Pink}E{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. VI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}V{White} {RIGHT} {Pink}F{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. VII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}K{White} {RIGHT} {Pink}G{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. VIII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}R{White} {RIGHT} {Pink}H{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. IX!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}E{White} {RIGHT} {Pink}I{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. X!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}Z{White} {RIGHT} {Pink}J{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}G{White} {RIGHT} {Pink}K{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}M{White} {RIGHT} {Pink}L{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XIII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}S{White} {RIGHT} {Pink}M{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XIV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}H{White} {RIGHT} {Pink}N{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}U{White} {RIGHT} {Pink}O{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XVI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}B{White} {RIGHT} {Pink}P{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XVII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}X{White} {RIGHT} {Pink}Q{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XVIII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}N{White} {RIGHT} {Pink}R{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XIX!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}C{White} {RIGHT} {Pink}S{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XX!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}D{White} {RIGHT} {Pink}T{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}I{White} {RIGHT} {Pink}U{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}J{White} {RIGHT} {Pink}V{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXIII!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}F{White} {RIGHT} {Pink}W{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXIV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}Q{White} {RIGHT} {Pink}X{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXV!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}O{White} {RIGHT} {Pink}Y{White} ]
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer vol. XXVI!
+--------------------------------------------------End--
+{WINDOW}
+The secrets of the {Al Bhed}
+  language are revealed!
+{VAR07:31}[ {OPurple}W{White} {RIGHT} {Pink}Z{White} ]
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}{Yellow}-Introduction to {Al Bhed}-{White}
+Find {Al Bhed} primers to help you decipher
+the strange {Al Bhed} language.
+{OPurple}Sycdan dra {Al Bhed} myhkiyka! Pacd uv milg!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hujela{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Pakehhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Typpman{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Maynhan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Cbaygan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Hydeja{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Unydun{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Medanyde{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} has achieved the rank of {Blue}{Al Bhed} Sycdan{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}{Al Bhed} Compilation Sphere{White}
+--------------------------------------------------End--
+{WINDOW}
+Use previously saved Al Bhed Primer
+data to synthesize a new
+Al Bhed primer!
+{NEWPAGE}
+Select save data to synthesize
+Al Bhed primer from.
+--------------------------------------------------End--
+{WINDOW}
+Synthesize from other save data?
+{VAR07:31}{CHOICE:30}Yes
+{VAR07:31}{CHOICE:31}No{VAR07:E4}
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+Error loading {Al Bhed} dictionary!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} dictionary successfully loaded!
+--------------------------------------------------End--
+{WINDOW}
+No {Al Bhed} dictionary data found!
+--------------------------------------------------End--
+{WINDOW}
+Compile {Al Bhed} dictionary?
+{VAR07:31}{CHOICE:30}Yes
+{VAR07:31}{CHOICE:31}No{VAR07:E4}
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Take a look.
+{CHOICE:31}Leave it alone.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Auron}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Braska}'s sphere!
+--------------------------------------------------End--

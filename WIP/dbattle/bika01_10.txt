@@ -1,0 +1,14 @@
+{Rikku} 
+Ah— leave the machines to me!
+--------------------------------------------------End--
+{Rikku} 
+I’ll yank out the parts
+and take them out real quick.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}  [Help Form]
+--------------------------------------------------End--
+{WINDOW}
+{White} Help sample
+Structure of title and content text
+--------------------------------------------------End--

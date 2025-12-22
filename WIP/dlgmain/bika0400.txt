@@ -1,0 +1,169 @@
+{Wakka} 
+Where is {Yuna}!?
+--------------------------------------------------End--
+{Rikku} 
+Kehyakk!
+--------------------------------------------------End--
+{Rikku} 
+Who!?
+Who did this!?
+--------------------------------------------------End--
+{Rikku} 
+Who attacked us?
+--------------------------------------------------End--
+Kehyakk
+{Yevon2}… {Guado}…
+--------------------------------------------------End--
+{Rikku} 
+Kehyakk!?
+Kehyakk!!
+--------------------------------------------------End--
+{Lulu} 
+A battle line between Yevon and the Al Bhed…?
+--------------------------------------------------End--
+
+No, that’s not it!
+--------------------------------------------------End--
+
+The {Guado} are after the {summoner}.
+--------------------------------------------------End--
+{Rikku} 
+Dad…
+--------------------------------------------------End--
+
+You guys friends of {Rikku}?
+Perfect timing—lend us a hand!
+--------------------------------------------------End--
+
+We’re driving the {Guado2}
+out of {Home}!
+--------------------------------------------------End--
+{Tidus} 
+Who is he?
+--------------------------------------------------End--
+{Rikku} 
+{Cid}
+--------------------------------------------------End--
+{Rikku} 
+He’s an {Al Bhed2} leader…
+my dad.
+--------------------------------------------------End--
+{Tidus} 
+Let’s go.
+--------------------------------------------------End--
+{Rikku} 
+Yeah.
+We have to save {Yunie}.
+--------------------------------------------------End--
+{Tidus} 
+It’s not just {Yuna}, is it!
+--------------------------------------------------End--
+{Rikku} 
+Yeah!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.1]{White} 
+You can record your journey on a sphere!
+With the automatic recovery function
+that soothes travel fatigue,
+HP/MP are fully restored!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.2]{White} 
+Thanks to the efforts of the {Besaid Aurochs},
+a transfer function to the {blitzball} stadium
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System]{White} 
+Across the lands of {Spira},
+hidden talented players
+continue their blitz training.
+Press {Button Square} to talk to them
+and you may be able to scout them.
+Scout promising players and lead
+the {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} do not have enough members
+and cannot participate in a match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}To Blitz Stadium{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler’s Save Sphere Lv.3]{White} 
+Thanks to the goodwill of {Al Bhed2} and {Rin},
+a transfer function to the airship
+has been added to the Save Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{CHOICE:32}To Blitz Stadium
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}To Airship{White}
+{CHOICE:31}To Blitz Stadium
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}To Airship
+{Gray}To Blitz Stadium{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Primer Vol. 19!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} letters!
+{VAR07:31} “{OPurple}N{White}” → “{Pink}n{White}”
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [{Al Bhed} Language Introduction]{White} 
+An unknown language, “{Al Bhed} language,” can be learned
+by discovering {Al Bhed} language dictionaries.
+{OPurple} Rebaha! {Al Bhed} yanusā! Tensofum miou!{White} 
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Shufkonkya]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Kyokinkya]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Asayoso {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Sanchinyufudar]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Nyufhyofuha {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Ponapona]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Denhiginhai]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [Yāzenanuha {Al Bhed} Language]{White}!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} [{Al Bhed} Language Yanusā]{White}!
+--------------------------------------------------End--

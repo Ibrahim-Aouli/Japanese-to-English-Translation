@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow} Xiphos
+--------------------------------------------------End--
+{WINDOW}
+{White}Xiphos has a high strength, so
+{OCyan}Power Break{White} is recommended.
+{OCyan}Dark Buster{White} is also effective.
+--------------------------------------------------End--

@@ -1,0 +1,9 @@
+{WINDOW}
+{Yellow} Funguar
+--------------------------------------------------End--
+{WINDOW}
+{White}Its {OCyan}Fire{White} isn't too powerful, but it responds
+to attacks by releasing {OCyan}sleep{White}-inducing {OCyan}Pollen{White}.
+{OCyan}Sleep Attack{White} is a good defense against this.
+Being a plant fiend, it is weak against fire.
+--------------------------------------------------End--

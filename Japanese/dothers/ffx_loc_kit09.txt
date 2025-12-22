@@ -1,0 +1,210 @@
+Saving… Do not quit the game
+Loading… Do not quit the game
+Select save data
+Select save area
+Select save data to synthesize Al Bhed primer from. 
+Autosave
+New Save Data
+Play Time:
+Overwrite existing file?
+Yes
+No
+The file is corrupted. Unable to load save data.
+OK
+Data is corrupt.
+The characters' name will be reset to default because save data from a different language has been loaded.
+OK
+No Saved Data, please return to Main Menu.
+
+HELP
+Default
+Back to default setting
+Reset to default? 
+Yes
+No
+OK
+Save changes and go back to previous page
+Cancel
+Cancel changes and go back to previous page
+Resume
+Resume game
+System setting
+Change system settings
+Special features
+Use special features
+Change parameters
+Change game parameters
+Quit
+Quit the game
+Audio
+Change audio settings
+Video
+Change video settings
+Key bindings
+Set up custom key bindings for both keyboard and controller
+Cancel
+Back to previous page
+Voice volume
+Set voice volume
+Music volume
+Set music volume
+SFX volume
+Set SFX volume
+Master volume
+Set master volume
+Resolution
+Set game resolution
+Screen Mode
+Set game screen mode
+Windowed Mode
+Full Screen Mode
+Borderless Mode
+Brightness
+Set brightness
+Vsync
+Set Vsync
+On
+Off
+Anisotropic Filtering
+Set Anisotropic Filtering
+Fog
+Set Fog
+On
+Off
+Shadows
+Set shadow quality
+Low (1024x1024)
+Medium (2048x2048)
+High (4096x4096)
+Texture Quality
+Set texture quality
+Low
+Medium
+High
+Anti-Aliasing
+Set Anti-Aliasing
+Off
+MSAA 2x
+MSAA 4x
+MSAA 8x
+Color Correction
+Set Color Correction
+On
+Off
+Anti-Aliasing (Post Filter)
+Set Anti-Aliasing (Post Filter)
+Off
+FXAA
+SMAA Low
+SMAA Medium
+SMAA High
+SMAA Ultra
+Unsharp Mask
+Set Unsharp Mask
+On
+Off
+Ambient Occlusion
+Set ambient occlusion
+Off
+HDAO Low
+HDAO Medium
+HDAO High
+30FPS
+Swith to 30FPS
+60FPS
+Swith to 60FPS
+Keyboard
+Adjust Keyboard settings
+Controller
+Adjust Controller settings
+Cancel
+Back to previous page
+Keyboard 1
+Keyboard 2
+Click the buttons to change keybinding
+Press required button to confirm keybinding
+Move up
+Move down
+Move left
+Move right
+Talk/Examine/Confirm
+(Hold down to) Walk/Cancel
+Open menu/Guard (Battle screen)
+Skip movie (While paused during a movie. Certain movies cannot be skipped) /Blitzball scout menu
+Change character (Menu screen)/Display character change window (Battle screen)/Select character to change (Battle screen)
+Scroll back (in item lists, etc.)/Select character to change (Battle screen)
+Change character (Menu screen)/Scroll CTB window(Battle screen)
+Scroll forward (in item lists, etc.)/Scroll CTB window(Battle screen)
+Pause (cannot be performed under certain circumstances)
+Display/hide help window
+Turbo
+Auto Battle
+Free Camera
+Hide HUD
+Freeze Time
+Supercharge
+Enemy Encounter Overide
+Get 50000 Gile
+Esc Menu (Cannot be customed)
+Special features
+Press $key$ to activate
+Turbo
+Use this function to speed up the game to x2 or x4.@el@It won't affect player input in menus and cut-scenes/FMV.
+Change game speed.
+Supercharge
+Characters will be supercharged.
+The characters will be supercharged in certain battles if this is set to On.
+Enemy Encounter Override
+Increase or decrease enemy encounter rate.
+Set enemy encounter frequency. It is not affected by character equipment.
+Auto Battle
+Characters will fight using AI.
+Press F4 to active
+Let characters fight automatically.
+Free camera
+Use mouse to rotate camera.@el@Use directional buttons to move camera.
+Player can control game camera.
+Time Stop
+Use to freeze the images.
+Freeze the screen.
+Hide HUD
+Use to hide the user interface.
+Hide the user interface.
+Cancel
+Back to previous page
+Invincible & Intensify
+The chatacters will be invincible & intensify in certain battles if the set is On. Press F6 to active.(Default Button)
+On
+Off
+Enemy encounter override
+Player can set game encounter fruquence, and it won't be effected by character's equipments. Press F7 to active.(Default Button)
+Normal
+No Encounters
+Fruquently
+Get 50000 Gils
+Get 50000 gils.
+Get
+You get 50000 Gils!
+Get all items
+Get 99 of all common items, not including key items. 
+Get all common items with 99, not including key items. (This operation is irreversible. Do you want to use this function?)
+Get
+Do you want to get all items?
+Yes
+No
+Unlock all skills
+Unlock all the character's skills.
+Unlock all the character's skills. (This operation is irreversible. Do you want to use this function?)
+Unlock
+Do you want to unlock all skills?
+Yes
+No
+MAX gil
+Get max gil.
+Status MAX
+Get max status.
+Get
+This operation is irreversible.@el@Do you want to use this function?
+Yes
+No
+

@@ -1,0 +1,35 @@
+{Tidus} 
+How many of them are there!?
+--------------------------------------------------End--
+{Wakka} 
+The dorsal fin! Attack {Sin}’s
+dorsal fin!
+--------------------------------------------------End--
+{Lulu} 
+The dorsal fin!
+We have to cut it off at the source!
+--------------------------------------------------End--
+{Tidus} 
+Ah! So we take out the dorsal fin first!?
+--------------------------------------------------End--
+{Yuna} 
+This will never end otherwise…
+--------------------------------------------------End--
+{Wakka} 
+How many of these things keep spawning!?
+--------------------------------------------------End--
+{Yuna} 
+We have to stop the dorsal fin first!
+--------------------------------------------------End--
+Monsters will appear endlessly.
+Attack the dorsal fin.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}  [Enemy Distance] 
+--------------------------------------------------End--
+{WINDOW}
+{White} Enemies that are far away, like {Sin}’s dorsal fin,
+cannot be reached with sword attacks.
+Such enemies can be attacked with magic
+or {Wakka}’s ball (Attack).
+--------------------------------------------------End--

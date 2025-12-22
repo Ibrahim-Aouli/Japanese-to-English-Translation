@@ -1,0 +1,15 @@
+{WINDOW}
+{Yellow}  [About Overdrive] 
+--------------------------------------------------End--
+{WINDOW}
+{White} When the {Yellow}[Overdrive Gauge]{White} beneath the HP/MP display
+fills up, that character can use their own unique special move,
+the {Yellow}[Overdrive]{White}, once at any time.
+Press {Directional Left} in the command window.
+--------------------------------------------------End--
+{Auron} 
+I’ll take care of them all at once.
+--------------------------------------------------End--
+{Tidus} 
+You’re just running wild however you want!
+--------------------------------------------------End--

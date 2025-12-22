@@ -1,0 +1,367 @@
+Select save data to synthesize Al Bhed primer from. 
+Cancel?
+Synthesize from other save data?
+Yes
+No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cross-Save
+Share save data between the PlayStation{Registered}4 system and PlayStation{Registered}Vita system.
+Cross-Save
+Share save data between the PlayStation{Registered}4 system and PlayStation{Registered}Vita system.{NEWLINE}To share data, both systems must be signed into the same Sony Entertainment{NEWLINE}Network account.
+Syncing Save Data 
+Send save data to sync to the cloud server using {Button Circle} (when there are{NEWLINE}open slots). From now on, when you connect to the cloud server, the synced data{NEWLINE}will be updated to the data with the longest playing time, unless the sync is{NEWLINE}deactivated with {Button Square} (all older data will be overwritten).
+*Synced save data can be identified with the {Direcional Left+Right} icon.
+Warning
+If there is save data on the cloud server that is not synced to a system when it connects,{NEWLINE}all such data will be automatically copied and synced to the system as{NEWLINE}new data. Please keep this in mind when managing the system’s local save capacity.
+Connecting to cloud server to sync save data.
+All synced save data will be updated to the data with{NEWLINE}the longest playing time (all older data will be overwritten).
+Proceed?
+{Button Circle} Yes (proceed to Cross-Save screen)
+{Button X} No (return to title screen)
+{Button Circle} Send/Sync save data
+{Button Square} Delete cloud save/Deactivate sync
+{Button X} Cancel/Quit
+Sending Save Data {VAR05:30} to cloud server for sync.
+From now on, when you connect to the cloud server,{NEWLINE}the synced data will be updated to the data with{NEWLINE}the longest playing time, unless the sync is deactivated{NEWLINE}with {Button Square} (all older data will be overwritten).
+Proceed?
+{Button Circle} Yes
+{Button X} No
+Quit Cross-Save?
+The next time you connect to the cloud server, {NEWLINE}any save data on the cloud server that is not synced{NEWLINE}to your system will be automatically copied and synced{NEWLINE}to the system as new data.{NEWLINE}Please keep this in mind when managing the system's{NEWLINE}local save capacity.
+Please keep this in mind when managing the system's local save capacity.
+{Button Circle} Yes
+{Button X} No
+
+A network error has occurred. Please try again later.{NEWLINE}If you are signed in to PSN{xF1}  from{NEWLINE}another system, please sign out before trying again.
+Trophy Information
+Share game trophy information between PlayStation{Registered}3 and PlayStation{Registered}Vita.{NEWLINE}To share trophy information, both systems must be  signed into the same PlayStation{Registered}Network account.
+Loading
+{Button X} Cancel
+Data transfer error!
+{Button Circle} Confirm
+Local Saves
+Cloud Server
+Save Data {VAR05:30}
+Play Time: {VAR05:31}
+SYNCED
+Cloud Save {VAR05:30}
+Sync save data
+Delete cloud save
+Delete Cloud Save {VAR05:30} and deactivate sync?
+YES
+NO
+Deleting cloud save...
+Failed to delete selected cloud save.
+Sync Save Data {VAR05:30}?
+YES
+NO
+Syncing with cloud server...
+Failed to sync to cloud server.
+Connect to PlayStation{Registered}Network.
+A network error has occurred.
+Internet connection has been lost. {NEWLINE}Aborting Cross-Save.
+Reconnecting.
+The maximum limit for cloud saves has{NEWLINE}been reached.
+Cross-save has been aborted due to insufficient free space in local storage.{NEWLINE}At least {VAR05:30} MB more free space is needed to perform a cross-save.  
+Cross-Save has been aborted because the maximum{NEWLINE}limit for local saves has been reached.{NEWLINE}At least {VAR05:30} FFX local save(s) must be{NEWLINE}deleted to perform a Cross-Save.
+Cross-Save is not available due to parental{NEWLINE}control restrictions on the Sony Entertainment Network{NEWLINE}account.
+{VAR05:30} cloud save(s) from another region exist on{NEWLINE}the cloud server. These saves cannot be used with{NEWLINE}the current game version. Please use versions{NEWLINE}that correctly correspond to each region.
+You have signed out of PSN{xF1}.{NEWLINE}You must be signed in to use the Cross-Save function.{NEWLINE}Aborting Cross-Save.
+Load complete
+Proceed
+An error has occurred while accessing the Internet. {NEWLINE}Aborting Cross-Save.
+Iutycyr Tower Floor {VAR05:30}
+Data is corrupt.
+Data belongs to another user.
+Unable to load save data.
+Cancel Cross-Save?
+YES
+NO
+
+
+
+
+New Game
+Load
+Data Transfer
+Manage FFX Save Data
+FINAL FANTASY X official web site
+INSTALL
+Published by
+SQUARE ENIX CO., LTD.
+Please note that this playable demo
+may vary from the final product.
+FINAL FANTASY X will also be available in
+German, French, Spanish, and Italian.
+The End
+
+HP
+MP
+Next
+AP
+gil
+Mode
+S. Lv
+Location
+UP!
+OVERDRIVE
+HELP
+TIME
+FILE
+GAME OVER
+Overdrive Modes
+Auto-Abilities
+Skills
+Special
+Black Magic
+White Magic
+Equipment
+Abilities
+Items Needed
+Stock
+AP Earned
+Items
+gil
+Keep
+Discard
+Ability to Learn
+Item Cost
+Attribute to Raise
+Abilities Equipped
+Abilities
+Total
+
+PAUSE
+GREAT
+Immunities
+Magic
+Strength
+Info
+SUB
+MAIN
+OVERDRIVE
+TRIGGER COMMAND
+Switch
+Commands
+Scan data
+Boss
+mon
+NEW
+TOUCH PAD BUTTON
+OPTIONS
+MP
+MISS
+OVERKILL
+IMMUNE
+Luck
+Ability
+Speed
+Power
+Magic
+Damage
+
+
+
+
+
+1 HIT
+2 HITS
+DOWN
+
+HELP
+Baaj Temple
+Besaid Island
+Kilika Port
+Luca
+Mi'ihen Highroad
+Djose Highroad
+Moonflow
+Guadosalam
+Thunder Plains
+Lake Macalania
+Bikanel Island
+Bevelle Temple
+Calm Lands
+Mt. Gagazet
+Zanarkand Ruins
+Sin
+Omega Ruins
+Highbridge
+Besaid Ruins 1
+Besaid Ruins 2
+Mushroom Rock
+Besaid Falls
+Mi'ihen Ruins
+Battle Site
+Sanubia Sands
+Penance
+Penance
+List
+Input
+Search
+NEW
+Yes
+No
+
+Normal
+Move character
+Pause game (disabled in some areas)
+Menu
+Talk / Examine / Confirm
+Hold down to walk / cancel
+Attack an enemy with equipped weapon.
+OVERDRIVE
+Commands
+SUB
+Attack
+Skill
+Special
+mon
+HP
+MP
+TRIGGER COMMAND
+Weapon
+Armor
+Escape
+Katana
+Piercing
+Switch
+MISS
+IMMUNE
+OVERKILL
+Info
+Slow
+Menu
+Switch characters
+Scroll lists
+Move cursor
+Confirm
+Cancel
+Battle
+Display switch window / Select character to switch
+Select character to switch
+Scroll CTB window
+Defend (pass turn)
+Display / Hide help window
+Move cursor / Change command windows
+
+HELP
+NEW
+
+L.1
+L.2
+L.3
+L.4
+H
+M
+
+HELP
+NEW
+
+gil
+Current gil:
+Total
+Entry Fee
+gil Left
+
+
+
+END POW
+PAS POW
+SHT POW
+Techcopy!
+Halftime
+Time's Up!
+Goal!
+HP
+AT
+DE
+PA
+SH
+BL
+CA
+PN
+EN
+TIME
+Blitzoff!
+Techcopy!
+Halftime
+Time's Up!
+Blitzoff!
+SPD
+HP
+EXP
+ATK
+DEF
+END
+PAS
+SHT
+BLK
+CAT 
+PUN
+Lv
+LF
+RF
+MF
+LD
+RD
+GL
+
+Hit
+MISS
+1 HIT
+2 HITS
+
+EVENT
+MAP
+BATTLE
+WORLD
+CHARACTER
+D3D CO., LTD.
+FINAL
+FANTASY X
+THE END
+
+FINAL FANTASY X
+FINAL FANTASY X
+ETERNAL CALM
+FINAL FANTASY X-2
+FINAL FANTASY X-2
+LAST MISSION
+CREDITS & BONUS AUDIO
+
+Installing...{VAR05:30}
+Installing…{NEWLINE}{VAR05:30}:{VAR05:30} min remaining
+I’m in preparation, please come back after {VAR05:30} minutes.

@@ -1,0 +1,79 @@
+{WINDOW}
+{Tidus}
+I knew you were bad news
+the first time we met!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour}
+Oh, my sincerest apologies.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+Seymour!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+You may be a maester,
+but I will still fight!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour}
+... ... ...
+--------------------------------------------------End--
+{WINDOW}
+{Seymour}
+Your eyes, they burn with resolve...
+Beautiful.
+--------------------------------------------------End--
+{WINDOW}
+{Seymour}
+Feel my pain! Come, {Anima}!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour}
+That power that defeated {Anima}...
+It will be mine!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+Maester! We must stop this!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}
+This can't be happening!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{WINDOW}
+Anima is gathering power.
+--------------------------------------------------End--
+{WINDOW}
+Anima Overdrive!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}'s {Yellow}Strength{White} increases!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}'s {Yellow}Magic Defense{White} increases!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}'s {Yellow}Magic Defense{White} increases!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}
+O fayth, lend me strength!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}
+{Yuna}! The new aeon!
+--------------------------------------------------End--
+{WINDOW}
+The Guado guardian does not respond.
+--------------------------------------------------End--
+{WINDOW}
+The Guado guardian does not respond.
+--------------------------------------------------End--

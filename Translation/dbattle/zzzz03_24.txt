@@ -1,0 +1,11 @@
+{WINDOW}
+{Yellow} Larva
+--------------------------------------------------End--
+{WINDOW}
+{White}When its HP is halved, it will use
+{OCyan}Thundara{White} on itself to heal and raise
+its magic, so use {OCyan}Silence Attack{White} on
+it before that happens!
+--------------------------------------------------End--
+Larva's magic increased!
+--------------------------------------------------End--

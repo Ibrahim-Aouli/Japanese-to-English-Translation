@@ -1,0 +1,1004 @@
+Tros
+--------------------------------------------------End--
+Attacks with {OCyan}Nautilus Charge{White} after backing away.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Retreats behind the column after
+taking damage, where it cannot be
+attacked. Hits all targets with
+{OCyan}Nautilus Charge{White} on the next turn,
+inflicting great damage.
+Use trigger commands to stop it
+from unleashing {OCyan}Nautilus Charge{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinspawn Geneaux
+--------------------------------------------------End--
+Vulnerable to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its shell deflects physical attacks
+well.
+Tentacles absorb magic attacks.
+Defeat tentacles first, then
+force it from its shell with
+fire magic.
+Absorbs water-based attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Geneaux's Tentacle
+--------------------------------------------------End--
+Absorbs magical attacks against Geneaux.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Absorbs magic cast against
+Geneaux's body.
+Defeat tentacles first, then use
+magic attacks on the body.
+Tentacles have high magic defense,
+so physical attacks are the way
+to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Chocobo Eater
+--------------------------------------------------End--
+Vulnerable to {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Stick with {OCyan}piercing{White} weapons until
+you knock him over.
+After he says "{OCyan}You're next!{White}" he'll
+unleash a powerful attack.
+Casts {OCyan}Blizzard{White} when HP is low,
+so stay warm with {OCyan}NulFrost{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Neslug
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mortiphasm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinscale
+--------------------------------------------------End--
+They just keep coming.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Launched from Sin's body.
+They unleash {OCyan}Spines{White} once their
+wings flicker, so dispatch them
+quickly.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinscale
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Geosgaeno
+--------------------------------------------------End--
+Covered with thick scales. Vulnerable to magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Oblitzerator
+--------------------------------------------------End--
+Vulnerable to lightning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Speeds up when damaged.
+Vulnerable to lightning, but chucks
+a {OCyan}Mute Ball{White} at anyone casting
+{OCyan}Thunder{White}.
+Use a nearby object to escape
+its mighty {OCyan}Blitzball Rush{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Extractor
+--------------------------------------------------End--
+Vulnerable to lightning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+After rising, it releases {OCyan}Depth
+Charges{White}, inflicting {OCyan}darkness{White}
+and damage on {Tidus}
+and Wakka.
+Hurt it as much as you can
+to bring it back down.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+???
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sin
+--------------------------------------------------End--
+Attack with magic and Wakka's ball.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Save Kilika!
+Hit Sin from a distance with
+Wakka's blitzball and Lulu's
+black magic.
+{Valefor}'s attacks
+work well, too.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinspawn Echuilles
+--------------------------------------------------End--
+Afflict it with {OCyan}darkness{White} to make it miss.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Absorbs HP with its {OCyan}Drain Touch{White}.
+Inflicting {OCyan}darkness{White} is the way
+to go.
+But after two {OCyan}Drain Touches{White}
+it will bring out the {OCyan}Blender{White},
+inflicting damage on all targets.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinscale
+--------------------------------------------------End--
+They just keep coming.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Disappears after each attack,
+but more keep coming with
+no end in sight.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinscale
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinspawn Gui
+--------------------------------------------------End--
+Blocks attacks with both arms.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Blocks physical attacks with
+its toughened arms.
+Remove them with {OCyan}piercing{White}
+weapons, and then strike
+the body.
+Hit the head when it starts
+twitching or else it will belch
+{OCyan}Venom{White} at you.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mortiphasm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Evrae
+--------------------------------------------------End--
+Releases {OCyan}Poison Breath{White} attack after inhaling.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+High magic defense.
+No elemental weaknesses.
+Exhales {OCyan}Poison Breath{White} if hit
+repeatedly by melee attacks.
+Ask Cid to move the airship
+away and he'll launch a volley
+of {OCyan}Guided Missiles{White} for you.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Evrae Altana
+--------------------------------------------------End--
+Weak against healing effects.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Beware its {OCyan}Stone Gaze{White} and
+nasty counterattacks.
+{OCyan}Open the gate locks{White} to get
+some distance.
+Since it's a {OCyan}zombie{White}, healing
+magic and items are the way
+to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Spherimorph
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Crawler
+--------------------------------------------------End--
+Vulnerable to lightning. {OCyan}Negator{White} disables all magic and summoning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Shoots all targets with {OCyan}Gatling Gun{White}.
+Vulnerable to lightning.
+Starts countdown to {OCyan}Mana Beam{White}
+once the {OCyan}Negator{White} is destroyed.
+Retaliates when hit by lightning
+magic during countdown.
+Restores {OCyan}Negator{White} after being
+hit by magic four times.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Negator
+--------------------------------------------------End--
+Disables magic and summoning. Attack it with items and Wakka's ball.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Seymour
+--------------------------------------------------End--
+Casts ice, lightning, water, and fire, in that order.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts ice, lightning, water, and
+fire spells in that order, so have
+Yuna cast {OCyan}NulFrost{White}, {OCyan}NulShock{White},
+{OCyan}NulTide{White}, and {OCyan}NulBlaze{White}.
+He'll summon when cornered.
+Beware!
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+Goes into Overdrive when its gauge charges up.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Seymour Natus
+--------------------------------------------------End--
+Casts elemental magic, {OCyan}Break{White}, and {OCyan}Flare{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Still uses elemental magic,
+but now uses multi-spells.
+When HP is low he'll {OCyan}petrify{White}
+with {OCyan}Break{White} and cast the
+non-elemental spell {OCyan}Flare{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mortibody
+--------------------------------------------------End--
+Watch out for their combo attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}Shattering Claw{White} hits {OCyan}petrified{White}
+characters, smashing them to
+smithereens.
+Beware the {OCyan}Desperado{White}, which
+inflicts damage and negates
+any magical augmentations.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sanctuary Keeper
+--------------------------------------------------End--
+High physical and magic defense.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its {OCyan}Photon Wings{White} attack causes
+{OCyan}confusion{White}, {OCyan}sleep{White}, {OCyan}silence{White}, {OCyan}darkness{White},
+{OCyan}curse{White}, and other status effects.
+{OCyan}Tail Sweep{White} negates {OCyan}Haste{White} and
+delays targets' next turn.
+Uses healing magic and {OCyan}Reflect{White},
+among other spells.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Spectral Keeper
+--------------------------------------------------End--
+Attacks all frontal targets when hit. Use trigger command {OCyan}Move{White} to get out of the way.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Attacks all frontal targets
+when hit.
+It will plant a {OCyan}Glyph Mine{White} upon
+a circle, causing instant {OCyan}KO{White}
+when detonated.
+Use the trigger command {OCyan}Move{White}
+to transfer to another circle.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Yunalesca
+--------------------------------------------------End--
+Reaper of souls. Vulnerable to holy magic.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts {OCyan}Curaga{White} and {OCyan}Regen{White} on
+{OCyan}zombified{White} characters.
+Cure {OCyan}zombie{White} with {OCyan}Holy Water{White}.
+Her counterattacks dispel
+support magic.
+She also {OCyan}curses{White} aeons with
+her {OCyan}Mind Blast{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Seymour Omnis
+--------------------------------------------------End--
+Energized by the Mortiphasms.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Casts spells once energized
+by the four Mortiphasms behind
+him.
+Their positions somehow affect
+his actions.
+Physical attacks turn the
+Mortiphasms to the left, while
+magic turns them to the right.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Braska's Final Aeon
+--------------------------------------------------End--
+Use the trigger command to talk.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Draws power from the Yu Pagodas
+and unleashes Overdrive attacks
+once his gauge is charged.
+Stop him from using Overdrives.
+Have {Tidus} {OCyan}talk{White} to lower
+the gauge.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Crane
+--------------------------------------------------End--
+Electric motor.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Biran Ronso
+--------------------------------------------------End--
+Covers Yenke when together.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Blocks attacks on Yenke with
+{OCyan}Guard{White}, except when separated
+after performing a {OCyan}Bulldoze{White}.
+Casts {OCyan}Mighty Guard{White} just once
+after losing HP.
+
+{Yellow}Kimahri can learn many techniques.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Yenke Ronso
+--------------------------------------------------End--
+Covers Biran when together.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Blocks attacks on Biran with
+{OCyan}Guard{White}, except when separated
+after performing a {OCyan}Bulldoze{White}.
+Casts {OCyan}White Wind{White} just once
+after losing HP.
+
+{Yellow}Kimahri can learn many techniques.{White}
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Left Fin
+--------------------------------------------------End--
+Gathers energy to cast {OCyan}Gravija{White}. Avoid with trigger command {OCyan}Pull Back{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unleashes {OCyan}Gravija{White} once the core
+is energized, reducing all
+characters' HP by 3/4.
+To avoid this, get Cid to back off.
+Dispels with {OCyan}Negation{White} and sometimes
+attacks all with a physical attack.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Right Fin
+--------------------------------------------------End--
+Gathers energy to cast {OCyan}Gravija{White}. Avoid with trigger command {OCyan}Pull Back{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Unleashes {OCyan}Gravija{White} once the core
+is energized, reducing all
+characters' HP by 3/4.
+To avoid this, get Cid to back off.
+Dispels with {OCyan}Negation{White} and sometimes
+attacks all with a physical attack.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sin
+--------------------------------------------------End--
+Gathers energy when Genais enters its shell.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+When Genais enters its shell,
+the core begins to energize,
+unleashing {OCyan}Gravija{White}, which reduces
+the HP of all targets by 3/4.
+Also dispels positive status
+effects with {OCyan}Negation{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinspawn Genais
+--------------------------------------------------End--
+Absorbs magical attacks against Sin.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+After losing half its HP, it enters
+its shell on its next turn.
+If hit there, it recovers with {OCyan}Cura{White}
+and exits the shell on its next turn.
+Protected from {OCyan}Gravija{White} when inside
+the shell.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sin
+--------------------------------------------------End--
+Finish him before he opens his mouth all the way.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Pulls the airship in while
+gathering all his strength to cast
+the ultimate terror, {OCyan}Giga-Graviton{White}.
+Stop him before he wipes
+everyone out!
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Guado Guardian
+--------------------------------------------------End--
+Protects Seymour.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Attacks and defends with items,
+using {OCyan}Auto-Potion{White} and {OCyan}confusion{White}-
+inducing {OCyan}Shremedies{White}.
+He restores Seymour's HP too,
+so stop him from using items
+somehow.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Seymour Flux
+--------------------------------------------------End--
+Watch out for their combo attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Predict the Mortiorchis's actions
+by watching Seymour's.
+His {OCyan}Lance of Atrophy{White} causes
+{OCyan}zombie{White}, and the Mortiorchis
+follows with {OCyan}Full-Life{White}.
+Together they unleash {OCyan}Total
+Annihilation{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mortiorchis
+--------------------------------------------------End--
+Watch out for their combo attacks.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Beware its combo attacks.
+If a character is {OCyan}zombified{White} by
+Seymour's {OCyan}Lance of Atrophy{White}, it
+will cast {OCyan}Full-Life{White}, causing
+instant {OCyan}KO{White}.
+Use {OCyan}Protect{White} to help survive
+the {OCyan}Cross Cleave{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Kimahri Weapon
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinscale
+--------------------------------------------------End--
+Just take out the ones in front. They launch {OCyan}Spines{White} soon after their wings start to flicker.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Circle
+--------------------------------------------------End--
+Each magic circle can support one character.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinscale
+--------------------------------------------------End--
+Just take out the ones in front. They launch {OCyan}Spines{White} soon after their wings start to flicker.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinscale
+--------------------------------------------------End--
+Take them out with Auron's Overdrive {OCyan}Dragon Fang{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Cid
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mortiphasm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Vouivre
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Worker
+--------------------------------------------------End--
+Vulnerable to lightning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Ancient machina restored
+by the Al Bhed.
+Not a war machine, but hits
+hard with its tool arm.
+Vulnerable to lightning, so
+{OCyan}Thunder{White} is the way to go.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Lord Ochu
+--------------------------------------------------End--
+Vulnerable to fire.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Its claws inflict {OCyan}poison{White}.
+Restores lost HP by sleeping.
+Retaliates with {OCyan}Earthquake{White} if
+awakened, so watch out.
+Being a plant, it burns easily.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mortiphasm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sahagin
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sahagin Chief
+--------------------------------------------------End--
+Vulnerable to lightning.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Nimble, but has low HP and
+strength.
+Just one is nothing to write
+home about.
+Vulnerable to lightning, {OCyan}darkness{White},
+and {OCyan}sleep{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Garuda
+--------------------------------------------------End--
+Dodging its attacks is easier after inflicting {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+It has high strength and
+tons of HP.
+Beware of {OCyan}Sonic Boom{White}, which hits
+all characters.
+Dodge its attacks more easily by
+inflicting {OCyan}darkness{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Klikk
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sinspawn Ammes
+--------------------------------------------------End--
+Unleashes {OCyan}Demi{White} when its HP is reduced by 1/4.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Head
+--------------------------------------------------End--
+Strike the head to disable its {OCyan}Venom{White}.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Blocks physical attacks with
+its toughened arms.
+Remove them with {OCyan}piercing{White}
+weapons, and then strike
+the body.
+Hit the head when it starts
+twitching or else it will belch
+{OCyan}Venom{White} at you.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Arm
+--------------------------------------------------End--
+Protects the body with thick armor.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Blocks physical attacks with
+its toughened arms.
+Remove them with {OCyan}piercing{White}
+weapons, and then strike
+the body.
+Hit the head when it starts
+twitching or else it will belch
+{OCyan}Venom{White} at you.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Gate Lock
+--------------------------------------------------End--
+Open the gate to escape.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+{Valefor}
+--------------------------------------------------End--
+Strike me down.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+{Ifrit}
+--------------------------------------------------End--
+Extinguish me.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+{Ixion}
+--------------------------------------------------End--
+End it right here.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+{Shiva}
+--------------------------------------------------End--
+Please... Defeat me.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+{Bahamut}
+--------------------------------------------------End--
+Soon... Eternal rest.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+{Anima}
+--------------------------------------------------End--
+Thus I atone.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+{Yojimbo}
+--------------------------------------------------End--
+Take my life.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Tanker
+--------------------------------------------------End--
+Dangling off the edge of the highway.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Gate Lock
+--------------------------------------------------End--
+Open the gate to escape.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Monster 172
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Yu Pagoda
+--------------------------------------------------End--
+Inflict damage to halt its actions.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Yu Pagoda
+--------------------------------------------------End--
+Inflict damage to halt its actions.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Tentacle
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Yu Yevon
+--------------------------------------------------End--
+Possesses aeons.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mortiphasm
+--------------------------------------------------End--
+Immune to sensors.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Cindy
+--------------------------------------------------End--
+Stop the suffering.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Sandy
+--------------------------------------------------End--
+Don't cry.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Mindy
+--------------------------------------------------End--
+Gotta say goodbye.
+--------------------------------------------------End--
+-
+--------------------------------------------------End--
+Scan not available.
+--------------------------------------------------End--
+-{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}{END}
+--------------------------------------------------End--

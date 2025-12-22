@@ -1,0 +1,37 @@
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+Are they trying to knock us off the cliff…?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+What do we do!? There’s a cliff behind us!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+This is bad! There’s a cliff behind us!
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+Now!
+Attack all at once and push it back!
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+Attack now
+and force it back!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Now’s the time—gang up on it!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Now! Finish it!
+--------------------------------------------------End--
+Message 8
+--------------------------------------------------End--
+Message 9
+--------------------------------------------------End--
+Message 10
+--------------------------------------------------End--

@@ -1,0 +1,146 @@
+
+{Font Italic}37...38...39...40...41...{Font Normal}
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+{Font Italic}2 minutes, 41 seconds...
+My longest yet.{Font Normal}
+--------------------------------------------------End--
+Wakka
+Yuna! It's time!
+--------------------------------------------------End--
+Yuna
+Coming!
+--------------------------------------------------End--
+Wakka
+You're diving like a real pro, ya?
+--------------------------------------------------End--
+Yuna
+You'll always be the pro, Wakka.
+--------------------------------------------------End--
+Wakka
+I don't know.
+It's been so long since I trained!
+--------------------------------------------------End--
+Yuna
+You have gotten a little chubby!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+Yuna
+And you're not even
+the one having the baby!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+{Font Italic}It's been two years...{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}I've learned how to hold my breath
+for more than two minutes now.{Font Normal}
+--------------------------------------------------End--
+
+
+{Font Italic}It takes more than
+physical strength.
+{NEWPAGE}
+
+And there are some tricks
+you can't be taught.{Font Normal}
+--------------------------------------------------End--
+
+
+{Font Italic}It took practice. Lots and lots of practice.
+{NEWPAGE}
+
+I just had to keep trying
+until I figured it out for myself.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}And you know what?
+Back then I didn't think
+there were any tricks to it at all.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}I didn't have time to think.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}An Eternal Calm.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}A slightly chubby Wakka,
+and my 2 minutes, 41 seconds.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic}It's not much, but it's enough.{Font Normal}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 1-{White}
+Stores a record of your travels.
+Also fully restores your party's
+HP and MP.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 2-{White}
+Thanks to the {Besaid Aurochs}' achievements,
+Save Spheres are now able to teleport you
+to the {blitzball} stadium!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-The Blitzball Scout System-{White}
+Many denizens of {Spira} are avid
+{blitzball} players!
+Talk to them with {Button Square} to scout them!
+Sign the best players in {Spira} and
+lead the {Besaid Aurochs} to victory!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+The {Besaid Aurochs} are not at full
+strength. You need more members
+to participate in blitzball.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Play blitzball{White}
+{CHOICE:31}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}-Traveler's Save Sphere Level 3-{White}
+Save Spheres can now teleport you back to
+the airship, thanks to {Rin} the {Al Bhed}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{CHOICE:32}Play blitzball
+{CHOICE:33}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{Gray}Board airship{White}
+{CHOICE:31}Play blitzball
+{CHOICE:32}Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Save
+{CHOICE:31}Board airship
+{Gray}Play blitzball{White}
+{CHOICE:32}Cancel
+--------------------------------------------------End--

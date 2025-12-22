@@ -1,0 +1,449 @@
+{WINDOW}
+Select {Yellow}Sphere Grid{White} from the Main Menu.
+--------------------------------------------------End--
+{WINDOW}
+The cursor appears at the selected
+character's current position.
+--------------------------------------------------End--
+{WINDOW}
+Use {Direcional Left}{Direcional Up}{Direcional Down}{Direcional Right} to
+move the cursor.
+--------------------------------------------------End--
+{WINDOW}
+Information on upgrades is displayed at the top
+of the screen. This location is for {Yellow}Defense upgrades...{White}
+--------------------------------------------------End--
+{WINDOW}
+while this one lets you {Yellow}learn an Ability{White}.
+--------------------------------------------------End--
+{WINDOW}
+These upgrade locations are called {Yellow}nodes{White}.
+--------------------------------------------------End--
+{WINDOW}
+Characters are upgraded by {Yellow}activating{White}
+these nodes.
+--------------------------------------------------End--
+{WINDOW}
+A character must move near a node
+in order to activate it.
+--------------------------------------------------End--
+{WINDOW}
+Let's go through this step-by-step.
+--------------------------------------------------End--
+{WINDOW}
+By pressing {Button Circle}...
+--------------------------------------------------End--
+{WINDOW}
+the cursor returns to the character's
+position and a list of commands appear.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Move{White}...
+--------------------------------------------------End--
+{WINDOW}
+to display the number of steps the
+character can move.
+--------------------------------------------------End--
+{WINDOW}
+The number of steps a character can move is
+equivalent to his {Yellow}S. Lv (Sphere Level){White}.
+--------------------------------------------------End--
+{WINDOW}
+S. Lv are gained by getting
+AP (Ability Points), which are obtained by
+participating in battles.
+--------------------------------------------------End--
+{WINDOW}
+Characters must fight battles to gain AP and obtain
+S. Lv, which are in turn used to move around the Grid.
+In short, if characters do not participate in battles,
+they will not grow stronger.
+--------------------------------------------------End--
+{WINDOW}
+In this case, {Tidus} has 4 {Yellow}S. Lv{White},
+so he can move up to {Yellow}4{White} steps.
+--------------------------------------------------End--
+{WINDOW}
+In general, you should be careful not to
+move too fast, as you may forget to
+activate nodes you pass over.
+--------------------------------------------------End--
+{WINDOW}
+So let's take one step...
+--------------------------------------------------End--
+{WINDOW}
+and learn the ability Cheer. Note that
+you do not have to be at a node to {Yellow}activate{White}
+it--you can do it from an adjacent node as well.
+--------------------------------------------------End--
+{WINDOW}
+By selecting a destination...
+--------------------------------------------------End--
+{WINDOW}
+S. Lv are spent and the character will move.
+--------------------------------------------------End--
+{WINDOW}
+When the character arrives at the designated
+spot...
+--------------------------------------------------End--
+{WINDOW}
+You will be asked for final confirmation.
+--------------------------------------------------End--
+{WINDOW}
+If the destination is correct,
+select "Yes."
+--------------------------------------------------End--
+{WINDOW}
+At this point, the movement process is
+complete and cannot be canceled.
+--------------------------------------------------End--
+{WINDOW}
+If you want to activate nodes
+you passed over, you must spend
+S. Lv to go back.
+--------------------------------------------------End--
+{WINDOW}
+When you're retracing your steps, you can
+move {Yellow}4 steps{White} by spending 1 S. Lv.
+However, going back every time is not very
+cost-efficient. Always plan ahead to avoid
+wasting S. Lv.
+--------------------------------------------------End--
+{WINDOW}
+Now...
+--------------------------------------------------End--
+{WINDOW}
+since the character is in position,
+let's {Yellow}activate{White} a node.
+--------------------------------------------------End--
+{WINDOW}
+To activate nodes, you must use {Yellow}spheres{White}.
+--------------------------------------------------End--
+{WINDOW}
+Spheres are items that can be obtained
+by various means, but mainly by defeating
+enemies.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button Circle}...
+--------------------------------------------------End--
+{WINDOW}
+and select {Yellow}Use{White}.
+--------------------------------------------------End--
+{WINDOW}
+A list of spheres currently in stock
+will be displayed.
+--------------------------------------------------End--
+{WINDOW}
+Every sphere has a special function.
+--------------------------------------------------End--
+{WINDOW}
+For example, {Yellow}Power Spheres{White} are used
+to activate Strength, Defense, and HP nodes.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Ability Spheres{White} activate Ability nodes.
+--------------------------------------------------End--
+{WINDOW}
+Nodes that can be activated are
+{Yellow}the node at the character's current position{White}
+and {Yellow}nodes directly adjacent to it{White}.
+This means nodes that are one step behind or
+ahead can also be activated.
+--------------------------------------------------End--
+{WINDOW}
+In this example, the only node that
+can be activated is an Ability node,
+so only Ability Spheres can be used.
+--------------------------------------------------End--
+{WINDOW}
+When you select a sphere...
+--------------------------------------------------End--
+{WINDOW}
+the nodes that can be activated by that
+sphere at that position are highlighted.
+--------------------------------------------------End--
+{WINDOW}
+Ability Spheres have been selected here,
+so only the Ability nodes will glow.
+--------------------------------------------------End--
+{WINDOW}
+By selecting the node you want...
+--------------------------------------------------End--
+{WINDOW}
+it will activate, and the character
+will learn its ability. Note that one
+Ability Sphere was used during this process.
+--------------------------------------------------End--
+{WINDOW}
+Use the same procedure to improve the
+characters' Strength, Magic, Max HP/MP,
+etc.
+--------------------------------------------------End--
+{WINDOW}
+Power Spheres, Magic Spheres,
+and Speed Spheres are needed to
+improve each corresponding stat.
+--------------------------------------------------End--
+{WINDOW}
+Also, every node on the Grid can be
+{Yellow}activated separately by each character{White}.
+--------------------------------------------------End--
+{WINDOW}
+This means that a character can reactivate
+a node already used by another character by
+moving to it and using the corresponding sphere.
+--------------------------------------------------End--
+{WINDOW}
+Note that {Yellow}Locks{White} cannot be opened
+at present. Another tutorial will become
+available once you are able to unlock them.
+--------------------------------------------------End--
+{WINDOW}
+Now that you know how to upgrade your
+characters, let's look at the other
+useful features of the Sphere Grid.
+--------------------------------------------------End--
+{WINDOW}
+The character's current status can be
+displayed by pressing {Button Triangle}.
+--------------------------------------------------End--
+{WINDOW}
+Use this information to plan how
+you wish to upgrade your characters.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button L1} and {Button R1}...
+--------------------------------------------------End--
+{WINDOW}
+to switch between characters.
+--------------------------------------------------End--
+{WINDOW}
+This is useful when you wish to compare
+the characters' stats or when you wish to
+quickly upgrade multiple characters.
+--------------------------------------------------End--
+{WINDOW}
+Press {Button SELECT} to zoom in and out
+for a better view of the Grid.
+--------------------------------------------------End--
+{WINDOW}
+This concludes the Sphere Grid tutorial.
+Try improving {Tidus} now.
+--------------------------------------------------End--
+{WINDOW}
+Some areas of the Sphere Grid are {Yellow}locked
+by special nodes{White}.
+--------------------------------------------------End--
+{WINDOW}
+To open these {Yellow}Locks{White}...
+--------------------------------------------------End--
+{WINDOW}
+you need to use special spheres called
+{Yellow}Key Spheres{White}.
+--------------------------------------------------End--
+{WINDOW}
+For {Yellow}Lv.1 Locks{White}...
+--------------------------------------------------End--
+{WINDOW}
+you must use {Yellow}Lv.1 Key Spheres{White},
+as seen in this example...
+--------------------------------------------------End--
+{WINDOW}
+to clear the way.
+--------------------------------------------------End--
+{WINDOW}
+There are 4 types of Key Spheres.
+--------------------------------------------------End--
+{WINDOW}
+Use the 4 types of Key Spheres to
+unlock the corresponding 4 types
+of locks.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}Customize{White} is used to upgrade
+weapons and armor by adding abilities
+to them.
+--------------------------------------------------End--
+{WINDOW}
+Items are needed to customize and
+{Yellow}add abilities to gear{White}.
+--------------------------------------------------End--
+{WINDOW}
+First, choose the gear to customize.
+--------------------------------------------------End--
+{WINDOW}
+Note that some weapons and armor
+cannot be customized.
+--------------------------------------------------End--
+{WINDOW}
+If any of the slots in the Abilities
+window shown at the bottom left of
+the screen are {Yellow}empty{White}...
+--------------------------------------------------End--
+{WINDOW}
+that gear can be customized.
+--------------------------------------------------End--
+{WINDOW}
+If an item has no empty slot,
+it cannot be customized.
+--------------------------------------------------End--
+{WINDOW}
+There is also gear that cannot
+be customized no matter what.
+--------------------------------------------------End--
+{WINDOW}
+Now...
+--------------------------------------------------End--
+{WINDOW}
+after selecting the gear to customize...
+--------------------------------------------------End--
+{WINDOW}
+a list of available abilities for
+that gear is displayed.
+--------------------------------------------------End--
+{WINDOW}
+The amount of items needed for the procedure
+is also displayed at the top right of the screen.
+--------------------------------------------------End--
+{WINDOW}
+On the left is the amount of items currently
+in stock.
+--------------------------------------------------End--
+{WINDOW}
+On the right are the amount of items left after
+customization. {Yellow}Items are spent when gear
+is customized{White}.
+--------------------------------------------------End--
+{WINDOW}
+Abilities for which there are insufficient
+items are displayed in {Gray}gray{White}...
+--------------------------------------------------End--
+{WINDOW}
+and cannot be selected.
+--------------------------------------------------End--
+{WINDOW}
+When you select an ability to add...
+--------------------------------------------------End--
+{WINDOW}
+you are asked to confirm the procedure.
+--------------------------------------------------End--
+{WINDOW}
+Select "Yes" to complete the procedure.
+--------------------------------------------------End--
+{WINDOW}
+Some gear get new names after customization.
+--------------------------------------------------End--
+{WINDOW}
+This concludes the Customize tutorial.
+--------------------------------------------------End--
+{WINDOW}
+Possessing the {Yellow}Summoner's Soul{White}...
+--------------------------------------------------End--
+{WINDOW}
+allows {Yellow}aeons to learn abilities{White}
+by expending items.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Abilities{White}...
+--------------------------------------------------End--
+{WINDOW}
+then select an aeon.
+--------------------------------------------------End--
+{WINDOW}
+A list of available abilities will appear.
+--------------------------------------------------End--
+{WINDOW}
+The item cost for each ability is also
+displayed at the top right of the screen.
+--------------------------------------------------End--
+{WINDOW}
+On the left is the amount of items currently in stock.
+--------------------------------------------------End--
+{WINDOW}
+On the right are the amount of items left after
+the ability is learned. {Yellow}Items are spent
+when aeons learn abilities{White}.
+--------------------------------------------------End--
+{WINDOW}
+Abilities that have already been learned...
+--------------------------------------------------End--
+{WINDOW}
+and abilities for which there are
+insufficient items are displayed in {Gray}gray{White}...
+--------------------------------------------------End--
+{WINDOW}
+and cannot be selected.
+--------------------------------------------------End--
+{WINDOW}
+When you select an ability you want
+the aeon to learn...
+--------------------------------------------------End--
+{WINDOW}
+you will be asked for a final confirmation.
+--------------------------------------------------End--
+{WINDOW}
+Select "Yes" at the prompt to teach the ability
+to the aeon.
+--------------------------------------------------End--
+{WINDOW}
+Aeons can learn most of the same abilities
+as that of the characters...
+--------------------------------------------------End--
+{WINDOW}
+but there are some abilities that are
+unavailable to them.
+--------------------------------------------------End--
+{WINDOW}
+This concludes the Learn tutorial.
+--------------------------------------------------End--
+{WINDOW}
+Possessing the {Yellow}Aeon's soul{White}...
+--------------------------------------------------End--
+{WINDOW}
+allows you to {Yellow}raise the aeons' stats{White}.
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow}Attributes{White}...
+--------------------------------------------------End--
+{WINDOW}
+then select an aeon.
+--------------------------------------------------End--
+{WINDOW}
+The selected aeon's stats are displayed.
+Stats that cannot be raised are shown in {Gray}gray{White}.
+--------------------------------------------------End--
+{WINDOW}
+The aeon's current stats are shown on
+the right.
+--------------------------------------------------End--
+{WINDOW}
+In this example, {Ixion}'s strength is 20.
+--------------------------------------------------End--
+{WINDOW}
+When you choose a stat to raise, the 
+item cost for the procedure is displayed
+on the right of the screen.
+--------------------------------------------------End--
+{WINDOW}
+The item cost will increase according
+to the aeon's current stat values.
+--------------------------------------------------End--
+{WINDOW}
+In other words, the higher the stat
+value, the higher the item cost will be
+to raise it.
+--------------------------------------------------End--
+{WINDOW}
+After selecting a stat to raise...
+--------------------------------------------------End--
+{WINDOW}
+you will be asked for a final confirmation.
+--------------------------------------------------End--
+{WINDOW}
+Select "Yes" to raise the aeon's
+selected stat.
+--------------------------------------------------End--
+{WINDOW}
+This concludes the Attributes tutorial.
+--------------------------------------------------End--
