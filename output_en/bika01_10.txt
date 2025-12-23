@@ -1,0 +1,14 @@
+{Rikku} 
+Ah, leave the machines to me!
+--------------------------------------------------End--
+{Rikku} 
+I'll pull out the parts...
+...and take care of them easily and quickly.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [HELP FORM]
+--------------------------------------------------End--
+{WINDOW}
+{White} Help sample
+Title, composition of the content paragraphs.
+--------------------------------------------------End--

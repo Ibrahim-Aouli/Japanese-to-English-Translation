@@ -1,0 +1,69 @@
+Message 0
+--------------------------------------------------End--
+{WINDOW}
+Copied {Tidus}'s status!
+--------------------------------------------------End--
+{WINDOW}
+Copied {Wakka}'s status!
+--------------------------------------------------End--
+{WINDOW}
+Copied {Rikku}'s status!
+--------------------------------------------------End--
+{WINDOW}
+{WINDOW}
+Geosgaino became {Red} Zombie {White} status
+--------------------------------------------------End--
+{WINDOW}
+Geosgueino entered {Red} Poison {White} status.
+--------------------------------------------------End--
+{WINDOW}
+Geosgueino entered {Red} Power Break {White} status.
+--------------------------------------------------End--
+{WINDOW}
+Geosgueino entered {Red} Magic Break {White} status.
+--------------------------------------------------End--
+{WINDOW}
+Geosgueino entered {Red} Armor Break {White} status.
+--------------------------------------------------End--
+{WINDOW}
+Geosgueino entered {Red} Mental Break {White} status.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Sleep {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Silence {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Blind {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino gained {Yellow} Shell {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino gained {Yellow} Protect {White}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Reflect {White} is applied to Geosgaino.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Barwater {White} is applied to Geosgaino.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Barfire {White} is applied to Geosgaino.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Barthunder {White} is applied to Geosgaino.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Barcold {White} is applied to Geosgaino.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Regen {White} was applied to Geosgeino.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Haste {White} was applied to Geosgeino.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino entered the {Red} Slow {White} status.
+--------------------------------------------------End--
