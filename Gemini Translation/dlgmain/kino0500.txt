@@ -1,0 +1,349 @@
+{Gatta} 
+Why only the front line?!
+Please let me fight on the front line too!
+--------------------------------------------------End--
+{Luzzu} 
+It's a decision from above.
+--------------------------------------------------End--
+{Gatta} 
+Even I won't always be...
+...a new recruit!
+--------------------------------------------------End--
+{Gatta} 
+If you send me to the front line...
+...I'll prove myself!
+--------------------------------------------------End--
+{Luzzu} 
+Protecting headquarters is also...
+...an important duty, isn't it?
+--------------------------------------------------End--
+{Gatta} 
+The reason I came all the way from {Besaid} to here is...
+...to fight '{Sin} '!
+--------------------------------------------------End--
+{Luzzu} 
+I understand, but it's an order.
+Get to your post quickly.
+--------------------------------------------------End--
+{Gatta} 
+Front line!
+--------------------------------------------------End--
+{Luzzu} 
+Did you get permission to pass?
+--------------------------------------------------End--
+{Tidus} 
+{Gatta} , you were so pitiful.
+--------------------------------------------------End--
+{Wakka} 
+You were spared from fighting.
+Aren't you lucky?
+--------------------------------------------------End--
+{Wakka} 
+Anyway, why fight?
+42+53.42+54. are machines of the {Al Bhed} tribe, right?
+--------------------------------------------------End--
+{Luzzu} 
+To be frank,
+Our battle is...
+--------------------------------------------------End--
+{Luzzu} 
+Yes, until the machine is ready.
+It's buying time.
+--------------------------------------------------End--
+{Wakka} 
+Tch!
+--------------------------------------------------End--
+{Wakka} 
+Tchhhhh!
+--------------------------------------------------End--
+{Luzzu} 
+{Wakka} ……
+--------------------------------------------------End--
+{Luzzu} 
+Since we might not have another chance to talk...
+...
+--------------------------------------------------End--
+{Luzzu} 
+There's something I want to apologize for.
+--------------------------------------------------End--
+{Lulu} 
+{Luzzu} No!!
+--------------------------------------------------End--
+{Wakka} 
+What is it?
+--------------------------------------------------End--
+{Luzzu} 
+I invited your future to {Crusader}...
+...it was me.
+--------------------------------------------------End--
+{Luzzu} 
+Sorry.
+--------------------------------------------------End--
+{Wakka} 
+We were playing Blitz together...
+He said if we won even once in the tournament...
+--------------------------------------------------End--
+{Wakka} 
+...he'd declare to Lou.
+...but he was talking so happily.
+--------------------------------------------------End--
+{Wakka} 
+One day, he suddenly became {Crusader}.
+That's how it is.
+--------------------------------------------------End--
+{Luzzu} 
+Together with the woman he liked...
+Rather than being...
+--------------------------------------------------End--
+{Luzzu} 
+Near them, {Sin}...
+Fight to keep it from approaching.
+--------------------------------------------------End--
+{Luzzu} 
+That might be cooler...
+That person was saying.
+--------------------------------------------------End--
+{Wakka} 
+Lou, you knew...?
+--------------------------------------------------End--
+{Lulu} 
+Before this journey, I heard...
+--------------------------------------------------End--
+{Luzzu} 
+Haha... {Lulu}'s punch was effective, too.
+--------------------------------------------------End--
+{Lucil} 
+Troops assigned to the front lines,
+Gather on the coast immediately!
+--------------------------------------------------End--
+{Luzzu} 
+Megumi, it's time.
+--------------------------------------------------End--
+{Wakka} 
+{Luzzu} ！
+Don't you dare die!
+--------------------------------------------------End--
+{Luzzu} 
+Haven't hit enough?
+--------------------------------------------------End--
+{Wakka} 
+Not nearly enough!!
+--------------------------------------------------End--
+{Yuna} 
+{Luzzu}, no!
+Don't go!
+--------------------------------------------------End--
+{Luzzu} 
+Thank you, {Yuna}.
+--------------------------------------------------End--
+{Auron} 
+Let them pass.
+--------------------------------------------------End--
+{Auron} 
+You, the Summoner's path,
+the resolve you chose, and...
+--------------------------------------------------End--
+{Auron} 
+This man's resolve is the same.
+Don't interfere.
+--------------------------------------------------End--
+
+Why did {Yuna} open the way...?
+--------------------------------------------------End--
+
+That was understood...
+It was much... much later.
+--------------------------------------------------End--
+
+42+59. and the others should also make thorough preparations.
+Please 42+54.42+60. this.
+--------------------------------------------------End--
+
+This is a provision for the Summoner.
+When the time comes, I'm counting on you!
+--------------------------------------------------End--
+
+We defeated the monsters around the headquarters, but...
+In case of emergency, please use this.
+--------------------------------------------------End--
+
+{Crusader}'s 42+53.forces are concentrated on the coastline.
+We must 42+62. stop the landing of '{Sin}' at the water's 42+61.
+{NEWPAGE}
+
+Since we will confront '{Sin}' head-on, ...
+Everyone is hardening their do-or-die resolve.
+--------------------------------------------------End--
+
+My battle 42+63. were also deployed on the coastline.
+I hope they survive...
+--------------------------------------------------End--
+
+The Operations Headquarters overlooks the sea.
+It is 42+64. stationed on high ground.
+{NEWPAGE}
+
+If you pass through the artillery emplacement ahead...
+It's right there.
+--------------------------------------------------End--
+
+The monsters around the headquarters have been subdued.
+Safety has been secured.
+--------------------------------------------------End--
+
+Installed by {Al Bhed2}.
+It's a mechanical lift.
+{NEWPAGE}
+
+If you're going to the headquarters,
+please use this.
+--------------------------------------------------End--
+
+It's a machine that goes against our teachings, but just a moment ago...
+{Master Seymor} used it too.
+--------------------------------------------------End--
+
+Unfortunately, this one...
+won't move anymore.
+{NEWPAGE}
+
+Don't rely on machines.
+Walk on your own feet.
+--------------------------------------------------End--
+
+This machine is no good anymore.
+It's completely broken.
+{NEWPAGE}
+
+Only the usable-looking parts...
+Should I pull those out...?
+--------------------------------------------------End--
+
+It's rusted and falling apart from the sea breeze.
+Even if I repair it, it won't move.
+--------------------------------------------------End--
+{Tidus} 
+{Wakka} ！
+Calm down, {Wakka}!
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go down.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go up.
+--------------------------------------------------End--
+
+It won't move--
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s power, to the Save Sphere.
+The transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s base, Blitz training continues.
+hidden excellent players are lurking.
+If you press {Button Square} and talk to them, you may be able to scout them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 10!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31} '[{OPurple} Su{White}]' is '[{Pink} Nu{White}]'
+{VAR07:31} '[{OPurple} Me{White}]' is '[{Pink} Ne{White}]'
+{VAR07:31} '[{OPurple} O{White}]' is '[{Pink} No{White}]'
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+For the unknown language '{Al Bhed} language', a {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--
+{WINDOW}
+Found {Auron}'s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--

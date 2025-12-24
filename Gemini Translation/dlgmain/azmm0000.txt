@@ -1,0 +1,133 @@
+{Yuna} 
+While in formation... I want to travel.
+--------------------------------------------------End--
+{Yuna} 
+Look! Look!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+If you show that much, that's excellent.
+--------------------------------------------------End--
+{Yuna} 
+You're not energetic.
+--------------------------------------------------End--
+{Tidus} 
+...Maybe.
+--------------------------------------------------End--
+{Yuna} 
+Shout?
+--------------------------------------------------End--
+{Tidus} 
+That kind of thing...
+It's a little different, I think.
+--------------------------------------------------End--
+{Yuna} 
+Hey.
+--------------------------------------------------End--
+{Yuna} 
+It's strange for me to say it myself, but...
+--------------------------------------------------End--
+{Yuna} 
+Summoners and Guards...
+are {Spira}'s light of hope, you know.
+--------------------------------------------------End--
+{Yuna} 
+Many people, looking to us...
+are paying attention.
+--------------------------------------------------End--
+{Yuna} 
+So, when we're down, or...
+when we're not energetic...
+--------------------------------------------------End--
+{Yuna} 
+We don't want to show that.
+--------------------------------------------------End--
+{Tidus} 
+Yes.
+I feel like I understand.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+Look!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+Alright, then, formation practice!
+--------------------------------------------------End--
+{Tidus} 
+Something feels strange about this practice!?
+--------------------------------------------------End--
+{Yuna} 
+Next! Try speaking up!
+--------------------------------------------------End--
+{Tidus} 
+Eh!?
+--------------------------------------------------End--
+{Yuna} 
+Alright, try it.
+--------------------------------------------------End--
+{Yuna} 
+Strange...
+--------------------------------------------------End--
+{Tidus} 
+It's {Yuna}'s fault, isn't it?
+--------------------------------------------------End--
+{Yuna} 
+Yeah... thanks.
+--------------------------------------------------End--
+{Wakka} 
+That you all had become strange...
+You were worried, weren't you!
+--------------------------------------------------End--
+{Yuna} 
+It's alright!
+--------------------------------------------------End--
+{Yuna} 
+Well then!
+--------------------------------------------------End--
+{Yuna} 
+Summoner {Yuna}, from now on...
+We are departing, aiming for {Blue} 【{Djose Temple} 】{White}!
+--------------------------------------------------End--
+{Yuna} 
+To all the guards,
+We ask for your favor as we depart!
+--------------------------------------------------End--
+{Lulu} 
+Not at all.
+--------------------------------------------------End--
+{Lulu} 
+From where the monsters...
+It is unclear how they entered.
+--------------------------------------------------End--
+{Lulu} 
+With {Master Seymor}'s efforts.
+{Maester Mika2} is safe.
+--------------------------------------------------End--
+{Lulu} 
+That's all the information.
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Port Kilika
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--
+{AREA}
+Djose Yevon Temple
+--------------------------------------------------End--

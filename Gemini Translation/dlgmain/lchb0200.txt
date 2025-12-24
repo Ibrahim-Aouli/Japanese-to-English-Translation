@@ -1,0 +1,178 @@
+{WINDOW}
+Battle with an Al Bhed Machine.
+{CHOICE:30}Waiting for command.
+{CHOICE:31}Seamless Test.
+{CHOICE:32}Event Retry.
+{CHOICE:33}Battle Unconditional Victory.
+--------------------------------------------------End--
+
+M-Are you alright now?!
+My legs froze up...
+--------------------------------------------------End--
+
+The ferry docked at the port...
+{Blue} It's the [{Kilika Port}] bound for {White}.
+--------------------------------------------------End--
+
+If you go straight, it's {Blue} [Port 3] {White}.
+The opposite is {Blue} [Port 1] {White}.
+--------------------------------------------------End--
+
+If you travel across the seas of {Spira}...
+You stop being surprised by most things.
+--------------------------------------------------End--
+
+Fortunate customer.
+The ferry will be 応42+53. for a while.
+--------------------------------------------------End--
+
+{Blue} It's the [{Luca}={Kilika}] ferry for the {White} 運42+53. period.
+Do you wish to board, customer?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I wish to board.
+{CHOICE:31}No, 42+54.u.
+--------------------------------------------------End--
+
+Anytime, if that's fine with you, customer.
+I'm ready to depart! Is your journey alright?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} is alright.
+{CHOICE:31} Hold on.
+--------------------------------------------------End--
+
+When preparations are complete, let me know.
+Then, we'll depart for {Kilika}.
+--------------------------------------------------End--
+
+Hey, hey! Let me through, let me through!
+You're in the way of my work!
+--------------------------------------------------End--
+
+Alright, move aside, move aside!
+Because we're departing soon.
+--------------------------------------------------End--
+
+What about {Al Bhed}'s machines?!
+--------------------------------------------------End--
+
+If you're surprised by that much...
+You won't be able to survive in {Spira}'s sea!
+--------------------------------------------------End--
+
+Alright, out of the way, out of the way!
+We're in the middle of checking cargo sorting.
+--------------------------------------------------End--
+
+Preparation is a mundane task, but for {Crusader}'s revival's...
+As the first step, I will do my best.
+--------------------------------------------------End--
+
+Suspicious individuals on the ferry...
+We are preparing to prevent them from boarding.
+--------------------------------------------------End--
+
+Now that the monk army is gone...
+Only {Crusader} can protect {Luca}.
+--------------------------------------------------End--
+
+Monk soldiers are not responsible for internal affairs.
+Don't talk to me about trivial matters.
+--------------------------------------------------End--
+
+No problems!
+--------------------------------------------------End--
+
+I want to become a sailor and
+travel all over {Spira}.
+--------------------------------------------------End--
+
+Ship... ship...
+A big ship...
+--------------------------------------------------End--
+
+My sister, the other day, tried to sneak onto the ferry
+and got caught.
+--------------------------------------------------End--
+
+Big sister, you get too carried away.
+She really likes ships...
+--------------------------------------------------End--
+
+42+62.42+63. wants to ride a ship, you see...
+Even if I tell them the sea is dangerous, they won't listen.
+--------------------------------------------------End--
+
+I hear 42+62. wants to become a sailor in the future.
+I intended for 42+64. to be graceful, but...
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} another Port No. 2
+{CHOICE:33} Control Map Lines
+{CHOICE:34} Return to 42+65.42+66.'s home.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s power, to the Save Sphere.
+The transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s base, Blitz training continues.
+hidden excellent players are lurking.
+If you press {Button Square} and talk to them, you may be able to scout them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

@@ -1,0 +1,170 @@
+
+If it is to save {Spira}.
+My life is nothing; I would offer it.
+--------------------------------------------------End--
+
+As a guard, to this extent...
+...there is nothing more honorable.
+--------------------------------------------------End--
+
+Therefore, {Yocun}...
+Please defeat 『{Sin} 』 without fail.
+--------------------------------------------------End--
+{Rikku} 
+What? What was that just now?
+--------------------------------------------------End--
+{Auron} 
+That is someone who once left here.
+--------------------------------------------------End--
+{Lulu} 
+"{Yocun}-sama,"
+they said, didn't they...?
+--------------------------------------------------End--
+{Lulu} 
+That person is the Great Summoner's guard!?
+--------------------------------------------------End--
+{Auron} 
+This dome, filled with phantom light insects,
+is also like a giant sphere.
+--------------------------------------------------End--
+{Auron} 
+To retain thoughts and leave them behind.
+Forever...
+--------------------------------------------------End--
+
+No! I don't want to, Mother!
+Mother is going to become {fayth}!?
+--------------------------------------------------End--
+
+This is the only way.
+--------------------------------------------------End--
+
+Summon me,
+and defeat 『{Sin} 』.
+--------------------------------------------------End--
+
+Then everyone
+will accept you.
+--------------------------------------------------End--
+
+I don't care about everyone!
+--------------------------------------------------End--
+
+If I just had Mother,
+I wouldn't need anything!
+--------------------------------------------------End--
+
+I don't have any more time...
+--------------------------------------------------End--
+{Wakka} 
+Hey, that just now...
+--------------------------------------------------End--
+{Rikku} 
+{Seymour} ？
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Ah...
+--------------------------------------------------End--
+{Jecht} 
+Hey, {Braska}
+--------------------------------------------------End--
+{Jecht} 
+You can stop.
+--------------------------------------------------End--
+{Braska} 
+I'll just accept your feelings.
+--------------------------------------------------End--
+{Jecht} 
+...Alright.
+I won't say it anymore.
+--------------------------------------------------End--
+{Auron} 
+No, I will say anything! 42+53.
+--------------------------------------------------End--
+{Auron} 
+{Braska} 様, let's brace ourselves!
+I don't want you to die...
+--------------------------------------------------End--
+{Braska} 
+I was prepared, 42+54. too.
+Wasn't I supposed to be?
+--------------------------------------------------End--
+{Auron} 
+At that time... I wasn't myself.
+--------------------------------------------------End--
+{Braska} 
+For someone to grieve for me...
+I'm glad, but...
+--------------------------------------------------End--
+{Braska} 
+I am going to make the sorrow disappear.
+--------------------------------------------------End--
+{Braska} 
+Defeat {P0} and {P1}...
+Oh, to make the sorrow disappear.
+--------------------------------------------------End--
+{Braska} 
+Understand me, {P0}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {P0}'s actions, to the Save Sphere...
+The transfer function to {P0} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {P0}'s region, Blitz training continues.
+hidden excellent players are lurking.
+If you press {P0} and talk, you may be able to sign a scout contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

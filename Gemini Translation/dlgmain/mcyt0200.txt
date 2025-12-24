@@ -1,0 +1,302 @@
+{Shelinda} 
+Ah! Here they come!
+--------------------------------------------------End--
+{Shelinda} 
+{Yuna}-sama, as expected,
+You're getting married, aren't you?
+--------------------------------------------------End--
+{Shelinda} 
+Please stop teasing me
+anymore!
+--------------------------------------------------End--
+{Shelinda} 
+{Seymour}-roshi and {Yuna}-sama,
+--------------------------------------------------End--
+{Shelinda} 
+Somehow, it feels like it's my own business.
+I'm happy.
+--------------------------------------------------End--
+{Shelinda} 
+It encourages people suffering from '{Sin}'.
+Because it's positive news, you see.
+--------------------------------------------------End--
+{Tidus} 
+In the end, it turned out like this, huh.
+--------------------------------------------------End--
+{Shelinda} 
+Aren't you happy?
+--------------------------------------------------End--
+{Tidus} 
+Well, there are various things.
+--------------------------------------------------End--
+{Tidus} 
+Hey.
+--------------------------------------------------End--
+{Tidus} 
+Where {Yuna} is,
+Do you know?
+--------------------------------------------------End--
+{Shelinda} 
+{Yuna}-sama is...
+--------------------------------------------------End--
+{Shelinda} 
+They seem to have headed for the Chamber of Trials.
+They were with {Seymour}-roshi.
+--------------------------------------------------End--
+{Tromell} 
+Oh, Owner of Guard Shop.
+Thank you for earlier.
+--------------------------------------------------End--
+{Tromell} 
+Thanks to the store owner, we were able to see off {P0}...
+...without issue.
+--------------------------------------------------End--
+{Tromell} 
+I express my sincere gratitude.
+--------------------------------------------------End--
+{Tromell} 
+It's nothing special, but...
+Please accept this.
+--------------------------------------------------End--
+
+{P0}!
+--------------------------------------------------End--
+
+{P0}'s {42+53} item, the sphere, is...
+--------------------------------------------------End--
+{O'aka} 
+42+54.！
+Master {P0}, in formation!
+--------------------------------------------------End--
+{O'aka} 
+Speaking of which, {P0} is
+apparently continuing their journey.
+--------------------------------------------------End--
+{O'aka} 
+With Master {P0}, the two of them.
+So they'll fight '{P0}'?
+--------------------------------------------------End--
+{O'aka} 
+Well, this is like {P0} and
+{P0}'s reenactment!
+--------------------------------------------------End--
+{Yuna} 
+Um...
+--------------------------------------------------End--
+{Auron} 
+Give me a chance to respond.
+--------------------------------------------------End--
+{Tromell} 
+As for the other Masters,
+I will report it.
+--------------------------------------------------End--
+{Auron} 
+What do you mean?
+--------------------------------------------------End--
+{Tromell} 
+Before being {P1}'s Master, {P0} is
+a tribal chief of {P0}.
+--------------------------------------------------End--
+{Tidus} 
+You mean... we're doing it?
+--------------------------------------------------End--
+{Tromell} 
+If we were to proceed recklessly from here,
+{Seymour}-sama will not permit it.
+--------------------------------------------------End--
+{Rikku} 
+Wait up!
+--------------------------------------------------End--
+{Rikku} 
+Look, if you look at that sphere,
+You'll understand!
+--------------------------------------------------End--
+{Tromell} 
+Is this it?
+--------------------------------------------------End--
+{Tromell} 
+{Guado} will solve {Guado}'s problem.
+--------------------------------------------------End--
+{Kimahri} 
+Move!
+--------------------------------------------------End--
+{Auron} 
+Run!
+--------------------------------------------------End--
+{Shelinda} 
+Please give my regards to {Yuna}-sama.
+--------------------------------------------------End--
+{Shelinda} 
+I am grateful for {Yuna}-sama's help.
+--------------------------------------------------End--
+{Shelinda} 
+Once the joining ceremony is decided, no matter where I am,
+I intend to rush there.
+--------------------------------------------------End--
+{Shelinda} 
+I will take this wonderful
+news north.
+--------------------------------------------------End--
+{Shelinda} 
+Did something happen?
+Is there anything I can do?
+--------------------------------------------------End--
+{Tromell} 
+Well, well... the ceremony preparations also
+must begin.
+--------------------------------------------------End--
+{Tromell} 
+It will get busy from now on.
+--------------------------------------------------End--
+{Tromell} 
+{Seymour}-sama and {Yuna}-sama are human and
+It will become a bridge to {Guado}.
+--------------------------------------------------End--
+{Tromell} 
+Lord/Lady {Jyscal} of {Farplane} also.
+It must surely be a [42+58] joy.
+--------------------------------------------------End--
+
+Lord/Lady {Yuna} is progressing along the path of trials.
+I cannot allow you to pass here.
+--------------------------------------------------End--
+
+What a [42+59] mess...
+--------------------------------------------------End--
+
+Oh, uh... {Ronso2}.
+I'll report this to {Bevelle}.
+--------------------------------------------------End--
+
+The Chief Monk of {Macalania Temple} is...
+It was Master {Seymor}.
+{NEWPAGE}
+
+The new Chief Monk replacing the Master is...
+...has still not been decided.
+{NEWPAGE}
+
+Instructions from {St. Bevelle} Palace.
+I am waiting, but...
+--------------------------------------------------End--
+
+If the Chief Monk remains undecided like this...
+The temple's operations cannot continue.
+--------------------------------------------------End--
+
+Why would Lord/Lady {Yuna} have such a thing...?
+--------------------------------------------------End--
+
+In the past, in this temple, humans and {Guado2}...
+...together worshipped [42+60].
+{NEWPAGE}
+
+But now, no one...
+Our hearts also seem to be sealed by ice.
+--------------------------------------------------End--
+
+I wonder if I should quit being a monastic official and become a wife.
+I sometimes think about it.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+The people who previously criticized {Al Bhed}
+are now revering {Guado}.
+{NEWPAGE}
+
+Always blaming others...
+That's outrageous.
+--------------------------------------------------End--
+
+Next, {Ronso2} might
+be made a target, I suppose.
+--------------------------------------------------End--
+
+We are the lively group!
+Get ready for a boisterous party!
+--------------------------------------------------End--
+
+Cheerful music will boom!
+We'll liven things up with dancing and singing!
+--------------------------------------------------End--
+
+For this truly auspicious procession,
+let us adorn it with our songs.
+--------------------------------------------------End--
+
+For a moment, forget the fear of '{Sin}',
+and be captivated by the exquisite melody.
+--------------------------------------------------End--
+
+This place is just like my den.
+It's damp and cold, making me sleepy.
+--------------------------------------------------End--
+
+Before I fall asleep...
+Let's start the wedding ceremony!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activ42+74., to the Save Sphere...
+The trans42+75. function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s sacre42+76. ground, Blitz training continues.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to scout/contr42+77. them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The trans42+75. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

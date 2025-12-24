@@ -1,0 +1,554 @@
+
+
+--------------------------------------------------End--
+{Wakka} 
+You and {Auron}-san
+Where did you meet?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Secret.
+{CHOICE:31}{Zanarkand} 
+--------------------------------------------------End--
+{Wakka} 
+Well, that's fine, but.
+--------------------------------------------------End--
+{Wakka} 
+Your malice from '{Sin}' ...
+It's persistent, isn't it?
+--------------------------------------------------End--
+{Wakka} 
+Anyway, just as I said.
+It's good you could meet an acquaintance, isn't it?
+--------------------------------------------------End--
+{Wakka} 
+Next, proceed north from {Blue} [{Mi'ihen Highroad}] {White}.
+It's {Blue} [{Djose} Temple] {White}, so remember that.
+--------------------------------------------------End--
+{Lulu} 
+From here, you'll also be a full-fledged guard.
+I'll be strict, so be prepared for that.
+--------------------------------------------------End--
+{Auron} 
+You are afflicted by the malice of '{Sin}'.
+Let the shop think that.
+--------------------------------------------------End--
+
+Many people are fleeing from {Bevelle}.
+They say it's in great chaos there now.
+--------------------------------------------------End--
+
+Those Doii-kyo are {Crusader} members.
+...They haven't returned.
+--------------------------------------------------End--
+
+They aren't even eating.
+They are waiting for dead Doii-kyo.
+--------------------------------------------------End--
+
+It's P0 members who are departing, you see.
+I will be in charge only during the operation, you see.
+--------------------------------------------------End--
+
+For these people too, for their departure...
+I want them to return safely.
+--------------------------------------------------End--
+
+{Crusader} is guarding the stadium.
+If monsters appear, we will defeat them, risking our lives!
+--------------------------------------------------End--
+
+I hear that Lord {Yuna} is getting married.
+During the wedding ceremony, the monk soldiers will provide security.
+--------------------------------------------------End--
+
+{Luca} will be protected by Ou and us monk soldiers.
+Leave the stadium's security to us too!
+--------------------------------------------------End--
+
+No matter how much I am persuaded, my opinion will not change.
+{Crusader} will carry out the operation as planned.
+--------------------------------------------------End--
+
+I am well aware that it is a reckless operation.
+However, I cannot flee.
+--------------------------------------------------End--
+
+Due to the operation, the end point of the highway...
+...is chaotic, I hear.
+--------------------------------------------------End--
+
+Well, if we can really defeat '{Sin}',
+a little confusion is a small price to pay.
+--------------------------------------------------End--
+
+The warriors of {Luca} are joining {Crusader} one after another.
+It is a blessing.
+--------------------------------------------------End--
+
+The defeated soldiers of {Crusader}, take a good rest.
+I hope they get well soon.
+--------------------------------------------------End--
+
+I tried to stop the people from {Crusader}, but...
+42+58. They won't even listen to anyone.
+--------------------------------------------------End--
+
+Since they were 42+59. by 『{Sin} 』...
+It would be 42+61. if they 42+60. later, you know...
+--------------------------------------------------End--
+{Gatta} 
+Huh?
+--------------------------------------------------End--
+{Gatta} 
+Is it alright to be loitering around a place like this?
+The match is about to start!
+--------------------------------------------------End--
+{Tidus} 
+I'm looking for someone.
+--------------------------------------------------End--
+{Luzzu} 
+Then coming here was a wasted trip.
+Look, there's hardly anyone here.
+--------------------------------------------------End--
+{Gatta} 
+Everyone's gone to the stadium, or...
+They're glued to the 42+62. Sphere broadcast.
+--------------------------------------------------End--
+{Gatta} 
+They're obsessed with Blitz, that's it.
+--------------------------------------------------End--
+{Tidus} 
+Aren't you going to watch?
+--------------------------------------------------End--
+{Luzzu} 
+Of course we want to watch.
+But we have a strategy meeting.
+--------------------------------------------------End--
+{Luzzu} 
+They're slow.
+--------------------------------------------------End--
+{Luzzu} 
+Let's ignore the messenger.
+Shall we go to the stadium already?
+--------------------------------------------------End--
+{Gatta} 
+Do this seriously, please, [42+63]!
+We have [42+64.42+65.]!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Luzzu} 
+That's how it is.
+--------------------------------------------------End--
+{Luzzu} 
+Well, we might be a little late, but...
+I intend to go watch the match.
+--------------------------------------------------End--
+{Gatta} 
+By the time we get there,
+Don't you lose.
+--------------------------------------------------End--
+{Tidus} 
+Yeah, leave it to me!
+--------------------------------------------------End--
+{Yuna} 
+Are you done?
+--------------------------------------------------End--
+{Wakka} 
+I'm weak to that kind of thing.
+--------------------------------------------------End--
+{Wakka} 
+Sorry to keep you waiting, {Yuna}.
+I've settled my lingering unease.
+--------------------------------------------------End--
+{Wakka} 
+From now on, {Yuna}'s guard
+is my sole focus.
+--------------------------------------------------End--
+{Yuna} 
+Well then, {Wakka},
+Once again...
+--------------------------------------------------End--
+{Yuna} 
+I look forward to working with you.
+--------------------------------------------------End--
+{Wakka} 
+Likewise, by all means.
+I look forward to working with you.
+--------------------------------------------------End--
+{Wakka} 
+And those monsters...
+Did you figure out what that was?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+{Master Seymor}'s summoned beast.
+That was amazing...
+--------------------------------------------------End--
+{Wakka} 
+Will they stay here, I wonder?
+--------------------------------------------------End--
+{Lulu} 
+You're acquainted with {Auron}, aren't you?
+Indeed, I met an acquaintance.
+--------------------------------------------------End--
+{Yuna} 
+But...
+Will I be accepted by {Zanarkand}?
+--------------------------------------------------End--
+{Wakka} 
+Either way, it'll be lonely.
+--------------------------------------------------End--
+{Yuna} 
+They're still in town, right?
+I think I'll go say hello.
+--------------------------------------------------End--
+{Yuna} 
+Oh!
+--------------------------------------------------End--
+{Wakka} 
+Oh!
+--------------------------------------------------End--
+{Yuna} 
+You too, {Auron}?
+--------------------------------------------------End--
+{Auron} 
+{Yuna} 
+--------------------------------------------------End--
+{Yuna} 
+Yes!
+--------------------------------------------------End--
+{Auron} 
+From this moment forth,
+I wish to serve as your guard.
+--------------------------------------------------End--
+{Yuna} 
+Eh?
+--------------------------------------------------End--
+{Wakka} 
+Are you serious!?
+--------------------------------------------------End--
+{Auron} 
+Is that inconvenient?
+--------------------------------------------------End--
+{Yuna} 
+No!
+--------------------------------------------------End--
+{Yuna} 
+Hey, everyone, it's fine, right?
+--------------------------------------------------End--
+{Wakka} 
+Of course!
+There couldn't possibly be any objection!
+--------------------------------------------------End--
+{Lulu} 
+But why?
+--------------------------------------------------End--
+{Auron} 
+It's a promise with {Braska}.
+--------------------------------------------------End--
+{Yuna} 
+Father... something like that...
+--------------------------------------------------End--
+{Yuna} 
+Thank you very much.
+Please treat me well!
+--------------------------------------------------End--
+{Auron} 
+And then...
+I'll take this one.
+--------------------------------------------------End--
+{Tidus} 
+...Thanks.
+Understood.
+--------------------------------------------------End--
+{Auron} 
+This is a promise with {Jecht}.
+--------------------------------------------------End--
+{Yuna} 
+As for {Jecht}...
+Are they well?
+--------------------------------------------------End--
+{Auron} 
+I don't know.
+That's because we parted ways 10 years ago.
+--------------------------------------------------End--
+{Yuna} 
+Is that so...?
+--------------------------------------------------End--
+{Auron} 
+We'll meet eventually.
+--------------------------------------------------End--
+{Yuna} 
+Yes!
+I'm looking forward to it.
+--------------------------------------------------End--
+{Auron} 
+Explain the upcoming plans.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+Which temple is next?
+--------------------------------------------------End--
+{Yuna} 
+Hey, come here for a moment.
+--------------------------------------------------End--
+{Yuna} 
+Look! Look!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+If it's that much 42+67, that's well done.
+--------------------------------------------------End--
+{Yuna} 
+You're not energetic.
+--------------------------------------------------End--
+{Tidus} 
+...Maybe.
+--------------------------------------------------End--
+{Yuna} 
+Shout?
+--------------------------------------------------End--
+{Tidus} 
+That kind of thing...
+It's a little different, I think.
+--------------------------------------------------End--
+{Yuna} 
+Hey.
+--------------------------------------------------End--
+{Yuna} 
+It's strange for me to say it myself, but...
+--------------------------------------------------End--
+{Yuna} 
+Summoners and Guards...
+are {Spira}'s light of hope, you know.
+--------------------------------------------------End--
+{Yuna} 
+Many people, looking to us...
+are paying attention.
+--------------------------------------------------End--
+{Yuna} 
+So, when we're down, or...
+when we're not energetic...
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+We don't want to show that.
+--------------------------------------------------End--
+{Tidus} 
+Yes.
+I feel like I understand.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+Look!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+You don't have to go that far...
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+While 42+68.... I want to travel.
+--------------------------------------------------End--
+{Tidus} 
+Why were you silent!?
+--------------------------------------------------End--
+{Yuna} 
+If it seems like it won't work out.
+42+69.42+67. with your finger.
+--------------------------------------------------End--
+{Yuna} 
+Then I'll... fly.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+Well then, let's go.
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{Tidus} 
+What are you looking at!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+Okay, then, 42+68.42+70. practice!
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+Something feels strange about this practice!?
+--------------------------------------------------End--
+{Yuna} 
+Next! Try speaking up!
+--------------------------------------------------End--
+{Tidus} 
+Eh!?
+--------------------------------------------------End--
+{Yuna} 
+Alright, try it.
+--------------------------------------------------End--
+{Yuna} 
+Strange...
+--------------------------------------------------End--
+{Tidus} 
+It's {Yuna}'s fault, isn't it?
+--------------------------------------------------End--
+{Yuna} 
+Yeah... thanks.
+--------------------------------------------------End--
+{Wakka} 
+That you all had become strange...
+You were worried, weren't you!
+--------------------------------------------------End--
+{Yuna} 
+It's alright!
+--------------------------------------------------End--
+{Yuna} 
+Well then!
+--------------------------------------------------End--
+{Yuna} 
+Summoner {Yuna}, from now on...
+We are departing, aiming for {Blue} 【{Djose Temple} 】{White}!
+--------------------------------------------------End--
+{Yuna} 
+To all the guards,
+Please treat me well!
+--------------------------------------------------End--
+{Lulu} 
+Not at all.
+--------------------------------------------------End--
+{Lulu} 
+From where the monsters...
+It is unclear how they entered.
+--------------------------------------------------End--
+{Lulu} 
+In {Master Seymor}'s 42+71. activity.
+{Maester Mika2} is safe.
+--------------------------------------------------End--
+{Lulu} 
+That's all the information.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Wait Count
+{CHOICE:33} Motion Frame
+{CHOICE:34} Capture Playback
+{CHOICE:35} No character judgment.
+{CHOICE:36} Model change.
+{CHOICE:37} Invisible.
+{CHOICE:38} Map Line Control
+Return to {CHOICE:39} 42+72.42+73.san's home.
+--------------------------------------------------End--
+{WINDOW}
+Capture Select Menu.
+{CHOICE:30} Never mind.
+{CHOICE:31} Wakka joins.
+{CHOICE:32} Promise with Braska and Jecht.
+{CHOICE:33} Yuna's Finger 42+69.
+--------------------------------------------------End--
+{WINDOW}
+`Model: {CHOICE:51}`
+--------------------------------------------------End--
+{WINDOW}
+Join Capture.
+{CHOICE:30} Never mind.
+{CHOICE:31} For Work
+{CHOICE:32} From the Beginning
+--------------------------------------------------End--
+{WINDOW}
+Promise Capture.
+{CHOICE:30} Never mind.
+{CHOICE:31} For Work
+{CHOICE:32} From the Beginning
+--------------------------------------------------End--
+{WINDOW}
+Finger 42+69. Capture.
+{CHOICE:30} Never mind.
+Character Placement
+For Work
+From the Beginning
+--------------------------------------------------End--
+{WINDOW}
+Frame : {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+Wait Count
+{CHOICE:30} End Settings
+  {CHOICE:31}01   {CHOICE:36}06
+  {CHOICE:32}02   {CHOICE:37}07
+  {CHOICE:33}03   {CHOICE:38}08
+  {CHOICE:34}04   {CHOICE:39}09
+  {CHOICE:35}05   {CHOICE:3A}10
+--------------------------------------------------End--
+{WINDOW}
+Wait{VAR12:30} : {CHOICE:53}
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Port Kilika
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--
+{AREA}
+Djose Yevon Temple
+--------------------------------------------------End--

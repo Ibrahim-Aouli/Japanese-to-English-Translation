@@ -1,0 +1,27 @@
+{Lulu} 
+It's too quiet...
+--------------------------------------------------End--
+{Lulu} 
+Trap?
+--------------------------------------------------End--
+{Tidus} 
+It doesn't matter even if it's a trap.
+{Yuna} is waiting!
+--------------------------------------------------End--
+{Rikku} 
+Oh?
+--------------------------------------------------End--
+{Wakka} 
+Why in a temple
+...is there a machine...?
+--------------------------------------------------End--
+{Rikku} 
+Well, it's Retsuri...
+--------------------------------------------------End--
+{Wakka} 
+That's not the problem!
+What about the teachings? The teachings!
+--------------------------------------------------End--
+{Rikku} 
+What do you expect me to do?!
+--------------------------------------------------End--

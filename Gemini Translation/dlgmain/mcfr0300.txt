@@ -1,0 +1,159 @@
+{WINDOW}
+Discovered {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+{WINDOW}
+{Yellow} The Sphere of {Jecht} {White}
+In {Spira}'s land, the journey of {Jecht} and their companions...
+A sphere from 10 years ago that recorded it is hidden.
+Since we defeated the Sphere Manager, the sphere's...
+The seal has been released. Let's go search for it!
+--------------------------------------------------End--
+{Tidus} 
+Here...
+--------------------------------------------------End--
+{Tidus} 
+Isn't it normal water?
+--------------------------------------------------End--
+{Auron} 
+It is the water that is the origin of spheres.
+--------------------------------------------------End--
+{Auron} 
+It seals people's feelings.
+It has the power to retain them.
+--------------------------------------------------End--
+{Wakka} 
+What?!
+--------------------------------------------------End--
+{Auron} 
+Places where feelings gather...
+Monsters are easily born.
+--------------------------------------------------End--
+{Wakka} 
+It's quite old.
+The contents might be gone.
+--------------------------------------------------End--
+{Auron} 
+Ten years ago, {Jecht}...
+It's the sphere __P0__ left behind.
+--------------------------------------------------End--
+{Auron} 
+Look.
+--------------------------------------------------End--
+{Tidus} 
+Oh... right.
+--------------------------------------------------End--
+{Tidus} 
+What...?
+Why are you looking so happy?
+--------------------------------------------------End--
+{Rikku} 
+There seems to be more.
+--------------------------------------------------End--
+{Tidus} 
+Even if you only pretended to be serious at the end.
+You don't have the ability to understand.
+--------------------------------------------------End--
+{Auron} 
+It was not a pretense.
+--------------------------------------------------End--
+{Auron} 
+At that time, {Jecht}...
+...had already made their resolve.
+--------------------------------------------------End--
+{Tidus} 
+Resolve?
+--------------------------------------------------End--
+{Auron} 
+{Jecht}...
+--------------------------------------------------End--
+{Auron} 
+...had always spoken of returning to {Zanarkand}'s home.
+(empty, combined with line 8)
+--------------------------------------------------End--
+{Auron} 
+The reason for continuing to record the scenery in the sphere was...
+...to show them to you after returning.
+--------------------------------------------------End--
+{Auron} 
+However, continuing the journey and coming to know {Spira}...
+...and coming to know {Braska}'s resolve...
+--------------------------------------------------End--
+{Auron} 
+Indeed, as they kept moving forward...
+...{Jecht}'s feelings changed.
+--------------------------------------------------End--
+{Auron} 
+{Jecht}, together with {Braska}...
+...decided to fight '{Sin}'.
+--------------------------------------------------End--
+{Tidus} 
+So, does that mean they gave up on returning...?
+--------------------------------------------------End--
+{Auron} 
+That is what resolve is.
+--------------------------------------------------End--
+
+I sort of understand.
+--------------------------------------------------End--
+
+Dad...
+--------------------------------------------------End--
+
+A way to return to {Zanarkand}
+couldn't be found, so he resigned himself.
+--------------------------------------------------End--
+
+He actually wanted to return, but
+he couldn't return, so he prepared himself.
+--------------------------------------------------End--
+
+Otherwise, forward...
+I think he couldn't move forward.
+--------------------------------------------------End--
+
+Besides...
+--------------------------------------------------End--
+
+Even if he found
+a way to return...
+--------------------------------------------------End--
+
+To part ways with his companions halfway...
+I think he couldn't do it.
+--------------------------------------------------End--
+{Tidus} 
+Alright, let's depart!
+--------------------------------------------------End--
+
+Resignation... into resolution
+I felt as if it had changed.
+--------------------------------------------------End--
+{Auron} 
+Hey.
+--------------------------------------------------End--
+{Tidus} 
+What?
+--------------------------------------------------End--
+{Auron} 
+{Jecht} loved you.
+--------------------------------------------------End--
+{Tidus} 
+Don't say such sentimental things.
+--------------------------------------------------End--
+{Auron} 
+But that he didn't know how to love,
+he had said.
+--------------------------------------------------End--
+{Tidus} 
+Enough about Dad already.
+--------------------------------------------------End--
+{Auron} 
+This is all I wanted to say.
+--------------------------------------------------End--
+{Tidus} 
+Well, thanks.
+--------------------------------------------------End--
+{Tidus} 
+Thank you.
+--------------------------------------------------End--

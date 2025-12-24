@@ -1,0 +1,154 @@
+{Auron} 
+Wait.
+--------------------------------------------------End--
+{Auron} 
+I believe... it's around here.
+--------------------------------------------------End--
+{Tidus} 
+"What is it?"
+--------------------------------------------------End--
+{Auron} 
+I have something I want to show you.
+--------------------------------------------------End--
+{Yuna} 
+But, {Auron}...
+--------------------------------------------------End--
+{Auron} 
+It'll be over soon.
+--------------------------------------------------End--
+{O'aka} 
+Line!
+--------------------------------------------------End--
+{O'aka} 
+Master {Seymor} arrives!
+Now, a Special Commemorative Do-kyo Trial Offer!
+--------------------------------------------------End--
+{O'aka} 
+Do you think it's expensive?
+--------------------------------------------------End--
+{O'aka} 
+How about this!
+--------------------------------------------------End--
+{O'aka} 
+For a while, the fight is at this 42+53. level!
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} too expensive.
+{CHOICE:31} just right.
+{CHOICE:32} too cheap.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+54., to the Save Sphere.
+The 転42+55. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training at {Spira}'s 42+56.地.
+hidden excellent players are lurking.
+If you interact and talk to {Button Square}, you may be able to Scout 42+57.約.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+55. function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 15!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language 42+58.!
+{VAR07:31} 『{OPurple} タ{White} 』42+59.『{Pink} や{White} 』
+{VAR07:31} 『{OPurple} ヲ{White} 』42+59.『{Pink} ゆ{White} 』
+{VAR07:31} 『{OPurple} モ{White} 』42+59.『{Pink} よ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar word 42+60. '{Al Bhed} Language', the {Al Bhed} Language Dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

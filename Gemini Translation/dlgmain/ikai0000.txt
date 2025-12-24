@@ -1,0 +1,43 @@
+{Wakka} 
+What was that earlier?
+Why, Lord {Jyscal}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, I understand!
+{WINDOW}
+{CHOICE:31}, I'm listening quietly.
+--------------------------------------------------End--
+{Tidus} 
+{Farplane}, not granted peace.
+They became a monster, right?
+--------------------------------------------------End--
+{Yuna} 
+Someone as great as Lord {Jyscal},
+to die without being granted peace...
+--------------------------------------------------End--
+{Lulu} 
+{Farplane} might have been granted peace.
+しれないわ
+--------------------------------------------------End--
+{Lulu} 
+Even so... {Spira} remained.
+--------------------------------------------------End--
+{Lulu} 
+If bound by strong, very strong feelings,
+Such things can happen... apparently.
+--------------------------------------------------End--
+{Rikku} 
+That's a reversal, isn't it?
+--------------------------------------------------End--
+{Auron} 
+A proper way of dying,
+That means they didn't die a proper death.
+--------------------------------------------------End--
+{Tromell} 
+Will you cut down this old man?
+That is exactly what I wish for.
+--------------------------------------------------End--
+{Tromell} 
+The fallen {Guado2}.
+Did you come to mock?
+--------------------------------------------------End--

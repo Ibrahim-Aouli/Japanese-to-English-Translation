@@ -1,0 +1,83 @@
+{Tidus} 
+What is this!?
+--------------------------------------------------End--
+
+What are you talking about?
+--------------------------------------------------End--
+{Tidus} 
+Here... what is this place?
+--------------------------------------------------End--
+
+It's the engine room.
+It's written on the door, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+But why a bird?
+--------------------------------------------------End--
+
+It's not unusual.
+It's not Chocobo power.
+--------------------------------------------------End--
+{Tidus} 
+Chocobo?
+You mean that bird?
+--------------------------------------------------End--
+
+Whoa!
+You've never seen a Chocobo?
+--------------------------------------------------End--
+
+Hmph... I don't know where you came from, but...
+You're incredibly naive.
+--------------------------------------------------End--
+{Tidus} 
+Again...?
+--------------------------------------------------End--
+
+During the journey, this kind of...
+...surprise was commonplace.
+--------------------------------------------------End--
+
+Ran rara rararara rattatta~
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} language dictionary Volume 3!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31} 『{OPurple} ア{White} 』degree『{Pink} か{White} 』
+{VAR07:31} "[{OPurple} Chi {White}]" degree "[{Pink} Ki {White}]"
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar departed `{Al Bhed}` language, the `{Al Bhed}` language dictionary
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

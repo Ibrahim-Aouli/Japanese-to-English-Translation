@@ -1,0 +1,212 @@
+
+We somehow managed to escape without incident, but...
+...{TAGS} was really down.
+--------------------------------------------------End--
+
+It couldn't be helped. They'd always believed in...
+...{TAGS} only to be cut off by them.
+--------------------------------------------------End--
+
+I thought I had to do something.
+But...
+--------------------------------------------------End--
+
+I had no idea what to do, so...
+...
+--------------------------------------------------End--
+{Wakka} 
+How was it?
+--------------------------------------------------End--
+{Auron} 
+No pursuers.
+--------------------------------------------------End--
+{Auron} 
+But from now on, you shouldn't get close
+to {TAGS}.
+--------------------------------------------------End--
+{Auron} 
+What about {TAGS}?
+--------------------------------------------------End--
+{Rikku} 
+They said they wanted to be alone.
+--------------------------------------------------End--
+{Auron} 
+I suppose so...
+--------------------------------------------------End--
+{Auron} 
+Is it... not your turn yet?
+--------------------------------------------------End--
+{Auron} 
+I guess... it was too much.
+--------------------------------------------------End--
+{Wakka} 
+{TAGS}... must be having a hard time.
+--------------------------------------------------End--
+{Wakka} 
+We depart at dawn.
+--------------------------------------------------End--
+{Wakka} 
+As for where we're headed...
+It's up to {Yuna}, though.
+--------------------------------------------------End--
+{Wakka} 
+To make {Yuna} decide everything...
+Muo42+53. ...right?
+--------------------------------------------------End--
+{Wakka} 
+Haa...
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} is the forest's 42+54., you know.
+--------------------------------------------------End--
+{Lulu} 
+{Kimahri} went along, but...
+Why don't you go too?
+--------------------------------------------------End--
+{Lulu} 
+Something only you can do.
+I think there is.
+--------------------------------------------------End--
+{Lulu} 
+Hmph...
+--------------------------------------------------End--
+{Lulu} 
+If I could fight without thinking about anything,
+and just move forward... it would be so much easier, wouldn't it?
+--------------------------------------------------End--
+{Rikku} 
+I wonder what {Yunie} will do.
+I wonder if they'll stop the journey.
+--------------------------------------------------End--
+{Tidus} 
+That would be better, wouldn't it?
+--------------------------------------------------End--
+{Rikku} 
+うーん……
+--------------------------------------------------End--
+{Rikku} 
+If {Yunie} really
+wanted to continue the journey...
+--------------------------------------------------End--
+{Rikku} 
+I wonder if I shouldn't interfere... things like that.
+--------------------------------------------------End--
+{Rikku} 
+I find myself thinking that way too.
+--------------------------------------------------End--
+{Rikku} 
+I'll defeat '{Sin}' with an Ultimate Summon, but...
+The Summoner won't die...
+--------------------------------------------------End--
+{Rikku} 
+Isn't there a plan like that, I wonder?
+--------------------------------------------------End--
+{Rikku} 
+For 1000 years, no one...
+Came up with such a strategy, huh...?
+--------------------------------------------------End--
+{Rikku} 
+Hey, at {Yunie}'s place...
+Why don't you go?
+--------------------------------------------------End--
+{Yuna} 
+Umm...
+--------------------------------------------------End--
+{Yuna} 
+{Auron}
+--------------------------------------------------End--
+{Yuna} 
+{Wakka}
+--------------------------------------------------End--
+{Yuna} 
+{Lulu} 
+--------------------------------------------------End--
+{Yuna} 
+{Kimahri} 
+--------------------------------------------------End--
+{Yuna} 
+{Rikku} 
+--------------------------------------------------End--
+{Yuna} 
+When dawn breaks, we depart.
+--------------------------------------------------End--
+{Yuna} 
+And then...
+--------------------------------------------------End--
+{Yuna} 
+I'm sorry for causing you so much worry.
+--------------------------------------------------End--
+{Yuna} 
+Um...
+--------------------------------------------------End--
+{Auron} 
+That's enough.
+Relax... get some rest.
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{Yuna} 
+Good night.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {P0}'s actions, to the Save Sphere...
+The transfer function to {P0} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {P0}'s region, Blitz training continues.
+hidden excellent players are lurking.
+If you press {P0} and talk, you may be able to sign a scout contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

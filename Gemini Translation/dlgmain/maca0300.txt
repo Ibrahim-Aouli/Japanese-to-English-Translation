@@ -1,0 +1,424 @@
+{Lulu} 
+About {Wakka}...
+Please don't hate them.
+--------------------------------------------------End--
+{Tidus} 
+It's fine, I tell you.
+--------------------------------------------------End--
+{Lulu} 
+...Thank you.
+--------------------------------------------------End--
+{Tidus} 
+{Lulu}...about {Rikku}...
+What do they think?
+--------------------------------------------------End--
+{Lulu} 
+Me?
+--------------------------------------------------End--
+{Lulu} 
+Well……
+I don't get tired of watching them, I guess.
+--------------------------------------------------End--
+{Tidus} 
+Is that all?
+--------------------------------------------------End--
+{Lulu} 
+They aren't a good person.
+I know that.
+--------------------------------------------------End--
+{Tidus} 
+Right?
+--------------------------------------------------End--
+{Tidus} 
+{Wakka} too, about that...
+I think they know.
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+...Right.
+--------------------------------------------------End--
+{Tidus} 
+{Wakka} is stubborn too, aren't they?
+--------------------------------------------------End--
+{Tidus} 
+{Yevon2}'s teachings...
+Are they that strict?
+--------------------------------------------------End--
+{Lulu} 
+It's not just the teachings.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Lulu} 
+The reason they hate {Al Bhed} is...
+...because of what happened with {Chappu}.
+--------------------------------------------------End--
+{Tidus} 
+Oh, they were using mechanical weapons, right?
+--------------------------------------------------End--
+{Tidus} 
+And... I was defeated, right?
+--------------------------------------------------End--
+{Tidus} 
+Is it all {Sin} 's fault...?
+--------------------------------------------------End--
+{Tidus} 
+...Damn old man.
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+What?
+--------------------------------------------------End--
+{Tidus} 
+Oh, that's my business.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Hey.
+--------------------------------------------------End--
+{Tidus} 
+『{Sin}』, someone...
+Is it something that transforms?
+--------------------------------------------------End--
+{Lulu} 
+I've never heard of such a story, though...
+Why?
+--------------------------------------------------End--
+{Tidus} 
+Somehow.
+--------------------------------------------------End--
+{Lulu} 
+『{Sin}』 is a line, and at the same time,
+The shop our sins became.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+So, after all, you don't understand?
+--------------------------------------------------End--
+{Lulu} 
+The need to think.
+Because there isn't much.
+--------------------------------------------------End--
+{Lulu} 
+To flee or to fight.
+Just choosing is all I can do.
+--------------------------------------------------End--
+{Lulu} 
+Too many complicated things.
+It's better not to think.
+--------------------------------------------------End--
+{Tidus} 
+You know...
+Is that okay? With that?
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+Heh heh...
+--------------------------------------------------End--
+{Lulu} 
+So you really are...
+...from a world without 『{Sin} 』, aren't you?
+--------------------------------------------------End--
+{Tidus} 
+You found me out.
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+Ah ha ha...
+--------------------------------------------------End--
+{Rikku} 
+You were really disliked, weren't you?
+--------------------------------------------------End--
+{Rikku} 
+It makes me want to cry...
+--------------------------------------------------End--
+{Tidus} 
+Ryu {Rikku}!?
+--------------------------------------------------End--
+{Rikku} 
+Just kidding!
+--------------------------------------------------End--
+{Rikku} 
+It's fine, it's fine!
+I can't worry about every little thing!
+--------------------------------------------------End--
+{Rikku} 
+Hey!
+Are me and {Yunie} related?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Rikku} 
+Dad's younger sister is {Yunie}'s...
+...aunt, isn't she?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+Huh? Then you two...
+...are cousins!?
+--------------------------------------------------End--
+{Rikku} 
+That's right.
+--------------------------------------------------End--
+{Tidus} 
+I see! That's why {Yuna}'s...
+...became a guard, huh?
+--------------------------------------------------End--
+{Rikku} 
+It's not just {Yuna} we want to protect.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Rikku} 
+We want to protect all Summoners.
+We do.
+--------------------------------------------------End--
+{Rikku} 
+A Summoner...
+--------------------------------------------------End--
+{Rikku} 
+How should I put it...
+--------------------------------------------------End--
+{Rikku} 
+For {Spira}'s happiness...
+They look like a sacrifice.
+--------------------------------------------------End--
+{Tidus} 
+What do you mean?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+Ah!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{Rikku} ？
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+What?
+--------------------------------------------------End--
+{Tidus} 
+A sacrifice?
+--------------------------------------------------End--
+{Rikku} 
+...The journey is difficult, isn't it?
+--------------------------------------------------End--
+{Rikku} 
+Many things...
+...you have to endure.
+--------------------------------------------------End--
+{Tidus} 
+Oh, I see what you mean.
+--------------------------------------------------End--
+{Tidus} 
+But {Yuna}... everything...
+...is prepared for, right?
+--------------------------------------------------End--
+{Tidus} 
+So I will, with all my strength,
+42+53.support you.
+--------------------------------------------------End--
+{Tidus} 
+Since {Rikku} became a Guard too...
+You'll do that too, right?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+...Right.
+--------------------------------------------------End--
+{Tidus} 
+If you say "sacrifice"...
+{Yuna} would be pitiful.
+--------------------------------------------------End--
+{Tidus} 
+Ryu {Rikku}!?
+--------------------------------------------------End--
+{Rikku} 
+...Let's do our best.
+--------------------------------------------------End--
+{Tidus} 
+...You're mean, aren't you?
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+What?
+--------------------------------------------------End--
+{Tidus} 
+It's not fun to run with an old man!
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+Hmph.
+--------------------------------------------------End--
+{Auron} 
+Make sure no 間42+54.i happens.
+--------------------------------------------------End--
+{Tidus} 
+What's that?
+--------------------------------------------------End--
+{Auron} 
+It means don't make the matter 複42+55..
+--------------------------------------------------End--
+{Auron} 
+I became unable to maneuver 42+56. properly...
+I'll cry.
+--------------------------------------------------End--
+{Tidus} 
+That's none of your business.
+--------------------------------------------------End--
+{Tidus} 
+...Maybe you're right.
+--------------------------------------------------End--
+{Auron} 
+At your 年42+57....
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Hm?
+--------------------------------------------------End--
+{Auron} 
+Not making any 間42+54.i at all...
+...is boring, though.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+...Ugh.
+--------------------------------------------------End--
+{Tidus} 
+Which one is it?!
+--------------------------------------------------End--
+{Tidus} 
+Um, so...
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+うーん……
+--------------------------------------------------End--
+{Tidus} 
+As for {Kimahri}, about {Rikku}...
+...what do you think?
+--------------------------------------------------End--
+{Kimahri} 
+{Ronso} is a person of {Yevon2}.
+I don't like {Al Bhed}.
+--------------------------------------------------End--
+{Tidus} 
+Oh… I see.
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} is different.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Kimahri} 
+{Al Bhed} is {Al Bhed}.
+{Rikku} is {Rikku}.
+--------------------------------------------------End--
+{Kimahri} 
+{Rikku}, regarding {Yuna}.
+Said they would protect.
+--------------------------------------------------End--
+{Kimahri} 
+{Rikku} is not a liar.
+{Kimahri} understands.
+--------------------------------------------------End--
+{Kimahri} 
+Therefore, a companion.
+--------------------------------------------------End--
+{Tidus} 
+Hey, later, to {Rikku}.
+Could you tell them that?
+--------------------------------------------------End--
+{Tidus} 
+That person, despite everything,
+I think they're quite concerned about it.
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} is 42+58.いている.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Why?
+--------------------------------------------------End--
+{Kimahri} 
+You are 42+59.しい.
+--------------------------------------------------End--
+{Tidus} 
+Don't say such things 42+60.!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+With {Besaid Aurochs}'s activat{42+61.}, to the Save Sphere.
+The transfe{42+62.} function to {blitzball} Stadium
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s bas{42+63.}, continue Blitz training.
+hidden excellent players are lurking.
+If you press `{Button Square}` and talk to them, you may be able to scout and contrac{42+64.}.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfe{42+62.} function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

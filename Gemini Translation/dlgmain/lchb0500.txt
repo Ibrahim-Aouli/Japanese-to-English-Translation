@@ -1,0 +1,424 @@
+
+
+--------------------------------------------------End--
+
+In the short time I looked away...
+This is the situation.
+--------------------------------------------------End--
+
+I apologize. We will form a line immediately, so...
+For now, please go around from the other side.
+--------------------------------------------------End--
+
+It seems {Al Bhed} is responsible.
+What an outrageous group!
+--------------------------------------------------End--
+
+I'll finish everything in a moment.
+Please wait a little longer.
+--------------------------------------------------End--
+
+Your current location is {Blue} [Port 5]{White}.
+If you go straight, you will reach {Blue} [Port 4]{White}.
+--------------------------------------------------End--
+
+For business regarding shops in {Blue} [Entrance]{White},
+Please go around to the opposite side.
+--------------------------------------------------End--
+
+Check every suspicious area thoroughly!
+It's Dobi no Genkyo!!
+--------------------------------------------------End--
+
+The ship's organization isn't in order!
+It's irritating just to look at.
+--------------------------------------------------End--
+
+Compared to other ports,
+It's quite quiet here, isn't it?
+--------------------------------------------------End--
+
+Thanks to the connecting ship starting to move,
+Finally, I can go to other lands to 42+53.壳!
+--------------------------------------------------End--
+
+What should I believe?
+I no longer knew, so I left the temple.
+--------------------------------------------------End--
+
+If you have any trouble,
+please ask us staff.
+--------------------------------------------------End--
+
+There's a flying ship in Port 1.
+Try going around and taking a look.
+--------------------------------------------------End--
+
+Both the town and the port are full of warrior monks.
+They're reassuring, but it feels a little stifling.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract of 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+The warrior monks fled to {Bevelle}.
+How pathetic, to abandon the people.
+--------------------------------------------------End--
+
+The ship from {Al Bhed} took {Luca}.
+No one knows the destination.
+--------------------------------------------------End--
+
+For {Ronso}, chilled by the cold...
+The town of {Luca} is too far.
+--------------------------------------------------End--
+
+We can't pass this way!
+--------------------------------------------------End--
+{Tidus} 
+What is this?!
+--------------------------------------------------End--
+{Lulu} 
+It might be {Al Bhed}'s doing.
+We'll go around from the other side!
+--------------------------------------------------End--
+{Tidus} 
+Damn it!
+--------------------------------------------------End--
+{Tidus} 
+Do you understand?!
+It's all your fault!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+It's all your fault!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+Who are you?
+--------------------------------------------------End--
+{Tidus} 
+About Dad...
+You know, don't you?
+--------------------------------------------------End--
+{Auron} 
+Why were you silent!?
+--------------------------------------------------End--
+{Tidus} 
+With {Yuna}'s dad as well...
+You're acquainted, aren't you?
+--------------------------------------------------End--
+{Auron} 
+That's right.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+{Jecht}, {Braska}, and I.
+The three of us defeated '{Sin}' ten years ago.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+Someday, you...
+...in order to take you to {Spira}.
+--------------------------------------------------End--
+{Tidus} 
+Why me?
+--------------------------------------------------End--
+{Auron} 
+At {Jecht}'s request.
+--------------------------------------------------End--
+{Tidus} 
+Is Dad alive?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+Within its 片42+59., surely...
+{Jecht}'s will remains.
+--------------------------------------------------End--
+{Auron} 
+When you made contact with it, you also...
+...must have felt {Jecht}.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+That's right.
+『{Sin} 』 is {Jecht}.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+I'll show you the truth.
+--------------------------------------------------End--
+{Auron} 
+Getting angry, or crying...
+Do that later.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+Your story won't end.
+--------------------------------------------------End--
+{Tidus} 
+What of it?!
+--------------------------------------------------End--
+{Auron} 
+I see...
+Then it can't be helped.
+--------------------------------------------------End--
+{Auron} 
+Do as you like. Come or not.
+You are the one who chooses.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+You must be dissatisfied.
+Or is it anxiety?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Auron} 
+That is fine.
+--------------------------------------------------End--
+{Tidus} 
+{Auron} ？
+--------------------------------------------------End--
+{Tidus} 
+Will I be accepted by {Zanarkand}?
+--------------------------------------------------End--
+{Auron} 
+It depends on {Jecht}.
+--------------------------------------------------End--
+{Auron} 
+I will be {Yuna}'s guard.
+You come along too.
+--------------------------------------------------End--
+{Tidus} 
+Being swallowed by 『{Sin} 』 too!
+Being thrown out by {Spira} too!
+--------------------------------------------------End--
+{Tidus} 
+Not being accepted by {Zanarkand} either!
+All! Everything! All of it!
+--------------------------------------------------End--
+{Tidus} 
+What does this mean?!
+That's strange, isn't it?!
+--------------------------------------------------End--
+{Auron} 
+There's nothing strange.
+--------------------------------------------------End--
+{Auron} 
+Later, only I
+crossed over to {Zanarkand}...
+--------------------------------------------------End--
+{Auron} 
+I was watching over your growth.
+--------------------------------------------------End--
+{Auron} 
+If that state can be called "living,"
+...
+--------------------------------------------------End--
+{Auron} 
+He is already
+not in human form.
+--------------------------------------------------End--
+{Auron} 
+But...
+--------------------------------------------------End--
+{Tidus} 
+No way...
+--------------------------------------------------End--
+{Tidus} 
+Nonsense!
+What is that?!
+--------------------------------------------------End--
+{Tidus} 
+Ridiculous!
+--------------------------------------------------End--
+{Auron} 
+Follow me.
+--------------------------------------------------End--
+{Tidus} 
+What if I refuse?
+--------------------------------------------------End--
+{Tidus} 
+You're making a fool of me!
+--------------------------------------------------End--
+{Tidus} 
+Saying things like "Do as you please"...
+...you say!
+--------------------------------------------------End--
+{Tidus} 
+Or "I'm the one who chooses"...
+...you say!
+--------------------------------------------------End--
+{Tidus} 
+But I...
+...there's nothing I can do, I tell you!
+--------------------------------------------------End--
+{Tidus} 
+As you said
+I have no choice but to do it!
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Wait Count
+{CHOICE:33} Motion Frame
+{CHOICE:34} Capture Playback
+{CHOICE:35} Object Control
+{CHOICE:36} Invisifull
+{CHOICE:37} Map Line Control
+{CHOICE:38}42+61.42+62. Return to Base
+--------------------------------------------------End--
+{WINDOW}
+Capture Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} For Work
+{CHOICE:32} From the Beginning
+--------------------------------------------------End--
+{WINDOW}
+Frame : {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+Wait Count
+{CHOICE:30} End Settings
+  {CHOICE:31}01   {CHOICE:36}06
+  {CHOICE:32}02   {CHOICE:37}07
+  {CHOICE:33}03   {CHOICE:38}08
+  {CHOICE:34}04   {CHOICE:39}09
+  {CHOICE:35}05   {CHOICE:3A}10
+--------------------------------------------------End--
+{WINDOW}
+Wait{VAR12:30} : {CHOICE:53}
+--------------------------------------------------End--

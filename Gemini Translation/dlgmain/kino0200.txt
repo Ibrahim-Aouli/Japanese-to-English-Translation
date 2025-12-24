@@ -1,0 +1,536 @@
+{WINDOW}
+{Lucil} 
+Let's go!
+--------------------------------------------------End--
+{WINDOW}
+
+Shoot!
+--------------------------------------------------End--
+{WINDOW}
+{Lucil} 
+Charge!
+--------------------------------------------------End--
+{Wakka} 
+Tch...
+It's a guaranteed failure, though.
+--------------------------------------------------End--
+{Yuna} 
+Let's stop already.
+--------------------------------------------------End--
+{Yuna} 
+It might be a reckless operation.
+It might go against the teachings.
+--------------------------------------------------End--
+{Yuna} 
+But {Crusader} and {Al Bhed}'s...
+...people are... very serious.
+--------------------------------------------------End--
+{Yuna} 
+Everyone wants to defeat '{Sin}'.
+They truly hope for it.
+--------------------------------------------------End--
+{Yuna} 
+Those feelings are, with ours...
+...not different at all.
+--------------------------------------------------End--
+{Yuna} 
+Don't you think so?
+--------------------------------------------------End--
+{Wakka} 
+Heh, alright.
+--------------------------------------------------End--
+{Wakka} 
+But, I won't acknowledge machines.
+I won't acknowledge anything that goes against the teachings!
+--------------------------------------------------End--
+{Lucil} 
+Summoner, so you were here.
+--------------------------------------------------End--
+{Lucil} 
+The command center is over there.
+{Maester Kinoc} was also here.
+--------------------------------------------------End--
+{Yuna} 
+{Kinoc} as well?
+--------------------------------------------------End--
+{Lucil} 
+Yes, {Yuna}, please hurry as well.
+--------------------------------------------------End--
+{Gatta} 
+The battle will begin soon.
+--------------------------------------------------End--
+{Gatta} 
+Various preparations...
+Please don't forget.
+--------------------------------------------------End--
+{Wakka} 
+Hey, hey, that's kind of...
+So half-hearted.
+--------------------------------------------------End--
+{Gatta} 
+Of course!
+--------------------------------------------------End--
+{Gatta} 
+I wanted to fight {{Sin}} and...
+I came all this way!
+--------------------------------------------------End--
+{Gatta} 
+Even so...
+Ah, damn!
+--------------------------------------------------End--
+{Auron} 
+If you want to be recognized...
+--------------------------------------------------End--
+{Gatta} 
+Huh?
+--------------------------------------------------End--
+{Auron} 
+First, the assigned tasks...
+Just try completing them silently.
+--------------------------------------------------End--
+{Gatta} 
+But even if you comply without a word...
+No one will ever recognize you.
+--------------------------------------------------End--
+{Gatta} 
+Right? You think so too.
+--------------------------------------------------End--
+{Gatta} 
+Thinking it's someone else's problem...
+--------------------------------------------------End--
+{Gatta} 
+Even a little bit of a Rule 42+53 violation...
+First, you need to stand out...
+--------------------------------------------------End--
+{Gatta} 
+Master {Luzzu} 42+55. ...
+I'll show them...
+--------------------------------------------------End--
+
+Oh...
+--------------------------------------------------End--
+
+I heard from {Seymour}, but...
+I truly didn't expect to meet you.
+--------------------------------------------------End--
+
+How nostalgic, {Auron}!
+Has it been 10 years?
+--------------------------------------------------End--
+
+Hah hah hah...
+--------------------------------------------------End--
+{Lulu} 
+One of the Four Masters, {Yevon2}.
+Master {Wen Kinoc}.
+--------------------------------------------------End--
+{Lulu} 
+{Yevon2}'s warrior monks' commands and...
+{Crusader}'s 42+57.42+58. is correct, isn't it?
+--------------------------------------------------End--
+{Gatta} 
+That all operation preparations are complete...
+A report was received.
+--------------------------------------------------End--
+{Kinoc} 
+Understood.
+Withdraw.
+--------------------------------------------------End--
+{Gatta} 
+Huh!
+--------------------------------------------------End--
+{Kinoc} 
+Hey, {Auron}.
+What were you doing these past 10 years?
+--------------------------------------------------End--
+{Auron} 
+The operation will begin.
+That kind of talk is unnecessary.
+--------------------------------------------------End--
+{Kinoc} 
+It's an operation that will fail anyway.
+--------------------------------------------------End--
+{Kinoc} 
+Even a little longer.
+I'll let you dream.
+--------------------------------------------------End--
+{Tidus} 
+Awful!
+--------------------------------------------------End--
+{Seymour} 
+{Maester Kinoc} 
+--------------------------------------------------End--
+{Kinoc} 
+Ah, begin.
+--------------------------------------------------End--
+{Auron} 
+To think that's the Master...
+--------------------------------------------------End--
+{Kinoc} 
+I heard you, {Auron}.
+--------------------------------------------------End--
+{Kinoc} 
+A lot has happened in the past ten years.
+Where were you and what were you doing?
+--------------------------------------------------End--
+{Auron} 
+I was fulfilling the promise to 42+60.
+...It's not over yet.
+--------------------------------------------------End--
+{Kinoc} 
+Tell me one thing.
+Did you see {Zanarkand}?
+--------------------------------------------------End--
+{Auron} 
+Stay by {Yuna}'s side.
+--------------------------------------------------End--
+{Kinoc} 
+Watching from a special 42+61. seat?
+That's the Master's 42+62. privilege.
+--------------------------------------------------End--
+{Wakka} 
+It's as if the temple approved...
+...some kind of strategy, isn't it...?
+--------------------------------------------------End--
+{Lulu} 
+Since we don't know what will happen,
+just be ready for battle.
+--------------------------------------------------End--
+{Yuna} 
+I'm nervous...
+--------------------------------------------------End--
+{Yuna} 
+Somehow... it feels comfortable.
+--------------------------------------------------End--
+
+Shall we begin soon?
+--------------------------------------------------End--
+
+To the {Al Bhed} tribe waiting outside,
+We must relay the order to start the operation.
+--------------------------------------------------End--
+
+This place isn't safe either.
+Monsters might come.
+--------------------------------------------------End--
+
+When preparations for battle are complete,
+Please tell me.
+--------------------------------------------------End--
+
+Is everyone ready?
+--------------------------------------------------End--
+
+Please hurry.
+--------------------------------------------------End--
+
+I will see {Maester Kinoc} off.
+--------------------------------------------------End--
+{Yuna} 
+Will 『{Sin} 』 come, I wonder?
+--------------------------------------------------End--
+
+To reclaim 『{sinspawn} 』.
+They will surely come.
+--------------------------------------------------End--
+
+Let's be absolutely certain.
+Make the kokera emit 悲42+63..
+--------------------------------------------------End--
+{Auron} 
+Even without doing that,
+『{Sin} 』 will come...
+--------------------------------------------------End--
+
+『{Sin} 』 is my father.
+--------------------------------------------------End--
+
+What {Auron} said...
+I remembered...
+--------------------------------------------------End--
+{Auron} 
+They're coming!!
+--------------------------------------------------End--
+{O'aka} 
+Welcome.
+--------------------------------------------------End--
+{O'aka} 
+It'll sell no matter how high you price it.
+42+64.42+65. is incredible, isn't it?
+--------------------------------------------------End--
+{O'aka} 
+Oh, no, you're this way.
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+
+Until {Operation Mi'ihen} is carried out.
+Only a short time remains!
+{NEWPAGE}
+
+The fate of {Spira} rests on us, the {Crusader}...
+...our performance in battle!
+{NEWPAGE}
+
+Fulfill our 42+66. as soldiers,
+Today, we shall strike down '{Sin} '!
+--------------------------------------------------End--
+
+Huh!
+--------------------------------------------------End--
+
+With that, how many 42+67. 42+68.escapes has it been?
+Five times...or is it six?
+--------------------------------------------------End--
+
+The Captain is so 42+69.42+70. and...
+...he keeps repeating the same story.
+--------------------------------------------------End--
+
+Encouraging the troops is a great 42+71. endeavor.
+Just in case, should I do one more 42+67. 42+68.escape...?
+--------------------------------------------------End--
+
+The start of the operation is nearing.
+Please do not leave the command center.
+--------------------------------------------------End--
+
+To a place out of our 42+72. sight,
+...it would be 42+73. if you went out.
+--------------------------------------------------End--
+
+With the ancient machine.
+Make the operation succeed...
+{NEWPAGE}
+
+The teaching that forbids machines
+I'll prove that it's wrong.
+--------------------------------------------------End--
+
+{summoner}...
+Shall I report it later?
+--------------------------------------------------End--
+
+Together with those temple people,
+my mood worsens.
+--------------------------------------------------End--
+
+Are these weapons free of abnormalities?
+I am currently confirming.
+--------------------------------------------------End--
+
+After all, it's a machine from {Al Bhed}...
+I must be extremely cautious.
+--------------------------------------------------End--
+
+From what I've seen, there seem to be no abnormalities, but...
+I'll check a little more.
+--------------------------------------------------End--
+
+What's wrong! With that kind of strike,
+it won't work against monsters!
+{NEWPAGE}
+
+Aren't you going to avenge your sister!?
+--------------------------------------------------End--
+
+Come on, think of me as a monster and
+come at me!!
+--------------------------------------------------End--
+
+I will definitely defeat '{Sin} '!
+I absolutely cannot forgive this...
+{NEWPAGE}
+
+I'll definitely, definitely defeat it...
+--------------------------------------------------End--
+
+Hmph! Damn it!
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Exactly!
+{CHOICE:31} That's not true.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Not yet.
+{CHOICE:31} It's ready.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+Hmm? Do you want to ask something?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} About the turrets.
+{CHOICE:31} About the Chocobo cavalry.
+{CHOICE:32} About this operation.
+{CHOICE:33} I don't want to ask.
+--------------------------------------------------End--
+
+These cannons were provided by {Al Bhed2}
+free of charge.
+{NEWPAGE}
+
+I used to dislike them, but
+I've started to see them in a new light.
+--------------------------------------------------End--
+
+With these cannons, we can attack from a distance.
+We'll unleash a rain of shells upon 『{Sin} 』.
+--------------------------------------------------End--
+
+Only a very small portion of volunteers
+can become Chocobo cavalry.
+{NEWPAGE}
+
+Whether their riding skills are exceptional, or on the battlefield
+Only allowed to those who have achieved merit.
+{NEWPAGE}
+
+The most capable of the current Chocobo Knights is...
+Of course, it's {Lucil}.
+--------------------------------------------------End--
+
+But still... why did {Clasko} become such a proud
+Chocobo Knight, I wonder...
+{NEWPAGE}
+
+Certainly, with any Chocobo,
+they quickly become friends, but...
+--------------------------------------------------End--
+
+This operation was devised by researching the actions of the ancient 『{Sin} 』.
+This operation was devised by researching the actions of the ancient 『__P0__ 』.
+{NEWPAGE}
+
+『{Sin} 』 has a tendency for 『{sinspawn} 』
+to appear where it is located.
+{NEWPAGE}
+
+So, we gather 『{sinspawn} 』 from various locations,
+hurt them to lure out 『{Sin} 』...
+{NEWPAGE}
+
+and deliver the finishing blow with an ancient machine!
+It's called 【{Operation Mi'ihen} 】!!
+--------------------------------------------------End--
+
+Our objective as {Crusader} is to lure out 『{Sin} 』
+and hold them back.
+{NEWPAGE}
+
+Entrusting the finishing blow to {Al Bhed} people is
+a little difficult, but...
+{NEWPAGE}
+
+If we can defeat 『{Sin} 』, then such a thing...
+Small things don't matter.
+--------------------------------------------------End--
+
+There are many things I'm lacking.
+I'm quickly buying everything I need.
+{NEWPAGE}
+
+But... it's too expensive compared to usual.
+I have a feeling...
+--------------------------------------------------End--
+
+Well, since they're opening [42+87.] in a place like this...
+...it can't be helped, I guess.
+--------------------------------------------------End--
+
+Shopping, shopping!
+--------------------------------------------------End--
+
+That [42+88.] person... is clearly...
+...overcharging.
+{NEWPAGE}
+
+Because there's nowhere else to buy from...
+...it seems they're taking advantage of us.
+--------------------------------------------------End--
+
+Can you lower the [42+89.]?
+I tried asking, but...
+{NEWPAGE}
+
+They told me, "To 'lose' before an operation...
+...is bad for [42+90.] fortune."
+--------------------------------------------------End--
+
+If that [42+88.] person gets caught up in battle...
+...what do they intend to do, I wonder?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s [42+91.], for Save Spheres...
+...a transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training in {Spira}'s 42+85.Location.
+hidden excellent players are lurking.
+Press {Button Square} to talk, and you may be able to make a Scout 42+93.Contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+A Transfer 42+92.Function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

@@ -1,0 +1,64 @@
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+Whoa!?
+--------------------------------------------------End--
+{Yuna} 
+Wh- What!?
+--------------------------------------------------End--
+{Tidus} 
+Uh... hey.
+It's not like I have any particular business...
+--------------------------------------------------End--
+{Tidus} 
+Sorry.
+That was bad... wasn't it?
+--------------------------------------------------End--
+{Tidus} 
+Oh! Hey!
+--------------------------------------------------End--
+{Tidus} 
+That just now was {Guado2}'s {Jyscal}, right?
+--------------------------------------------------End--
+{Yuna} 
+...Right.
+--------------------------------------------------End--
+{Yuna} 
+It was a dying wish.
+Take care of my son... they said.
+--------------------------------------------------End--
+{Tidus} 
+The son is {Seymour}, right?
+--------------------------------------------------End--
+{Tidus} 
+Even if I'm told to "take care of him"...
+What should we do then, huh?
+--------------------------------------------------End--
+{Yuna} 
+Sorry...
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Wakka} 
+Hey! What are you doing!
+--------------------------------------------------End--
+{Tidus} 
+{Yuna}'s condition is...
+...because he was strange!
+--------------------------------------------------End--
+{Wakka} 
+I know that already.
+--------------------------------------------------End--
+{Wakka} 
+They'll say it themselves eventually.
+Until then, let's wait for them.
+--------------------------------------------------End--
+{Tidus} 
+Ow ow ow ow!
+--------------------------------------------------End--
+{Tidus} 
+I understand! I understand!
+I'll wait! It hurts!
+--------------------------------------------------End--

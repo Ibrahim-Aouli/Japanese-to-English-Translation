@@ -1,0 +1,77 @@
+{Tidus} 
+Get it out!
+I said, get it out!
+--------------------------------------------------End--
+{Tidus} 
+Are you listening?!
+--------------------------------------------------End--
+{Auron} 
+It's chaos.
+--------------------------------------------------End--
+{Tidus} 
+{Yuna} I wonder what they're doing.
+--------------------------------------------------End--
+{Auron} 
+Who knows.
+--------------------------------------------------End--
+{Auron} 
+But they'll recover. It's a strong will.
+--------------------------------------------------End--
+{Tidus} 
+They've recovered!
+--------------------------------------------------End--
+{Tidus} 
+If we continue this journey...
+We'll die, won't we?
+--------------------------------------------------End--
+{Tidus} 
+{Spira} you know...
+--------------------------------------------------End--
+{Tidus} 
+Someone dying or being killed...
+It's always just things like that.
+--------------------------------------------------End--
+{Auron} 
+Ah... It's death's call.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Auron} 
+Challenging '{Sin}' who scatters death...
+Summoners keep dying.
+--------------------------------------------------End--
+{Auron} 
+To protect the Summoners...
+Guardians sacrifice their lives and die.
+--------------------------------------------------End--
+{Auron} 
+The Fayth's true identity is a dead soul.
+The elder of {Yevon2} is a dead person.
+--------------------------------------------------End--
+{Auron} 
+{Spira} is filled with death.
+--------------------------------------------------End--
+{Auron} 
+Only '{Sin}' keeps repeating revival.
+And accumulates death.
+--------------------------------------------------End--
+{Auron} 
+It continues to revolve eternally.
+It is death's answer.
+--------------------------------------------------End--
+{Kinoc} 
+Come out.
+Your lot has been decided.
+--------------------------------------------------End--
+{Auron} 
+Lot?
+Isn't this lot a mistake?
+--------------------------------------------------End--
+{Kinoc} 
+What are you saying?
+There's no way we could have a fixed lot.
+--------------------------------------------------End--
+{Auron} 
+You speak so easily.
+--------------------------------------------------End--

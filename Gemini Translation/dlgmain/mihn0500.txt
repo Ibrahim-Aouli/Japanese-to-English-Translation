@@ -1,0 +1,134 @@
+{Shelinda} 
+The rumors about me
+...seem to have spread...
+--------------------------------------------------End--
+{Shelinda} 
+The people from {Crusader}
+...are ignoring me...
+--------------------------------------------------End--
+{Shelinda} 
+Thank you for the day!
+--------------------------------------------------End--
+{Maechen} 
+Take care!
+--------------------------------------------------End--
+{Maechen} 
+Hm?
+Do you want to hear about this highway?
+--------------------------------------------------End--
+{Maechen} 
+How dull.
+--------------------------------------------------End--
+{Maechen} 
+What we are currently walking on is...
+...the section called {Mi'ihen Highroad}'s New Road, you see.
+--------------------------------------------------End--
+{Maechen} 
+If it's called the New Road, then an Old Road also...
+...exists, of course, doesn't it?
+--------------------------------------------------End--
+{Maechen} 
+What runs beneath this New Road is...
+...the original {Mi'ihen Highroad}.
+--------------------------------------------------End--
+{Maechen} 
+In other words, what Lord {Mi'ihen} walked was...
+...not here, but the Old Road, you see.
+--------------------------------------------------End--
+{Maechen} 
+The Old Road was destroyed 500 years ago by the '{Sin}',
+and since the New Road was built, it's been a useless path.
+--------------------------------------------------End--
+{Maechen} 
+However, sometimes, treading on the Old Road and recalling the atmosphere of the past...
+...is rather quaint, you know.
+--------------------------------------------------End--
+
+The road closure was finally lifted, so...
+I'm thinking of going north, but...
+{NEWPAGE}
+
+To pass through a place where so many people died...
+...it's eerie and unpleasant.
+--------------------------------------------------End--
+
+The soldiers who died in battle have become monsters...
+They seem to be loitering...
+--------------------------------------------------End--
+{WINDOW}
+Not at all.
+Please.
+--------------------------------------------------End--
+
+The {Al Bhed} people are wandering around.
+Are they plotting something again?
+--------------------------------------------------End--
+
+If the monk soldiers were here, against something like {Al Bhed}...
+...they wouldn't allow any major moves, you know...
+--------------------------------------------------End--
+
+That ship is a {Al Bhed2} machine, right?
+If we rely on them, the temple is finished.
+--------------------------------------------------End--
+
+Hey, if the temple is gone...
+What should we pray to?
+--------------------------------------------------End--
+
+Because I always lived in the desert...
+I've never seen so many flowers before.
+--------------------------------------------------End--
+
+Both these flowers and desert flowers...
+I like both.
+--------------------------------------------------End--
+
+My dad is on {airship} too...
+...I wonder if he's well.
+--------------------------------------------------End--
+
+So Dad could hear...
+...I sang a song.
+--------------------------------------------------End--
+{WINDOW}
+Obtained the {Al Bhed} Language Dictionary, Volume 9!
+--------------------------------------------------End--
+{WINDOW}
+Mastered {P0} language!
+{VAR07:31}{OPurple} Ha {White} 42+53. {Pink} Oh {White}
+{VAR07:31}{OPurple} Hm {White} 42+53. {Pink} Uh {White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar lan42+54.{{Al Bhed}}guage needs a {{Al Bhed}} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

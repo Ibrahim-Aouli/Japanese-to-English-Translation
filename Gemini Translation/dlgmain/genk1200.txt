@@ -1,0 +1,193 @@
+Not yet~
+Let me on!
+--------------------------------------------------End--
+
+Shiparf is resting, I see.
+Will you wait until it's well?
+--------------------------------------------------End--
+
+You destroyed {Al Bhed2}'s machine, I hear.
+That's a good mindset. It has a quality of {Yevon2}.
+{NEWPAGE}
+
+So that {Al Bhed} can't do as they please anymore.
+It's necessary to strengthen the store's equipment.
+--------------------------------------------------End--
+
+{Al Bhed2}, with goggles, the green hue...
+...is hidden. They are people who like petty tricks.
+--------------------------------------------------End--
+
+The 42+53. taken by '{Sin}', and...
+...I met them for the first time in 5 years.
+{NEWPAGE}
+
+Speaking of {Guadosalam}...
+What a surprising place.
+--------------------------------------------------End--
+
+I was able to meet 42+53., so I have no regrets.
+I'm ready for the call to {Farplane} to come anytime.
+--------------------------------------------------End--
+
+I met the dead 42+53. in {Farplane}, and now nothing...
+...to regret, I thought.
+--------------------------------------------------End--
+
+It's truly a happy ending.
+It's worth living a long life, even in a world like this.
+--------------------------------------------------End--
+
+On this shore, suspicious-looking...
+...42+56. people, I thought there were none...
+{NEWPAGE}
+
+I got caught by that man over there.
+I ended up buying things.
+--------------------------------------------------End--
+
+Compared to other 42+56. people, it's a better 42+57., but...
+That person looks suspicious.
+--------------------------------------------------End--
+
+Everyone looks happy 42+58., but...
+Did something happen?
+{NEWPAGE}
+
+Even though 『{Sin} 』 might come at any moment...
+I wonder if they're being too carefree.
+--------------------------------------------------End--
+
+Everyone wants to forget their anxiety about 『{Sin} 』...
+They get engrossed in a little 42+59.i 42+60., you see.
+--------------------------------------------------End--
+
+These days, even {Al Bhed2} has been quiet, but...
+It's best to be cautious.
+--------------------------------------------------End--
+
+The temple is in chaos because of {Al Bhed2}'s...
+...42+61.42+62., isn't it, I wonder?
+--------------------------------------------------End--
+
+The one fighting against 『{Sin} 』 is...
+...{Al Bhed2}'s ship, right?
+{NEWPAGE}
+
+Earning 42+63. credit, toward {Yevon2} Temple...
+...they surely intend to curry favor!
+--------------------------------------------------End--
+
+Even if {Al Bhed2} does good things...
+...I can't trust them that 42+64.easily.
+--------------------------------------------------End--
+
+Together with 42+65., from {Bevelle}...
+I ran away.
+{NEWPAGE}
+
+If I lived in the main temple of {Yevon2}, the '{Sin}'s
+I thought I could forget my fear, but...
+{NEWPAGE}
+
+It was a disappointment.
+--------------------------------------------------End--
+
+Getting this far was all I could do.
+I don't have the energy to go on.
+--------------------------------------------------End--
+
+If I could ride an airship, up to 42+67.42+68.
+I could return in one flight, couldn't I?
+--------------------------------------------------End--
+
+Getting this far was all I could do.
+I don't have the energy to go on.
+--------------------------------------------------End--
+
+To the {Kilika} of 42+67.42+68....
+We are thinking of returning.
+{NEWPAGE}
+
+Crossing {Moonflow}, {Djose} and {Mushroom Rock Road}.
+Passing through {Mi'ihen Highroad} at {S.S. Winno}...
+{NEWPAGE}
+
+*Sigh*... The road to 42+67.42+68. is long, isn't it?
+--------------------------------------------------End--
+
+When will we be able to return to 42+67.42+68.?
+I wonder when we will be able to return...
+--------------------------------------------------End--
+
+I quickly took out {Bevelle} 42+69.
+I saved my life.
+{NEWPAGE}
+
+If I had dawdled, by now the '{Sin}'s...
+I might have been pinned underneath.
+--------------------------------------------------End--
+
+This area might also become a battlefield...
+Should I run further away?
+--------------------------------------------------End--
+{Auron} 
+Don't take your eyes off {Yuna}.
+--------------------------------------------------End--
+Shipahfu user.
+Ride the Shipahfu?
+--------------------------------------------------End--
+Shipahfu user.
+I'll be waiting, okay?
+--------------------------------------------------End--
+Shipahfu user.
+So, get on...?
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+{WINDOW}
+Just show me {CHOICE:30}.
+{CHOICE:31} I'll pass.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 12!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language 42+70.!
+{VAR07:31}『{OPurple} ケ{White} 』42+71.『{Pink} へ{White} 』
+{VAR07:31}『{OPurple} ロ{White} 』42+71.『{Pink} ほ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unknown language 42+72.『{Al Bhed} Language』... the {Al Bhed} language dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

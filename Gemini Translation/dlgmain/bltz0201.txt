@@ -1,0 +1,566 @@
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}'s ability equipment slots increased to {VAR12:31}!
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30} obtained {VAR12:31}'s {Yellow} Key Ability {White}!
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30} obtained {VAR12:31}'s ability!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+In case of a tie in a cup match,
+The shop manager battle will begin.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} {VAR12:30}{White}
+The contract with {VAR12:31} has expired.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} {VAR12:30}{White} with {VAR12:31}
+Re-contracted for {VAR12:32} matches.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} {VAR12:30}{White} with {VAR12:31}
+Signed a contract for {VAR12:32} matches.
+--------------------------------------------------End--
+{WINDOW}
+Spira League: Round {VAR12:30} Match Results
+{CHOICE:30} Group 1: {VAR12:31}{VAR07:66}{VAR12:37} - {VAR12:38} {VAR07:82}{VAR12:32}
+{CHOICE:31} Group 2: {VAR12:33}{VAR07:66}{VAR12:39} - {VAR12:3A} {VAR07:82}{VAR12:34}
+{CHOICE:32} Group 3: {VAR12:35}{VAR07:66}{VAR12:3B} - {VAR12:3C} {VAR07:82}{VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+
+Spira League: Round {VAR12:30} Standings
+Rank {VAR07:4C}Team Name{VAR07:78}Wins{VAR07:7F}Losses{VAR07:86}Draws{VAR07:90}Points
+1st Place: {VAR07:4C}{VAR12:31}{VAR07:78}{VAR12:37}{VAR07:7F}{VAR12:3D}{VAR07:86}{VAR12:43}{VAR07:90}{VAR12:49}
+2nd Place: {VAR07:4C}{VAR12:32}{VAR07:78}{VAR12:38}{VAR07:7F}{VAR12:3E}{VAR07:86}{VAR12:44}{VAR07:90}{VAR12:4A}
+3rd Place: {VAR07:4C}{VAR12:33}{VAR07:78}{VAR12:39}{VAR07:7F}{VAR12:3F}{VAR07:86}{VAR12:45}{VAR07:90}{VAR12:4B}
+4th Place: {VAR07:4C}{VAR12:34}{VAR07:78}{VAR12:3A}{VAR07:7F}{VAR12:40}{VAR07:86}{VAR12:46}{VAR07:90}{VAR12:4C}
+5th Place: {VAR07:4C}{VAR12:35}{VAR07:78}{VAR12:3B}{VAR07:7F}{VAR12:41}{VAR07:86}{VAR12:47}{VAR07:90}{VAR12:4D}
+6th Place: {VAR07:4C}{VAR12:36}{VAR07:78}{VAR12:3C}{VAR07:7F}{VAR12:42}{VAR07:86}{VAR12:48}{VAR07:90}{VAR12:4E}
+--------------------------------------------------End--
+{WINDOW}
+
+Spira League: Round {VAR12:30} Top Scorer Ranking Table
+Rank {VAR07:45} Player Name {VAR07:4C} Score {VAR07:78}
+Rank {VAR12:31}{VAR07:45}: {VAR07:4C}{VAR12:32}{VAR07:78}{VAR12:33}
+Rank {VAR12:34}{VAR07:45}: {VAR07:4C}{VAR12:35}{VAR07:78}{VAR12:36}
+Rank {VAR12:37}{VAR07:45}: {VAR07:4C}{VAR12:38}{VAR07:78}{VAR12:39}
+Rank {VAR12:3A}{VAR07:45}: {VAR07:4C}{VAR12:3B}{VAR07:78}{VAR12:3C}
+Rank {VAR12:3D}{VAR07:45}: {VAR07:4C}{VAR12:3E}{VAR07:78}{VAR12:3F}
+Rank {VAR12:40}{VAR07:45}: {VAR07:4C}{VAR12:41}{VAR07:78}{VAR12:42}
+Rank {VAR12:43}{VAR07:45}: {VAR07:4C}{VAR12:44}{VAR07:78}{VAR12:45}
+Rank {VAR12:46}{VAR07:45}: {VAR07:4C}{VAR12:47}{VAR07:78}{VAR12:48}
+Rank {VAR12:49}{VAR07:45}: {VAR07:4C}{VAR12:4A}{VAR07:78}{VAR12:4B}
+Rank {VAR12:4C}{VAR07:45}: {VAR07:4C}{VAR12:4D}{VAR07:78}{VAR12:4E}
+--------------------------------------------------End--
+{WINDOW}
+The league season has ended.
+--------------------------------------------------End--
+{WINDOW}
+Congratulations! The Besaid Aurochs have
+finished the season in {VAR12:30}th place.
+--------------------------------------------------End--
+{VAR07:41}{WINDOW}
+Please receive these 応42+53.
+--------------------------------------------------End--
+{WINDOW}
+with the members of {Besaid Aurochs}
+No one can learn this ability.
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:30} obtained {VAR12:31}'s ability!
+--------------------------------------------------End--
+{WINDOW}
+Which player will you give {VAR12:31}'s ability to?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+Obtained {VAR12:30}!
+For abilities that cannot normally be learned,
+you can expand the row.
+--------------------------------------------------End--
+{WINDOW}
+Choose a player to expand their ability row.
+--------------------------------------------------End--
+{WINDOW}
+Will expand {VAR12:30}'s ability row.
+
+{CHOICE:30}{VAR12:31}{VAR07:66}{CHOICE:3A}{VAR12:3B}{VAR07:8C}{CHOICE:44}{VAR12:45}
+{CHOICE:31}{VAR12:32}{VAR07:66}{CHOICE:3B}{VAR12:3C}{VAR07:8C}{CHOICE:45}{VAR12:46}
+{CHOICE:32}{VAR12:33}{VAR07:66}{CHOICE:3C}{VAR12:3D}{VAR07:8C}{CHOICE:46}{VAR12:47}
+{CHOICE:33}{VAR12:34}{VAR07:66}{CHOICE:3D}{VAR12:3E}{VAR07:8C}{CHOICE:47}{VAR12:48}
+{CHOICE:34}{VAR12:35}{VAR07:66}{CHOICE:3E}{VAR12:3F}{VAR07:8C}{CHOICE:48}{VAR12:49}
+{CHOICE:35}{VAR12:36}{VAR07:66}{CHOICE:3F}{VAR12:40}{VAR07:8C}{CHOICE:49}{VAR12:4A}
+{CHOICE:36}{VAR12:37}{VAR07:66}{CHOICE:40}{VAR12:41}{VAR07:8C}{CHOICE:4A}{VAR12:4B}
+{CHOICE:37}{VAR12:38}{VAR07:66}{CHOICE:41}{VAR12:42}{VAR07:8C}{CHOICE:4B}{VAR12:4C}
+{CHOICE:38}{VAR12:39}{VAR07:66}{CHOICE:42}{VAR12:43}{VAR07:8C}{CHOICE:4C}{VAR12:4D}
+{CHOICE:39}{VAR12:3A}{VAR07:66}{CHOICE:43}{VAR12:44}{VAR07:8C}{CHOICE:4D}{VAR12:4E}
+{VAR07:8C}{CHOICE:4E} Next Page {VAR07:AA}
+--------------------------------------------------End--
+{WINDOW}
+Will expand {VAR12:30}'s ability row.
+
+{CHOICE:30}{VAR12:31}{VAR07:66}{CHOICE:3A}{VAR12:3B}{VAR07:8C}{CHOICE:44}{VAR12:45}
+{CHOICE:31}{VAR12:32}{VAR07:66}{CHOICE:3B}{VAR12:3C}{VAR07:8C}{CHOICE:45}{VAR12:46}
+{CHOICE:32}{VAR12:33}{VAR07:66}{CHOICE:3C}{VAR12:3D}{VAR07:8C}{CHOICE:46}{VAR12:47}
+{CHOICE:33}{VAR12:34}{VAR07:66}{CHOICE:3D}{VAR12:3E}{VAR07:8C}{CHOICE:47}{VAR12:48}
+{CHOICE:34}{VAR12:35}{VAR07:66}{CHOICE:3E}{VAR12:3F}{VAR07:8C}{CHOICE:48}{VAR12:49}
+{CHOICE:35}{VAR12:36}{VAR07:66}{CHOICE:3F}{VAR12:40}{VAR07:8C}{CHOICE:49}{VAR12:4A}
+{CHOICE:36}{VAR12:37}{VAR07:66}{CHOICE:40}{VAR12:41}{VAR07:8C}{CHOICE:4A}{VAR12:4B}
+{CHOICE:37}{VAR12:38}{VAR07:66}{CHOICE:41}{VAR12:42}{VAR07:8C}{CHOICE:4B}{VAR12:4C}
+{CHOICE:38}{VAR12:39}{VAR07:66}{CHOICE:42}{VAR12:43}{VAR07:8C}{CHOICE:4C}{VAR12:4D}
+{CHOICE:39}{VAR12:3A}{VAR07:66}{CHOICE:43}{VAR12:44}{VAR07:8C}{CHOICE:4D}{VAR12:4E}
+{VAR07:8C}{CHOICE:4E} Previous Page {VAR07:AA}
+--------------------------------------------------End--
+{WINDOW}
+Cannot expand the ability row there.
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:30}'s ability row has expanded.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Wakka}'s Overdrive Skill {VAR12:30}!
+--------------------------------------------------End--
+{WINDOW}
+Unfortunately, the Besaid Aurochs...
+finished the season in {VAR12:30}th place.
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:30} became the Top Scorer!
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs leveled up to Team Lv. {VAR12:30} and...
+Learned Formation [{VAR12:31}]!
+{VAR07:54} (Wins: {VAR12:32})
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs leveled up to Team Lv. {VAR12:30} and...
+Scout Lv is now 2!
+{VAR07:54} (Wins: {VAR12:32})
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs leveled up to Team Lv. {VAR12:30} and...
+Scout Lv is now 3!
+{VAR07:54} (Wins: {VAR12:32})
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs leveled up to Team Lv. {VAR12:30} and...
+Scout Lv is now MAX!
+{VAR07:54} (Wins: {VAR12:32})
+--------------------------------------------------End--
+{WINDOW}
+Besaid Aurochs' Team Lv has increased to {VAR12:30}!
+{VAR07:54} (Wins: {VAR12:32})
+--------------------------------------------------End--
+{WINDOW}
+Besaid Aurochs' Team Lv is {VAR12:30}.
+{VAR07:4F} (Wins: {VAR12:32})
+--------------------------------------------------End--
+{WINDOW}
+
+Ebon Cup: Final Match Results
+{CHOICE:30} Final: {VAR12:31}{VAR07:68}{VAR12:35} - {VAR12:36} {VAR07:82}{VAR12:32}
+{CHOICE:31} 3rd Place Match: {VAR12:33}{VAR07:68}{VAR12:37} - {VAR12:38} {VAR07:82}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+Ebon Cup: Round {VAR12:30} Match Results
+{CHOICE:30} Group 1: {VAR12:31}{VAR07:68}{VAR12:35} - {VAR12:36} {VAR07:82}{VAR12:32}
+{CHOICE:31} Group 2: {VAR12:33}{VAR07:68}{VAR12:37} - {VAR12:38} {VAR07:82}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:8F}{VAR12:30}
+{VAR07:46}{VAR12:3D}{VAR07:8F}{VAR12:31}
+{VAR07:8F}{VAR12:32}
+{VAR07:8F}{VAR12:33}
+{VAR07:8F}{VAR12:34}
+{VAR07:8F}{VAR12:35}
+{VAR07:48}{VAR12:3C}{VAR07:72}{VAR12:3A}
+{VAR07:72}{VAR12:3B}
+--------------------------------------------------End--
+{WINDOW}
+
+Ebon Cup Top Scorer Standings
+Rank {VAR07:45} Player Name {VAR07:4C} Score {VAR07:78}
+Rank {VAR12:31}{VAR07:45} : {VAR07:4C}{VAR12:32}{VAR07:78}{VAR12:33}
+Rank {VAR12:34}{VAR07:45} :{VAR07:4C}{VAR12:35}{VAR07:78}{VAR12:36}
+Rank {VAR12:37}{VAR07:45}: {VAR07:4C}{VAR12:38}{VAR07:78}{VAR12:39}
+Rank {VAR12:3A}{VAR07:45}: {VAR07:4C}{VAR12:3B}{VAR07:78}{VAR12:3C}
+Rank {VAR12:3D}{VAR07:45}: {VAR07:4C}{VAR12:3E}{VAR07:78}{VAR12:3F}
+Rank {VAR12:40}{VAR07:45}: {VAR07:4C}{VAR12:41}{VAR07:78}{VAR12:42}
+Rank {VAR12:43}{VAR07:45}: {VAR07:4C}{VAR12:44}{VAR07:78}{VAR12:45}
+Rank {VAR12:46}{VAR07:45}: {VAR07:4C}{VAR12:47}{VAR07:78}{VAR12:48}
+Rank {VAR12:49}{VAR07:45}: {VAR07:4C}{VAR12:4A}{VAR07:78}{VAR12:4B}
+Rank {VAR12:4C}{VAR07:45}: {VAR07:4C}{VAR12:4D}{VAR07:78}{VAR12:4E}
+--------------------------------------------------End--
+{WINDOW}
+The cup tournament has ended.
+--------------------------------------------------End--
+{WINDOW}
+Congratulations! The Besaid Aurochs have
+You finished the cup tournament in {VAR12:30} place.
+--------------------------------------------------End--
+{WINDOW}
+Unfortunately, the Besaid Aurochs...
+You finished the cup tournament in 無42+54. place.
+--------------------------------------------------End--
+{WINDOW}
+Re-negotiate?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract games.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract for one or more matches.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:30} became a free agent.
+なりました
+--------------------------------------------------End--
+{VAR12:30}
+Bye-bye! Let's meet again somewhere!
+--------------------------------------------------End--
+{VAR12:30}
+It's not good for a retired me to intrude, is it...?
+I suppose it's time I withdraw.
+--------------------------------------------------End--
+{VAR12:30}
+I've become quite capable too, haven't I!
+Let's do our best again next time!
+--------------------------------------------------End--
+{VAR12:30}
+Someday I'll catch up to you!
+Please look forward to it!
+--------------------------------------------------End--
+{VAR12:30}
+Your team is the best after all!
+Please let me join again~
+--------------------------------------------------End--
+{VAR12:30}
+H-How was it? Did I 42+56. to 42+55.?
+If it's alright, please let me 42+57. now too.
+--------------------------------------------------End--
+{VAR12:30}
+By the next time we meet, I'll make sure to be more skillful!
+See ya!
+--------------------------------------------------End--
+{VAR12:30}
+Did you realize my true ability, that of 'constant victory'?
+Word 42+58. is most fitting for me.
+--------------------------------------------------End--
+{VAR12:30}
+Your team was surprisingly fun.
+Let's play together again.
+--------------------------------------------------End--
+{VAR12:30}
+It helped pass the time, but any more...
+I don't have time to spend with you all anymore.
+--------------------------------------------------End--
+{VAR12:30}
+If you want to be treated gently,
+please 42+59.nde again. See ya~
+--------------------------------------------------End--
+{VAR12:30}
+I'm tired of only unchallenging matches.
+Next, I want to play a more exciting game.
+--------------------------------------------------End--
+{VAR12:30}
+When we play together Now42+57, I want a little more...
+...I want you to let me have an easier time, huh?
+--------------------------------------------------End--
+{VAR12:30}
+I had an interesting game with you.
+How about I scout you for my team Now42+57?
+--------------------------------------------------End--
+{VAR12:30}
+I have 42+56.chirecovered from my poisonous nature.
+I'll get stronger and stronger, so count on me next time too.
+--------------------------------------------------End--
+{VAR12:30}
+Eventually, I will become a player who surpasses {Ohalland}-sama.
+Wait eagerly for that time.
+--------------------------------------------------End--
+{VAR12:30}
+Thank you for everything so far.
+If you come to {Kilika}, come to my 42+60.
+--------------------------------------------------End--
+{VAR12:30}
+My turn is over now.
+Now 42+57. Will we be enemies when we meet?
+--------------------------------------------------End--
+{VAR12:30}
+If we team up, we'll be unmatched.
+Let's go wild together again!
+--------------------------------------------------End--
+{VAR12:30}
+That was a fun match.
+I hope you invite me again.
+--------------------------------------------------End--
+{VAR12:30}
+I caused a lot of trouble, but...
+Will this be enough for you to forgive me?
+--------------------------------------------------End--
+{VAR12:30}
+To atone for kidnapping {summoner},
+I lent my strength.
+--------------------------------------------------End--
+{VAR12:30}
+Giving it my all,
+wasn't so bad. I look forward to next time too.
+--------------------------------------------------End--
+{VAR12:30}
+Next time, shall I kidnap you?
+Just kidding. It's a joke.
+--------------------------------------------------End--
+{VAR12:30}
+When you need a keeper,
+call me again.
+--------------------------------------------------End--
+{VAR12:30}
+When we meet next, Bashiku will be stronger than now.
+I swear by my horns.
+--------------------------------------------------End--
+{VAR12:30}
+{Ronso} 42+61.42+62. the strong.
+If you 42+59., I will lend my strength anytime.
+--------------------------------------------------End--
+{VAR12:30}
+{Ronso}'s technique, forged by the Spirit 42+63. {Gagazet}.
+If you wish to see it again, a 42+59.fight is good.
+--------------------------------------------------End--
+{VAR12:30}
+Strength that won't lose to even {Ronso}'s 42+64.champions.
+I give my thanks for what you showed me.
+--------------------------------------------------End--
+{VAR12:30}
+I am grateful to the Mountain for our encounter.
+It was a wonderful match.
+--------------------------------------------------End--
+{VAR12:30}
+For {blitzball}, body size does not matter.
+I learned from you, who are small.
+--------------------------------------------------End--
+{VAR12:30}
+The showing of {Guado2}'s true strength ends here.
+If you wish, I will instruct you anytime.
+--------------------------------------------------End--
+{VAR12:30}
+As long as you pay.
+I'll lend my 42+65.power again. See you.
+--------------------------------------------------End--
+{VAR12:30}
+Kukuku... Is this the 42+57.extent of human power?
+They cannot even reach the feet of us {Guado}.
+--------------------------------------------------End--
+{VAR12:30}
+Thanks to you, I 42+66.learned human skills.
+This thanks, sometime again...
+--------------------------------------------------End--
+{VAR12:30}
+I had a good break with your team.
+See you.
+--------------------------------------------------End--
+{VAR12:30}
+The agreement is concluded. I will excuse myself now.
+If there is a chance, let's meet again.
+--------------------------------------------------End--
+{VAR12:30}
+It's about time to return to the travel company's 42+67.business.
+Please continue to support us.
+--------------------------------------------------End--
+{VAR12:30}
+I have more time than I know what to do with.
+If you 42+59., I'll come running anytime.
+--------------------------------------------------End--
+{VAR12:30}
+Oh! I must return to 42+68.42+69. already...
+Well then, 42+70.42+71., I wish you good fortune in battle!
+--------------------------------------------------End--
+{VAR12:30}
+It was fun, but I ended up a little 42+72.
+I've decided to return to the 42+73. supporting side.
+--------------------------------------------------End--
+{VAR12:30}
+Was I useful, I wonder...?
+I don't have much confidence.
+--------------------------------------------------End--
+{VAR12:30}
+It was an honor to play with you.
+Thank you very much.
+--------------------------------------------------End--
+{VAR12:30}
+Well then, shall I return to the method of 42+74. preparation 42+75.?
+I have to protect everyone's stadium.
+--------------------------------------------------End--
+{VAR12:30}
+Come to 42+76. at the 42+57. Travel Agency now.
+Why don't we talk until 42+77.?
+--------------------------------------------------End--
+{VAR12:30}
+Sometimes, it's not {Al Bhed}.
+Playing with people is good too.
+--------------------------------------------------End--
+{VAR12:30}
+It's good to let 42+78. flow sometimes, isn't it?
+I remember when I was a player.
+--------------------------------------------------End--
+{VAR12:30}
+I quit being a sailor after I became scared of the sea, but...
+Blitz's skill is quite something, I imagine.
+--------------------------------------------------End--
+{VAR12:30}
+I'm sorry, I can only go with you this far.
+I have to 42+67.ei the 42+60. I was entrusted with by {Rin}.
+--------------------------------------------------End--
+{VAR12:30}
+I appreciate your 42+65.ryoku! I'll continue with Blitz from now on.
+I will train my mind and body, and someday defeat {Sin}!
+--------------------------------------------------End--
+{VAR12:30}
+I accepted the scouting offer because I wanted to 42+80.base 42+79., but...
+Just keeping up was all I could manage.
+--------------------------------------------------End--
+{VAR12:30}
+I started to miss the quietness of {Calm Lands}.
+But please play again sometime.
+--------------------------------------------------End--
+{VAR12:30}
+The fact that I am a player, to 42+83.jin and my son...
+Please keep it a 42+84. secret.
+--------------------------------------------------End--
+{VAR12:30}
+To convey the fun of Blitz, personally...
+Trying it yourself is best, isn't it? I had a good 42+67.42+85..
+--------------------------------------------------End--
+{VAR12:30}
+I became stronger fighting alongside you.
+Next, I will become stronger by competing against you.
+--------------------------------------------------End--
+{VAR12:30}
+It was an enjoyable match.
+It will be a good story to tell my family.
+--------------------------------------------------End--
+{VAR12:30}
+My training is still insufficient, isn't it?
+I'll practice in 42+86.kaichuu.
+--------------------------------------------------End--
+{VAR12:30}
+Oh no! I have to go home now, or my dad will...
+Even if I get beaten up, be sure to invite me again.
+--------------------------------------------------End--
+{VAR12:30}
+Dodging lightning is also thrilling, but...
+Blitz was fun too. Well then, see you.
+--------------------------------------------------End--
+{VAR12:30}
+Remain with the Extermination Squad, or retire and become a player...
+Good grief, it's a difficult problem.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Return
+{CHOICE:31}Continue Blitzball
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:42}{VAR12:30}{VAR07:72}{VAR12:31}
+{VAR07:42}{VAR12:32}{VAR07:72}{VAR12:33}
+{VAR07:42}{VAR12:34}{VAR07:72}{VAR12:35}
+{VAR07:42}{VAR12:36}{VAR07:72}{VAR12:37}
+{VAR07:42}{VAR12:38}{VAR07:72}{VAR12:39}
+{VAR07:42}{VAR12:3A}{VAR07:72}{VAR12:3B}
+{VAR07:42}{VAR12:3C}{VAR07:72}{VAR12:3D}
+{VAR07:42}{VAR12:3E}{VAR07:72}{VAR12:3F}
+{VAR07:42}{VAR12:40}{VAR07:72}{VAR12:41}
+{VAR07:42}{VAR12:42}{VAR07:72}{VAR12:43}
+{VAR07:42}{VAR12:44}{VAR07:72}{VAR12:45}
+{VAR07:42}{VAR12:46}{VAR07:72}{VAR12:47}
+{VAR07:42}{VAR12:48}{VAR07:72}{VAR12:49}
+--------------------------------------------------End--

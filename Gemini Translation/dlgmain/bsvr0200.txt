@@ -1,0 +1,1793 @@
+{Gatta} 
+Hey, you were taken by {{Sin}}, right?
+Was that recently?
+--------------------------------------------------End--
+{Tidus} 
+Probably...
+--------------------------------------------------End--
+{Gatta} 
+Then, near the island...
+Is {{Sin}} there?
+--------------------------------------------------End--
+{Gatta} 
+You're not hiding anything, right?
+--------------------------------------------------End--
+{Tidus} 
+Of course!
+--------------------------------------------------End--
+{Luzzu} 
+If {{Sin}} came near here,
+it should come to capture the island.
+--------------------------------------------------End--
+{Luzzu} 
+However... there is no such sign.
+--------------------------------------------------End--
+{Tidus} 
+I don't know, but I...
+I don't know anything.
+--------------------------------------------------End--
+{Tidus} 
+Anyway, this {{Crusader}} thing, I...
+I don't really understand it well.
+--------------------------------------------------End--
+{Gatta} 
+That's about it, right?
+--------------------------------------------------End--
+{Luzzu} 
+{{Sin}}'s venom, huh...
+--------------------------------------------------End--
+{Luzzu} 
+{{Gatta}}, explain it.
+--------------------------------------------------End--
+{Gatta} 
+Yes, I will go first!
+--------------------------------------------------End--
+{Gatta} 
+{{Crusader}} is an entity born to fight {{Sin}}.
+生まれた組応である
+--------------------------------------------------End--
+{Gatta} 
+Within {Spira}, there are 42+53. sections, and there...
+...anyone who wishes can participate in them.
+--------------------------------------------------End--
+{Gatta} 
+{Crusader} has its origins in '42+55.Zan42+56.',
+created 800 years ago by the hero, Lord __P1__.
+--------------------------------------------------End--
+{Gatta} 
+Later on, it expanded the organization and changed its name to {Crusader}.
+Ever since, {Sin} has continued to fight against '{Sin}'.
+--------------------------------------------------End--
+{Tidus} 
+Continuing to fight for 800 years...
+You can't defeat '{Sin} ' ?
+--------------------------------------------------End--
+{Gatta} 
+Ah...
+--------------------------------------------------End--
+{Luzzu} 
+What {Crusader} can do is...
+...make '{Sin} ' change its course, or...
+--------------------------------------------------End--
+{Luzzu} 
+Well, frankly speaking, that's about the extent of it.
+Probably, we cannot defeat '{Sin}'.
+--------------------------------------------------End--
+{Luzzu} 
+{Crusader}'s main duty, which originates from Lord {Sin}, is to protect...
+...temples, towns, villages, and people.
+--------------------------------------------------End--
+{Tidus} 
+Then who will defeat '{Sin} ' ?
+--------------------------------------------------End--
+{Gatta} 
+...The poisonous influence of '{Sin} '...
+Is it really this terrible?
+--------------------------------------------------End--
+{Luzzu} 
+No, this is quite terrible.
+--------------------------------------------------End--
+{Luzzu} 
+It's simple to tell you, but...
+If possible, it's better if you remember it yourself.
+--------------------------------------------------End--
+{Luzzu} 
+Go to the temple and offer a prayer.
+"May you remember everything," and such.
+--------------------------------------------------End--
+{Gatta} 
+Soon, with {Crusader}'s power,
+We might be able to defeat 『{Sin} 』.
+--------------------------------------------------End--
+{Gatta} 
+An incredible plan has been devised.
+It's a plan that will go down in {Crusader}'s history.
+--------------------------------------------------End--
+{Luzzu} 
+We, from the temple...
+...have been excommunicated.
+--------------------------------------------------End--
+{Luzzu} 
+We have to leave here now too.
+That means we have no choice but to dedicate everything to the plan.
+--------------------------------------------------End--
+{Gatta} 
+We'll head to the beach while defeating monsters.
+Once we arrive, immediately to a state of alert!
+--------------------------------------------------End--
+{Gatta} 
+If 『{Sin} 』 appears,
+Contact immediately, understood!
+--------------------------------------------------End--
+{Gatta} 
+Alright, everyone, depart!
+--------------------------------------------------End--
+{Tidus} 
+Hey!
+--------------------------------------------------End--
+{Gatta} 
+Hi!
+--------------------------------------------------End--
+{Tidus} 
+Not "Hi!"
+What happened?!
+--------------------------------------------------End--
+{Gatta} 
+It's training. Training.
+--------------------------------------------------End--
+{Gatta} 
+When {Sin} will come.
+And we never know.
+--------------------------------------------------End--
+{Gatta} 
+If we don't train properly.
+We won't be able to protect the village in an emergency, right?
+--------------------------------------------------End--
+{Gatta} 
+Honestly... I'm `心42+70.` but...
+--------------------------------------------------End--
+{Gatta} 
+In front of Koukyo, complaints like that...
+I can't say.
+--------------------------------------------------End--
+{Tidus} 
+Maybe {Luzzu} was like that too.
+--------------------------------------------------End--
+{Tidus} 
+Even if things were tough.
+Couldn't say them in front of you.
+--------------------------------------------------End--
+{Tidus} 
+So, without showing weakness.
+Was doing their best, or something like that.
+--------------------------------------------------End--
+{Gatta} 
+Perhaps...
+--------------------------------------------------End--
+{Gatta} 
+Then, I'll be going soon.
+And I can't leave them alone.
+--------------------------------------------------End--
+{Tidus} 
+Do your best.
+--------------------------------------------------End--
+{Gatta} 
+You too!
+--------------------------------------------------End--
+{Gatta} 
+The operation failed, but even so...
+There are people who will join {Crusader}.
+--------------------------------------------------End--
+{Gatta} 
+What {P0} our predecessor did was...
+...not in vain, was it?
+--------------------------------------------------End--
+{Gatta} 
+Even if excommunicated by the temple, to protect {P0},
+{P0} is necessary.
+--------------------------------------------------End--
+{Gatta} 
+Say, the rumor that the temple is in chaos...
+...is it true?
+--------------------------------------------------End--
+{Gatta} 
+After excommunicating us,
+what are they doing!
+--------------------------------------------------End--
+{Gatta} 
+The temple is unreliable, and...
+...{P0} has no choice but to do its best, I guess.
+--------------------------------------------------End--
+{Gatta} 
+The '{P0}' that was cornered and weakened...
+...fell into {P0}, right?
+--------------------------------------------------End--
+{Gatta} 
+{P0}'s {P1} predecessor also...
+...must surely be pleased.
+--------------------------------------------------End--
+{Gatta} 
+Until '{P0}' is gone,
+it's just one more step, right!
+--------------------------------------------------End--
+
+I heard you came from the sea.
+I heard it from {Luzzu} and them.
+--------------------------------------------------End--
+
+By Lord {High Summoner Gandof}'s power.
+Please protect my family...
+--------------------------------------------------End--
+
+It's the preparations before going out to 42+71.
+Monsters also appear in the sea, you know.
+--------------------------------------------------End--
+
+Don't say foolish things.
+Do you intend to break 42+72, you brat {E}!
+--------------------------------------------------End--
+
+Together with Dad.
+Pray for your 42+73. Understood?
+--------------------------------------------------End--
+
+You too, for {Juushou}-sama's 42+73.
+(See line 15)
+--------------------------------------------------End--
+
+It might be better if your malice doesn't disappear.
+(See line 17)
+{NEWPAGE}
+
+Painful things and sad things too.
+You can remain having forgotten them, right?
+--------------------------------------------------End--
+
+The temple has its back to the sea.
+Shall I teach you the truth?
+{NEWPAGE}
+
+From the sea, 『{Sin} 』 comes.
+I want to look away.
+--------------------------------------------------End--
+
+I'll be leaving on a journey soon, to '{Sin}'.
+I'm praying not to meet them.
+--------------------------------------------------End--
+
+It's the preparations before going out to 42+71.
+Monsters also appear in the sea, you know.
+--------------------------------------------------End--
+
+This year's {Aurochs} was an intense struggle.
+{Wakka} did well.
+--------------------------------------------------End--
+
+I cannot be of help to Lord {Yuna},
+Let me pray for your safe journey.
+--------------------------------------------------End--
+
+Even if I know that 『{Sin} 』 is in the sea.
+If I don't travel, I can't make a living.
+--------------------------------------------------End--
+
+You're rebels, I hear?
+Oh dear, what a terrible false accusation.
+--------------------------------------------------End--
+
+{Yuna}-sama's Nagi42+76...
+...who knows when it will be.
+--------------------------------------------------End--
+
+The temple is only chasing rebels, and
+『{Sin} 』 is neglected.
+{NEWPAGE}
+
+The day I can travel without worry...
+seems still far off.
+--------------------------------------------------End--
+
+Nagi42+76 will be leaving on a journey soon.
+It seems we'll meet on the ship.
+--------------------------------------------------End--
+
+While I was on my journey, a flying ship and...
+{Sin} flew past.
+{NEWPAGE}
+
+I was looking up, forgetting even to sing.
+It was an astonishing sight.
+--------------------------------------------------End--
+
+On the flying ship, {Yevon2}'s gift...
+I am praying you will be protected.
+--------------------------------------------------End--
+
+Rare appearance, isn't it? Where are you from?
+It's your first time coming to {Besaid}, isn't it?
+--------------------------------------------------End--
+
+Because outsiders don't come very often.
+I remember all the faces of those who came.
+--------------------------------------------------End--
+
+Everyone went to the temple, but...
+I'll decide to pray at home.
+--------------------------------------------------End--
+
+Just thinking about if something were to happen...
+Even going to check on things is scary...
+--------------------------------------------------End--
+
+With this, {Yuna}-sama is also a full-fledged...
+Summoner-sama, aren't they?
+{NEWPAGE}
+
+When you came to {Besaid}...
+You were so small...
+--------------------------------------------------End--
+
+{Yuna} should be able to become the Great Summoner.
+Everyone connected to {Besaid} believes that.
+--------------------------------------------------End--
+
+It seems {Crusader}'s plan failed.
+Will {Luzzu} and the others return having resisted?
+--------------------------------------------------End--
+
+I have no intention of defying the teachings, but...
+Lately, there's something strange about the temple.
+--------------------------------------------------End--
+
+Dad, not at all...
+He doesn't play with me.
+--------------------------------------------------End--
+
+To join the Extermination Squad, or {Aurochs}...
+I'm having trouble deciding.
+--------------------------------------------------End--
+
+I'm good at Blitz!
+I can even hold my breath for a long time!
+--------------------------------------------------End--
+
+To join the Extermination Squad,
+I hear you have to train.
+--------------------------------------------------End--
+
+The three of us: {Luzzu}, {Gatta}, and me,
+will defeat '{Sin}!'
+--------------------------------------------------End--
+
+Dad, what should we do?
+Let's go help!
+--------------------------------------------------End--
+
+But...
+--------------------------------------------------End--
+
+Yeah!
+--------------------------------------------------End--
+
+I'll be a good boy, so...
+Help Jushō-sama...
+--------------------------------------------------End--
+
+The Summoner came to the village the other day.
+Umm... what was their name again?
+--------------------------------------------------End--
+
+My brother's malice.
+It seems to have been cured.
+--------------------------------------------------End--
+
+P0 and the others haven't returned.
+What could have happened to them?
+--------------------------------------------------End--
+
+Is it true that P0-sama is a rebel?
+Everyone is saying it's a lie.
+--------------------------------------------------End--
+
+Letters arrived from everyone in P0.
+They're working hard in P0, they say.
+--------------------------------------------------End--
+
+Really, will 'P0' very soon...
+...disappear, I wonder?
+--------------------------------------------------End--
+
+While I am healthy, {Besaid}'s offering...
+I will not allow the tradition to be changed.
+--------------------------------------------------End--
+
+There's nothing to worry about. If it's that person, surely...
+...they will surely return.
+--------------------------------------------------End--
+
+Just because it took a little time...
+...panicking would be disrespectful.
+--------------------------------------------------End--
+
+Even if 'P0' comes tomorrow.
+Our current way of life will not change.
+{NEWPAGE}
+
+I will just continue my work in silence.
+--------------------------------------------------End--
+
+I don't care who the rebel is.
+If we defeat '{Sin}', everything will be canceled.
+--------------------------------------------------End--
+
+Until Nagi42+76 truly arrives, I cannot feel at ease.
+I don't want to celebrate prematurely.
+--------------------------------------------------End--
+
+Watched over by Lord {Braska}.
+Jūshō-sama is probably giving it their all too.
+--------------------------------------------------End--
+
+It's hot, so go into the shade.
+You'll collapse.
+--------------------------------------------------End--
+
+Last month, I responded to many, but...
+The whole ship was taken out by 『{Sin} 』...
+--------------------------------------------------End--
+
+The one who came from the sea...
+Is that you?
+{NEWPAGE}
+
+You still have some venom in you, don't you?
+You should rest properly.
+--------------------------------------------------End--
+
+Not returning even for a single night...
+I'm terribly worried.
+--------------------------------------------------End--
+
+Regarding that person, for anything strange to happen...
+I don't think will happen, though...
+--------------------------------------------------End--
+
+It's good that the ferry has started moving, but...
+I wonder if '{Sin}' won't appear again...
+--------------------------------------------------End--
+
+{Crusader} who fought '{Sin},'
+apparently had a terrible experience.
+{NEWPAGE}
+
+Truly, what a cruel story...
+It's because they break the teachings.
+--------------------------------------------------End--
+
+When {Crusader}'s children return,
+we'll have to scold them thoroughly.
+--------------------------------------------------End--
+
+The other day, many monk soldiers
+came to search for Lord {Yuna}.
+--------------------------------------------------End--
+
+If Lord {Yuna} defeats '{Sin},'
+the unpleasant rumors should disappear too.
+--------------------------------------------------End--
+
+On that flying ship,
+I wonder who was on board...
+--------------------------------------------------End--
+
+Thanks to the flying ship,
+the whole village is bustling.
+{NEWPAGE}
+
+Everywhere in {Spira}
+it might be the same.
+--------------------------------------------------End--
+
+Welcome!
+--------------------------------------------------End--
+{WINDOW}
+Buy {CHOICE:30} items.
+{CHOICE:31} I'll pass.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Buy weapons.
+{CHOICE:31} Buy items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+Thank you very much.
+--------------------------------------------------End--
+
+Hey, Jushou-sama...
+Has everyone from __P0__ still not returned?
+--------------------------------------------------End--
+
+Accompanying {Yuna}-sama means...
+Will you also become a guard?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} I won't.
+{CHOICE:31} Maybe so.
+--------------------------------------------------End--
+
+Then you'll focus on the tournament!
+Please let {Aurochs} win this year.
+--------------------------------------------------End--
+
+There are things I don't understand about the guarding method.
+you should ask {Lulu}.
+{NEWPAGE}
+
+{Lulu} is strong and very knowledgeable.
+{Wakka} is much more reliable than {Wakka}.
+--------------------------------------------------End--
+
+I hope the poison heals soon.
+{NEWPAGE}
+
+While praying for {Yuna}-sama's safety...
+I'll also pray for you.
+--------------------------------------------------End--
+
+There are rumors about you.
+It's a small village, so news spreads quickly.
+--------------------------------------------------End--
+
+This year's tournament, too, {Aurochs}...
+Will it be a first-round defeat again...?
+{NEWPAGE}
+
+At least to a draw...
+I hope they can manage that.
+--------------------------------------------------End--
+
+It'll be alright, I'm sure.
+--------------------------------------------------End--
+
+Don't say such things anymore.
+...Please.
+--------------------------------------------------End--
+
+Jūshō-sama hasn't returned.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Jūshō-sama?
+{CHOICE:31} "Hasn't returned," you say?
+--------------------------------------------------End--
+
+Jūshō-sama is Jūshō-sama.
+I mean Jūshō the Summoner.
+--------------------------------------------------End--
+
+They haven't returned from the Hall of Trials.
+A whole day has passed.
+--------------------------------------------------End--
+
+Please be safe...
+--------------------------------------------------End--
+
+While Big Sister is praying...
+That means I'm number one.
+--------------------------------------------------End--
+
+Buy again, okay?
+--------------------------------------------------End--
+
+Buy again, okay?
+{NEWPAGE}
+
+Ah, that's right!
+{NEWPAGE}
+
+Today, my child picked something up and brought it back.
+What was that, I wonder...?
+--------------------------------------------------End--
+
+For {Wakka} to retire...
+I think it's a waste.
+{NEWPAGE}
+
+With {Wakka} and you, {Aurochs}'s...
+I wanted you to build a golden age.
+--------------------------------------------------End--
+
+Finally, because the ferry has resumed operation...
+I wonder if customers will increase.
+--------------------------------------------------End--
+
+The warrior monks came to look for {Yuna}.
+They said, 'Those who harbor him are also rebels!'
+{NEWPAGE}
+
+I can't believe that sort of important people are protecting the temple.
+(Combined with 12)
+--------------------------------------------------End--
+
+{Aurochs}'s people are still {Luca}, right?
+Let them speak once in a while.
+--------------------------------------------------End--
+
+What happened to the airship battle in the end?
+Could it be they were defeated...?
+--------------------------------------------------End--
+
+This is just between us, but in the current temple...
+I heard there isn't even one master monk.
+--------------------------------------------------End--
+
+Oh, that's right, I'll give you this.
+This one brought it in its mouth.
+{NEWPAGE}
+
+I don't know what it is, somehow.
+Well, just keep it.
+--------------------------------------------------End--
+
+Big brother, who are you?
+Where did you come from?
+--------------------------------------------------End--
+
+Juushou-sama is missing.
+But they haven't come back...
+--------------------------------------------------End--
+
+When {Yuna}-sama comes back,
+I want to hear many stories.
+--------------------------------------------------End--
+
+The Summoner-sama came on a ship.
+He was a kind older brother.
+{NEWPAGE}
+
+But I like {Yuna}-sama more~!
+--------------------------------------------------End--
+
+When it becomes calm, with {Yuna}-sama...
+let's celebrate, okay?
+--------------------------------------------------End--
+
+What is a Hangyakusha? Even if I ask Soukan-sama,
+they won't tell me.
+--------------------------------------------------End--
+
+When a ship flies here again,
+I must sing with a loud voice!
+--------------------------------------------------End--
+
+It's holding something in its mouth...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} obtained a sticky, drool-covered {White}.
+--------------------------------------------------End--
+
+Even at night, monsters are lurking around.
+You shouldn't go out alone.
+--------------------------------------------------End--
+
+Even though they know it's dangerous.
+There's no way I can let them through.
+--------------------------------------------------End--
+
+I hope Jūshō-sama is safe...
+--------------------------------------------------End--
+
+You shouldn't just wander around either.
+I must pray for that person's safety.
+--------------------------------------------------End--
+
+{Luzzu} and the others have departed for the mission.
+I am the caretaker.
+--------------------------------------------------End--
+
+Actually, {Gatta} was supposed to be the caretaker, but...
+That person insisted on going with them.
+{NEWPAGE}
+
+He's reckless, despite being a newcomer.
+Even though it's a mission they might die on...
+--------------------------------------------------End--
+
+Oh, would you like to rest?
+That's right, you shouldn't overdo it.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Take a break.
+{CHOICE:31} Maybe next time.
+--------------------------------------------------End--
+
+Compared to the monsters we fought in the mission...
+{Besaid}'s monsters are practically cute.
+--------------------------------------------------End--
+
+Even I gained 42+97.42+98.
+I'll just defeat the monsters.
+--------------------------------------------------End--
+
+I wonder if that flying ship is {Al Bhed}'s machine.
+This 42+58. time, I really want you to do well.
+--------------------------------------------------End--
+
+The Subjugation Squad Lodging is open to all travelers.
+Will you rest?
+--------------------------------------------------End--
+
+I want to go check on the temple, but...
+I also have preparations for the operation...
+--------------------------------------------------End--
+
+{Wakka} and the others are waiting outside.
+--------------------------------------------------End--
+
+Actually, I was also affected by {Sin}'s toxic influence...
+...I was one of those affected.
+{NEWPAGE}
+
+I'm much better now, though.
+At first, it was terrible.
+{NEWPAGE}
+
+Even who I was or where I was from...
+...I couldn't remember at all.
+{NEWPAGE}
+
+At that time, I felt like crying.
+--------------------------------------------------End--
+
+Thanks to desperately praying at the temple,
+my condition improved greatly.
+--------------------------------------------------End--
+
+If you pray at the temple, even a toxic influence like that will be cured.
+I'm telling you, there's no 42+99.
+--------------------------------------------------End--
+
+Please cure my toxic influence quickly...
+Soon, it will be a big 42+73. operation...
+--------------------------------------------------End--
+
+If it's {Wakka}, they'll be 42+100. found out by the Senior Priest.
+went to the temple.
+--------------------------------------------------End--
+
+I still have some of '{Sin}'s influence...
+Since you haven't fully recovered, you're the 42+95. guard.
+{NEWPAGE}
+
+It's frustrating to be left out like this, but
+I'm a little relieved.
+{NEWPAGE}
+
+This 42+58. operation is dangerous, you know...
+--------------------------------------------------End--
+
+If you pray at the temple, even a toxic influence like that will be cured.
+I'm telling you, there's no 42+99.
+--------------------------------------------------End--
+
+I'm praying for the 42+73. safety of {Luzzu} and the others.
+It's a dangerous operation, after all.
+--------------------------------------------------End--
+
+{Crusader} was excommunicated, so truthfully,
+they shouldn't really enter the temple, but...
+{NEWPAGE}
+
+The Monk Official specially permitted it.
+They're not just a strict person.
+--------------------------------------------------End--
+
+Only empty beds, with no 42+101. in them.
+It's gotten quite lonely...
+--------------------------------------------------End--
+
+{Operation Mi'ihen}... it didn't work out.
+I thought we would surely win!
+--------------------------------------------------End--
+
+Everyone, please...
+Come back safe and sound...
+--------------------------------------------------End--
+
+Prayer cannot defeat monsters.
+It's {Crusader} who protects {Besaid}.
+--------------------------------------------------End--
+
+The poison has finally subsided. Until now...
+I need to 42+102. properly for the rest I took.
+--------------------------------------------------End--
+
+The battle with '{Sin}' is still ongoing, right?
+Can't we do something as well...?
+--------------------------------------------------End--
+
+I'm repairing the rain leak.
+Don't bother me.
+--------------------------------------------------End--
+
+It's good to be able to 42+103. for free, but...
+It's falling apart everywhere, isn't it.
+--------------------------------------------------End--
+
+{Besaid} Village is also 42+58.
+It is linked to '{Sin}'.
+{NEWPAGE}
+
+This house, too, seems to have been left neglected since it was hit at that time.
+--------------------------------------------------End--
+
+We'll be defeated by '{Sin}' eventually anyway.
+There are times when 42+102.ing feels foolish.
+--------------------------------------------------End--
+
+They don't look robust, and besides...
+Their body might not hold up.
+--------------------------------------------------End--
+
+By the time {Crusader}'s group returns...
+I guess I'll get this rain leak fixed.
+--------------------------------------------------End--
+
+{Crusader} is eager, but those guys...
+I don't think we can do anything about 『{Sin}』.
+--------------------------------------------------End--
+
+{Luzzu} and {Gatta} haven't returned.
+Were they defeated on the mission...?
+{NEWPAGE}
+
+Or are they ashamed of losing,
+Perhaps they are unable to return.
+--------------------------------------------------End--
+
+Because {Crusader} isn't here,
+I feel like the monsters have increased.
+--------------------------------------------------End--
+
+I can't fight monsters, but I have a big 42+104. 42+73. task.
+That means I'll 42+105. support {Crusader}.
+--------------------------------------------------End--
+
+I won't say {Luzzu}'s 42+106. aloud, but...
+They're quite depressed.
+{NEWPAGE}
+
+The 42+107.42+108. who let {Gatta} die.
+They're probably keenly feeling it.
+--------------------------------------------------End--
+
+Around the time {Gatta} returned from the mission,
+they were terribly depressed.
+{NEWPAGE}
+
+After they started leading {Crusader},
+they finally cheered up.
+--------------------------------------------------End--
+
+Overcome by the poisonous energy, everything
+it seems they've forgotten.
+--------------------------------------------------End--
+
+Well now, I'll tell you then.
+What do you want to hear?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} "Shin"?
+{CHOICE:31} The poisonous air?
+{CHOICE:32} Ebon?
+{CHOICE:33} Zanarkand?
+{CHOICE:34} I won't ask.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} "Shin"?
+{CHOICE:31} The poisonous air?
+{CHOICE:32} Ebon?
+{CHOICE:33} Zanarkand?
+{CHOICE:34} The Great Summoner?
+{CHOICE:35} I won't ask.
+--------------------------------------------------End--
+
+If you listen to my story, you might also...
+...recall your own self.
+--------------------------------------------------End--
+
+Are there other things you want to hear?
+...perhaps?
+--------------------------------------------------End--
+
+Good heavens! To think...
+...you've even forgotten '{Sin}'?!
+{NEWPAGE}
+
+Even if they wish to forget, many people have unforgettable feelings...
+...and yet...
+{NEWPAGE}
+
+{Sin} appeared 1000 years ago and...
+It's a monster 42+109. ravaging this land of {Spira}.
+{NEWPAGE}
+
+All the people born in {Spira}...
+...are suffering from {Sin}.
+{NEWPAGE}
+
+To think you'd even forget {Sin}...
+Well, perhaps that way you'd be happier.
+--------------------------------------------------End--
+
+{Sin} appeared 1000 years ago and...
+It's a monster 42+109. ravaging this land of {Spira}.
+{NEWPAGE}
+
+All the people born in {Spira}...
+...are suffering from {Sin}.
+{NEWPAGE}
+
+To think you'd even forget {Sin}...
+Well, perhaps that way you'd be happier.
+--------------------------------------------------End--
+
+Wafting out from {Sin}'s body...
+...is tainted air.
+{NEWPAGE}
+
+If you breathe that in, the contents of your head...
+...get all muddled up.
+{NEWPAGE}
+
+That's why anyone who gets close to {Sin}...
+I completely forget important things.
+{NEWPAGE}
+
+Just like you.
+--------------------------------------------------End--
+
+To forget {Yevon2}'s teachings...
+How deplorable...
+{NEWPAGE}
+
+To help the people suffering from '{Sin}'.
+It is a great teaching.
+{NEWPAGE}
+
+Before you were overcome by the poison...
+You should have been living according to the teaching.
+{NEWPAGE}
+
+Offer diligent prayers at the temple.
+You should remember the teaching.
+--------------------------------------------------End--
+
+Long, long ago, it flourished in the far north.
+It's the capital.
+{NEWPAGE}
+
+However, 1000 years ago,
+It was destroyed by '{Sin}'.
+{NEWPAGE}
+
+I was becoming useless relying on machines.
+They must have received divine retribution.
+--------------------------------------------------End--
+
+Those who once fought against '{Sin}'.
+I'm referring to the four Summoners.
+{NEWPAGE}
+
+{Ohalland}, {Gandof}, {Yocun}.
+And {Braska}.
+{NEWPAGE}
+
+That this {Spira} was not destroyed by '{Sin}'
+is thanks to the Great Summoner.
+--------------------------------------------------End--
+
+Now, I am looking after you.
+I can't look after it, but don't take it as a favor.
+{NEWPAGE}
+
+Because the Junior Summoner-sama hasn't returned from the trial.
+The villagers are very anxious.
+--------------------------------------------------End--
+
+I'm so worried, so very worried...
+--------------------------------------------------End--
+
+Before departing, knowing many things...
+(No separate line, combined with 5)
+--------------------------------------------------End--
+
+They say {Aurochs} won for the first time in 23 years,
+There are people who scheme, but...
+{NEWPAGE}
+
+That {Aurochs} couldn't possibly win.
+I won't be fooled!
+--------------------------------------------------End--
+
+It seems your malice has completely left you.
+It is a blessing from {Yevon2}, how grateful...
+--------------------------------------------------End--
+
+We, the people of {Besaid},
+all believe in {Yuna}-sama!
+{NEWPAGE}
+
+{Braska}-sama's daughter
+would not possibly defy the temple.
+--------------------------------------------------End--
+
+What the temple's important people are thinking...
+the common folk don't understand.
+--------------------------------------------------End--
+
+Until I see 『{Sin} 』 fall...
+I will live a little longer.
+--------------------------------------------------End--
+
+I like Lord Ohaland the most.
+Because you resemble the deceased old man.
+--------------------------------------------------End--
+
+Lord {Braska} is with you.
+It's sure to return.
+--------------------------------------------------End--
+
+What is this disruptor?!
+--------------------------------------------------End--
+
+I have nothing to say to a disruptor.
+--------------------------------------------------End--
+
+Do not disturb my prayer.
+You disruptor!
+--------------------------------------------------End--
+
+What? You're the guard!?
+...Are you still affected by the poisonous air?
+--------------------------------------------------End--
+
+Surely not, you wouldn't... Lord {Yuna}...
+...trick Lord __P0__, did you?
+--------------------------------------------------End--
+
+Until Lord {Yuna}'s naginata comes...
+I decided to pray unfailingly every day.
+--------------------------------------------------End--
+
+Once the naginata comes, the new Grand Summoner's...
+We must install the holy statue.
+--------------------------------------------------End--
+
+For someone affected by the poisonous air...
+...you seem energetic, you.
+{NEWPAGE}
+
+Probably because you didn't inhale much of the poisonous air...
+...that's why, isn't it?
+{NEWPAGE}
+
+Being a Blitz player means...
+You must be good at holding your breath.
+--------------------------------------------------End--
+
+I also thought about playing Blitz in the past, but...
+I couldn't hold my breath, you see...
+--------------------------------------------------End--
+
+The {Besaid} Object responding at our place is...
+...are popular on the continent too.
+--------------------------------------------------End--
+
+It will only uphold tradition forever.
+It won't become an empty shell.
+--------------------------------------------------End--
+
+When 42+94. was a child-42+121., the village...
+The village was overrun by 『{Sin} 』.
+{NEWPAGE}
+
+On that day, when the village became a 42+122. scorched field...
+I still dream of it, even now.
+--------------------------------------------------End--
+
+Something must have happened...
+--------------------------------------------------End--
+
+But even the previous Summoner...
+...almost their life...
+--------------------------------------------------End--
+
+...Sorry.
+--------------------------------------------------End--
+
+42+94. and the others could only pray.
+42+72., so it can't be helped.
+--------------------------------------------------End--
+
+The fact that {Kilika} was overrun...
+T- Next, it might be {Besaid}'s turn...
+--------------------------------------------------End--
+
+I get distracted because {Sin} is scary, but...
+If I mess up, the old man is scary...
+--------------------------------------------------End--
+
+The reason {Aurochs} was able to win is because I 42+117. daily...
+(No translation for this line, combined with #3)
+--------------------------------------------------End--
+
+They say you'll get 42+107.money if you report information about rebels.
+They say 42+123. money will be paid.
+{NEWPAGE}
+
+People here don't snitch, but...
+Be careful in other lands.
+--------------------------------------------------End--
+
+I wonder what's happening on the continent?
+Not much information comes through.
+--------------------------------------------------End--
+
+It seems Lady Yuna's false accusation has been 42+108.
+It seems like 42+124. was done.
+--------------------------------------------------End--
+
+If only {Sin} would disappear...
+Then there would be nothing to say, right...?
+--------------------------------------------------End--
+
+Just when Nagi42+76. is about to arrive.
+There's no way I can focus on 42+73. work.
+--------------------------------------------------End--
+
+Lord Jūshō 42+73. for nothing...
+(No translation for this line, combined with #17)
+--------------------------------------------------End--
+
+{Yevon2}'s teachings are the 42+53. of our hearts.
+{NEWPAGE}
+
+If there were no teachings, we would be afraid of {Sin}.
+I think I cannot endure this 42+83. life.
+--------------------------------------------------End--
+
+It's like we were born just to fear 『{Sin}』...
+(No separate translation; combined with line 2)
+--------------------------------------------------End--
+
+May {Yevon2}'s blessing be upon Jushou-sama...
+(No separate translation; combined with line 4)
+--------------------------------------------------End--
+
+Please guide {Yuna}-sama's journey...
+(No separate translation; combined with line 6)
+--------------------------------------------------End--
+
+When I think of {Yuna}-sama's future journey,
+No matter how 42+58. I pray, I feel it won't be enough.
+--------------------------------------------------End--
+
+If {Lulu} is with us,
+it will surely be alright...
+--------------------------------------------------End--
+
+Because of the machines, many {Crusader} people
+died, I heard...
+{NEWPAGE}
+
+To make such a precious life into 42+125.42+126.!
+unforgivable.
+--------------------------------------------------End--
+
+You be careful not to break the teachings.
+(No separate translation; combined with line 16)
+--------------------------------------------------End--
+
+The 42+127. bond between Lord {Yuna} and {Master Seymor}...
+was lost.
+--------------------------------------------------End--
+
+{Yuna}-sama would never go against the teachings.
+Isn't that right?
+--------------------------------------------------End--
+
+For the next Nagi42+76. to be as long as possible...
+続くことを祈るわ
+--------------------------------------------------End--
+
+May Auraka score at least one point...
+取れますように……
+--------------------------------------------------End--
+
+Since {Wakka} is a Guard too, they should go help.
+助けに行けばいいんだよ
+--------------------------------------------------End--
+
+For Lord {Yuna}, 42+117. daily.
+お祈りするって決めたんだ
+--------------------------------------------------End--
+
+I heard that Lord {Braska} and two Guards came to the village around the time I was born.
+ふたりのガードが 村に来たんだってさ
+--------------------------------------------------End--
+
+May Lord {Yuna} quickly defeat '{Sin}' ...
+やっつけてくれますように……
+--------------------------------------------------End--
+
+The Priest Official told us the story of Lord {Yunalesca} and Lord {Zaon}.
+お話を聞かせてくれたよ
+{NEWPAGE}
+
+The current {Yunalesca} exists because Lord {Yunalesca} worked hard, doesn't it?
+今の{Spira} が あるんだよね
+--------------------------------------------------End--
+
+If I were as strong as Lord {Zaon}, I could have become a Guard too...
+ぼくもガードになれたのになあ
+--------------------------------------------------End--
+
+One who is not a Guard...
+Do not approach the Hall of Trials.
+--------------------------------------------------End--
+
+If you pray devoutly,
+Even the poison will likely be cured.
+--------------------------------------------------End--
+
+The sacred statues of the Great Summoners are, from the right,
+Lord {Braska}, Lord Yonkun...
+{NEWPAGE}
+
+Lord Oharando and Lord Gandofu.
+Well? Did you recall?
+--------------------------------------------------End--
+
+As for 42+72. and furi, let's put it aside for now.
+Let us celebrate the 42+128.life of the new summoner.
+--------------------------------------------------End--
+
+Come on, quickly to the village square! You too,
+Please share the 42+130. and 42+85.joy.
+--------------------------------------------------End--
+
+It is also partly due to the poison.
+Let's overlook the matter of 42+72.yafuri.
+{NEWPAGE}
+
+However, only this time.
+From now on, you must follow the teachings.
+--------------------------------------------------End--
+
+The youths of {Crusader} are planning a strategy that goes against {Yevon2}'s teachings.
+...
+{NEWPAGE}
+
+It's regrettable... for lives to be lost by breaking the teachings.
+For {Chappu} alone to lose their life is enough.
+--------------------------------------------------End--
+
+Your 42+80.complexion has improved since the other day, hasn't it?
+Has the toxic effect of 『{Sin} 』 worn off?
+--------------------------------------------------End--
+
+A Summoner is currently undertaking a trial.
+You must not interfere.
+--------------------------------------------------End--
+
+We have not yet informed the islanders, but...
+They say {Maester Mika2} has passed away...
+{NEWPAGE}
+
+What on earth is happening at {Bevelle}?
+(Combined with 6)
+--------------------------------------------------End--
+
+If the temple is in chaos,
+only anxiety will spread among the people.
+--------------------------------------------------End--
+
+A flying ship... could it possibly be {Al Bhed}'s
+machine?
+{NEWPAGE}
+
+Is it right to provide 42+105.support?
+I am somewhat conflicted.
+--------------------------------------------------End--
+
+Even if we investigate {Yevon2}'s 42+97.42+131., it's of 『{Sin}』's
+method to relieve the toxic effects of 『__P1__ 』 is not recorded.
+{NEWPAGE}
+
+If you have {Yevon2}'s 42+78.fruit...
+the toxic effects might be removed...
+--------------------------------------------------End--
+
+You... {Yevon2}'s 42+78.fruit...
+(Combined with 18)
+--------------------------------------------------End--
+
+The most favorable 42+73.situation might occur.
+My heart aches as well.
+{NEWPAGE}
+
+However, if you do not over42+132.come this trial...
+That person will have no future...
+--------------------------------------------------End--
+
+To acquire immense power...
+It will involve great 42+133.suffering.
+--------------------------------------------------End--
+
+When {Crusader} returns...
+I will warmly 42+77.provide it.
+{NEWPAGE}
+
+Returning 42+134.them to the path of correct teachings is...
+...the 42+59.duty of one who serves as a clerical official.
+--------------------------------------------------End--
+
+The Summoner's journey seems to be going smoothly.
+Hmm, very well, very well.
+--------------------------------------------------End--
+
+The communication from {St. Bevelle} Palace...
+...has been cut off.
+{NEWPAGE}
+
+The temples of 42+135.this land are going right 42+136.and left 42+136..
+How regrettable...
+--------------------------------------------------End--
+
+I could not approach the temple for a while.
+That's right.
+{NEWPAGE}
+
+Rest assured, no matter what others do...
+This temple will 42+137.42+77.you all.
+--------------------------------------------------End--
+
+Even the teachings of {Yevon2} that have lasted 1000 years...
+It seems a great turning point is 42+77.approaching.
+--------------------------------------------------End--
+
+If {Sin} perishes, then {Yevon2}'s
+Even the teachings might finish their 42+59.role.
+--------------------------------------------------End--
+
+The people of {Besaid} are very 42+138.truly...
+uphold the teachings of {Yevon2}.
+{NEWPAGE}
+
+Even I, a monastic official, am taught
+many things by the people.
+--------------------------------------------------End--
+
+I understand {Crusader}'s feelings well, but...
+Going against the teachings is a problem.
+--------------------------------------------------End--
+
+Watched over by the sacred statue, Lord Jūshō
+must also be full of enthusiasm.
+--------------------------------------------------End--
+
+Are you alright regarding {Sin}'s poisonous aura?
+Praying at the temple is the quickest way to recover.
+--------------------------------------------------End--
+
+Excuse me, but could you please
+leave me alone?
+{NEWPAGE}
+
+A prayer for that person's 42+73.safety.
+しておりますので……
+--------------------------------------------------End--
+
+You too, please offer prayers
+along with the villagers.
+--------------------------------------------------End--
+
+From now on, not Lord Jūshō...
+I must apologize to {Yuna}...
+--------------------------------------------------End--
+
+Well, 42+72.yafurisan, from now on...
+You must properly observe the teachings.
+--------------------------------------------------End--
+
+Lord/Lady Summoner, in order to help the people,
+will embark on an arduous journey.
+{NEWPAGE}
+
+We must offer heartfelt prayers.
+We must do so.
+--------------------------------------------------End--
+
+The poison will surely be cured.
+You must not be afraid.
+--------------------------------------------------End--
+
+I understand {Crusader}'s feelings, but...
+Going against the teachings is a problem.
+--------------------------------------------------End--
+
+All of the islanders are praying for Lord/Lady {Yuna}'s
+I am praying for your safety.
+{NEWPAGE}
+
+Of course, I am the same.
+--------------------------------------------------End--
+
+{Yuna}'s achievements also extend to this island.
+They are being conveyed.
+--------------------------------------------------End--
+
+I hear you have become a Guard.
+I'm counting on you, Lord/Lady {Yuna}.
+--------------------------------------------------End--
+
+The order to capture Lord/Lady {Yuna}...
+...has been conveyed even to {Besaid}.
+{NEWPAGE}
+
+Both the islanders and the temple officials are bewildered.
+That shouldn't be possible...
+--------------------------------------------------End--
+
+The monk-soldiers who came to the island were terrible ruffians...
+They're no different from thugs.
+--------------------------------------------------End--
+
+Now that {Maester Mika2} is gone, the people of {Yevon2}...
+Who should they rely on?
+--------------------------------------------------End--
+
+I have believed in {Yevon2}'s teachings since childhood.
+I have followed them.
+{NEWPAGE}
+
+Even if the temple lies in ruins.
+I know no other way but to pray.
+--------------------------------------------------End--
+
+The {Besaid} merchandise being produced here...
+...is of quite good quality.
+{NEWPAGE}
+
+If we buy them cheaply and sell them...
+It's definitely going to be profitable.
+--------------------------------------------------End--
+
+Look! Even if the whole village is agitated,
+...they calmly continue their work.
+{NEWPAGE}
+
+That's impressive.
+A great person should be like this.
+--------------------------------------------------End--
+
+Of course, I'm worried too!
+But... the people have no choice but to wait.
+--------------------------------------------------End--
+
+That old man abandoned his work and
+...went to see the Summoner.
+{NEWPAGE}
+
+As a result, his work was pushed onto me.
+This is no way to run a shop.
+--------------------------------------------------End--
+
+I can't indulge in idle talk.
+If I'm lazy, that dog will be annoying.
+--------------------------------------------------End--
+
+Even if a reinforcement joins, {Aurochs}...
+I don't think it will get stronger.
+{NEWPAGE}
+
+Anyway, this year we'll be defeated in the first round again. As for the championship...
+The championship is decided by our {Luca Goers}.
+--------------------------------------------------End--
+
+{Crusader}'s strategy, regarding {Yevon2}'s teachings...
+I hear that __P0__'s strategy goes against __P1__'s teachings.
+{NEWPAGE}
+
+They are a pushy group despite being weak.
+They should just leave it to the Summoner.
+--------------------------------------------------End--
+
+I heard, at the {Luca} tournament...
+You had great success, didn't you?
+{NEWPAGE}
+
+Well, thanks to the {Aurochs} effect...
+The popularity of {Besaid} merchandise might also increase.
+--------------------------------------------------End--
+
+I heard {Crusader} suffered a crushing defeat.
+They are an ungrateful lot.
+--------------------------------------------------End--
+
+I was impressed by the old man.
+{NEWPAGE}
+
+Even if 『{Sin} 』 comes right in front of you.
+I suppose they'll continue the work.
+--------------------------------------------------End--
+
+Oh! Rebels!
+What brazen rascals!
+--------------------------------------------------End--
+
+...it's tend, they say.
+Don't glare at me like that.
+--------------------------------------------------End--
+
+I hear the temples on the continent are in chaos, it's terrible.
+Honestly, with this, business is completely ruined.
+--------------------------------------------------End--
+
+I didn't believe the stories about flying ships.
+A ship flying, that's like something out of a dream, isn't it?
+{NEWPAGE}
+
+So, when the ship actually flew here...
+I almost said 42+148.!
+--------------------------------------------------End--
+
+When the ship flew here, the old man also...
+They were singing while working!
+--------------------------------------------------End--
+
+Searching for a land without 『{Sin} 』.
+I've been traveling, but...
+{NEWPAGE}
+
+There's no such land anywhere, I see.
+It seems better to give up.
+--------------------------------------------------End--
+
+The village where I was born is no longer there.
+It was wiped out by 『{Sin} 』.
+--------------------------------------------------End--
+
+Because the villagers are worried.
+It's better to keep quiet.
+{NEWPAGE}
+
+Just because they're affected by the poison...
+You must not hurry.
+--------------------------------------------------End--
+
+Several villagers to the pier
+I went to visit.
+{NEWPAGE}
+
+Even if I visit the departing Summoner-sama...
+It'll only make things more painful, won't it...
+--------------------------------------------------End--
+
+You must be careful not to break the teachings.
+Otherwise, you'll be excommunicated like {Crusader}.
+--------------------------------------------------End--
+
+A Summoner named {Isaaru} came to the village.
+But they disappeared quickly...
+--------------------------------------------------End--
+
+As expected, {Crusader}'s plan failed.
+It's because they rely on machines.
+--------------------------------------------------End--
+
+{Crusader}, which was destroyed by {Operation Mi'ihen},
+I heard they're regaining their strength in 42+135. land.
+{NEWPAGE}
+
+On the other hand, the warrior monks' reputation is the worst.
+They are holed up in {Bevelle} and aren't coming out, they say.
+--------------------------------------------------End--
+
+For the excommunicated {Crusader} to be protecting the people...
+It's strange, somehow...
+--------------------------------------------------End--
+
+I'll also learn {Besaid} oubutsu.
+I wonder if I should try working here...
+--------------------------------------------------End--
+
+With something like a song, can we really defeat 『{Sin}』?
+I'm uneasy, you know.
+--------------------------------------------------End--
+
+Sailors' work involves a lot of worries.
+I have to relax once in a while.
+--------------------------------------------------End--
+
+That 『{Sin}』 appeared in the nearby waters...
+Is the rumor true?
+{NEWPAGE}
+
+This is bad... the Riki-go's departure...
+Even though it's soon...
+--------------------------------------------------End--
+
+Please, please, even on the next voyage...
+May we not meet 『{Sin}』...
+--------------------------------------------------End--
+
+The attendant summoners heading to the temple on 42+91. day...
+I saw them.
+{NEWPAGE}
+
+Because they looked well, I thought they would be alright...
+Even though I was thinking that... it can't be.
+--------------------------------------------------End--
+
+One more time, their energetic form.
+once more.
+--------------------------------------------------End--
+
+I will, until the next ship comes,
+relax in this village.
+--------------------------------------------------End--
+
+During the voyage, there's no time to rest.
+I'm constantly on edge about 『{Sin} 』.
+--------------------------------------------------End--
+
+If you dawdle,
+the ferry will leave.
+{NEWPAGE}
+
+The next ship won't come for a while.
+If you miss it, it'll be a big problem.
+--------------------------------------------------End--
+
+Please, please, even on the next voyage...
+May we not meet 『{Sin}』...
+--------------------------------------------------End--
+
+Near the island, {Al Bhed2}'s ship...
+...someone saw.
+{NEWPAGE}
+
+Those guys, for what purpose...
+...did they come here, I wonder?
+--------------------------------------------------End--
+
+I like this village. Giving up being a sailor...
+...and living here might be good.
+--------------------------------------------------End--
+
+My friend is on the ferry.
+I'll pray for his sake.
+--------------------------------------------------End--
+
+{Guado2}'s guys apparently blew up {Al Bhed2}'s...
+...dwelling.
+{NEWPAGE}
+
+No matter how helpful {Al Bhed} is, it's too much.
+They did cruel things.
+--------------------------------------------------End--
+
+Even if the temple is in chaos,
+this village is quiet.
+--------------------------------------------------End--
+
+May the temple's confusion subside.
+I wonder if it's strange to pray?
+--------------------------------------------------End--
+
+The way the flying ship fought was amazing.
+Maybe we should re-evaluate {Al Bhed}'s people.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s activi42+139., at the Save Sphere.
+The trans42+145. function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s 42+135. base, Blitz training continues.
+hidden excellent players are lurking.
+Press {Button Square} and speak to them, and you might be able to sign a scout 42+152. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The trans42+145. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 2!
+--------------------------------------------------End--
+{WINDOW}
+42+153.Learned {Al Bhed} Language!
+{VAR07:31} 『{OPurple} Ne{White} 』42+154.『{Pink} E{White} 』
+{VAR07:31} 『{OPurple} To{White} 』42+154.『{Pink} O{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+The unfamiliar word42+155. `{Al Bhed} Language` requires the {Al Bhed} Language Dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

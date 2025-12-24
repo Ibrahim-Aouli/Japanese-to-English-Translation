@@ -1,0 +1,97 @@
+
+Sorry, {Yuna}-sama!
+--------------------------------------------------End--
+{Yuna} 
+{Lulu}... I...
+--------------------------------------------------End--
+{Lulu} 
+You don't have to say anything right now.
+--------------------------------------------------End--
+{Kimahri} 
+Sorry for being apart, {Yuna}.
+--------------------------------------------------End--
+{Yuna} 
+No... it's fine.
+--------------------------------------------------End--
+{Auron} 
+There should be an exit somewhere.
+We have no choice but to search for it.
+--------------------------------------------------End--
+{Isaaru} 
+{Yuna}! Column!
+A column, after all...
+--------------------------------------------------End--
+{Yuna} 
+Why here...
+--------------------------------------------------End--
+{Isaaru} 
+Got off the airship at {Calm Lands} and...
+When I came to Bevelle...
+--------------------------------------------------End--
+{Isaaru} 
+I was summoned by {Maester Kinoc}.
+It's a command to execute the rebels.
+--------------------------------------------------End--
+{Auron} 
+Are you going to do it?
+--------------------------------------------------End--
+{Isaaru} 
+The temple's commands are absolute.
+--------------------------------------------------End--
+{Isaaru} 
+Even if it's {Braska}-sama's...
+...even if she is his daughter...
+--------------------------------------------------End--
+{Isaaru} 
+I must do it.
+--------------------------------------------------End--
+{Lulu} 
+Guards?
+There should have been two people.
+--------------------------------------------------End--
+{Isaaru} 
+If it's {Maroda} and {Pacce}...
+They are not here.
+--------------------------------------------------End--
+{Isaaru} 
+To 42+53. bear the consequences is...
+Only 42+54. is enough.
+--------------------------------------------------End--
+{Isaaru} 
+{Yuna}'s line... How regrettable.
+--------------------------------------------------End--
+{Isaaru} 
+Ugh...
+--------------------------------------------------End--
+{Isaaru} 
+Don't 42+55.!
+--------------------------------------------------End--
+{Lulu} 
+{Yuna}, let's go.
+--------------------------------------------------End--
+{Isaaru} 
+...There's a passage to the surface ahead.
+--------------------------------------------------End--
+{Auron} 
+Stop your journey now.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Announcing to the Sinner] {White}
+At the 42+56. location in the "Path of Atonement," there is a stone tablet.
+Normal stone tablets won't 42+58. even if you 42+57. them.
+{NEWPAGE}
+But if you 42+57. a glowing stone tablet, it is in the direction the light indicates.
+You can instantly move to the location of another stone tablet.
+If there is no stone tablet in the direction of the light, nothing will happen.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--

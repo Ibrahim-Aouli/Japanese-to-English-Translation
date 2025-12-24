@@ -1,0 +1,257 @@
+{Dona} 
+You can tell by looking.
+Are you in line?
+--------------------------------------------------End--
+{Dona} 
+If you have no business here.
+Will you leave me alone?
+--------------------------------------------------End--
+{Tidus} 
+...Alright.
+--------------------------------------------------End--
+{Dona} 
+Wait.
+I have a question for you.
+--------------------------------------------------End--
+{Dona} 
+If I said I was quitting my journey...
+...what would you think?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Go ahead and quit.
+{CHOICE:31} Do as you please.
+--------------------------------------------------End--
+{Dona} 
+That's unusual.
+--------------------------------------------------End--
+{Dona} 
+Most people, about giving up the journey...
+...are harsh on Summoners.
+--------------------------------------------------End--
+{Tidus} 
+Is that so?
+--------------------------------------------------End--
+{Dona} 
+They'll say you ran away from your duty...
+...and point fingers.
+--------------------------------------------------End--
+{Tidus} 
+It's fine, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+Let them talk.
+Do as you like.
+--------------------------------------------------End--
+{Dona} 
+Don't speak so arrogantly.
+--------------------------------------------------End--
+{Dona} 
+But that might be good too...
+--------------------------------------------------End--
+{Dona} 
+With {Barthello}, just the two of us.
+I wonder if we should run far away.
+--------------------------------------------------End--
+{Dona} 
+That's harsh.
+--------------------------------------------------End--
+{Tidus} 
+When I first met you,
+you were harsher.
+--------------------------------------------------End--
+{Dona} 
+That's true.
+--------------------------------------------------End--
+{Dona} 
+To be told "Do as you please,"
+Stopping the journey would be annoying.
+--------------------------------------------------End--
+{Dona} 
+If you meet {Yuna},
+please tell them.
+--------------------------------------------------End--
+{Dona} 
+I will continue to be {Yuna}'s
+rival.
+--------------------------------------------------End--
+{Dona} 
+So you too, do your utmost,
+"do your best..."
+--------------------------------------------------End--
+{Dona} 
+Make sure to tell them.
+Understood?
+--------------------------------------------------End--
+{Dona} 
+Thank you for listening.
+I feel refreshed somehow.
+--------------------------------------------------End--
+{Dona} 
+Let's leave this place, and the Summon Beast...
+Can't respond.
+--------------------------------------------------End--
+{Dona} 
+I'll leave it to you.
+Show me something good.
+--------------------------------------------------End--
+{Isaaru} 
+42+53. and others, handle another section!
+--------------------------------------------------End--
+
+Despite all the hardship to build {Home}...
+Everything turned to ashes.
+--------------------------------------------------End--
+
+You {Guado}, come anytime!
+I'll be your opponent!
+--------------------------------------------------End--
+
+To the warriors in {Luca}...
+Must convey this.
+--------------------------------------------------End--
+
+My comrades died protecting {summoner}.
+I'll be everyone's shield too!
+--------------------------------------------------End--
+
+The reaction of 『{Sin}』 is...
+It seems it cannot be detected.
+--------------------------------------------------End--
+
+If you're ready...
+I'll find 『{Sin}』 for you anytime!
+--------------------------------------------------End--
+
+Centered around 『{Sin}』,
+Gravity seems to be disturbed!
+--------------------------------------------------End--
+
+『{Sin}』 seems to still be alive.
+How will we deliver the finishing blow?
+--------------------------------------------------End--
+
+Are we going in head-on?
+It's a reckless plan, but exhilarating.
+--------------------------------------------------End--
+
+This time for sure, we'll defeat {{Sin}}
+Let's put an end to it.
+--------------------------------------------------End--
+
+There's no time for wailing.
+We just need to build a new {{Home}}.
+--------------------------------------------------End--
+
+Alright!
+--------------------------------------------------End--
+
+The knack for moving this ship...
+...I've finally grasped it.
+--------------------------------------------------End--
+
+When you fight {{Sin}}
+I'll sing here too!
+--------------------------------------------------End--
+
+Leave the ship to me.
+You, hurry to the deck!
+--------------------------------------------------End--
+
+In preparation for the final battle,
+I need to adjust the ship.
+--------------------------------------------------End--
+
+The ship is in top condition!
+Now, go knock down {{Sin}}!
+--------------------------------------------------End--
+
+Even if you jump into {{Sin}}
+...there seems to be no effect on the ship.
+--------------------------------------------------End--
+
+The ship shook a lot just now, didn't it?
+I bumped my head.
+--------------------------------------------------End--
+
+Not scared, not scared.
+Not scared, not scared...
+--------------------------------------------------End--
+
+Hey, when can we return to {Home}?
+--------------------------------------------------End--
+
+It's better just to be alive even if {Home} is gone.
+If I don't think that way, I can't go on...
+--------------------------------------------------End--
+
+Because {summoner} is protecting the passage.
+Isn't this room safe?
+--------------------------------------------------End--
+
+To prepare for the battle, the children
+descended from {airship}.
+--------------------------------------------------End--
+
+It was good to be able to return to Fuji from {Bevelle}.
+Before, we were severely attacked.
+--------------------------------------------------End--
+
+I'll sing here too.
+Do your best!
+--------------------------------------------------End--
+
+End the battle quickly.
+I want to see my younger brother.
+--------------------------------------------------End--
+
+Don't dally!
+『{Sin}』 is right in front of you!
+--------------------------------------------------End--
+
+When {Calm} comes, next time
+we must rebuild {Home}.
+--------------------------------------------------End--
+
+This child doesn't quite understand that {Home} is gone.
+よく わかって いないのよ
+--------------------------------------------------End--
+
+Being chased around by {fiend}.
+Everyone is utterly terrified.
+--------------------------------------------------End--
+
+The children's terrified faces...
+Seeing them is the hardest thing of all...
+--------------------------------------------------End--
+
+{summoner} and {guardian}...
+They seem quite troubled.
+--------------------------------------------------End--
+
+Even I can use a weapon!
+I'll show them {Al Bhed}'s resolve!
+--------------------------------------------------End--
+
+These are {Rin}-san's belongings.
+Don't touch them without permission.
+--------------------------------------------------End--
+
+Since there are plenty of items,
+please feel free to buy.
+--------------------------------------------------End--
+
+Do you need anything?
+Why don't you consult {Rin}-san?
+--------------------------------------------------End--
+
+We have to repair the damaged ship.
+I wonder if we have any parts in stock.
+--------------------------------------------------End--
+
+It will surely be a tough battle.
+Check your equipment again!
+--------------------------------------------------End--
+
+Use up all the items here.
+Please do it with that intention.
+--------------------------------------------------End--

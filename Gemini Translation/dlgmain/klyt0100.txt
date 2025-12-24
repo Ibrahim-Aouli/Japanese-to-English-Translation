@@ -1,0 +1,229 @@
+{Wakka} 
+Heh heh heh...
+--------------------------------------------------End--
+{Wakka} 
+These stone steps, you see...
+They are historically proper stone steps.
+--------------------------------------------------End--
+{Wakka} 
+During the current era, Lord {Ohalland}...
+...trained here!
+--------------------------------------------------End--
+{Aurochs} Everyone:
+Heh heh heh...
+--------------------------------------------------End--
+{Tidus} 
+It's a match, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+Do you think you can win against me?
+--------------------------------------------------End--
+{Wakka} 
+{Yuna}, please.
+--------------------------------------------------End--
+{Yuna} 
+Ready!
+--------------------------------------------------End--
+{Wakka} 
+Huh!?
+Unfair!?
+--------------------------------------------------End--
+{Lulu} 
+Always a child, aren't you?
+--------------------------------------------------End--
+Datto.
+This is bad~!!
+--------------------------------------------------End--
+{Wakka} 
+Hurry! Help!
+It's 『{sinspawn}』!
+--------------------------------------------------End--
+{Tidus} 
+This is tough~
+--------------------------------------------------End--
+{Wakka} 
+Hahaha... I was fortunate.
+I ended up underestimating you.
+--------------------------------------------------End--
+{Tidus} 
+Guarding is tough, isn't it?
+--------------------------------------------------End--
+{Wakka} 
+You, even with battles,
+...seem to have talent, don't you?
+--------------------------------------------------End--
+{Tidus} 
+Stop it.
+--------------------------------------------------End--
+{Tidus} 
+Hey, what is '{sinspawn} '?
+--------------------------------------------------End--
+{Lulu} 
+Peeled off from '{Sin} 's body,
+A demon that was left behind.
+--------------------------------------------------End--
+{Wakka} 
+If you leave it alone, '{Sin} ' will return.
+We'd better defeat it quickly.
+--------------------------------------------------End--
+
+That it might have battle capabilities...
+...when {Wakka} told me...
+--------------------------------------------------End--
+
+At that time, about becoming {Yuna} 's guard...
+I feel like I started to think about it in the back of my mind.
+--------------------------------------------------End--
+{Wakka} 
+Oh, right... that.
+Are there demons in {Zanarkand}?
+--------------------------------------------------End--
+{Tidus} 
+Not many.
+If one appears sometimes, it's a major [42+53] incident.
+--------------------------------------------------End--
+{Tidus} 
+Things about {Zanarkand}...
+...even though you don't believe them.
+--------------------------------------------------End--
+{Wakka} 
+...I was thinking, though.
+--------------------------------------------------End--
+{Wakka} 
+Humans who are harmed by '{Sin} '...
+...instead of dying...
+--------------------------------------------------End--
+{Wakka} 
+...by '{Sin} 's magic, 1000 years ago or something...
+...I wonder if they're transported to a world later or something.
+--------------------------------------------------End--
+{Wakka} 
+And then one day, suddenly 42+54. popped up.
+Returning and such...
+--------------------------------------------------End--
+{Lulu} 
+As always, I'm impressed.
+--------------------------------------------------End--
+{Lulu} 
+Ways to deceive yourself, one after another.
+I said I was impressed because you devise them.
+--------------------------------------------------End--
+{Lulu} 
+『{Sin} 』 did not transport {Chappu}
+anywhere.
+--------------------------------------------------End--
+{Lulu} 
+Crushing 42+55.
+and abandoned it on {Djose}'s coast.
+--------------------------------------------------End--
+{Lulu} 
+Your 42+56. is...
+...will never 42+57. return.
+--------------------------------------------------End--
+{Lulu} 
+And also, I'll tell you this.
+--------------------------------------------------End--
+{Lulu} 
+No matter how much you wish for it,
+no one can replace {Chappu}.
+--------------------------------------------------End--
+{Lulu} 
+A replacement for {Jecht}-sama, too,
+is nowhere to be found...
+--------------------------------------------------End--
+{Lulu} 
+Of course, even a replacement for {Braska}-sama
+is nowhere to be found.
+--------------------------------------------------End--
+{Lulu} 
+That kind of thinking... will only make you sad.
+--------------------------------------------------End--
+{Wakka} 
+Even I, a replacement for 42+56. like that...
+I can't do it...
+--------------------------------------------------End--
+{Wakka} 
+Well, a lot happened.
+Don't worry about it.
+--------------------------------------------------End--
+
+{Wakka} and {Lulu} and
+Between this {Chappu}...
+--------------------------------------------------End--
+
+Yes, something I didn't know.
+That there were 複42+58.な42+53. feelings...
+--------------------------------------------------End--
+
+I understood at least that much.
+But I was not good with such topics.
+--------------------------------------------------End--
+
+You there!
+Suspicious one!
+{NEWPAGE}
+
+As long as we are here,
+We will not let you go to the temple!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s activity, to the Save Sphere
+the transfer function to {blitzball} Stadium
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s lands, continuing Blitz training,
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to recruit them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+the transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

@@ -1,0 +1,353 @@
+{WINDOW}
+Save up to this point?
+{VAR07:49}{CHOICE:30}Yes
+{VAR07:49}{CHOICE:31}No
+--------------------------------------------------End--
+{Tidus} 
+Rikku!?
+--------------------------------------------------End--
+{Tidus} 
+Wh-!?
+--------------------------------------------------End--
+{Tidus} 
+Blitzball!?
+--------------------------------------------------End--
+
+Are you alright!?
+--------------------------------------------------End--
+{Tidus} 
+Someone!!
+--------------------------------------------------End--
+
+Amazing...
+--------------------------------------------------End--
+{Tidus} 
+Hey! Hello!
+--------------------------------------------------End--
+
+Y-You...
+Do that move from before again?
+--------------------------------------------------End--
+
+{Font Italic} I was glad.
+I really thought I was saved just now{Font Normal}
+--------------------------------------------------End--
+
+Amazing... Whoa...
+Oh... Amazing...
+--------------------------------------------------End--
+
+You're no amateur.
+Which team are you from?
+--------------------------------------------------End--
+{Tidus} 
+{Zanarkand Abes} ！
+--------------------------------------------------End--
+
+{Zanarkand}? What did you say?
+   {Zanarkand Abes} ……
+--------------------------------------------------End--
+
+…Where did you come from?
+--------------------------------------------------End--
+{Tidus} 
+Hey! Scratch that!
+--------------------------------------------------End--
+{Tidus} 
+I got too close to 『{Sin} 』...
+My head's spinning, you know.
+--------------------------------------------------End--
+{Tidus} 
+So, where I came from, or...
+where this place is...
+--------------------------------------------------End--
+
+Was I affected by 『{Sin} 』's toxic fumes...?
+--------------------------------------------------End--
+
+But I'm alive like this.
+--------------------------------------------------End--
+
+It's a blessing from {Yevon2}.
+--------------------------------------------------End--
+
+Keep training.
+--------------------------------------------------End--
+
+I am {Wakka}.
+I am the coach of this {Besaid Aurochs} player shop.
+--------------------------------------------------End--
+{Wakka} 
+Oh, just hungry?
+--------------------------------------------------End--
+{Wakka} 
+Alright! Let's go to the village.
+I'll get you something to eat.
+--------------------------------------------------End--
+
+I thought {Font Italic} {Wakka} was a good person.
+So... I wanted to ask, {Font Normal}.
+--------------------------------------------------End--
+{Wakka} 
+Long, long ago, {Spira} had many huge cities.
+Even at night, they were bustling, mechanical metropolises.
+--------------------------------------------------End--
+{Wakka} 
+Everyone relied on the power of machines,
+and were living enjoyable lives, you see.
+--------------------------------------------------End--
+{Wakka} 
+But... look.
+--------------------------------------------------End--
+{Wakka} 
+`{Sin}` appeared and...
+destroyed the entire mechanical city.
+--------------------------------------------------End--
+{Wakka} 
+Of course, `{Zanarkand}` as well.
+--------------------------------------------------End--
+{Wakka} 
+That was roughly 1000 years ago...
+Yes, just as you said.
+--------------------------------------------------End--
+{Wakka} 
+Well, `{Sin}` got carried away.
+So, it was a [42+53.] toward humans.
+--------------------------------------------------End--
+{Wakka} 
+Good grief...
+--------------------------------------------------End--
+{Wakka} 
+Because of those people from the past, that we in the present...
+...have to suffer [42+54.]... it really makes me [42+55.] angry, you know.
+--------------------------------------------------End--
+{Wakka} 
+Of course, atoning for the sin...
+...is the important [42+56.] of present-day humans.
+--------------------------------------------------End--
+{Wakka} 
+I know that, yeah.
+But sometimes I just can't bear it anymore...
+--------------------------------------------------End--
+
+It was just as `{Font Italic}` `{Rikku}` said, `{Font Normal}`.
+--------------------------------------------------End--
+
+Both `{Font Italic}` `{Wakka}` and `{Rikku}` lie.
+There's no need at all, `{Font Normal}`.
+--------------------------------------------------End--
+{Wakka} 
+Hahaha! But still.
+That `{Zanarkand Abes}`, I've [42+57.] it!
+--------------------------------------------------End--
+{Wakka} 
+Perhaps such a team.
+It might have really happened, but...
+--------------------------------------------------End--
+
+{Font Italic} encourages me.
+Wakka's feelings made me happy.
+--------------------------------------------------End--
+
+{Font Italic} But what I was thinking at that time was...
+--------------------------------------------------End--
+
+{Font Italic} The beginning is '{Sin}'.
+So, if I meet one more line of '{Sin},'...
+--------------------------------------------------End--
+
+{Font Italic} If I can do that, to {Zanarkand}...
+...might be able to reach.
+--------------------------------------------------End--
+
+{Font Italic} Until that time comes, things like where this is or...
+...what era it is, let's stop caring about it.
+--------------------------------------------------End--
+
+{Font Italic} It was difficult not to care, but...
+...I felt a little relieved.
+--------------------------------------------------End--
+
+{Font Italic} Just... a little.
+--------------------------------------------------End--
+Datto.
+When the ball falls...
+...I just end up closing my eyes.
+--------------------------------------------------End--
+Datto.
+You're being affected by the poison, right?
+You should rest soon.
+--------------------------------------------------End--
+Datto.
+Oh, right! Here, take this.
+It might even work on poison.
+--------------------------------------------------End--
+Datto.
+The reason you didn't drown is...
+...because you're a Blitz player... probably.
+{NEWPAGE}
+Datto.
+Top-tier players, even if they hold their breath the whole time...
+...don't struggle at all, right?
+{NEWPAGE}
+Datto.
+We want to learn from that too.
+--------------------------------------------------End--
+Datto.
+From the shore to 42+59., how many 42+60.rounds without breathing...
+...we've tried to see how many we could do.
+{NEWPAGE}
+Datto.
+For us, 2 42+60.rounds is our best, but...
+Mr./Ms. {Wakka} can do 5 42+60.rounds easily!
+--------------------------------------------------End--
+Reti!
+I'm good at heading!
+I'm not in good form today, though...
+--------------------------------------------------End--
+Reti!
+That's strange...
+I was able to do it 5 times in a row 42+66.that day, yet...
+--------------------------------------------------End--
+Reti!
+I lose to Mr./Ms. {Wakka}, but...
+I'm confident in 42+67.water!
+{NEWPAGE}
+Reti!
+As for those fun-ball skills,
+I'm just a little weak with them, though...
+--------------------------------------------------End--
+Reti!
+Top-tier players, even if they 42+68.42+69. in water,
+don't drown, is that true?
+{NEWPAGE}
+Reti!
+If they reach that level, they're monsters, aren't they?
+--------------------------------------------------End--
+Jash
+That shot was amazing~
+I want to try shooting something like that too.
+--------------------------------------------------End--
+Jash
+{Wakka} is waiting.
+Wouldn't it be better to go quickly?
+--------------------------------------------------End--
+Jash
+Monsters will appear on the path to the village.
+If it gets dangerous, use this.
+--------------------------------------------------End--
+Bots
+At this year's tournament, {Wakka}-'s
+I must make sure not to be a hindrance.
+--------------------------------------------------End--
+Bots
+Once your malice is gone,
+please practice with me.
+--------------------------------------------------End--
+Bots
+I hope the bad mood clears quickly.
+--------------------------------------------------End--
+KIPPA
+As you can see, our team...
+...we're just a little bit [42+70.] on the lower side, you see.
+--------------------------------------------------End--
+KIPPA
+Our [42+71.] is 'We'll try our best!'
+That's all we have going for us, though...
+--------------------------------------------------End--
+KIPPA
+You too, with this...
+...try your best too.
+--------------------------------------------------End--
+KIPPA
+Our team, right after the match starts...
+...we're in good form, but...
+{NEWPAGE}
+KIPPA
+Everyone, during [42+72.], becomes breathless...
+...and we get defeated during that opening.
+{NEWPAGE}
+KIPPA
+But {Wakka} is different.
+That person's training is different.
+{NEWPAGE}
+KIPPA
+Not even until halftime, but until the end of the match.
+They've stayed submerged the whole time, you know.
+--------------------------------------------------End--
+{Wakka} 
+Well, teams from an era when they lived a life of ease...
+They're bound to be weak, though.
+--------------------------------------------------End--
+{Wakka} 
+There's no need for you to get down!
+--------------------------------------------------End--
+{Tidus} 
+Um, about {Zanarkand}...
+It was destroyed 1000 years ago... wasn't it?
+--------------------------------------------------End--
+{Tidus} 
+Now it has turned into ruins.
+...That's right, isn't it?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activ42+74., to the Save Sphere...
+The trans42+75. function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s sacre42+76. ground, Blitz training continues.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to scout/contr42+77. them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The trans42+75. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

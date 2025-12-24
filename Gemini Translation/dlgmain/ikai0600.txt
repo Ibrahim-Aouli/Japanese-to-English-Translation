@@ -1,0 +1,431 @@
+{Tidus} 
+What?
+--------------------------------------------------End--
+
+More than {Farplane}'s first arrival,
+I was worried about {Yuna}'s feelings.
+--------------------------------------------------End--
+
+And {Yuna}'s two rows,
+They seemed close,
+--------------------------------------------------End--
+
+Seeing something like that, {Yuna}'s feelings too
+might lean towards making a decision... or something like that.
+--------------------------------------------------End--
+{Wakka} 
+Hey, {Chappu}.
+--------------------------------------------------End--
+{Wakka} 
+I intended to come see you right away,
+but...
+--------------------------------------------------End--
+{Wakka} 
+Sorry!!
+--------------------------------------------------End--
+{Wakka} 
+I'll straighten myself out from now on,
+please forgive me.
+--------------------------------------------------End--
+{Wakka} 
+I also retired from Blitzball, and
+my only path now is to be a guardian.
+--------------------------------------------------End--
+{Wakka} 
+A person who somehow resembles you
+appeared, and...
+--------------------------------------------------End--
+{Wakka} 
+While traveling with that person...
+I thought.
+--------------------------------------------------End--
+{Wakka} 
+You too, somewhere...
+I wonder if they're alive.
+--------------------------------------------------End--
+{Wakka} 
+But still, you are...
+...a resident of {Farplane}, aren't you...
+--------------------------------------------------End--
+{Wakka} 
+I understand clearly now.
+--------------------------------------------------End--
+{Wakka} 
+...Hey, how is it over there?
+--------------------------------------------------End--
+{Wakka} 
+Oh, to the one I just mentioned.
+I gave them your sword.
+--------------------------------------------------End--
+{Wakka} 
+That's okay, right?
+--------------------------------------------------End--
+{Wakka} 
+Please wait a little longer.
+--------------------------------------------------End--
+{Lulu} 
+Why don't you try letting go of someone too?
+Because they appear just by thinking of them.
+--------------------------------------------------End--
+{Lulu} 
+Ou is dead... I am alive.
+--------------------------------------------------End--
+{Lulu} 
+When I come here, I understand it well.
+--------------------------------------------------End--
+{Lulu} 
+It's about time I too face life positively.
+I need to think about it.
+--------------------------------------------------End--
+{Lulu} 
+Heh heh heh...
+--------------------------------------------------End--
+{Tidus} 
+Wh-What?
+--------------------------------------------------End--
+{Lulu} 
+What is 'positive,' anyway...?
+--------------------------------------------------End--
+{Tidus} 
+Not dwelling on {Chappu}.
+Isn't that what it means?
+--------------------------------------------------End--
+{Tidus} 
+Though I am blessed by {Chappu},
+like dating someone new.
+--------------------------------------------------End--
+{Lulu} 
+I see.
+That's also an option.
+--------------------------------------------------End--
+{Tidus} 
+Like dating {Wakka}...
+--------------------------------------------------End--
+{Lulu} 
+Why does {Wakka} come into this?
+--------------------------------------------------End--
+{Tidus} 
+But you're close, right?
+--------------------------------------------------End--
+{Lulu} 
+Being close and that kind of thing...
+are completely different.
+--------------------------------------------------End--
+{Tidus} 
+Oh... is that so?
+--------------------------------------------------End--
+{Lulu} 
+Remember that, boy.
+--------------------------------------------------End--
+{Lulu} 
+So you don't misunderstand a girl's feelings
+and get embarrassed.
+--------------------------------------------------End--
+{Tidus} 
+Ugh... I'll remember.
+--------------------------------------------------End--
+{Lulu} 
+I'll make sure not to forget either.
+--------------------------------------------------End--
+{Lulu} 
+Goodbye {Chappu}.
+--------------------------------------------------End--
+{Lulu} 
+That I always seemed grumpy,
+you said, but...
+--------------------------------------------------End--
+{Lulu} 
+It was fun... very much so.
+--------------------------------------------------End--
+{Tidus} 
+So, what do you think?
+--------------------------------------------------End--
+{Yuna} 
+I've decided.
+--------------------------------------------------End--
+{Tidus} 
+Th-That's good.
+So, which?
+--------------------------------------------------End--
+{Yuna} 
+10 years ago, Father, 『{Sin} 』...
+You remembered that event, didn't you?
+--------------------------------------------------End--
+{Yuna} 
+I was in {Bevelle}, though.
+The whole town was in an uproar.
+--------------------------------------------------End--
+{Yuna} 
+Everyone was laughing,
+and seemed very happy.
+--------------------------------------------------End--
+{Yuna} 
+Defeating 『{Sin} 』 is
+the most positive topic, right?
+--------------------------------------------------End--
+{Yuna} 
+To want both this and that...
+...you shouldn't be greedy, right?
+--------------------------------------------------End--
+{Tidus} 
+So, return?
+You're returning to {Seymour}, right?
+--------------------------------------------------End--
+{Yuna} 
+Before that...
+--------------------------------------------------End--
+{Yuna} 
+{Jecht}-san... why don't you try leaving?
+--------------------------------------------------End--
+{Yuna} 
+It's alright.
+Because he surely won't come.
+--------------------------------------------------End--
+
+Trying not to think is
+the same as thinking...
+--------------------------------------------------End--
+{Yuna} 
+Look, he's not coming!
+--------------------------------------------------End--
+
+Dad is 『{Sin} 』, that's why.
+So they're not coming here...?
+--------------------------------------------------End--
+{Yuna} 
+I'm sure we'll meet somewhere.
+--------------------------------------------------End--
+
+But if Dad really was '{Sin}' ...
+--------------------------------------------------End--
+
+To {Yuna} and... {Spira}'s
+...people, how can I apologize...?
+--------------------------------------------------End--
+
+No, why should I... on that guy's
+...behalf apologize...?
+--------------------------------------------------End--
+{Tidus} 
+You're the worst, Dad.
+--------------------------------------------------End--
+{Yuna} 
+Hey, why do you hate him so much?
+--------------------------------------------------End--
+{Tidus} 
+That guy always has 42+56. and 42+57. pile up, doesn't he.
+--------------------------------------------------End--
+{Tidus} 
+Because of that guy, me and 42+58. ...
+--------------------------------------------------End--
+{Tidus} 
+...42+58.
+--------------------------------------------------End--
+{Tidus} 
+Heh... I just came out.
+--------------------------------------------------End--
+{Yuna} 
+What a beautiful person.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{WINDOW}
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+Even though 42+58. was never subjected to anything like '{Farplane} 42+59.ri'...
+--------------------------------------------------End--
+{Yuna} 
+...even when she was alive,
+She had accepted death.
+--------------------------------------------------End--
+{Tidus} 
+That's terrible.
+But I was there...
+--------------------------------------------------End--
+{Yuna} 
+Oh, sorry.
+--------------------------------------------------End--
+{Tidus} 
+Hmm... it's fine.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Oh.
+--------------------------------------------------End--
+{Tidus} 
+Somehow, I just understood.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+What?
+--------------------------------------------------End--
+{Tidus} 
+The reason Dad hates 42+60.
+--------------------------------------------------End--
+{Tidus} 
+Somehow, I...
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+{WINDOW}
+Hm?
+--------------------------------------------------End--
+{Tidus} 
+I'm super cool, aren't I?
+--------------------------------------------------End--
+{Yuna} 
+That's not true.
+--------------------------------------------------End--
+{Tidus} 
+You're so uncool!
+--------------------------------------------------End--
+{Wakka} 
+How is it?
+Shall we think a bit more?
+--------------------------------------------------End--
+{Yuna} 
+No, I'm fine.
+--------------------------------------------------End--
+{Lulu} 
+Did something happen to you?
+--------------------------------------------------End--
+{Tidus} 
+Hahahahaha...
+--------------------------------------------------End--
+{Tidus} 
+...Aren't you leaving?
+--------------------------------------------------End--
+{Lulu} 
+I've left.
+I just don't appear.
+--------------------------------------------------End--
+{Tidus} 
+Who's that?
+--------------------------------------------------End--
+{Lulu} 
+It has nothing to do with you.
+--------------------------------------------------End--
+{Tidus} 
+Sorry.
+--------------------------------------------------End--
+{Lulu} 
+...Lashing out...
+It's cool, isn't it?
+--------------------------------------------------End--
+{Lulu} 
+Why... aren't they here?
+--------------------------------------------------End--
+{Lulu} 
+It's fine, but... leave me alone.
+--------------------------------------------------End--
+{Lulu} 
+I still haven't become anyone.
+なっていないんです
+--------------------------------------------------End--
+{Lulu} 
+...Once this whole journey is over,
+I'll come report again.
+--------------------------------------------------End--
+{Lulu} 
+I'll bring good news.
+--------------------------------------------------End--
+
+Long time no see, Sis.
+--------------------------------------------------End--
+
+Even after seven years, you haven't aged a day.
+Now, I feel like I'm the older one.
+--------------------------------------------------End--
+
+...Of course.
+--------------------------------------------------End--
+
+Hey, I brought something good.
+I'll show it to you.
+--------------------------------------------------End--
+
+She's just like you, isn't she?
+Her name is {Yuna}.
+--------------------------------------------------End--
+
+When I first saw her,
+I was so surprised.
+--------------------------------------------------End--
+
+I thought you had come back to life.
+思ったよ
+--------------------------------------------------End--
+
+{Yuna} is a summoner too,
+and she's pretty skilled.
+--------------------------------------------------End--
+
+Oh, of course.
+Not as much as Big Sister, though.
+--------------------------------------------------End--
+
+If Big Sister were alive,
+I wonder if she would have fought like this...
+--------------------------------------------------End--
+
+If it's {Yuna}, then in Big Sister's place,
+They will surely defeat '{Sin}'.
+--------------------------------------------------End--
+
+...So, Big Sister,
+You can rest easy.
+--------------------------------------------------End--
+
+...See you again.
+--------------------------------------------------End--
+{Tromell} 
+Despite praying so much,
+That Lord {Seymour} hasn't appeared!
+--------------------------------------------------End--
+{Tromell} 
+Could it be they couldn't reach {Farplane},
+And became a monster...?
+--------------------------------------------------End--
+{Tromell} 
+Alas, poor Lord {Seymour}.
+Where could they be wandering...?
+--------------------------------------------------End--
+{Tromell} 
+In Lord {Jyscal}'s era, {Guado}
+was overflowing with glory.
+--------------------------------------------------End--
+{Tromell} 
+Yet the current {Guado} is
+in a state of ruin.
+--------------------------------------------------End--
+{Tromell} 
+This Towamel, to Lord {Jyscal}
+I have no 42+61. to face Lord __P0__.
+--------------------------------------------------End--
+{Tromell} 
+{Jyscal}, forgiveness!
+--------------------------------------------------End--
+{Tromell} 
+{Jyscal}, please, forgive me.
+--------------------------------------------------End--
+{Tromell} 
+The merciful {Jyscal} and
+42+62. the bright {Seymour}
+--------------------------------------------------End--
+{Tromell} 
+The days I served you both
+Were truly joyful.
+--------------------------------------------------End--
+{Tromell} 
+We who remain will also, eventually, by '{Sin}'
+be destroyed and go to {Farplane}.
+--------------------------------------------------End--
+{Tromell} 
+Even in {Farplane}, just as in life,
+I will 42+63. serve you!
+--------------------------------------------------End--
+{Tromell} 
+Even if '{Sin}' 42+64. disappears.
+Without a chieftain, there is no tomorrow for {Guado}.
+--------------------------------------------------End--

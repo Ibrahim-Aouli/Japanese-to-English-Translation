@@ -1,0 +1,93 @@
+
+To think '{Sin}' would fall to {Bevelle}.
+Serves those Temple guys right!
+--------------------------------------------------End--
+
+The main cannon is completely broken.
+Sorry I can't repair it.
+--------------------------------------------------End--
+
+If the main cannon were working, '{Sin}'...
+we could knock it down...
+--------------------------------------------------End--
+
+Even if 『{Sin} 』revives, there's nothing to fear if we all sing.
+うたえば こわくないさ
+--------------------------------------------------End--
+
+We're about to charge into 『{Sin} 』, aren't we? Let's go with spirit!
+きあいを いれて いこうぜ！
+--------------------------------------------------End--
+
+『{Sin} 』is still and unmoving. It seems to be waiting for us.
+おれたちを まちかまえて いるようだ
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activation, to the Save Sphere.
+Transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s location, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, and you may be able to recruit scouts.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+Transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go up.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go down.
+--------------------------------------------------End--

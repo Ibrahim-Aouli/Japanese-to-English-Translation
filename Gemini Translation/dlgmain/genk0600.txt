@@ -1,0 +1,321 @@
+{WINDOW}
+Discovered {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--
+{Maechen} 
+About Shiparph.
+May I speak about it?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Don't speak about it.
+{CHOICE:31} Please do!
+--------------------------------------------------End--
+{Maechen} 
+About the Hypero tribe.
+May I speak about it?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+Thanks!
+--------------------------------------------------End--
+
+Aww, are you already leaving?
+Please come again.
+--------------------------------------------------End--
+
+Because few people can ride a Shiparph.
+You'll have to wait quite a while to ride.
+{NEWPAGE}
+
+But if it's Summoner-sama and your party, you can ride at the very front of the line.
+I want you to go to {Zanarkand} soon.
+--------------------------------------------------End--
+
+Be careful when shopping around here.
+Rip-off shopkeepers are swarming everywhere.
+--------------------------------------------------End--
+
+Having caught wind of Master-sama's marriage talks,
+the shopkeepers are getting enthusiastic.
+{NEWPAGE}
+
+Taking advantage of the celebratory mood,
+they're aiming to sell shabby goods.
+--------------------------------------------------End--
+
+Until just recently, the shopkeepers...
+...were selling goods with {Crusader} in mind.
+{NEWPAGE}
+
+What was {Operation Mi'ihen} 42+53.援42+54.42+55. saying to sell things at such high prices?
+Rebels and __P0__ are running rampant, and the number of travelers has decreased.
+--------------------------------------------------End--
+
+The people selling things around here seem to be having a hard time with so few customers.
+They say '__P1__' fell in __P0__. It's better not to go north.
+--------------------------------------------------End--
+
+It seems __P0__ is holed up in __P1__ and doesn't go outside.
+I was planning to return to __P0__ right after __P0__'s tournament ended, but...
+--------------------------------------------------End--
+
+{Bevelle} was blockading the road, so I couldn't return home for a long time.
+My plans are completely messed up. Please be understanding~
+--------------------------------------------------End--
+
+{Guado2} is going around spreading news of the marriage, even though no one asked.
+Well, it can't be helped. It's rare good news.
+--------------------------------------------------End--
+
+{Luca} の大会が終わったら
+すぐ{Bevelle} へ婦るつもりだったのに……
+{NEWPAGE}
+
+{Crusader} が街道を封42+56.してたから
+ずっと婦れなかったのよ
+--------------------------------------------------End--
+
+すっかり予定が42+57.っちゃった
+かんべんしてほしいわ〜
+--------------------------------------------------End--
+
+{Guado2} ったら 聞かれもしないのに
+ご結度の話を ふれまわってるわ
+{NEWPAGE}
+
+まあ仕方ないわね
+めったにない明るいニュースだし
+--------------------------------------------------End--
+
+I'll quit {Crusader} too.
+I wonder if I should settle down at 42+58.舎.
+--------------------------------------------------End--
+
+I hear {Yuna}-sama is getting married, huh?
+That's happy news, isn't it?
+{NEWPAGE}
+
+If only {Crusader} had been able to defeat '{Sin}'.
+It would have been perfect, though.
+--------------------------------------------------End--
+
+By the time we return to 42+58.舎.
+It'll probably be right in the middle of the marriage celebration.
+--------------------------------------------------End--
+
+Welcome!
+Customer, you have a good eye.
+--------------------------------------------------End--
+
+If you buy from us...
+No problems at all, you know.
+--------------------------------------------------End--
+
+Welcooome!
+Young man, you're lucky.
+--------------------------------------------------End--
+
+Right now, we're having a massive sale.
+I'll give you a lot of service~
+--------------------------------------------------End--
+Shipahfu user.
+No, no way~
+It might seem impossible, you know~?
+--------------------------------------------------End--
+{Lucil} 
+I want to somehow request that!
+--------------------------------------------------End--
+Shipahfu user.
+What's no good is no good, you know~
+--------------------------------------------------End--
+{Tidus} 
+What's wrong?
+--------------------------------------------------End--
+{Elma} 
+That guy says this child...
+...won't let ride on the Shipāfu!
+--------------------------------------------------End--
+{Tidus} 
+It is big, isn't it......
+--------------------------------------------------End--
+{Elma} 
+Honestly, that guy is infuriating!
+--------------------------------------------------End--
+{Clasko} 
+No matter how I think about it...
+...I think it's impossible, though......
+--------------------------------------------------End--
+{Elma} 
+Then, what?
+Are you saying we should leave this child behind?
+--------------------------------------------------End--
+{Clasko} 
+No, I didn't mean that......
+--------------------------------------------------End--
+{Lucil} 
+It can't be helped.
+We'll give up on the Shipāfu.
+--------------------------------------------------End--
+{Lucil} 
+Somewhere we can cross on foot...
+...we'll search for a path.
+--------------------------------------------------End--
+{Elma} 
+Understood, Captain!
+--------------------------------------------------End--
+{Clasko} 
+Isn't that a really big detour!
+--------------------------------------------------End--
+{Lucil} 
+If there's no path, we can cut one open.
+--------------------------------------------------End--
+{Clasko} 
+That's so reckless......
+--------------------------------------------------End--
+{Elma} 
+Just like you, {Lucil} Captain!
+--------------------------------------------------End--
+
+If there's no path, we can cut one open.
+--------------------------------------------------End--
+
+It's a word that lingers a bit in my memory.
+--------------------------------------------------End--
+
+{Lucil} Captain, I wonder if you're doing well.
+--------------------------------------------------End--
+{Wakka} 
+Once you're ready,
+Go talk to the Shipahfu handler.
+--------------------------------------------------End--
+{Lulu} 
+Riding Shipahfu...
+Is it that fun?
+--------------------------------------------------End--
+{Wakka} 
+You don't get it at all...
+--------------------------------------------------End--
+{Wakka} 
+Huge animals. That is boys' eternal...
+Longing!
+--------------------------------------------------End--
+{Wakka} ＆{Tidus} 
+Right!
+--------------------------------------------------End--
+{Lulu} 
+When you shop around here,
+Be sure to choose `42+67.`.
+--------------------------------------------------End--
+{Maechen} 
+How dull.
+--------------------------------------------------End--
+{Maechen} 
+Regarding Shipahfu's biology,
+There are many things I don't understand.
+--------------------------------------------------End--
+{Maechen} 
+For example... yes, food.
+Shipahfu eats nothing.
+--------------------------------------------------End--
+{Maechen} 
+Just by sucking in river water with `42+69.`,
+it maintains that huge body.
+--------------------------------------------------End--
+{Maechen} 
+Tiny, tiny creatures in the water.
+There is also the idea of not eating.
+--------------------------------------------------End--
+{Maechen} 
+That's about it.
+--------------------------------------------------End--
+{Maechen} 
+The Shipaafu wielders...
+The waterside people, the 'Hypero Tribe'.
+--------------------------------------------------End--
+{Maechen} 
+Even if they're loafing around on land...
+In the water, they are incredibly swift.
+--------------------------------------------------End--
+{Maechen} 
+They seem like they could become good Blitz players, though...
+(Combined with line 7)
+--------------------------------------------------End--
+{Maechen} 
+They are a carefree bunch, after all.
+They don't feel inclined at all.
+--------------------------------------------------End--
+{Maechen} 
+That's about it.
+--------------------------------------------------End--
+{Maechen} 
+For now, I have had my say.
+(Combined with line 12)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activ42+71., to the Save Sphere.
+The transfer42+72. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+73.place, continue Blitz training.
+hidden excellent players are lurking.
+You may be able to scout and 42+74.contract if you press {Button Square} and talk to them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer42+72. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

@@ -1,0 +1,51 @@
+{Jecht} 
+Hey, {Auron}.
+Did you properly record the previous match?
+--------------------------------------------------End--
+{Auron} 
+Why were you silent!?
+--------------------------------------------------End--
+{Auron} 
+But to go out of your way to record it...
+Is it necessary?
+--------------------------------------------------End--
+{Auron} 
+Even in your {Zanarkand}...
+...there's Blitz, isn't there?
+--------------------------------------------------End--
+{Jecht} 
+You don't understand.
+--------------------------------------------------End--
+{Braska} 
+So it's Retsukyuu, then?
+--------------------------------------------------End--
+{Jecht} 
+Well, it's irrelevant to {Jecht}-sama, though.
+You brat.
+--------------------------------------------------End--
+{Braska} 
+The shop's son also plays Blitz?
+--------------------------------------------------End--
+{Jecht} 
+Ah, he would impudently against me...
+...burning with Taidoizou.
+--------------------------------------------------End--
+{Jecht} 
+When I teased him, saying it was impossible...
+...he'd sulk, almost in tears.
+--------------------------------------------------End--
+{Jecht} 
+It's been quite a while since I last saw him...
+...haven't seen him, have I?
+--------------------------------------------------End--
+{Jecht} 
+I wonder if he's grown a little taller...
+...and gotten stronger, I wonder?
+--------------------------------------------------End--
+{Jecht} 
+Hey, don't record a place like this!
+Don't take pictures!
+--------------------------------------------------End--
+{Auron} 
+...Ah.
+--------------------------------------------------End--

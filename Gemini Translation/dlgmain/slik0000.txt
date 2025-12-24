@@ -1,0 +1,616 @@
+Datto.
+Winning streak! Winning streak!
+I'll achieve a winning streak no matter what!
+--------------------------------------------------End--
+Datto.
+Tooh!
+--------------------------------------------------End--
+Datto.
+Haa!
+--------------------------------------------------End--
+Datto.
+Fuu!
+--------------------------------------------------End--
+Datto.
+I'll do my best to achieve a winning streak!
+--------------------------------------------------End--
+Reti!
+Should I practice foot passes too?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}That's right.
+{CHOICE:31}No, continue.
+--------------------------------------------------End--
+Reti!
+Well then, from now on, these hands are feet!
+--------------------------------------------------End--
+Reti!
+Got it!
+--------------------------------------------------End--
+Reti!
+I'll master hand techniques!
+--------------------------------------------------End--
+Jash
+I'm tired of pass practice.
+I want to do shoot practice too.
+--------------------------------------------------End--
+Jash
+He's very bad at foot techniques.
+{NEWPAGE}
+Jash
+And the one who gets dragged along is...
+It's always me.
+{NEWPAGE}
+Jash
+Haa...
+--------------------------------------------------End--
+
+What?
+Do you want to use the Tendokyou?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Yeah.
+{CHOICE:31}No, not really.
+--------------------------------------------------End--
+
+No, I won't lend it because you'll throw it.
+--------------------------------------------------End--
+
+I see.
+--------------------------------------------------End--
+
+All those people are Summoners-sama.
+It must be {Yevon2}'s guidance.
+--------------------------------------------------End--
+
+If she is {Braska}-sama's daughter...
+There's no way 『{Sin}』 can't be defeated.
+--------------------------------------------------End--
+
+Since it's a valuable body, for `42+53.42+54.`...
+Please be very careful.
+--------------------------------------------------End--
+Reti!
+They're incredibly popular, aren't they?
+In contrast, as for us...
+--------------------------------------------------End--
+Jash
+Don't get down, I told you!
+It's the usual, isn't it?
+--------------------------------------------------End--
+
+Um, is it okay if we record spheres together?
+Even just a signature is fine!
+--------------------------------------------------End--
+Datto.
+So we don't lose to {Yuna}-chan.
+We'll do our best too!
+--------------------------------------------------End--
+
+If Summoner-sama shows us energetic `42+55.42+56.`...
+We citizens also get inspired by `42+57.`, you know.
+--------------------------------------------------End--
+
+Yay! Yay!
+--------------------------------------------------End--
+
+Yay! Flying boat in the sky~!
+--------------------------------------------------End--
+
+Heh heh!
+--------------------------------------------------End--
+
+Hey!
+--------------------------------------------------End--
+
+At least a little of your big sister's...
+Watch your big sister and learn!
+--------------------------------------------------End--
+
+How long are you going to keep doing the same thing?!
+Enough already!
+--------------------------------------------------End--
+
+I get it, so just a little...
+How about you calm down a little?!
+--------------------------------------------------End--
+
+Come down!
+--------------------------------------------------End--
+
+What's making you so happy?!
+--------------------------------------------------End--
+
+Oh, I get it, I get it.
+It's fun! It's happy!
+--------------------------------------------------End--
+
+...Why suddenly...
+did you lose interest?
+--------------------------------------------------End--
+
+Recently, strange shadows have been flying in the sky...
+It seems concerned, so it won't come down.
+--------------------------------------------------End--
+
+You won't get eaten or anything, so...
+Come down, I said!
+--------------------------------------------------End--
+
+So there really are such things as flying ships.
+I thought I was dreaming again.
+--------------------------------------------------End--
+
+Come on, how long will you wait?
+No more ships will come flying!
+--------------------------------------------------End--
+
+This {S.S. Liki} is under {Yevon2} Temple's
+patronage and is being operated.
+{NEWPAGE}
+
+Even if you bring 42+59.s aboard,
+it won't cost even 1 Gil.
+--------------------------------------------------End--
+
+Do you like 42+59.s?
+{NEWPAGE}
+
+I love them very much.
+{NEWPAGE}
+
+So cute~
+--------------------------------------------------End--
+
+From now on, leisurely with the 42+59.s,
+I hope we can take boat trips.
+--------------------------------------------------End--
+
+I hope the temple's higher-ups work hard,
+and protect {Spira}'s peace.
+--------------------------------------------------End--
+
+Flying ships are outrageous!
+--------------------------------------------------End--
+
+Because such a ship flew,
+my 42+59.s got scared!
+--------------------------------------------------End--
+
+You, that time...
+You were aboard when '{Sin}' appeared, weren't you?
+--------------------------------------------------End--
+
+That incident was the trigger, and I...
+...became afraid of the sea...
+{NEWPAGE}
+
+...of when '{Sin}' might appear again.
+It's bothering me, I can't focus on my work.
+--------------------------------------------------End--
+
+It might be better to look for a new job on land...
+...I suppose.
+--------------------------------------------------End--
+
+Because I can't do any proper work.
+That's why I'm on lookout like this.
+--------------------------------------------------End--
+
+While on lookout like this, right there...
+...I feel like 『{Sin} 』 is about to show its face.
+{NEWPAGE}
+
+My trembling won't stop... It's not fear.
+Any seaman would be appalled to hear that...
+--------------------------------------------------End--
+
+I've been exposed to the wind all this time, but...
+My 'poison' is persistent.
+{NEWPAGE}
+
+Every time I close my eyes, the form of 『__P0__ 』 that attacked this ship...
+...appears in my mind.
+{NEWPAGE}
+
+Perhaps 『{Sin} 』 has possessed me.
+--------------------------------------------------End--
+
+I can't manage a sailor's work like this.
+Should I get off the ship and go on a temple pilgrimage or something?
+--------------------------------------------------End--
+
+If only 『{Sin} 』 would disappear...
+...then I'll have no reason to fear the sea.
+{NEWPAGE}
+
+Again, like before, a proper...
+...seaman I can become.
+--------------------------------------------------End--
+
+I could almost pray to the people on the flying ships.
+To quickly defeat {Sin}.
+--------------------------------------------------End--
+
+When I die, I want it to be with a bang and grandly.
+I want {Farplane} to 42+69. me.
+{NEWPAGE}
+
+Mmm, with {Luca Stadium} for me alone.
+I suppose I'll have that done.
+--------------------------------------------------End--
+
+When they see how I die, the great 42+70. will shed 42+71..
+If they shed them, it'll be a death worth dying for.
+--------------------------------------------------End--
+
+Well, for me to be 42+69.ed by {Farplane}...
+That's still far, far in the future, though.
+--------------------------------------------------End--
+
+Come to think of it, what happened to the Grand Summoner's 42+72. and Master's...
+...42+73. talks?
+{NEWPAGE}
+
+So, in the end, did it fall through?
+What? How dull...
+--------------------------------------------------End--
+
+Lately, it's been nothing but dull stories.
+It's depressing, I can't stand it.
+--------------------------------------------------End--
+
+When Nagi 42+74. comes, everyone will wholeheartedly...
+...be able to get absorbed in Blitz.
+{NEWPAGE}
+
+Tsk... Retiring as a player...
+It seems I retired a little too early.
+--------------------------------------------------End--
+
+A time comes for even the strongest players to retire.
+So, even {Sin} will 42+75. the field.
+--------------------------------------------------End--
+
+Despite bringing them here to 42+77 the 42+76.shell...
+Those kids are in a field trip mood!
+--------------------------------------------------End--
+
+Little kids, once they learn one fun thing,
+They just endlessly 42+78. it, honestly!
+--------------------------------------------------End--
+
+Those kids have learned a new 42+79.
+The day they'll 42+77 the 42+76.shell seems far off, doesn't it...
+--------------------------------------------------End--
+
+That's right, isn't it~
+--------------------------------------------------End--
+
+Tachi's 惠い42+63.42+64.
+Please stop it.
+--------------------------------------------------End--
+
+Watching those people,
+I'm starting to feel somewhat empty.
+--------------------------------------------------End--
+
+Do you know the monk-soldiers swarmed {Besaid Island}?
+Apparently, they went to search for rebels.
+{NEWPAGE}
+
+The people of __P0__ said nothing, apparently.
+Because I saw a flying ship.
+--------------------------------------------------End--
+
+{Besaid} の人たちは なにも
+しゃべらなかったそうよ
+--------------------------------------------------End--
+
+空飛ふ船が見えたから
+I sang with all my might, but...
+{NEWPAGE}
+
+In the middle of a sea like this,
+I wonder if my song will reach anyone.
+--------------------------------------------------End--
+
+All that's left is for '{Sin}' to disappear,
+Just to pray earnestly.
+--------------------------------------------------End--
+
+42+80.person was a Blitz player in the past.
+I was a keeper too.
+--------------------------------------------------End--
+
+In both games and life, we
+are the best partners.
+--------------------------------------------------End--
+
+42+80.person was the best {blitzball}
+player.
+{NEWPAGE}
+
+Well then, compared to {Luca Goers}'s Biksune 42+81.,
+we're no match, even if we team up.
+--------------------------------------------------End--
+
+{Bevelle} seems to be 42+82.gashii.
+Oh no, I wonder what happened.
+--------------------------------------------------End--
+
+42+80.person was a Blitz player in the past, and
+they never retired, even after reaching 42+83..
+{NEWPAGE}
+
+They would easily defeat players who were 42+85.i,
+about the age of their own children.
+--------------------------------------------------End--
+
+Actually, I was one of them.
+Heh heh... I'll leave the rest to your imagination.
+--------------------------------------------------End--
+
+Ever since being {42+67} by {{Sin}}
+That {42+86} is utterly spiritless...
+{NEWPAGE}
+
+He used to be so dependable, but now...
+He just keeps looking at the sea with frightened eyes.
+--------------------------------------------------End--
+
+That guy probably caught {{Sin}}'s poisonous influence,
+fell victim to it.
+{NEWPAGE}
+
+If he just {42+87} the {42+65}, he'll surely recover, I believe.
+We have no choice but to believe, right...?
+--------------------------------------------------End--
+
+Ever since he was {42+67} by {{Sin}}, that {42+86}...
+started to fear the sea.
+{NEWPAGE}
+
+I can't believe it. Since he was a kid...
+that guy, who has lived by the sea...
+--------------------------------------------------End--
+
+The reason that guy became spiritless is...
+it's {{Sin}}'s poisonous influence.
+--------------------------------------------------End--
+
+After seeing the flying ship's battle...
+that {42+86} also cheered up a bit.
+{NEWPAGE}
+
+If {{Sin}} disappears...
+he too will surely {42+88}, you know.
+--------------------------------------------------End--
+
+Truly, the flying ship is a godsend.
+That is precisely P0's essence, isn't it.
+--------------------------------------------------End--
+
+If you're going to rest, please stay downstairs.
+We'll be there by the time you wake up.
+--------------------------------------------------End--
+
+Apparently, they're a great summoner from an amazing bloodline.
+--------------------------------------------------End--
+
+Yes, she's P0-sama's daughter.
+--------------------------------------------------End--
+
+Amazing...
+--------------------------------------------------End--
+{Tidus} 
+P0-sama's daughter?
+--------------------------------------------------End--
+
+P0-sama's daughter, is it?
+They might do it.
+--------------------------------------------------End--
+
+Safely to P0.
+I will pray.
+--------------------------------------------------End--
+{Tidus} 
+Not P0-sama's daughter, but...
+Why don't you call me P0?
+--------------------------------------------------End--
+
+Hmm, P0-sama, is it...
+--------------------------------------------------End--
+
+Then, for P0-sama's safety...
+Let me pray.
+--------------------------------------------------End--
+{Wakka} 
+Oh, right, nothing at all...
+I hadn't explained anything.
+--------------------------------------------------End--
+{Wakka} 
+We're going to an island called {Blue}【{Kilika} 】{White} now.
+There, we'll change ships and head for P0.
+--------------------------------------------------End--
+{Wakka} 
+And before that, P0 is at the island's temple.
+I will pray, so I will stand guard.
+--------------------------------------------------End--
+{Wakka} 
+At the temple, {Besaid Aurochs}'s...
+I'll also do a certain victory pra42+93.yer, so you come along too.
+--------------------------------------------------End--
+{Lulu} 
+An inco42+94.mplete plan.
+--------------------------------------------------End--
+{Wakka} 
+An efficient plan, right?
+--------------------------------------------------End--
+{Tidus} 
+Don't push it on me.
+--------------------------------------------------End--
+{Tidus} 
+Is the departed {Yuna} famous?
+--------------------------------------------------End--
+{Wakka} 
+It's Grand Summoner {Braska}-sama's 42+72.
+There was a holy image in the temple, right?
+--------------------------------------------------End--
+{Wakka} 
+They defeated '{Sin}' 10 years ago.
+Grand Summoner {Braska}-sama.
+--------------------------------------------------End--
+{Wakka} 
+{Yuna} as a summoner...
+Has inherited the best blood.
+--------------------------------------------------End--
+{Tidus} 
+…It's a pity, isn't it, for one's passing to be famous.
+--------------------------------------------------End--
+{Lulu} 
+From this person, that kind of imagination...
+It's useless to expect.
+--------------------------------------------------End--
+{Tidus} 
+I'll remember it, {Lulu}.
+--------------------------------------------------End--
+{Wakka} 
+By the way, did you talk with {Yuna}?
+They seemed eager to ask many things.
+--------------------------------------------------End--
+{Lulu} 
+Who are you, truly...?
+I wonder where they came from...
+--------------------------------------------------End--
+{Lulu} 
+If you interfere with {Yuna}'s journey,
+You won't get off lightly.
+--------------------------------------------------End--
+{Clasko} 
+Hey, 42+95.Shifuri!
+--------------------------------------------------End--
+{Tidus} 
+Oh! So you really...
+Did you quit the cavalry?
+--------------------------------------------------End--
+{Clasko} 
+Yeah, well...
+--------------------------------------------------End--
+{Clasko} 
+{Elma} ridiculed me, but...
+Captain {Lucil} understood me.
+--------------------------------------------------End--
+{Clasko} 
+Now, on this ship, I'm the Chocobo...
+...42+96.42+97.attendant.
+--------------------------------------------------End--
+{Clasko} 
+Oh, becoming the 42+96.42+97.attendant...
+...it was really great.
+--------------------------------------------------End--
+{Clasko} 
+I'm always with the Chocobos,
+It's like... 42+98.heaven, you know?
+--------------------------------------------------End--
+{Clasko} 
+It's all thanks to hearing your 42+99.advice.
+Really, thank you!
+--------------------------------------------------End--
+{Tidus} 
+Well, I guess that's fine, isn't it?
+--------------------------------------------------End--
+{Clasko} 
+That's right!
+--------------------------------------------------End--
+{Clasko} 
+The other day, inside the Chocobo 42+90.42+100.,
+I found something like this.
+--------------------------------------------------End--
+{Clasko} 
+There's no point in me having 42+101 anyway.
+I'll give it to you.
+--------------------------------------------------End--
+{Clasko} 
+Oh, I should get going soon.
+It's almost feeding time.
+--------------------------------------------------End--
+{Tidus} 
+What is it? You're a 42+95., after all.
+At least wait a bit for your meal.
+--------------------------------------------------End--
+{Clasko} 
+It's not 42+101., it's the chocobos' feeding time!
+--------------------------------------------------End--
+{Clasko} 
+If they get hungry...
+That would be pitiful, wouldn't it?
+--------------------------------------------------End--
+{Clasko} 
+See ya!
+--------------------------------------------------End--
+
+Just listen!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}It's fine.
+{CHOICE:31}No, I don't.
+--------------------------------------------------End--
+
+Just now, a strange 42+76.-like fellow...
+...I met on the ship, and...
+{NEWPAGE}
+
+That guy, to me...
+What do you think he said?
+{NEWPAGE}
+
+Suddenly, he said, 'This won't do!'
+{NEWPAGE}
+
+Isn't that awful?
+I'm still very capable!
+--------------------------------------------------End--
+
+You think so too, don't you?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}That's right.
+{CHOICE:31}I wonder...
+--------------------------------------------------End--
+
+That's right. That's how it is.
+His eyes were rotten, weren't they?
+--------------------------------------------------End--
+
+Argh! So frustrating!
+You, get out of here!
+--------------------------------------------------End--
+
+At least you could listen to me...
+Wouldn't it be fine?!
+--------------------------------------------------End--
+
+Honestly, I'm so 42+88.frustrated!
+I'm not going inside the ship anymore!
+--------------------------------------------------End--
+
+I wonder if those two are Sako?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}It's Sako, right?
+{CHOICE:31}It seems 42+102.42+103.so.
+--------------------------------------------------End--
+
+Are you resting?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'm not resting.
+{CHOICE:31}I'm resting.
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Port Kilika
+--------------------------------------------------End--

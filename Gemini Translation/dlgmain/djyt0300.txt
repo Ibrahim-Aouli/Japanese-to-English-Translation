@@ -1,0 +1,259 @@
+
+Pardon me, but your name?
+Would you tell me?
+--------------------------------------------------End--
+{Yuna} 
+I have come from {Besaid}.
+I am listed as {Yuna}.
+--------------------------------------------------End--
+
+Just as I thought...
+--------------------------------------------------End--
+
+You are Lord {Braska}'s daughter, aren't you?
+You resemble your father.
+--------------------------------------------------End--
+{Yuna} 
+My father's... acquaintance?
+--------------------------------------------------End--
+
+No, I haven't met him directly.
+--------------------------------------------------End--
+
+Oh, excuse me.
+The shop is {Isaaru}.
+--------------------------------------------------End--
+{Isaaru} 
+I am the same Summoner as before.
+--------------------------------------------------End--
+
+I am {Pacce}.
+Pleased to meet you.
+--------------------------------------------------End--
+
+I am {Maroda}.
+--------------------------------------------------End--
+{Maroda} 
+As you can probably tell,
+I'm the boss's guard.
+--------------------------------------------------End--
+{Isaaru} 
+Since childhood, I always...
+...looked up to Lord {Braska}.
+--------------------------------------------------End--
+{Isaaru} 
+'Someday, I'll be like Lord {Braska}...
+"I want to become a Grand Summoner."
+--------------------------------------------------End--
+{Isaaru} 
+"Surely, from your father, it's Taiou-like."
+"You must have inherited abilities."
+--------------------------------------------------End--
+{Isaaru} 
+"If it's this time, we will surely defeat '{Sin}'."
+"We should be able to."
+--------------------------------------------------End--
+{Yuna} 
+"No... that's..."
+"I just became a summoner, and besides..."
+--------------------------------------------------End--
+{Isaaru} 
+"Of course, our shop has no intention of losing either."
+--------------------------------------------------End--
+{Isaaru} 
+"Which of us can defeat '{Sin}' first?"
+"{42+53.42+54.} That's about it, I guess."
+--------------------------------------------------End--
+{Yuna} 
+"Even I won't lose!"
+--------------------------------------------------End--
+{Maroda} 
+"Big Brother!"
+--------------------------------------------------End--
+{Isaaru} 
+"Well then, {Yuna}, the shop is done for now."
+"Let's both do our best."
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+Yes!
+--------------------------------------------------End--
+{Isaaru} 
+"Alright!"
+--------------------------------------------------End--
+{Tidus} 
+"What is it?"
+--------------------------------------------------End--
+{Isaaru} 
+"It's the guard for the {Yuna} unit, isn't it?"
+--------------------------------------------------End--
+{Isaaru} 
+"{Maroda} heard some {42+55.} talk."
+"We should know it too."
+--------------------------------------------------End--
+{Maroda} 
+"From {Crusader}'s people."
+I heard that...
+--------------------------------------------------End--
+{Maroda} 
+Recently, summoners go missing during their journeys...
+...they say there are unusually many of them.
+--------------------------------------------------End--
+{Isaaru} 
+There's also the possibility they were attacked by monsters, but...
+Even considering that, the number seems too high.
+--------------------------------------------------End--
+{Maroda} 
+I don't know the specifics, but...
+Anyway, you all be careful too.
+--------------------------------------------------End--
+{Maroda} 
+If the summoners disappear...
+From a guard's perspective, that would be no joke, right?
+--------------------------------------------------End--
+{Pacce} 
+What, what~?
+What are you talking about~?
+--------------------------------------------------End--
+{Maroda} 
+Do your guard duty properly.
+That's the point.
+--------------------------------------------------End--
+{Pacce} 
+I'm doing it properly~!
+Right, Big Brother!
+--------------------------------------------------End--
+{Isaaru} 
+Please be very careful.
+--------------------------------------------------End--
+{Tidus} 
+Understood!
+--------------------------------------------------End--
+{Isaaru} 
+{Pacce} ！
+--------------------------------------------------End--
+{Pacce} 
+What is it, Big Brother?
+--------------------------------------------------End--
+{Isaaru} 
+We're departing.
+--------------------------------------------------End--
+{Pacce} 
+Okay, I understand!
+--------------------------------------------------End--
+{Pacce} 
+Bye!
+--------------------------------------------------End--
+{Auron} 
+So {Braska} is now {Yevon2}'s hero...
+--------------------------------------------------End--
+{Isaaru} 
+If we summoners don't remain steadfast...
+Another reckless plan might begin...
+--------------------------------------------------End--
+{Isaaru} 
+It seems {Operation Mi'ihen}...
+...had a difficult time.
+--------------------------------------------------End--
+{Isaaru} 
+Our next destination is...
+...{Kilika}.
+--------------------------------------------------End--
+{Isaaru} 
+We'll take the ferry from {Kilika} and...
+...plan to go to {Besaid}.
+--------------------------------------------------End--
+{Maroda} 
+If we keep dawdling, other summoners will...
+...surpass us, you know!
+--------------------------------------------------End--
+{Maroda} 
+Our travel plans somehow got off track, and...
+--------------------------------------------------End--
+{Maroda} 
+Actually, by now we were supposed to be...
+...climbing __P0__.
+--------------------------------------------------End--
+{Pacce} 
+It's so beautiful...
+--------------------------------------------------End--
+
+The "Chamber of Ordeal" is beyond this point.
+Is everyone ready?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+
+The Fayth has gone to sleep.
+The Chamber of Ordeal is also sealed.
+--------------------------------------------------End--
+
+The path to the trial is closed.
+Please hurry to the next temple.
+--------------------------------------------------End--
+{Luzzu} 
+Are you all departing already?
+Take care. Let's meet again sometime.
+--------------------------------------------------End--
+{Luzzu} 
+So this is goodbye for us.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Luzzu} 
+We will flee to {Besaid Island}.
+--------------------------------------------------End--
+{Luzzu} 
+To rely on the temple's care indefinitely...
+That cannot continue.
+--------------------------------------------------End--
+{Luzzu} 
+Almost all other {Crusader} as well...
+Have already been collected, you see.
+--------------------------------------------------End--
+
+Travelers on the highway would stop by this temple.
+It was the custom to pray for a safe journey.
+{NEWPAGE}
+
+But now, the people...
+Simply pass by the temple.
+{NEWPAGE}
+
+The teachings that supported {Spira} for 1000 years...
+To disregard them is unacceptable!
+--------------------------------------------------End--
+
+We must bring the lost people back to the right path.
+The teachings of {Yevon2} will probably perish.
+--------------------------------------------------End--
+
+The story that {Master Seymor} will marry...
+Is it true?
+{NEWPAGE}
+
+An old master from {P0} and the Great Summoner's
+...daughter's 結42+66.... that's 異42+67., isn't it?
+--------------------------------------------------End--
+{Gatta} 
+You all are leaving soon too, aren't you?
+Take care. I hope we meet again somewhere.
+--------------------------------------------------End--
+{Gatta} 
+I... I'll return to {P0}.
+There's no `先42+68.` either...
+--------------------------------------------------End--
+{Tidus} 
+I see...
+Fighting alone is tough, isn't it?
+--------------------------------------------------End--
+{Gatta} 
+Other {P0}s too, mostly...
+...have been `42+63.`.
+--------------------------------------------------End--
+{Gatta} 
+I'm departing very soon too.
+--------------------------------------------------End--

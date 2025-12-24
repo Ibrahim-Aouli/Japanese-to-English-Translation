@@ -1,0 +1,340 @@
+{Rikku} 
+Something's coming out!?
+--------------------------------------------------End--
+{Yuna} 
+Master {Yunalesca}...
+--------------------------------------------------End--
+{Yunalesca} 
+Welcome to {Zanarkand}.
+--------------------------------------------------End--
+{Yunalesca} 
+Having undertaken a long journey.
+You've finally arrived.
+--------------------------------------------------End--
+{Yunalesca} 
+A great boon.
+Now I shall impart it.
+--------------------------------------------------End--
+{Yunalesca} 
+My ultimate secret... the Ultimate Summon.
+--------------------------------------------------End--
+{Yunalesca} 
+Now... choose.
+--------------------------------------------------End--
+{Yunalesca} 
+One champion you have chosen.
+I shall change them with my power.
+--------------------------------------------------End--
+{Yunalesca} 
+So...
+Into your Ultimate Summon's {fayth}.
+--------------------------------------------------End--
+{Yunalesca} 
+The power of feelings, the power of 42+53.
+That culmination42+54. is the Ultimate Summon.
+--------------------------------------------------End--
+{Yunalesca} 
+One who is strongly bonded with the Summoner.
+The power gained by becoming a {fayth}.
+--------------------------------------------------End--
+{Yunalesca} 
+The 42+53. of feelings that binds the two.
+Will become the light that defeats 『{Sin} 』.
+--------------------------------------------------End--
+{Yunalesca} 
+1000 years ago... I...
+I chose my 42+55. {Zaon}.
+--------------------------------------------------End--
+{Yunalesca} 
+Change {Zaon} to {fayth}.
+You obtained my Ultimate Summon.
+--------------------------------------------------End--
+{Yunalesca} 
+You will not be 42+56.
+--------------------------------------------------End--
+{Yunalesca} 
+Your sadness...
+All of it will be set free.
+--------------------------------------------------End--
+{Yunalesca} 
+If you activate the Ultimate Summon,
+Your life will also scatter.
+--------------------------------------------------End--
+{Yunalesca} 
+At the moment your life vanishes,
+Your sadness will disappear and 42+57.
+--------------------------------------------------End--
+{Yunalesca} 
+Your father {Braska} also...
+Chose the same path.
+--------------------------------------------------End--
+{Auron} 
+It's not too late. Let's go back!
+--------------------------------------------------End--
+{Braska} 
+If I go back, who will defeat 『{Sin} 』?
+--------------------------------------------------End--
+{Braska} 
+To the other summoners and guards...
+Are you telling me to make them feel the same way?
+--------------------------------------------------End--
+{Auron} 
+That is...
+But there must be some way!
+--------------------------------------------------End--
+{Jecht} 
+But there's nothing now, is there?
+--------------------------------------------------End--
+{Jecht} 
+I've decided.
+--------------------------------------------------End--
+{Jecht} 
+I will become {fayth}.
+--------------------------------------------------End--
+{Jecht} 
+I've been thinking for a while...
+--------------------------------------------------End--
+{Jecht} 
+My dream is in {Zanarkand}.
+--------------------------------------------------End--
+{Jecht} 
+That little guy, into a top-tier player,
+42+58. and raise him up...
+--------------------------------------------------End--
+{Jecht} 
+That view from the top.
+I wanted to show him that.
+--------------------------------------------------End--
+{Jecht} 
+But... it seems I...
+...won't be able to reach {Zanarkand}.
+--------------------------------------------------End--
+{Jecht} 
+I won't be able to see him anymore...
+If that's the case, my dream is over.
+--------------------------------------------------End--
+{Jecht} 
+So, I'll be called {fayth}...
+...and try to become that.
+--------------------------------------------------End--
+{Jecht} 
+Together with {Braska}.
+I'll fight against 『{Sin} 』.
+--------------------------------------------------End--
+{Jecht} 
+If I do that, then my life too...
+...will gain meaning.
+--------------------------------------------------End--
+{Auron} 
+Don't get desperate!
+--------------------------------------------------End--
+{Auron} 
+If you live...
+--------------------------------------------------End--
+{Auron} 
+If you live, infinite possibilities...
+...are waiting for you!
+--------------------------------------------------End--
+{Jecht} 
+I'm not desperate!
+I thought about it in my own way.
+--------------------------------------------------End--
+{Jecht} 
+And besides, {Auron}
+--------------------------------------------------End--
+{Jecht} 
+Things like infinite possibilities,
+I'm not at an age to believe in such things.
+--------------------------------------------------End--
+{Braska} 
+{Jecht} 
+--------------------------------------------------End--
+{Jecht} 
+What?
+Even if you stop me, it's pointless!
+--------------------------------------------------End--
+{Braska} 
+Sorry... no, thank you.
+--------------------------------------------------End--
+{Jecht} 
+A great task still awaits {Braska}:
+defeating '__P1__'.
+--------------------------------------------------End--
+{Jecht} 
+Well then, let's go!
+--------------------------------------------------End--
+{Jecht} 
+Protect {Braska} for me too.
+--------------------------------------------------End--
+{Auron} 
+{Braska}!
+{Jecht} ！
+--------------------------------------------------End--
+{Jecht} 
+Is there still something!?
+--------------------------------------------------End--
+{Auron} 
+'{Sin}' revives no matter how many times!
+--------------------------------------------------End--
+{Auron} 
+After a fierce Nagi.
+It ends up reviving again!
+--------------------------------------------------End--
+{Auron} 
+We must change this flow.
+Both of you will die in vain!
+--------------------------------------------------End--
+{Braska} 
+But this time for sure...
+Might not come back.
+--------------------------------------------------End--
+{Braska} 
+42+64. I'll give it a shot.
+--------------------------------------------------End--
+{Jecht} 
+Well, even what {Auron} says...
+That makes sense.
+--------------------------------------------------End--
+{Jecht} 
+Alright, I'll take care of it.
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+Are you saying you have a plan?
+--------------------------------------------------End--
+{WINDOW}
+{Braska} 
+{Jecht} ？
+--------------------------------------------------End--
+{Auron} 
+And...nothing changed.
+--------------------------------------------------End--
+{Tidus} 
+We'll change it.
+--------------------------------------------------End--
+{Wakka} 
+How?!
+--------------------------------------------------End--
+{Wakka} 
+There's no plan, is there?
+--------------------------------------------------End--
+{Lulu} 
+Someone will be {fayth}.
+If it's necessary...
+--------------------------------------------------End--
+{Lulu} 
+I'll do it.
+--------------------------------------------------End--
+{Wakka} 
+Me too, {Yuna}!
+--------------------------------------------------End--
+{Lulu} 
+If we get too greedy...
+Everything will fail.
+--------------------------------------------------End--
+{Tidus} 
+I don't want that.
+I'll be greedy.
+--------------------------------------------------End--
+{Wakka} 
+Don't say such naive things!
+--------------------------------------------------End--
+{Rikku} 
+Infinite...possibility?
+--------------------------------------------------End--
+{Tidus} 
+I'm going.
+--------------------------------------------------End--
+{Tidus} 
+Talk to {Yunalesca}.
+--------------------------------------------------End--
+{Rikku} 
+If I hear, somehow...
+Will it work out, I wonder?
+--------------------------------------------------End--
+{Tidus} 
+Who knows.
+I don't know, but...
+--------------------------------------------------End--
+{Jecht} 
+I guess I'll just hope for infinite possibilities!
+--------------------------------------------------End--
+{Tidus} 
+Then that's just like the old men!
+Just create Nagi42+63... and that's it!
+--------------------------------------------------End--
+{Tidus} 
+It'll just revive again!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Listen...
+--------------------------------------------------End--
+{Wakka} 
+Defeat 『{Sin} 』,
+and won't let {Yuna} die.
+--------------------------------------------------End--
+{Wakka} 
+And you want to stop 『{Sin} 』's revival as well?
+Is that what you're saying?
+--------------------------------------------------End--
+{Wakka} 
+It would be great if everything came true, but!
+--------------------------------------------------End--
+{Tidus} 
+It's okay to be immature!
+--------------------------------------------------End--
+{Tidus} 
+Pretending to be an adult, putting on airs...
+--------------------------------------------------End--
+{Tidus} 
+Not being able to say what I want to say...
+I absolutely hate that!
+--------------------------------------------------End--
+{Tidus} 
+If it's like that, nothing can be changed!
+--------------------------------------------------End--
+{Tidus} 
+I... won't lose this idealism.
+--------------------------------------------------End--
+{Tidus} 
+Oh, what should I do...
+I don't know.
+--------------------------------------------------End--
+{Tidus} 
+But what {Auron} from 10 years ago
+was saying...
+--------------------------------------------------End--
+{Tidus} 
+I'll believe it too.
+--------------------------------------------------End--
+{Tidus} 
+My story...
+--------------------------------------------------End--
+{Tidus} 
+If it's a worthless story,
+I'll end it here!
+--------------------------------------------------End--
+{Yuna} 
+Wait.
+--------------------------------------------------End--
+{Yuna} 
+Hey... for me,
+it's my story.
+--------------------------------------------------End--
+{Yuna} 
+I mustn't be swayed.
+--------------------------------------------------End--
+{Yuna} 
+I mustn't sway {42+65} and be swept away.
+--------------------------------------------------End--
+{Yuna} 
+Whatever the outcome {42+66}, I'll surely regret {42+67}.
+--------------------------------------------------End--
+{Yuna} 
+That... I don't want.
+--------------------------------------------------End--
+{Yuna} 
+I... will decide.
+I'll decide for myself!
+--------------------------------------------------End--

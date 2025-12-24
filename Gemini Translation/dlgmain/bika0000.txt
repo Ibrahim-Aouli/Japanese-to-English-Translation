@@ -1,0 +1,338 @@
+
+{Font Italic} Where is this line...?
+--------------------------------------------------End--
+
+{Font Italic} Well, I'll let you off.
+--------------------------------------------------End--
+
+{Font Italic} Behave yourself for a while.
+--------------------------------------------------End--
+{Tidus} 
+Everyone?
+--------------------------------------------------End--
+{Lulu} 
+They don't seem to be nearby.
+--------------------------------------------------End--
+{Lulu} 
+In times like these, the first place...
+Not moving is the iron rule, and yet...
+--------------------------------------------------End--
+{Tidus} 
+Telling me to stay still is impossible.
+--------------------------------------------------End--
+{Tidus} 
+See?
+--------------------------------------------------End--
+{Tidus} 
+Hey!
+--------------------------------------------------End--
+{Tidus} 
+Are you alone?
+--------------------------------------------------End--
+{Wakka} 
+Yuuna?
+--------------------------------------------------End--
+{Wakka} 
+Damn it!
+--------------------------------------------------End--
+{Wakka} 
+I lost sight of Yuuna, and...
+Attacked by machines, and...
+--------------------------------------------------End--
+{Wakka} 
+What's going on?!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Al Bhed} Lifesaving Box】{White}
+Installed by {Al Bhed2} to prevent getting lost in the desert.
+Lifesaving Box
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 1!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31} "{OPurple} Wa{White}" 42+54. "{Pink} A{White}"
+{VAR07:31} "{OPurple} Mi{White}" 42+54. "{Pink} I{White}"
+{VAR07:31} "{OPurple} Fu{White}" 42+54. "{Pink} U{White}"
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar words 42+55. '[P0] Language' require a {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} language dictionary Volume 3!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31} "{OPurple} A{White}" 42+54. "{Pink} Ka{White}"
+{VAR07:31} "{OPurple} Chi{White}" 42+54. "{Pink} Ki{White}"
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By means of {Besaid Aurochs}'s act 42+56., to the Save Sphere.
+The transfer 42+57. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s base 42+58., continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak, you may be able to make a scout 42+59. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer 42+57. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+3！
+--------------------------------------------------End--
+{WINDOW}
+2！
+--------------------------------------------------End--
+{WINDOW}
+1！
+--------------------------------------------------End--
+{WINDOW}
+START！！
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE！！
+--------------------------------------------------End--
+{WINDOW}
+TIME OVER！！
+--------------------------------------------------End--
+{WINDOW}
+＝1st TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+＝2nd TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+＝3rd TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+harihari manbon
+--------------------------------------------------End--
+{WINDOW}
+harihari...
+--------------------------------------------------End--
+{WINDOW}
+...fell down.
+--------------------------------------------------End--
+{WINDOW}
+hari...
+--------------------------------------------------End--
+{WINDOW}
+
+Destination undecided.
+＝42+60.42+61. in progress＝
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Tome]{White}
+・Water fetching takes a day 42+62.
+・Being a slowpoke, by their companions,
+They are sometimes left behind.
+Often.
+・Slow.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Robivia]{White}
+・At their slow friend,
+Always irritated.
+・Inexperienced.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Chapa]{White}
+・Recently, they can count up to 50.
+They have become able to.
+・Friendly.
+・Distracted 42+63.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Alec & Aroya]{White}
+・Always together, close siblings 42+64.
+・Their movements are the same.
+Because they are close siblings 42+64.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Barchela]{White}
+Loves new things.
+Kind to others, strict with oneself.
+Impatient.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ROBEIRA]{White}
+Clumsy.
+Always wants to enter narrow places.
+Proud collection currently on display!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ISRAYA]{White}
+The best hole digger.
+Digging holes today too.
+Quite cautious.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ELIO]{White}
+What lies beyond the Desert?
+The young man set off on a journey with hope in his heart.
+Somewhat over-the-top with actions.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [FLAYLE]{White}
+Before you know it,
+the type to join the group.
+Cunning.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [CACTUAR'S HOLE]{White}
+Controlling sand with the Sphere's power,
+the Cactuars who protect the 42+67. of the clan
+are called 'Gatekeepers'.
+When all 10 Spheres that 42+75. possess
+are offered to the stone 42+76.,
+the path to 42+67. will be opened.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道1】{White}
+Even if they only appear to be 42+77.,
+the Gatekeepers are proud warriors of the clan.
+They fundamentally do not prefer 42+79., but to an opponent who gets behind 42+75.,
+they will approach them with 42+80..
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道2】{White}
+If you fail to get behind them successfully,
+the Gatekeepers will be disappointed in you,
+and will promptly 42+81. the area.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道3】{White}
+While the Cactuars have their backs turned,
+move to where 42+75. are
+and challenge them to a battle.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【スフィア】{White}
+・If you couldn't get behind the gatekeepers
+You obtain the Loser's Sphere.
+・When you could get behind the gatekeepers
+A sphere named after 42+75. and others
+you receive.
+・If you collect many named spheres,
+a reward at 42+67....
+--------------------------------------------------End--
+{WINDOW}
+
+When you insert the sphere into Stone 42+76.,
+New characters emerged!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tome's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robivia's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chapa's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alec & Araya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Barchera's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeira's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Israya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+...Obtained Elio's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Fraire's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Loser's Sphere!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue} TIME {VAR12:32}：{VAR12:31}：{VAR12:30}{White} 
+--------------------------------------------------End--

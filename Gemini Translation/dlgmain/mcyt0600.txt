@@ -1,0 +1,193 @@
+{Tidus} 
+{Seymour} ！
+--------------------------------------------------End--
+{Seymour} 
+Be quiet.
+The {Yuna} line is meeting the Fayth.
+--------------------------------------------------End--
+{Tidus} 
+Shut up!
+--------------------------------------------------End--
+{Tidus} 
+{Yuna} ！
+--------------------------------------------------End--
+{Yuna} 
+Why!?
+--------------------------------------------------End--
+{Tidus} 
+I saw {Jyscal}'s sphere!
+--------------------------------------------------End--
+{Auron} 
+……You killed them.
+--------------------------------------------------End--
+{Seymour} 
+What of it?
+--------------------------------------------------End--
+{Seymour} 
+Could it be……the {Yuna} line as well?
+Did you already know?
+--------------------------------------------------End--
+{Seymour} 
+Then why come to me?
+--------------------------------------------------End--
+{Yuna} 
+I……
+--------------------------------------------------End--
+{Yuna} 
+I came to stop you.
+--------------------------------------------------End--
+{Seymour} 
+I see……
+--------------------------------------------------End--
+{Seymour} 
+You've come to judge me?
+--------------------------------------------------End--
+{Seymour} 
+That's regrettable.
+--------------------------------------------------End--
+{Seymour} 
+I see.
+--------------------------------------------------End--
+{Tidus} 
+Alright!
+--------------------------------------------------End--
+{Wakka} 
+Master {Seymour}!!
+--------------------------------------------------End--
+{Seymour} 
+Prepare yourself.
+--------------------------------------------------End--
+{Seymour} 
+After all this……do you pity me?
+--------------------------------------------------End--
+{Tromell} 
+Oh……Lord {Seymour}!?
+--------------------------------------------------End--
+{Tromell} 
+W- What in the world!
+--------------------------------------------------End--
+{Wakka} 
+I... I am...
+--------------------------------------------------End--
+{Tidus} 
+{Wakka} Don't worry about it.
+--------------------------------------------------End--
+{Tidus} 
+{Seymour} made the first move.
+--------------------------------------------------End--
+{Tromell} 
+What! You all!
+--------------------------------------------------End--
+{Auron} 
+Have {Yuna} run the shop.
+--------------------------------------------------End--
+{Tromell} 
+Stop!
+--------------------------------------------------End--
+{Tromell} 
+I will not deal with rebels.
+--------------------------------------------------End--
+{Yuna} 
+Rebel...
+--------------------------------------------------End--
+{Wakka} 
+It's... already over.
+--------------------------------------------------End--
+{Auron} 
+It probably won't be that long, but...
+--------------------------------------------------End--
+{Auron} 
+Anyway, we're leaving here.
+--------------------------------------------------End--
+{Seymour} 
+I will protect the Summoner, even at the cost of my life.
+Highly dutiful soul of a Guard...
+--------------------------------------------------End--
+{Seymour} 
+It is magnificent.
+--------------------------------------------------End--
+{Seymour} 
+All right.
+If so, I shall make you sacrifice that life!
+--------------------------------------------------End--
+{Yuna} 
+{Seymour} Master
+--------------------------------------------------End--
+{Yuna} 
+The Guards are my precious comrades.
+--------------------------------------------------End--
+{Yuna} 
+If you order those people to die,
+I will fight you as well.
+--------------------------------------------------End--
+{Tidus} 
+Wait a minute!
+--------------------------------------------------End--
+{Tidus} 
+The one who's wrong is {Seymour}, right!
+--------------------------------------------------End--
+{Tidus} 
+If I explain that...
+Everyone will understand!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+54., to the Save Sphere.
+Transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+55. ground, continue Blitz training.
+hidden excellent players are lurking.
+By pressing {Button Square} and speaking, there are times you can scout and 42+56. a contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+Transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

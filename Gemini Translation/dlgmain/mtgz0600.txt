@@ -1,0 +1,130 @@
+{Auron} 
+It should be coming soon...
+--------------------------------------------------End--
+{Auron} 
+To test the Summoner's power.
+Retsu unleashed a monster.
+--------------------------------------------------End--
+{Yuna} 
+Who... is it?
+--------------------------------------------------End--
+{Auron} 
+It's {Yunalesca}.
+--------------------------------------------------End--
+{Yuna} 
+Master {Yunalesca}!?
+--------------------------------------------------End--
+{Auron} 
+{Zanarkand}.
+Waiting for a strong Summoner.
+--------------------------------------------------End--
+{Yuna} 
+Are you... alive?
+--------------------------------------------------End--
+{Auron} 
+It's the same as {Mika} and {Seymour}.
+--------------------------------------------------End--
+{Yuna} 
+...Is that so?
+--------------------------------------------------End--
+{Auron} 
+Are you intimidated?
+--------------------------------------------------End--
+{Yuna} 
+No.
+--------------------------------------------------End--
+{Yuna} 
+I'm not afraid of anything anymore.
+--------------------------------------------------End--
+{Auron} 
+...It's {Braska}'s shop.
+--------------------------------------------------End--
+{Yuna} 
+I want to be that way until the very end.
+I believe so.
+--------------------------------------------------End--
+{Wakka} 
+Well, it's our turn.
+--------------------------------------------------End--
+{Lulu} 
+No matter what happens underwater, just the three of you...
+You'll have no choice but to get through it.
+--------------------------------------------------End--
+{Lulu} 
+If it gets dangerous.
+Turn back immediately.
+--------------------------------------------------End--
+{Wakka} 
+Yeah!
+--------------------------------------------------End--
+{Yuna} 
+Don't overdo it.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s activity, on the Save Sphere...
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s area, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, you may be able to Scout and 42+53. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Select Warp Destination
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Mount Gagazet - Mountain Gate
+{CHOICE:31} Cancel
+--------------------------------------------------End--

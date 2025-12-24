@@ -1,0 +1,505 @@
+{Auron} 
+Oh...
+That's quite a sight.
+--------------------------------------------------End--
+{Tidus} 
+Whoa, it's huge!?
+--------------------------------------------------End--
+{Rikku} 
+What is that!?
+--------------------------------------------------End--
+{Lulu} 
+{Yevon2} Guardian Dragon Ephraie.
+--------------------------------------------------End--
+{Lulu} 
+{St. Bevelle} guards the palace.
+The strongest sacred beast.
+--------------------------------------------------End--
+{Auron} 
+It's a truly immense presence.
+--------------------------------------------------End--
+{Tidus} 
+Well then, as for {Bevelle}...
+That means it's close!
+--------------------------------------------------End--
+{Cid} 
+{Rikku}! Can you hear me!
+--------------------------------------------------End--
+{Cid} 
+Next, with that giant thing...
+We're going to fight it!
+--------------------------------------------------End--
+{Cid} 
+You all, get out on the deck.
+Shoot that thing!
+--------------------------------------------------End--
+{Cid} 
+Understood!
+--------------------------------------------------End--
+{Rikku} 
+Deciding on your own again...
+--------------------------------------------------End--
+{Auron} 
+That's a steep price to pay.
+--------------------------------------------------End--
+{Yuna} 
+I'm no good, am I.
+--------------------------------------------------End--
+{Tidus} 
+What is it, all of a sudden?
+--------------------------------------------------End--
+{Yuna} 
+How do we defeat 『{Sin} 』?
+I've been thinking constantly.
+--------------------------------------------------End--
+{Yuna} 
+But...
+--------------------------------------------------End--
+{Yuna} 
+Things that aren't in {P0}'s teachings...
+...I just don't understand them.
+--------------------------------------------------End--
+{Yuna} 
+...Sorry.
+--------------------------------------------------End--
+{Kimahri} 
+{P0}, don't apologize.
+--------------------------------------------------End--
+{Yuna} 
+Huh?
+--------------------------------------------------End--
+{Kimahri} 
+It sounds like you're running away.
+--------------------------------------------------End--
+{Kimahri} 
+The {42+53.} doesn't suit {P0}.
+--------------------------------------------------End--
+{Yuna} 
+...Right.
+--------------------------------------------------End--
+{Yuna} 
+Thank you, {P0}.
+--------------------------------------------------End--
+{Tidus} 
+Hey, {P0}...
+Do you have any good ideas?
+--------------------------------------------------End--
+{Kimahri} 
+It's {Yevon2}'s teaching.
+--------------------------------------------------End--
+{Yuna} 
+You can't defeat '{P0}' with teachings.
+--------------------------------------------------End--
+{Kimahri} 
+There is no {42+54.e} within the teachings.
+The {42+54.e} is outside the teachings.
+--------------------------------------------------End--
+{Kimahri} 
+If you know both inside and outside of the teachings...
+The {42+54.e} will be found.
+--------------------------------------------------End--
+{Yuna} 
+Teachings, huh...
+--------------------------------------------------End--
+{Kimahri} 
+If it's {P0}, ask {P1}.
+Make them speak, even by force.
+--------------------------------------------------End--
+{Tidus} 
+That's it!
+Amazing, {Kimahri}!
+--------------------------------------------------End--
+{Kimahri} 
+Hmph.
+--------------------------------------------------End--
+{Yuna} 
+You're going to {Bevelle}, right?
+--------------------------------------------------End--
+{Tidus} 
+We'll board.
+--------------------------------------------------End--
+{Tidus} 
+...Worried?
+--------------------------------------------------End--
+{Yuna} 
+No, I'm fine.
+We can't stop anymore.
+--------------------------------------------------End--
+{Yuna} 
+In {Bevelle}, [42+54.e] will
+...be found, right?
+--------------------------------------------------End--
+{Kimahri} 
+If we can meet {Mika}...
+{Kimahri} doesn't know.
+--------------------------------------------------End--
+{Tidus} 
+No matter where they run, with this ship,
+we just need to chase them.
+--------------------------------------------------End--
+{Kimahri} 
+If they disappear,
+we won't be able to catch up.
+--------------------------------------------------End--
+{Kimahri} 
+We have no choice but to go to {Bevelle}.
+--------------------------------------------------End--
+
+I've seen your face somewhere.
+That was {Baaj}'s temple, wasn't it?
+--------------------------------------------------End--
+
+It's a dangerous battle.
+Take this and go.
+--------------------------------------------------End--
+
+To have survived, only for this.
+With this, there's no way we'll be saved...
+--------------------------------------------------End--
+
+If we have this ship, {Yevon2}'s...
+we can get revenge on those guys.
+--------------------------------------------------End--
+
+Many comrades died at {Home}.
+I'll never forgive the Temple.
+--------------------------------------------------End--
+
+We're fighting '{Sin}' with our bare flesh.
+Watch out for poison.
+--------------------------------------------------End--
+
+To think '{Sin}' would fall to {Bevelle}.
+Serves those Temple guys right!
+--------------------------------------------------End--
+
+The main cannon is completely broken.
+Sorry I can't repair it.
+--------------------------------------------------End--
+
+If the main cannon were working, '{Sin}'...
+we could knock it down...
+--------------------------------------------------End--
+
+With a ship salvaged from the bottom of the sea...
+to fly through the sky with it... what a strange feeling.
+--------------------------------------------------End--
+
+Those {Yevon2} guys... are they planning to...
+get rid of all of us!?
+--------------------------------------------------End--
+
+The '{Sin}' I saw at the ruins was strangely...
+quiet... Why?
+--------------------------------------------------End--
+
+Will the people of {Spira} respond to our call and sing?
+こたえて うたって くれるだろうか
+--------------------------------------------------End--
+
+Before going out on deck, check your equipment one more time!
+そうびを かくにんしておけよ！
+--------------------------------------------------End--
+
+Even if 『{Sin} 』revives, there's nothing to fear if we all sing.
+うたえば こわくないさ
+--------------------------------------------------End--
+
+We're about to charge into 『{Sin} 』, aren't we? Let's go with spirit!
+きあいを いれて いこうぜ！
+--------------------------------------------------End--
+
+『{Sin} 』is still and unmoving. It seems to be waiting for us.
+おれたちを まちかまえて いるようだ
+--------------------------------------------------End--
+
+Oh no! I left my doll behind in __P0__ !
+{Home} に わすれて きちゃった！
+--------------------------------------------------End--
+
+42+56.ロビーのアルベド3メッセージ戦闘時
+--------------------------------------------------End--
+
+Even if you lose something important, it's fine if you find something you can cherish even more.
+できる なにかを さがせば いいのよね
+--------------------------------------------------End--
+
+42+56.ロビーのアルベド4メッセージ戦闘時
+--------------------------------------------------End--
+{Auron} 
+Open the hatch.
+Sally forth!
+--------------------------------------------------End--
+{Rin} 
+Evrae is a formidable foe.
+Be thoroughly prepared.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+{Wakka} 
+You're taking money!?
+--------------------------------------------------End--
+{Wakka} 
+If we're defeated...
+You're going to die too!
+--------------------------------------------------End--
+{Rin} 
+Everyone's victory...
+I am confident, so...
+--------------------------------------------------End--
+{Wakka} 
+You talk big.
+--------------------------------------------------End--
+{Rin} 
+Welcome.
+--------------------------------------------------End--
+{Rin} 
+Welcome.
+--------------------------------------------------End--
+{Rin} 
+This is Travel Company, Airship Main {42+57}.
+--------------------------------------------------End--
+{Rin} 
+Welcome.
+--------------------------------------------------End--
+{Rin} 
+If you need anything, please ask.
+--------------------------------------------------End--
+{Rin} 
+For our travel company in the future...
+Please continue to favor us.
+--------------------------------------------------End--
+{Rin} 
+Speaking of which, {Al Bhed}'s language {42+58} skill...
+How is it?
+--------------------------------------------------End--
+{Tidus} 
+I've learned quite a lot!
+--------------------------------------------------End--
+{Tidus} 
+Hmm...
+--------------------------------------------------End--
+{Tidus} 
+Nice to meet you.
+--------------------------------------------------End--
+{Rin} 
+Even if you repeat the words I taught...
+...that doesn't mean you've learned them.
+--------------------------------------------------End--
+{Rin} 
+However, your pronunciation is quite {42+60}.
+You seem to have improved quite a bit.
+--------------------------------------------------End--
+{Rin} 
+If you have any needs in the future...
+Please 42+61. anything you need.
+--------------------------------------------------End--
+{Tidus} 
+Thank you.
+Next time too, please.
+--------------------------------------------------End--
+{Rin} 
+Wonderful.
+--------------------------------------------------End--
+{Rin} 
+Our language.
+You've learned it perfectly.
+--------------------------------------------------End--
+{Tidus} 
+It's easy once you understand the trick.
+--------------------------------------------------End--
+{Rin} 
+To think a day would come when we could speak like this...
+It is truly a joyful matter.
+--------------------------------------------------End--
+{Tidus} 
+Me too.
+--------------------------------------------------End--
+{Rin} 
+Please, by all means, accept my celebratory gift.
+Please accept it.
+--------------------------------------------------End--
+{Tidus} 
+Thank you!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+62. Contract Period: {VAR12:33} Matches
+42+62. Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+62. Contract Period: {VAR12:33} Matches
+42+62. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+62. Contract Period: {VAR12:33} Matches
+42+62. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+62. Contract Period: {VAR12:33} Matches
+42+62. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please set the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract of one match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activation, to the Save Sphere.
+The transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s home base, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to recruit them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go up.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go down.
+--------------------------------------------------End--

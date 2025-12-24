@@ -1,0 +1,291 @@
+{Yunalesca} 
+Has the one to become {fayth} been decided?
+--------------------------------------------------End--
+{Yunalesca} 
+Who will you choose?
+--------------------------------------------------End--
+{Yuna} 
+Before that, please tell me.
+--------------------------------------------------End--
+{Yuna} 
+Even if we defeat {Sin} with an Ultimate Summon,
+will it absolutely revive?
+--------------------------------------------------End--
+{Yunalesca} 
+{Sin} is immortal.
+--------------------------------------------------End--
+{Yunalesca} 
+The Ultimate Summoned Beast that defeated {Sin}
+will become a new {Sin}...
+--------------------------------------------------End--
+{Yunalesca} 
+and will certainly revive.
+--------------------------------------------------End--
+{Tidus} 
+So Dad is {Sin}...?
+--------------------------------------------------End--
+{Yunalesca} 
+{Sin} is the fate that {Spira} bore.
+It is an absolutely unchangeable destiny.
+--------------------------------------------------End--
+{Wakka} 
+Absolutely unchangeable...?
+--------------------------------------------------End--
+{Wakka} 
+But! If humans atone for all their sins,
+{Sin}'s resurrection will stop, right?
+--------------------------------------------------End--
+{Wakka} 
+Someday, surely...
+it will work out somehow, right!?
+--------------------------------------------------End--
+{Yunalesca} 
+Is there such a thing as human sins disappearing?
+Does it exist?
+--------------------------------------------------End--
+{Lulu} 
+That's not an answer!
+--------------------------------------------------End--
+{Lulu} 
+If sin vanishes, 『{Sin} 』 will also vanish.
+『{Yevon2} 』 has taught us that!
+--------------------------------------------------End--
+{Lulu} 
+Only that teaching was...
+...『{Spira} 』's hope!
+--------------------------------------------------End--
+{Yunalesca} 
+Hope is... consolation.
+--------------------------------------------------End--
+{Yunalesca} 
+Giving up on even a sad fate,
+...becomes the strength to accept it.
+--------------------------------------------------End--
+{Auron} 
+Don't mess around!
+--------------------------------------------------End--
+{Tidus} 
+Stop messing around!
+--------------------------------------------------End--
+{Auron} 
+It's just empty consolation, isn't it!
+--------------------------------------------------End--
+{Auron} 
+『{Braska} 』... its teachings...
+...they believed and sacrificed their lives!
+--------------------------------------------------End--
+{Auron} 
+『{Jecht} 』... 『{Braska} 』...
+...they believed and passed away!
+--------------------------------------------------End--
+{Yunalesca} 
+Because they believed,
+...they were able to go to their own death.
+--------------------------------------------------End--
+{Yunalesca} 
+The Ultimate Summon and 『{Yevon2} 』's teachings...
+...are a light of hope that illuminates 『{Spira} 』.
+--------------------------------------------------End--
+{Yunalesca} 
+If you settle for hope...
+Even if you live, you will only be sad.
+--------------------------------------------------End--
+{Yunalesca} 
+Now, choose.
+Who is your {fayth}?
+--------------------------------------------------End--
+{Yunalesca} 
+The dokyo to be 42+53.ged for hope.
+--------------------------------------------------End--
+{Yuna} 
+...I refuse.
+--------------------------------------------------End--
+{Yunalesca} 
+No.
+It is the light of hope.
+--------------------------------------------------End--
+{Yunalesca} 
+Your father also...
+Became dokyo for hope.
+--------------------------------------------------End--
+{Yunalesca} 
+To forget sadness.
+--------------------------------------------------End--
+{Yunalesca} 
+Defying unforgettable sadness.
+What meaning is there?
+--------------------------------------------------End--
+{Yunalesca} 
+Pathetic...
+--------------------------------------------------End--
+{Yunalesca} 
+To abandon hope oneself...
+--------------------------------------------------End--
+{Yunalesca} 
+Then...
+--------------------------------------------------End--
+{Yunalesca} 
+Before you sink into despair.
+I will give you at least some salvation.
+--------------------------------------------------End--
+{Yunalesca} 
+Rather than living in sad darkness.
+A death filled with the light of hope.
+--------------------------------------------------End--
+{Yunalesca} 
+Forget all sadness.
+--------------------------------------------------End--
+{Kimahri} 
+If {Kimahri} dies.
+Who will protect {Yuna}?
+--------------------------------------------------End--
+{Rikku} 
+I'll do it!
+--------------------------------------------------End--
+{Wakka} 
+Are you saying you'll fight Lord {Yunalesca}?
+42+54.42+55.It's tough...
+--------------------------------------------------End--
+{Lulu} 
+Then, will we run away?
+--------------------------------------------------End--
+{Lulu} 
+...I was thinking the same thing.
+--------------------------------------------------End--
+{Yunalesca} 
+If I disappear...
+The Ultimate Summon will be lost.
+--------------------------------------------------End--
+{Yunalesca} 
+You all have of {Spira}
+extinguished their hope 42+56..
+--------------------------------------------------End--
+{Tidus} 
+So we must find another way!
+--------------------------------------------------End--
+{Yunalesca} 
+42+57.I wonder...
+There is no such method.
+--------------------------------------------------End--
+{Yunalesca} 
+Even if there were one...
+Even if by some chance you could defeat '{Sin}'...
+--------------------------------------------------End--
+{Yunalesca} 
+The Ebon-Ju who lives in a row 42+58.
+will only create a new '{Sin}'.
+--------------------------------------------------End--
+{Tidus} 
+Ebon-Ju?!
+--------------------------------------------------End--
+{Yunalesca} 
+Oh...{Zaon}... please forgive me.
+--------------------------------------------------End--
+{Yunalesca} 
+Having lost the light of hope, {Spira}...
+Fall into the 42+59.42+60. of sorrow...
+--------------------------------------------------End--
+{Yuna} 
+I wonder if I've done something terrible...
+--------------------------------------------------End--
+{Tidus} 
+Let's do something even more terrible.
+--------------------------------------------------End--
+{Rikku} 
+What kind?
+--------------------------------------------------End--
+{Tidus} 
+Don't ask "How."
+--------------------------------------------------End--
+{Yuna} 
+I thought it was okay to die.
+--------------------------------------------------End--
+{Yuna} 
+If my life is 42+61. into 42+62. parts...
+That I'm not afraid to die.
+--------------------------------------------------End--
+{Yuna} 
+But...
+The Ultimate Summon is...
+--------------------------------------------------End--
+{Yuna} 
+It can't change anything at all.
+It's an illusion, isn't it?
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+That's wrong.
+--------------------------------------------------End--
+{Yuna} 
+Father...
+Father's 42+63.!
+--------------------------------------------------End--
+{Yuna} 
+It was to erase sorrow.
+--------------------------------------------------End--
+{Yuna} 
+It wasn't about forgetting or glossing it over...
+--------------------------------------------------End--
+{Yuna} 
+I loved Father so much!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+So...
+--------------------------------------------------End--
+{Yuna} 
+What Father couldn't do.
+I want to achieve it with my own hands!
+--------------------------------------------------End--
+{Yuna} 
+Even if it's sad... I will live.
+--------------------------------------------------End--
+{Yuna} 
+Live, fight, and someday!
+--------------------------------------------------End--
+{Yuna} 
+Even if it's a fate that cannot be changed now,
+Someday... I will definitely change it!
+--------------------------------------------------End--
+{Yuna} 
+Such deceptive hope,
+I don't need it...!
+--------------------------------------------------End--
+{Auron} 
+Now, what will you do?!
+--------------------------------------------------End--
+{Auron} 
+Now is the time to decide.
+--------------------------------------------------End--
+{Auron} 
+Will you die and find peace,
+Or will you live and fight sadness?!
+--------------------------------------------------End--
+{Auron} 
+As you feel in your own heart,
+It's time to move the story forward!
+--------------------------------------------------End--
+{Wakka} 
+Heh!
+--------------------------------------------------End--
+{Wakka} 
+If I run away here...
+I can't forgive myself.
+--------------------------------------------------End--
+{Wakka} 
+Even if I die!
+--------------------------------------------------End--
+{Tidus} 
+{Yuna} ！
+--------------------------------------------------End--
+{Tidus} 
+Let's continue together,
+Our story!
+--------------------------------------------------End--
+{Tidus} 
+Defeat '{Sin}'.
+--------------------------------------------------End--
+{Tidus} 
+Without Ultimate Summon.
+Furthermore, so that it doesn't revive.
+--------------------------------------------------End--

@@ -1,0 +1,517 @@
+{WINDOW}
+
+{VAR07:40}{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}{VAR12:31}
+{VAR12:32}{VAR12:33}
+{VAR12:34}{VAR12:35}
+{VAR12:36}{VAR12:37}
+{VAR12:38}{VAR12:39}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+Break through to {CHOICE:32}{VAR12:32}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+Break through to {CHOICE:32}{VAR12:32}.
+Break through to {CHOICE:33}{VAR12:33}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+Break through to {CHOICE:32}{VAR12:32}.
+Break through to {CHOICE:33}{VAR12:33}.
+Break through to {CHOICE:34}{VAR12:34}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+Break through to {CHOICE:32}{VAR12:32}.
+Break through to {CHOICE:33}{VAR12:33}.
+Break through to {CHOICE:34}{VAR12:34}.
+Break through to {CHOICE:35}{VAR12:35}.
+--------------------------------------------------End--
+{WINDOW}
+For now, here,
+Please select {Yellow} that does not break through {White}.
+--------------------------------------------------End--
+{WINDOW}
+This time, {Yellow} breaking through to Bikusun {White}.
+Please select.
+--------------------------------------------------End--
+{WINDOW}
+This time, {Yellow} breaking through to Graab {White}.
+Please select.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31} Shoot{VAR07:4F}{VAR12:31}HP
+{CHOICE:32} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30}{Blue} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{White} Shoot{VAR07:4F}{VAR12:31}HP
+{CHOICE:32} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30} Pass{VAR07:4F}{VAR12:30}HP
+{Blue} {CHOICE:31}Shoot{VAR07:4F}{VAR12:31}HP
+{CHOICE:32}{White} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30}{Blue} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31} Shoot{VAR07:4F}{VAR12:31}HP
+{CHOICE:32}{White} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31} Shoot{VAR07:4F}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30}{Blue} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{White} Shoot{VAR07:4F}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31}{Blue} Shoot{VAR07:4F}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30}{Blue} Pass{VAR07:4F}{VAR12:30}HP
+{CHOICE:31} Shoot{VAR07:4F}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+For now, here,
+Please select {Yellow} Pass {White}.
+--------------------------------------------------End--
+{WINDOW}
+For now, here,
+Please select {Yellow} Shoot{White}.
+--------------------------------------------------End--
+{WINDOW}
+For now, here,
+Please select {Yellow} Dribble {White}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+{CHOICE:35}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E}HP
+{P0} returns.
+--------------------------------------------------End--
+{WINDOW}
+Special Move: {P0}
+--------------------------------------------------End--
+{WINDOW}
+Do not break through.
+--------------------------------------------------End--
+{WINDOW}
+Break through {P0} people.
+--------------------------------------------------End--
+{WINDOW}
+Action: Pass
+--------------------------------------------------End--
+{WINDOW}
+Action: Shoot
+--------------------------------------------------End--
+{WINDOW}
+Action: Dribble
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:5E}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:5E}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:5E}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:5E}{VAR12:3D}HP
+{CHOICE:35}{VAR12:34}{VAR07:5E}{VAR12:3E}HP
+--------------------------------------------------End--
+{WINDOW}
+{P0} [PASS COMMAND] {P1}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+Announcer
+Goal! Goal! Goal!
+Oh, amazing!! The trail marks...
+What is about to happen?
+--------------------------------------------------End--
+Announcer
+The supporters are also getting excited!!
+--------------------------------------------------End--
+Auraka Player 0
+--------------------------------------------------End--
+Aurochs Player 1
+--------------------------------------------------End--
+Aurochs Player 2
+--------------------------------------------------End--
+Aurochs Player 3
+--------------------------------------------------End--
+Gowers Player 0
+--------------------------------------------------End--
+Gowers Player 1
+--------------------------------------------------End--
+Gowers Player 2
+--------------------------------------------------End--
+Gowers Player 3
+--------------------------------------------------End--
+Gowers Player 4
+--------------------------------------------------End--
+{WINDOW}
+Special moves that enemy players use
+You can teach them to your own players.
+That is called {Yellow} Capture {White}.
+--------------------------------------------------End--
+{WINDOW}
+On the pre-match settings screen.
+Mark the opponent player who has a skill you want to learn.
+Set it to do so.
+--------------------------------------------------End--
+{WINDOW}
+Your player who made the mark,
+to capture the marked opponent player's skill,
+a chance will be given.
+--------------------------------------------------End--
+{WINDOW}
+Here, please select {Yellow} Breakthrough to Bixun{White}.
+--------------------------------------------------End--
+{WINDOW}
+During a match, when an opponent player uses a special skill,
+the {Yellow} CAPTURE{White} mark
+will briefly appear on the top left of the screen.
+--------------------------------------------------End--
+{WINDOW}
+If you press {Button Circle} at the right time then,
+Capture successful.
+Now, let's actually try it!
+--------------------------------------------------End--
+{WINDOW}
+Capture failed.
+--------------------------------------------------End--
+{WINDOW}
+Capture successful.
+--------------------------------------------------End--
+{WINDOW}
+What you must pay attention to here is
+that the player hit by the opponent's special skill (here, {Tidus} )
+is not the one who CAPTURES.
+--------------------------------------------------End--
+{WINDOW}
+It is strictly only on the pre-game settings screen
+that only the player who marked the opponent player CAPTURES.
+Please do not forget this.
+--------------------------------------------------End--
+{WINDOW}
+CAPTURE is the opponent's action...
+...observing carefully (marking) and stealing it, as your own technique...
+...it means to master it.
+--------------------------------------------------End--
+{WINDOW}
+CAPTUREd techniques will be equipable from the next half.
+Also, if your Lv is lower than the opponent's, you may not be able to CAPTURE...
+...sometimes.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan} Summary 8{White}
+・If you want to learn an enemy's technique, first mark the enemy player.
+・When the {Yellow} CAPTURE{White} mark appears, press {Button Circle}.
+・If the opponent's Lv is high, the CAPTURE probability will be low.
+--------------------------------------------------End--
+{WINDOW}
+Regarding {Yellow} 【BREAKTHROUGH COMMAND】{White}...
+...I will explain.
+--------------------------------------------------End--
+{WINDOW}
+You have {Yellow} ENCOUNTERed{White} 3 enemies.
+--------------------------------------------------End--
+{WINDOW}
+The stat to pay attention to when passing is...
+...the {Yellow} PS stat{White}.
+In this case, it is {Pink} {VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+Below that, the 42+53. stat is the enemy's Pass Cut Ability stat.
+Since {VAR12:30} － ({VAR12:31} ＋ {VAR12:32} ＋ {VAR12:33}) is 0 or less...
+...it seems the probability of the pass succeeding is low.
+--------------------------------------------------End--
+{WINDOW}
+So, let's try {Yellow} BREAKTHROUGH{White}.
+Breakthrough means physically evading the enemy.
+It means breaking through.
+--------------------------------------------------End--
+{WINDOW}
+If you break through, the probability of being intercepted decreases, so...
+...you can make subsequent actions advantageous.
+--------------------------------------------------End--
+{WINDOW}
+Well then, let's try to break through Grave.
+At that time, for Grave's stats,
+please pay attention to {Yellow}'s AT value {White}.
+--------------------------------------------------End--
+{WINDOW}
+For '[P0] Breakthrough Grave {White} ' with the Breakthrough command,
+Please select.
+--------------------------------------------------End--
+{WINDOW}
+without passing immediately,
+you chose to break through Grave.
+--------------------------------------------------End--
+{WINDOW}
+Grave, against {Tidus},
+will attempt a tackle.
+{Tidus} must withstand it.
+--------------------------------------------------End--
+{WINDOW}
+The strength {Tidus} has to withstand the enemy's tackle is...
+...{Yellow}'s PH power {White} of {Pink} {VAR12:30}{White}.
+--------------------------------------------------End--
+{WINDOW}
+The enemy's tackle attack power is...
+...{Yellow}'s AT power {White} with {Pink} '[{VAR12:31}]' {White}.
+--------------------------------------------------End--
+{WINDOW}
+The tackle result is as usual,
+settled by {Yellow} [PH]{White} - {Yellow} [AT]{White}.
+will be determined.
+--------------------------------------------------End--
+{WINDOW}
+When the remaining PH count becomes {Pink}0{White}
+The ball will be stolen by the opponent.
+--------------------------------------------------End--
+{WINDOW}
+So, please pay attention to the PH count.
+--------------------------------------------------End--
+{WINDOW}
+You withstood the enemy's tackle.
+This means Graff has dodged.
+--------------------------------------------------End--
+{WINDOW}
+In other words, by dodging one person,
+The enemies who 42+54.42+55. pass are
+reduced to two.
+--------------------------------------------------End--
+{WINDOW}
+Below {Tidus}'s PS,
+Please look at the 42+53. count value.
+Since Graff was dodged, {Yellow} cannot intercept the pass {White}.
+--------------------------------------------------End--
+{WINDOW}
+As a result, {Pink} {VAR12:30}{White} - ({Pink} {VAR12:31}{White} + {Pink} {VAR12:32}{White}) results,
+You can see that the pass success probability has significantly
+increased.
+--------------------------------------------------End--
+{WINDOW}
+If you want to make passes or shots successful,
+It would be better to try a breakthrough when the PH count can withstand 42+56.42+57..
+(Line 16 combined with 17)
+--------------------------------------------------End--
+{WINDOW}
+{OCyan} Summary 7{White}
+・If you choose Breakthrough, you will receive the enemy's tackle attack.
+・The outcome is decided by your PH - the enemy's AT.
+When a Breakthrough is successful, the success rate of subsequent actions increases.
+When PH becomes {Pink} 0{White}, the ball will be stolen.
+--------------------------------------------------End--
+{WINDOW}
+Making contact with an enemy player...
+...is 42+58.called {Yellow} 【ENCOUNTER】{White}.
+--------------------------------------------------End--
+{WINDOW}
+When an Encounter occurs,
+the {Yellow} Action Command{White} opens.
+--------------------------------------------------End--
+{WINDOW}
+The 42+59.blocking enemy...
+...while facing it, the next action to take...
+...must be selected.
+--------------------------------------------------End--
+{WINDOW}
+Regarding the Breakthrough Command,
+we will explain it on another occasion.
+Here, please choose {Yellow} Do Not Break Through{White}.
+--------------------------------------------------End--
+{WINDOW}
+Biksun has interfered with {Tidus}.
+The enemy's status appears on the right side of the screen.
+--------------------------------------------------End--
+{WINDOW}
+Next, the {Yellow} Action Command{White} appears.
+Here, please choose {Yellow} Pass{White}.
+--------------------------------------------------End--
+{WINDOW}
+Normally, the ball would be passed as is,
+and depending on the 42+60.distance, {Yellow} PS's response{White}
+...would be decreased, but...
+--------------------------------------------------End--
+{WINDOW}
+...if an Encounter occurs,
+The enemy tries to {Yellow} cut{White} the ball.
+--------------------------------------------------End--
+{WINDOW}
+The enemy's ability to cut the ball is the {Yellow} CU value{White}.
+In Biksun's case, the pass cut ability will be {Pink} 2{White}.
+That is.
+--------------------------------------------------End--
+{WINDOW}
+From {Tidus}'s PS value, the enemy's CU value...
+subtracted.
+(In reality, random elements are further added.)
+--------------------------------------------------End--
+{WINDOW}
+If the result of 【PS】 - 【CU】 = becomes {Pink} 0{White}...
+...the pass will be {Yellow} intercepted{White} by the opponent.
+--------------------------------------------------End--
+{WINDOW}
+In this case, since PS is {Pink} {VAR12:30}{White} and CU is {Pink} {VAR12:31}{White}...
+...a prediction of {VAR12:30} - {VAR12:31} = {VAR12:32} can be made.
+--------------------------------------------------End--
+{WINDOW}
+If PS is {Pink} 1{White} or higher...
+...the enemy's pass cut fails.
+--------------------------------------------------End--
+{WINDOW}
+The ball goes straight to the pass recipient.
+It will fly, but depending on the 42+61.distance42+60., from the PS value...
+...it will be subtracted.
+--------------------------------------------------End--
+{WINDOW}
+Now, while focusing on the PS value...
+...please continue watching.
+--------------------------------------------------End--
+{WINDOW}
+How was it?
+Due to the enemy's 42+54.42+55., the PS value...
+...I believe you were able to confirm that it was subtracted.
+--------------------------------------------------End--
+{WINDOW}
+Next, an enemy with high pass-cut ability...
+Let's try encountering them.
+--------------------------------------------------End--
+{WINDOW}
+Where the enemy's {Yellow} CU response {White} is {Pink} {VAR12:30}{White}.
+Please pay attention to that.
+--------------------------------------------------End--
+{WINDOW}
+Due to the enemy's 42+54.42+55., the PS response became {Pink} 0{White}.
+The ball was intercepted.
+--------------------------------------------------End--
+{WINDOW}
+Next, a scenario where two or more enemies are encountered.
+Let's look at it.
+--------------------------------------------------End--
+{WINDOW}
+We encountered both Biksun and Ambus.
+On the right side of the screen, the statuses of the two are 242+62.42+53.ing.
+--------------------------------------------------End--
+{WINDOW}
+Biksun's CU response is {Pink} {VAR12:30}{White}.
+Ambus's CU response is {Pink} {VAR12:31}{White}.
+--------------------------------------------------End--
+{WINDOW}
+In other words, {VAR12:30} - ({VAR12:31} + {VAR12:32}) = {Pink} {VAR12:33}{White}.
+However, because a random element is included, it is not necessarily...
+...{Pink} {VAR12:33}{White}.
+--------------------------------------------------End--
+{WINDOW}
+Because the PS response became {Pink} 0{White}.
+It was intercepted.
+--------------------------------------------------End--
+{WINDOW}
+The pass-cut was avoided, but...
+Before it reached the opponent, the PS response became {Pink} 0{White}.
+The pass failed.
+--------------------------------------------------End--
+{WINDOW}
+Because {Pink} 1{White} or more PS value remained,
+The pass succeeded.
+--------------------------------------------------End--
+{WINDOW}
+So, let's try a shot last.
+--------------------------------------------------End--
+{WINDOW}
+For a shot, the goalkeeper also joins, so
+Three enemies will 42+54.42+55. you.
+--------------------------------------------------End--
+{WINDOW}
+Against ST's value of {Pink} 10{White},
+The remaining value after subtracting the 42+63. to 42+53. value from below that, and 42+64.ing it
+determines the 42+65. of passes and shots.
+--------------------------------------------------End--
+{WINDOW}
+{OCyan} Summary 6{White}
+・When an encounter occurs, enemies will 42+54.42+55. our actions.
+・Subtract the CU value from the pass or shot value.
+・If two or more are encountered, the 42+54.42+55. action will be performed as many times as there are people.
+--------------------------------------------------End--

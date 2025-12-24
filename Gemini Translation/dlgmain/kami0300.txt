@@ -1,0 +1,279 @@
+{Tidus} 
+Is something up?
+--------------------------------------------------End--
+{Lulu} 
+Let's go.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Lightning Phantom Row] {White}
+To the summoner who appears with thunder and lightning,
+Deal the final blow!
+--------------------------------------------------End--
+{Yuna} 
+Everyone... is this okay?
+--------------------------------------------------End--
+{Wakka} 
+What's wrong?
+--------------------------------------------------End--
+{Yuna} 
+There's something I want you to hear.
+--------------------------------------------------End--
+{Lulu} 
+Here?
+--------------------------------------------------End--
+{Rikku} 
+It's almost the last stop, isn't it?
+Let's just hurry it up.
+--------------------------------------------------End--
+{Yuna} 
+I want to talk now!
+--------------------------------------------------End--
+{Auron} 
+Let's listen there.
+--------------------------------------------------End--
+
+Only bad feelings ever come true, huh.
+--------------------------------------------------End--
+{Yuna} 
+I've decided.
+--------------------------------------------------End--
+{Lulu} 
+I knew it...
+--------------------------------------------------End--
+{Rikku} 
+Gasp!
+--------------------------------------------------End--
+{Wakka} 
+What... why?
+Did you change your mind?
+--------------------------------------------------End--
+{Yuna} 
+For {Spira}...
+For {Yevon2}...
+--------------------------------------------------End--
+{Yuna} 
+I thought that would be best.
+I thought that would be best.
+--------------------------------------------------End--
+{Auron} 
+That doesn't explain anything.
+--------------------------------------------------End--
+{Lulu} 
+Could it be...?
+--------------------------------------------------End--
+{Lulu} 
+Is it about {Jyscal}-sama?
+Is it about __P0__-sama?
+--------------------------------------------------End--
+{Tidus} 
+Ah! That sphere!
+--------------------------------------------------End--
+{Auron} 
+...Show it to me.
+--------------------------------------------------End--
+{Wakka} 
+You're being distant.
+--------------------------------------------------End--
+{Auron} 
+...Do as you wish.
+--------------------------------------------------End--
+{Tidus} 
+Hold on, {Auron}.
+--------------------------------------------------End--
+{Auron} 
+That's right.
+--------------------------------------------------End--
+{Tidus} 
+But... somehow...
+--------------------------------------------------End--
+{Wakka} 
+{Yuna}, I have just one question.
+--------------------------------------------------End--
+{Wakka} 
+Is just talking with {Master Seymor}
+not enough?
+--------------------------------------------------End--
+{Wakka} 
+If we don't resolve this,
+will it be bad?
+--------------------------------------------------End--
+{Yuna} 
+...I don't know.
+--------------------------------------------------End--
+{Yuna} 
+But I think resolve is necessary.
+--------------------------------------------------End--
+{Wakka} 
+I... I see.
+--------------------------------------------------End--
+{Rikku} 
+{Yunie} ……
+--------------------------------------------------End--
+{Rikku} 
+Shut up!
+--------------------------------------------------End--
+{Rikku} 
+I'm sorry for always making you brace yourself...
+--------------------------------------------------End--
+{Yuna} 
+It's fine... I'm alright.
+--------------------------------------------------End--
+
+What is 'I'm sorry,'
+what is 'I'm alright,'...
+--------------------------------------------------End--
+
+what is 'readiness,'
+what is 'Ouri,'...
+--------------------------------------------------End--
+
+I didn't understand it well.
+--------------------------------------------------End--
+
+My thoughts separated from everyone,
+and I felt like it had ended up that way.
+--------------------------------------------------End--
+
+If I ended up separating from everyone,
+I'll be alone in this {Spira}...
+--------------------------------------------------End--
+
+That I was all alone,
+to feel that was painful.
+--------------------------------------------------End--
+{Auron} 
+Anyway, for now,
+we will aim for {Blue} [Macalania Temple] {White}.
+--------------------------------------------------End--
+{Auron} 
+{Yuna} will meet with {Seymour},
+and they should talk freely.
+--------------------------------------------------End--
+{Auron} 
+We guardians will wait for that result.
+Consider the plan for the journey ahead.
+--------------------------------------------------End--
+{Auron} 
+Very well.
+--------------------------------------------------End--
+{Yuna} 
+…I cannot.
+--------------------------------------------------End--
+{Yuna} 
+First, with {Master Seymor}
+I must speak.
+--------------------------------------------------End--
+{Yuna} 
+I truly do not 42+54.し42+55., though.
+This is…
+--------------------------------------------------End--
+{Yuna} 
+This is a personal problem.
+--------------------------------------------------End--
+{Yuna} 
+I'm sorry.
+--------------------------------------------------End--
+{Auron} 
+But I ask 42+56. once more.
+--------------------------------------------------End--
+{Yuna} 
+I will not stop the journey.
+--------------------------------------------------End--
+{Auron} 
+Then…very well.
+--------------------------------------------------End--
+{Tidus} 
+As long as you keep traveling,
+So the rest doesn't matter?!
+--------------------------------------------------End--
+{Auron} 
+To fight 『{Sin} 』
+As long as you don't abandon your resolve…
+--------------------------------------------------End--
+{Auron} 
+Whatever you do,
+It is the summoner's own 42+57.
+--------------------------------------------------End--
+{Auron} 
+That is the summoner's right.
+In exchange for that resolve.
+--------------------------------------------------End--
+{WINDOW}
+
+You rebel!
+--------------------------------------------------End--
+
+A suspicious stone is there...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s utilization, to the Save Sphere
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s home base, to continue Blitz training
+hidden excellent players are lurking.
+You might be able to sign a scout contract by pressing {Button Square} and talking.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+The password is...
+{NEWPAGE}
+
+Murasame
+--------------------------------------------------End--
+{WINDOW}
+
+There is something written.
+--------------------------------------------------End--

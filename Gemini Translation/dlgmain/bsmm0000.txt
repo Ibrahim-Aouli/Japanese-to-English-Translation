@@ -1,0 +1,77 @@
+{Tidus} 
+The ship isn't coming...
+--------------------------------------------------End--
+{Yuna} 
+If it doesn't come soon, everyone will...
+We'll get found, won't we?
+--------------------------------------------------End--
+{Tidus} 
+Really... is this okay?
+--------------------------------------------------End--
+{Yuna} 
+Take me... to {Zanarkand}.
+--------------------------------------------------End--
+{Rikku} 
+Hey!
+--------------------------------------------------End--
+{Rikku} 
+You said you'd travel with me...
+You said you would!
+--------------------------------------------------End--
+{Tidus} 
+Huh!? Oh!
+That was...
+--------------------------------------------------End--
+{Rikku} 
+Not to fall in love with {Yuna}...
+...even though I was told that.
+--------------------------------------------------End--
+{Yuna} 
+I see...
+--------------------------------------------------End--
+{Rikku} 
+Right!
+That's why you're going with me!
+--------------------------------------------------End--
+{Tidus} 
+Ow!
+--------------------------------------------------End--
+{Jecht} 
+What are you doing?!
+--------------------------------------------------End--
+{Jecht} 
+A brat, traveling with a woman, huh?
+You're a thousand years too early!
+--------------------------------------------------End--
+{Tidus} 
+It hurts...
+--------------------------------------------------End--
+{Jecht} 
+Oh, is it starting again...?
+--------------------------------------------------End--
+{Jecht} 
+I'll cry! I'll cry right away!
+I'll definitely cry! See, I'll cry!
+--------------------------------------------------End--
+{Tidus} 
+I really hate it!
+--------------------------------------------------End--
+{Jecht} 
+I can't hear you...
+--------------------------------------------------End--
+{Yuna} 
+Louder!
+You have to say it.
+--------------------------------------------------End--
+{Tidus} 
+I really hate it!
+--------------------------------------------------End--
+{Jecht} 
+Huh?
+--------------------------------------------------End--
+{Rikku} 
+Come on, do your best!
+--------------------------------------------------End--
+{Yuna} 
+Come on, do your best!
+--------------------------------------------------End--

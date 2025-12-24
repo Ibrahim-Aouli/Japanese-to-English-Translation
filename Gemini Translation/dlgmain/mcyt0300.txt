@@ -1,0 +1,187 @@
+
+Hiccup! I've been watching over Master {Seymour}...
+...since he was a boy.
+--------------------------------------------------End--
+
+If it's about Master {Seymour}...
+...feel free to ask anything!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Seymour}'s Ressho Period?
+{CHOICE:31}{Seymour}'s Boyhood?
+{CHOICE:32}{Seymour}'s Monastic Official Period?
+{CHOICE:33}{Seymour}'s Summoner Period?
+{CHOICE:34}, I don't want to hear it.
+--------------------------------------------------End--
+
+{Seymour} has the blood of {Guado} and human,
+...two races.
+{NEWPAGE}
+
+As a result, during his Ressho period...
+...he suffered various hardships, it seems.
+{NEWPAGE}
+
+However, because of those painful experiences...
+...precisely because of those...
+{NEWPAGE}
+
+He put in 42+53.effort to bridge the natures of {Guado} and humans,
+...and became an admirable person.
+--------------------------------------------------End--
+
+About Master {Seymour}...
+...you want to know more, don't you?
+--------------------------------------------------End--
+
+When Master {Seymour} was about your 42+55.
+"{{Sin}}" was defeated by Lord {Braska}.
+{NEWPAGE}
+
+{Maester Mika2} wished for the coming of peace.
+Lord {Jyscal} was made the master of {{Yevon2}}.
+{NEWPAGE}
+
+Of Lord {Jyscal}, who spread teachings to {Guado2}.
+In praise of their achievements... that's how it is.
+{NEWPAGE}
+
+Lord {Seymour} was still a boy, but...
+was assisting Lord {Jyscal}.
+--------------------------------------------------End--
+
+After becoming a monastic official, Lord {Seymour}...
+rapidly distinguished himself.
+{NEWPAGE}
+
+Achieving numerous accomplishments that everyone acknowledged,
+he rapidly rose through the ranks.
+{NEWPAGE}
+
+Indeed, not through Lord {Jyscal}'s influence.
+He earned his position by his own merit.
+{NEWPAGE}
+
+Truly, he is a dependable person.
+--------------------------------------------------End--
+
+Lord {Seymour} as a Summoner...
+possesses unparalleled abilities.
+{NEWPAGE}
+
+However, Lord {Seymour}, to fight "{{Sin}}",
+did not embark on a journey, but became the master of {Yevon2}.
+{NEWPAGE}
+
+A Summoner's mission is to aim for the defeat of '{{Sin}}'.
+is not only that... that is likely his thought.
+--------------------------------------------------End--
+
+There's no need to hold back, is there?
+--------------------------------------------------End--
+
+{Seymour} disappeared,
+{Mika}-sama passed away...
+{NEWPAGE}
+
+We lost our heart's 42+65.e
+all at once.
+--------------------------------------------------End--
+
+A monk official who guides the people, in such a state,
+this won't do... Ah, how pathetic.
+--------------------------------------------------End--
+
+To think that *that* {Seymour} would 42+66.... Ah...
+Hmm, congratulations! Truly congratulations!
+--------------------------------------------------End--
+
+It is your 42+58.42+67. 42+68..
+Please accept it.
+--------------------------------------------------End--
+
+When {Seymour} was a newly appointed 42+69. monk official,
+He was my 42+70. junior.
+{NEWPAGE}
+
+And yet, now he is a Master-sama and
+even getting the Summoner's 42+71.-san...
+{NEWPAGE}
+
+Compared to myself, a humble monk official,
+I cannot be a 42+72.42+73., can I?
+--------------------------------------------------End--
+
+{Seymour} remains approachable even after becoming important.
+He is a fine man who doesn't make his status a 42+74..
+--------------------------------------------------End--
+
+{Seymour} did something unforgivable, but
+I can't bring myself to 42+75. him.
+{NEWPAGE}
+
+I've struggled between humans and {Guado2}.
+Because I know him from before...
+--------------------------------------------------End--
+
+If he hadn't 42+76. from the path, {Seymour}...
+I believe he would have become a respectable master.
+--------------------------------------------------End--
+
+Lord {Seymour} always...
+It always gives off a 42+77. 42+78.!
+{NEWPAGE}
+
+It's wonderful, isn't it!
+--------------------------------------------------End--
+
+Before, people from {Guado} used to come often, but...
+Everyone is gone.
+--------------------------------------------------End--
+
+Even with {Guado2}'s departure...
+I'm lonely because I can't meet them.
+--------------------------------------------------End--
+
+Hmm, did I hear some sad 42+79.?
+{NEWPAGE}
+
+Even given it's the 42+80. of Lord {Seymour}'s go 42+66....
+You shouldn't get too carried away, you know.
+--------------------------------------------------End--
+
+It's a 42+68. that was 42+81. at 42+80., but...
+Don't worry about it; just keep it.
+--------------------------------------------------End--
+
+The people from {Guado2} have lost their motivation,
+Apparently they aren't coming out from {Guadosalam}.
+--------------------------------------------------End--
+
+I also feel like secluding myself in the temple all the time.
+I can't believe anything anymore.
+--------------------------------------------------End--
+
+Today is a happy {42+58} day!
+Even the Reverend is too foolish!
+--------------------------------------------------End--
+
+Everyone, please enjoy yourselves!
+I'll be happy too!
+--------------------------------------------------End--
+
+Well now, even though it's rude...
+Is {42+84}-sama perhaps a little too excessive?
+--------------------------------------------------End--
+
+Even the Reverend, who lives by the teachings...
+At heart, is he a {42+86} person?
+--------------------------------------------------End--
+
+My cousin is outside.
+I especially don't want to lose to him.
+--------------------------------------------------End--
+
+Unlike him, I'm serious.
+I'll only sleep a little bit!
+--------------------------------------------------End--

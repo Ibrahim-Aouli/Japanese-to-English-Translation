@@ -1,0 +1,75 @@
+
+
+--------------------------------------------------End--
+{WINDOW}
+Single-column battle with Aaron.
+{CHOICE:30}Waiting for command.
+{CHOICE:31}Seamless Test.
+{CHOICE:32}Event Retry.
+{CHOICE:33} Unconditional Battle Victory.
+--------------------------------------------------End--
+{WINDOW}
+The final battle at the stadium.
+{CHOICE:30}Waiting for command.
+{CHOICE:31}Seamless Test.
+{CHOICE:32}Event Retry.
+{CHOICE:33} Unconditional Battle Victory.
+--------------------------------------------------End--
+{Mika} 
+Of these equally formidable individuals.
+It wouldn't be surprising if anyone won.
+--------------------------------------------------End--
+{Mika} 
+No one knows the outcome of victory or defeat.
+Therefore, we shall just 42+53.42+54.
+--------------------------------------------------End--
+{Mika} 
+Let us praise the victor's glo42+55.ry.
+And let us praise the strenuous efforts of the defeated.
+--------------------------------------------------End--
+{Mika} 
+I wish all competitors a 42+56.42+57. 42+58.fight.
+--------------------------------------------------End--
+{Lulu} 
+What's started!?
+--------------------------------------------------End--
+{Tidus} 
+After all... you know, don't you?
+--------------------------------------------------End--
+{Wakka} 
+Ah, the best guard.
+--------------------------------------------------End--
+{Tidus} 
+What is this?!
+--------------------------------------------------End--
+{Tidus} 
+{Auron} ！
+--------------------------------------------------End--
+{Wakka} 
+{Auron}!
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Event Select.
+{CHOICE:33} Model Change.
+{CHOICE:34} Invincible.
+{CHOICE:35} Return to 42+59.42+60.'s home.
+--------------------------------------------------End--
+{WINDOW}
+`Model: {CHOICE:51}`
+--------------------------------------------------End--
+{WINDOW}
+Event Select.
+{CHOICE:30} Never mind.
+{CHOICE:31} Seymour Dark Summon {Gray}.
+{CHOICE:32}The stadium enveloped in silence.{White}
+{CHOICE:33}Move to VIP seats.__P1__
+{CHOICE:34}Anima Display Control
+{CHOICE:35}Frame Count Adjustment
+{CHOICE:36}Clear Scenario Flag
+--------------------------------------------------End--
+{WINDOW}
+Frame Count : {CHOICE:52}
+--------------------------------------------------End--

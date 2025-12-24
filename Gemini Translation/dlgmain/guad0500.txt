@@ -1,0 +1,65 @@
+{Yuna} 
+I wonder what kind of story it is.
+--------------------------------------------------End--
+{Wakka} 
+I just can't settle down.
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} is {Master Seymor} is
+Doesn't like it.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+{WINDOW}
+Shhh!
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} won't say anything anymore.
+--------------------------------------------------End--
+{Rikku} 
+Doesn't it smell nice?
+--------------------------------------------------End--
+{Auron} 
+Don't take your eyes off {Yuna}.
+--------------------------------------------------End--
+{Lulu} 
+The chieftain of successive generations... {Guado2}, right?
+--------------------------------------------------End--
+{Tidus} 
+It's the same shop...
+--------------------------------------------------End--
+{Wakka} 
+Only {Master Seymor}.
+Somehow, it's different, isn't it?
+--------------------------------------------------End--
+{Lulu} 
+Didn't you know?
+--------------------------------------------------End--
+{Lulu} 
+{Master Seymor} is...
+--------------------------------------------------End--
+{Lulu} 
+The previous chieftain... Master {Jyscal}, and
+It is a child born between a human woman, you see.
+--------------------------------------------------End--
+{Tromell} 
+Please come this way.
+--------------------------------------------------End--
+{Tromell} 
+Please come this way!
+--------------------------------------------------End--
+
+{Tromell} will arrive soon.
+Please wait here for a while.
+--------------------------------------------------End--
+
+Beyond this point is the private room of this residence.
+42+53. Please refrain from entering.
+--------------------------------------------------End--
+{Yuna} 
+{Jyscal}...
+Is there anything I can do?
+--------------------------------------------------End--
+{Rikku} 
+{Yuna}! Let's go!
+--------------------------------------------------End--

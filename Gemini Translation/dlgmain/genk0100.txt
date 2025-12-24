@@ -1,0 +1,44 @@
+{Tidus} 
+Wow...
+--------------------------------------------------End--
+{Lulu} 
+This is the Phantom Light River.
+--------------------------------------------------End--
+{Tidus} 
+Huh...
+--------------------------------------------------End--
+{Yuna} 
+It's called Phantom Light Flower.
+--------------------------------------------------End--
+{Yuna} 
+When night falls, many
+phantom light insects gather, they say.
+--------------------------------------------------End--
+{Lulu} 
+The whole river shines, just like a sea of stars.
+--------------------------------------------------End--
+{Tidus} 
+Huh...
+--------------------------------------------------End--
+{Tidus} 
+Oh! That's right!
+--------------------------------------------------End--
+{Auron} 
+I won't wait until night.
+--------------------------------------------------End--
+{Tidus} 
+Then, once we defeat '{Sin}',
+let's come back and take a good look!
+--------------------------------------------------End--
+{Wakka} 
+If we don't hurry, the Shipah will
+fill up.
+--------------------------------------------------End--
+{Tidus} 
+Shipah?
+Is that a boat?
+--------------------------------------------------End--
+{Tidus} 
+Whoa!
+Amazing!
+--------------------------------------------------End--

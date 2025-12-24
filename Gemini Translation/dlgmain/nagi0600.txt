@@ -1,0 +1,79 @@
+{WINDOW}
+For training as a summoner.
+To gain the power to defeat monsters.
+To defeat a truly strong enemy.
+--------------------------------------------------End--
+{WINDOW}
+List Gil
+Gil
+--------------------------------------------------End--
+
+How about this?
+--------------------------------------------------End--
+{WINDOW}
+Funds: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up} {Direcional Down} {Direcional Left} {Direcional Right} : Set up the Gold Shop.
+{Button Circle}: Confirm.
+--------------------------------------------------End--
+{WINDOW}
+How much do you want?
+Gil
+--------------------------------------------------End--
+{WINDOW}
+
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+I will hire for {VAR12:31} Gil.
+That's fine.
+Wait a moment!
+--------------------------------------------------End--
+
+In that case, how about this?
+--------------------------------------------------End--
+
+Though you are a fleeting dream...
+A dream that touched the truth of {Spira}...
+--------------------------------------------------End--
+
+{Spira} will not forget the truth.
+Will not forget the one who saved the truth...
+--------------------------------------------------End--
+
+Oh, earnest dream that continues to run...
+Leave the end of the dream and become truth...
+--------------------------------------------------End--
+
+I am the unrivaled swordsman.
+The caution I've heard of, {42+53}.
+--------------------------------------------------End--
+
+I ask the Summoner.
+Why do you seek me?
+--------------------------------------------------End--
+
+If you seek my power...
+Provide appropriate money, {42+54}.
+--------------------------------------------------End--
+
+Even if a paltry sum is offered {42+55}.
+I will not move!
+--------------------------------------------------End--
+
+Very well. I acknowledge you as a customer.
+I will do a little work {42+56} for you in my spare time.
+--------------------------------------------------End--
+
+You indeed discerned my true {42+57}, and took note of {42+58}.
+It is you I shall recognize as my true master.
+--------------------------------------------------End--
+
+Summoner! Your journey...
+I shall protect with my swordsmanship!
+--------------------------------------------------End--
+
+This is not worth discussing.
+Come back again.
+--------------------------------------------------End--

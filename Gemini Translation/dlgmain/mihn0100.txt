@@ -1,0 +1,181 @@
+{Tidus} 
+Amazing...
+--------------------------------------------------End--
+
+It was completely different from what I saw in Kilika.
+It was a quiet and beautiful scene.
+--------------------------------------------------End--
+{Tidus} 
+What are you doing?
+--------------------------------------------------End--
+{Yuna} 
+Beautiful...
+--------------------------------------------------End--
+{Tidus} 
+Right?
+--------------------------------------------------End--
+{Yuna} 
+Like this,
+In a peaceful world,
+--------------------------------------------------End--
+{Yuna} 
+Smiling cheerfully,
+I wish we could live...
+--------------------------------------------------End--
+{Tidus} 
+If {P0} defeats {P1},
+That's how it'll be, right?
+--------------------------------------------------End--
+{Yuna} 
+But a new {P0}
+will be born, though.
+--------------------------------------------------End--
+{Tidus} 
+If that happens, just defeat it again.
+--------------------------------------------------End--
+{Yuna} 
+Yes... I hope I can.
+--------------------------------------------------End--
+{Tidus} 
+If it's {P0}, you can do it.
+Don't lose to other summoners.
+--------------------------------------------------End--
+{Tidus} 
+But why does {P0} revive?
+--------------------------------------------------End--
+{Yuna} 
+Because {P0} is the 42+53. given to humans.
+--------------------------------------------------End--
+{Yuna} 
+Until sin is forgiven,
+{P0} will not vanish.
+--------------------------------------------------End--
+{Tidus} 
+How can sins be forgiven?
+--------------------------------------------------End--
+{Yuna} 
+うーん……
+--------------------------------------------------End--
+{Tidus} 
+What even is sin?
+--------------------------------------------------End--
+{Tidus} 
+Oh, is that making things easy with machines?
+But, is that really so bad?
+--------------------------------------------------End--
+{Yuna} 
+How strange...
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Hm?
+--------------------------------------------------End--
+{Yuna} 
+From when I was little, I believed it was normal...
+...I had thought it was...
+--------------------------------------------------End--
+{Yuna} 
+I thought it was bad because it was bad, but...
+Actually... I don't know.
+--------------------------------------------------End--
+{Yuna} 
+There are many things I don't know.
+--------------------------------------------------End--
+{Tidus} 
+Then, I'm the same.
+--------------------------------------------------End--
+{Tidus} 
+For a Summoner to be like that...
+That won't do.
+--------------------------------------------------End--
+{Tidus} 
+42+54.てた42+54.てた?
+--------------------------------------------------End--
+{Yuna} 
+No, don't say such rude things.
+--------------------------------------------------End--
+{Tidus} 
+Hey.
+--------------------------------------------------End--
+{Tidus} 
+During the match, only on the match...
+If you don't concentrate, you can't move sharply.
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{Tidus} 
+The girl fifth from the right in the very front 42+55. is cute!
+...or things like that.
+--------------------------------------------------End--
+{Tidus} 
+"Where should we go if we go on a date?" or something.
+If you think about it, you'll lose.
+--------------------------------------------------End--
+{Tidus} 
+So, {Yuna}, about what's ahead...
+We'll think about it slowly later.
+--------------------------------------------------End--
+{Tidus} 
+Thinking about bothersome things...
+Can wait until after we defeat 『{Sin} 』, right?
+--------------------------------------------------End--
+{Yuna} 
+...You're right.
+--------------------------------------------------End--
+{Tidus} 
+But, that huge thing...
+How do we defeat it?
+--------------------------------------------------End--
+{Yuna} 
+Ultimate Summon.
+--------------------------------------------------End--
+{Yuna} 
+The 42+56.one power that can defeat 『{Sin} 』.
+Ultimate Summon.
+--------------------------------------------------End--
+{Yuna} 
+Acquiring that power...
+...is the purpose of us summoners' journey.
+--------------------------------------------------End--
+{Yuna} 
+The Ultimate Summon's Child of Prayer...
+...is waiting for summoners at the northern end.
+--------------------------------------------------End--
+{Yuna} 
+The farthest land, {Zanarkand}.
+--------------------------------------------------End--
+{Tidus} 
+{Zanarkand} ！？
+--------------------------------------------------End--
+{Auron} 
+Don't be mistaken.
+It's the 42+57.ruins of a capital city destroyed 1000 years ago.
+--------------------------------------------------End--
+{Tidus} 
+Is it really ruins?
+--------------------------------------------------End--
+{Yuna} 
+That's what I've heard, but...
+--------------------------------------------------End--
+{Auron} 
+If you can't trust it...
+You should confirm it with your own eyes.
+--------------------------------------------------End--
+{Auron} 
+{Yuna}, it's about time to go inside.
+--------------------------------------------------End--
+{Yuna} 
+{Zanarkand}, can we go together?
+--------------------------------------------------End--
+{Tidus} 
+Yes... I'll go.
+--------------------------------------------------End--
+{Tidus} 
+Go to {Zanarkand}.
+I'll confirm it with my own eyes.
+--------------------------------------------------End--
+
+That is not my {Zanarkand}.
+I wanted to confirm that.
+--------------------------------------------------End--

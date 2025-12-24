@@ -1,0 +1,146 @@
+{Auron} 
+I have something to tell you.
+--------------------------------------------------End--
+{Tidus} 
+What is it?
+--------------------------------------------------End--
+{Auron} 
+It's about time we made things clear.
+--------------------------------------------------End--
+{Tidus} 
+......I see.
+So you're also...
+--------------------------------------------------End--
+{Auron} 
+Ah, I'm dead too.
+--------------------------------------------------End--
+{Auron} 
+I thought you'd be more surprised?
+--------------------------------------------------End--
+{Tidus} 
+Somehow... I had a feeling.
+You were killed by {Yunalesca}, weren't you?
+--------------------------------------------------End--
+{Auron} 
+{Braska} fought 『{Sin} 』
+After losing their life.
+--------------------------------------------------End--
+{Auron} 
+I couldn't avenge them.
+--------------------------------------------------End--
+{Auron} 
+To avenge them.
+Coming here one more time...
+--------------------------------------------------End--
+{Auron} 
+......I was defeated.
+--------------------------------------------------End--
+{Auron} 
+I barely escaped with my life.
+I descended from {Gagazet}, but...
+--------------------------------------------------End--
+{Auron} 
+My strength gave out just before {Bevelle}.
+That's when I met {Kimahri}.
+--------------------------------------------------End--
+{Auron} 
+Leaving {Yuna} to them... I died.
+--------------------------------------------------End--
+{Auron} 
+Since then, without even going to {Farplane}.
+And so I wander like this.
+--------------------------------------------------End--
+{Tidus} 
+{Auron} ……
+--------------------------------------------------End--
+{Auron} 
+Don't respond like that.
+There have been times when this body was useful.
+--------------------------------------------------End--
+{Auron} 
+Riding on 『{Sin} 』, your
+I was even able to go to {Zanarkand}.
+--------------------------------------------------End--
+{Tidus} 
+And... you've always been...
+You've been watching over me, then?
+--------------------------------------------------End--
+{Tidus} 
+Why...
+--------------------------------------------------End--
+{Tidus} 
+Why do you go that far, you!
+--------------------------------------------------End--
+{Auron} 
+Things like this, you know...
+I can't explain with words.
+--------------------------------------------------End--
+{Auron} 
+Alright, I'll show you.
+--------------------------------------------------End--
+{Auron} 
+It's my memory.
+--------------------------------------------------End--
+{Jecht} 
+Finally... just one more thing, alright?
+--------------------------------------------------End--
+{Jecht} 
+Um...
+--------------------------------------------------End--
+{Jecht} 
+Sorry.
+Actually, I'll pass after all.
+--------------------------------------------------End--
+{Auron} 
+Just say it!
+--------------------------------------------------End--
+{Jecht} 
+I see.
+Alright, I'll just say it then.
+--------------------------------------------------End--
+{Jecht} 
+Take care of my son.
+--------------------------------------------------End--
+{Jecht} 
+That guy from {Zanarkand}, take care of him.
+He's... a crybaby, you know.
+--------------------------------------------------End--
+{Jecht} 
+Someone needs to be with him.
+I'm so worried, so worried.
+--------------------------------------------------End--
+{Jecht} 
+So... I'm counting on you.
+--------------------------------------------------End--
+{Auron} 
+But {Zanarkand}...
+How could I even get there...?
+--------------------------------------------------End--
+{Jecht} 
+What, how pathetic!
+--------------------------------------------------End--
+{Jecht} 
+With that 'infinite possibilities' you talk about,
+just figure it out somehow.
+--------------------------------------------------End--
+{Auron} 
+...Ah!
+I'll make it happen!
+--------------------------------------------------End--
+{Auron} 
+I promise.
+--------------------------------------------------End--
+{Auron} 
+I'll protect your son.
+Even if I die... I'll protect him.
+--------------------------------------------------End--
+{Jecht} 
+Sorry, {Auron}.
+--------------------------------------------------End--
+{Jecht} 
+You're a straight-laced 野42+53., but...
+I didn't dislike that about you.
+--------------------------------------------------End--
+{Auron} 
+This is how it is.
+--------------------------------------------------End--

@@ -1,0 +1,148 @@
+
+Gathering information for travelers is also the subjugation squad's job.
+It's unassuming, but it's important.
+--------------------------------------------------End--
+
+That boy from the subjugation squad is working hard by himself.
+That's impressive. Should I try inviting him to the monk-soldier army?
+--------------------------------------------------End--
+
+The operation will start soon.
+We need to depart quickly.
+--------------------------------------------------End--
+
+I've set up this monitor to show information on monsters around {Luca}.
+(Continuing from 7)
+--------------------------------------------------End--
+
+Once you leave town, it's a long, long {Blue} 【{Mi'ihen Highroad} 】{White}.
+Monsters also appear, so you can't let your guard down on the way.
+--------------------------------------------------End--
+
+If you gather information with the Sphere Monitor,
+I think your journey will become a bit easier.
+--------------------------------------------------End--
+
+Travelers check monster information on this monitor
+before departing.
+{NEWPAGE}
+
+Gathering information for travelers is also
+our {Crusader}'s job.
+--------------------------------------------------End--
+
+Prayer songs are my specialty!
+Everyone sang along with my trumpet!
+--------------------------------------------------End--
+
+Please enjoy the wonderful music!
+You want to see the beautiful 42+53.image, don't you?
+--------------------------------------------------End--
+
+I hear the footsteps of the approaching Nagi 42+54.
+Then, perhaps I shall perform mae 42+55.i.
+--------------------------------------------------End--
+
+If we talk, it will be a long story.
+How about listening to the datsumei at 42+56.?
+--------------------------------------------------End--
+
+Did Fune and 'Shin' fly over again?
+Then, I'll sing with my drum.
+--------------------------------------------------End--
+
+Do you want to hear our music?
+Let's buy spheres over there.
+--------------------------------------------------End--
+
+The drummer looks like us~.
+A giant relative of the Hypero Tribe?
+--------------------------------------------------End--
+
+This isn't a stadium, is it~?
+We might be lost, it seems~?
+--------------------------------------------------End--
+{O'aka} 
+Hey, boy!
+--------------------------------------------------End--
+{Tidus} 
+You were in jail, weren't you!?
+--------------------------------------------------End--
+{O'aka} 
+Hard-headed monk officials like them...
+They're an easy thing.
+--------------------------------------------------End--
+{O'aka} 
+By making a deal,
+I got out!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+Sorry. About us...
+It's probably why you got involved.
+--------------------------------------------------End--
+{O'aka} 
+It's fine.
+Because you're a valued customer.
+--------------------------------------------------End--
+{O'aka} 
+...Well, you see...
+--------------------------------------------------End--
+{O'aka} 
+I had a younger sister.
+To {Wantz}, she'd be an older sister.
+--------------------------------------------------End--
+{O'aka} 
+She was a summoner.
+Even though she was still 42+57., she went on a journey...
+--------------------------------------------------End--
+{O'aka} 
+That was the last of it.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{O'aka} 
+Both I and {Wantz} are completely useless at fighting.
+We couldn't become guards.
+--------------------------------------------------End--
+{O'aka} 
+That I couldn't help her at all...
+It was so frustrating, so frustrating...
+--------------------------------------------------End--
+{O'aka} 
+That's why, at least, other summoners...
+I want to help them.
+--------------------------------------------------End--
+{O'aka} 
+Besides, {Yuna}-sama is oddly like my sister...
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{O'aka} 
+It's nothing.
+--------------------------------------------------End--
+{Tidus} 
+Thanks.
+--------------------------------------------------End--
+{O'aka} 
+Alright.
+--------------------------------------------------End--
+{O'aka} 
+The important 42+58. is with {Wantz}.
+The 23rd generation ended up 42+59..
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} model change
+{CHOICE:33} Control Map Lines
+{CHOICE:34}42+60.42+61.Return to home.
+--------------------------------------------------End--
+{WINDOW}
+`Model: {CHOICE:51}`
+--------------------------------------------------End--

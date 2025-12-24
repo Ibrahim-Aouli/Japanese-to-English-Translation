@@ -1,0 +1,58 @@
+
+{WINDOW}
+{Yellow} Bevelle Sphere{White} is set.
+--------------------------------------------------End--
+{WINDOW}
+Take the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+Took {Yellow} Bevelle Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} has been taken.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+`{Yellow} I took the Sphere of Ruin.{White}`
+--------------------------------------------------End--
+
+{WINDOW}
+It looks like a {Yellow} Sphere {White} can be set in the recess.
+--------------------------------------------------End--
+{WINDOW}
+Set the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+Set {Yellow} Bevelle Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one {Yellow} Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Button Circle}: Direction of travel determined.
+--------------------------------------------------End--

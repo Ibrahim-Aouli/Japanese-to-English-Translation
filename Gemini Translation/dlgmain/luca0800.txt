@@ -1,0 +1,26 @@
+Announcer
+The team participating from {Kilika Island}
+{Kilika Beasts} ！
+--------------------------------------------------End--
+Announcer
+inherits the lineage of {High Summoner Ohalland}-sama,
+It is a storied team.
+--------------------------------------------------End--
+Announcer
+Our team's past {P0} is...
+We have only just met '{P0}', but...
+--------------------------------------------------End--
+Liberated One
+Yes, also to encourage the fans of our past.
+We will aim for 42+53 victories!
+--------------------------------------------------End--
+Announcer
+That seems promising!
+--------------------------------------------------End--
+Announcer
+Now, who came out next was...
+--------------------------------------------------End--
+Announcer
+Oh! That's a transcendent team.
+It's {Besaid Aurochs}!
+--------------------------------------------------End--

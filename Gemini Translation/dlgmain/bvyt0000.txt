@@ -1,0 +1,115 @@
+{Tidus} 
+{Yuna} ！！
+--------------------------------------------------End--
+{Kinoc} 
+The sequence is over.
+--------------------------------------------------End--
+{Auron} 
+Look!
+--------------------------------------------------End--
+{Seymour} 
+Even by closing the false flower shop,
+You want me to leave for another world?
+--------------------------------------------------End--
+{Seymour} 
+You are stubborn.
+--------------------------------------------------End--
+{Seymour} 
+That is why you are suitable for my flower shop.
+--------------------------------------------------End--
+{Mika} 
+Stop!
+--------------------------------------------------End--
+{Mika} 
+These people's lives...
+Are they not worthy?
+--------------------------------------------------End--
+{Mika} 
+Your choice
+will decide your companions' fate.
+--------------------------------------------------End--
+{Mika} 
+Will you accept?
+--------------------------------------------------End--
+{Mika} 
+Or abandon them?
+--------------------------------------------------End--
+{Mika} 
+Which will you choose?
+--------------------------------------------------End--
+{Seymour} 
+That is fine.
+--------------------------------------------------End--
+{Kinoc} 
+A blessing.
+It is for {Yevon2}'s 42+53.42+54.
+--------------------------------------------------End--
+{Auron} 
+It seems to be a weapon that goes against the teachings, doesn't it?
+--------------------------------------------------End--
+{Kinoc} 
+It depends on the time and circumstances.
+--------------------------------------------------End--
+{Yuna} 
+Stop!
+--------------------------------------------------End--
+{Yuna} 
+Drop your weapons.
+Otherwise, I...
+--------------------------------------------------End--
+{Yuna} 
+Hurry and run! Hey!
+--------------------------------------------------End--
+{Tidus} 
+Together, right!
+--------------------------------------------------End--
+{Yuna} 
+It's alright.
+I'll escape too!
+--------------------------------------------------End--
+{Seymour} 
+Stop it.
+You won't survive that fall.
+--------------------------------------------------End--
+{Yuna} 
+I'm fine.
+I can fly.
+--------------------------------------------------End--
+{Yuna} 
+...Believe me.
+--------------------------------------------------End--
+{Tidus} 
+{Yuna} ！
+--------------------------------------------------End--
+{Rikku} 
+Close your eyes!
+--------------------------------------------------End--
+{Wakka} 
+What was that?
+--------------------------------------------------End--
+{Rikku} 
+A light orb with {Al Bhed}'s mark!
+--------------------------------------------------End--
+{Tidus} 
+Put me down!
+I'll knock {Seymour} down!
+--------------------------------------------------End--
+{Kimahri} 
+I won't put you down.
+{Yuna} told us to run.
+--------------------------------------------------End--
+{Lulu} 
+Meeting up with that child comes first.
+--------------------------------------------------End--
+{Auron} 
+We'll cut through!
+--------------------------------------------------End--
+{Kinoc} 
+Shoot!
+--------------------------------------------------End--
+{Seymour} 
+Come.
+--------------------------------------------------End--
+{Seymour} 
+Kill!
+--------------------------------------------------End--

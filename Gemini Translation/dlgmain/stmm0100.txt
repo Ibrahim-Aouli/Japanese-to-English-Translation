@@ -1,0 +1,55 @@
+{Auron} 
+What are you filming?!
+--------------------------------------------------End--
+{Jecht} 
+I don't quite understand, but...
+It's going to be a long journey, isn't it?
+--------------------------------------------------End--
+{Jecht} 
+Rare things too...
+...looks like I'll see a lot of them.
+--------------------------------------------------End--
+{Jecht} 
+If that's the case, I'll record everything on a sphere...
+...and keep a record of it...
+--------------------------------------------------End--
+{Jecht} 
+So my wife and kid can see it too.
+I have to show them.
+--------------------------------------------------End--
+{Auron} 
+This journey isn't a queue!
+--------------------------------------------------End--
+{Jecht} 
+But, {Braska}...
+--------------------------------------------------End--
+{Jecht} 
+...despite it being the departure of a Summoner fighting 'Sin'...
+...
+--------------------------------------------------End--
+{Jecht} 
+With this, it somehow...
+...doesn't it look like a secret night escape?
+--------------------------------------------------End--
+{Braska} 
+This is fine.
+--------------------------------------------------End--
+{Braska} 
+If there are too many onlookers, it might actually...
+...their resolve might waver.
+--------------------------------------------------End--
+{Jecht} 
+Is that how it is...?
+--------------------------------------------------End--
+{Jecht} 
+Well, when you come back here...
+...it'll probably be a bit more lively.
+--------------------------------------------------End--
+{Jecht} 
+As the hero who defeated Shin.
+A grand triumphal parade!
+--------------------------------------------------End--
+{Braska} 
+It's about time to go.
+Day will break.
+--------------------------------------------------End--

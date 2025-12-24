@@ -1,0 +1,92 @@
+{Tidus} 
+Is anyone there?
+--------------------------------------------------End--
+{Tidus} 
+Aaron!!
+--------------------------------------------------End--
+{Tidus} 
+Waaaaaah!!
+--------------------------------------------------End--
+{Tidus} 
+What could it be?
+I don't understand the meaning.
+--------------------------------------------------End--
+{WINDOW}
+
+Lightning ceaselessly
+in the place where it pours down.
+{NEWPAGE}
+
+With your back to {Macalania}
+Of the fourth tower's
+{NEWPAGE}
+
+Look at the right side.
+--------------------------------------------------End--
+{WINDOW}
+
+There is something written.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar string '{Al Bhed} Language', a {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+`{Yellow} 【{Al Bhed} Dictionary Synthesis Sphere】{White}`
+--------------------------------------------------End--
+{WINDOW}
+`Incorporate {Al Bhed} dictionary data.`
+`You can synthesize {Al Bhed} dictionaries!`
+{NEWPAGE}
+`Please select the save data to synthesize the Al Bhed dictionary.`
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+`Do you want to synthesize other save data?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+`Failed to incorporate {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+`There is no {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+`Successfully incorporated {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+`Synthesize {Al Bhed} dictionary?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

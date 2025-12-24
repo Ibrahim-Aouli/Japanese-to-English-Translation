@@ -1,0 +1,39 @@
+Announcer
+Well then, {Besaid Aurochs}
+Through desperate defense,
+they are strenuously defending the tie.
+--------------------------------------------------End--
+Announcer
+Oh--!
+This is terrible again!
+--------------------------------------------------End--
+Liberated One
+But the referee doesn't call a foul.
+Player {Wakka} must be at their absolute limit now.
+--------------------------------------------------End--
+Announcer
+Oh! Remaining time: 30列!
+{Aurochs}'s desperate all-out attack!
+--------------------------------------------------End--
+Announcer
+A long pass from Retty--!!
+--------------------------------------------------End--
+Announcer
+It got through--!
+--------------------------------------------------End--
+Announcer
+Oh!!
+--------------------------------------------------End--
+Announcer
+Ooh--!!
+--------------------------------------------------End--
+Announcer
+Shoot--!!
+--------------------------------------------------End--
+Announcer
+Goooal--!!
+--------------------------------------------------End--
+Announcer
+{Besaid Aurochs} 
+It's a 3-2 victory for Ten'ato!!
+--------------------------------------------------End--

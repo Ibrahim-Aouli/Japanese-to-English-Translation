@@ -1,0 +1,132 @@
+{Yuna} 
+This isn't Lord {fayth}?
+It's just a stone statue?
+--------------------------------------------------End--
+
+That statue has already, as {fayth}...
+...lost its power.
+--------------------------------------------------End--
+
+For the first time on record, of the Ultimate Summon...
+...Lord {Zaon} became {fayth}.
+--------------------------------------------------End--
+
+It is nothing more than a statue preserving their form.
+--------------------------------------------------End--
+
+Lord {Zaon} is already...
+...disappeared.
+--------------------------------------------------End--
+{Wakka} 
+Disappeared!?
+--------------------------------------------------End--
+{Rikku} 
+So that means the Ultimate Summon also...
+...disappeared too!?
+--------------------------------------------------End--
+
+Do not worry.
+--------------------------------------------------End--
+
+Lord {Yunalesca} will bestow a new...
+...Ultimate Summon.
+--------------------------------------------------End--
+
+One that binds with the summoner in perfect unity.
+A great power...
+--------------------------------------------------End--
+
+Proceed to the store.
+To Lord {Yunalesca}'s presence.
+--------------------------------------------------End--
+{Tidus} 
+Wait a moment.
+--------------------------------------------------End--
+{Tidus} 
+{Auron}, you knew from the very beginning, didn't you?
+Yes.
+--------------------------------------------------End--
+{Auron} 
+Why were you silent!?
+--------------------------------------------------End--
+{Rikku} 
+It was to show you yourselves the true form.
+--------------------------------------------------End--
+{Auron} 
+We can't go back now.
+I understand.
+--------------------------------------------------End--
+{Kimahri} 
+{Yuna} 
+--------------------------------------------------End--
+{Yuna} 
+__P0__ will go first.
+--------------------------------------------------End--
+{Kimahri} 
+__P1__ will guard __P0__'s front.
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} が先に行く
+{Yuna} の前は{Kimahri} が守る
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s activity, on the Save Sphere...
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s area, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, you may be able to Scout and 42+53. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

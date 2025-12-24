@@ -1,0 +1,1074 @@
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract for 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+We've been expecting you, {Yuna}.
+Welcome to {Guadosalam}.
+--------------------------------------------------End--
+
+Please, {Yuna}, this way.
+--------------------------------------------------End--
+{Wakka} 
+Who are you?
+--------------------------------------------------End--
+
+My apologies.
+My name is {Tromell Guado}.
+--------------------------------------------------End--
+{Tromell} 
+I am a relative of {Seymor}, the chief of {Guado}.
+(See line 7)
+--------------------------------------------------End--
+{Tromell} 
+It seems {Seymour} has an important matter to discuss with {Yuna}...
+(See line 9)
+--------------------------------------------------End--
+{Yuna} 
+For me?
+What might that be about?
+--------------------------------------------------End--
+{Tromell} 
+Anyway, first...
+Please head to {Blue}, {Seymour}'s mansion, {White}.
+--------------------------------------------------End--
+{Tromell} 
+Of course, everyone as well.
+I will make arrangements.
+--------------------------------------------------End--
+{Rikku} 
+It feels a bit forceful, doesn't it?
+--------------------------------------------------End--
+{Rikku} 
+Oh! I forgot!
+--------------------------------------------------End--
+{Rikku} 
+So, I'll be counting on you!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Equipment Modification]
+--------------------------------------------------End--
+{WINDOW}
+Since {Al Bhed2}'s {Rikku} joined the party,
+Weapon and armor {Yellow}[Modification]{White} is now possible.
+Let's see how it's done.
+--------------------------------------------------End--
+{Lulu} 
+The Grand Summoner's 42+53.{Yuna} and
+{Guado}'s Chieftain {Seymour}...
+--------------------------------------------------End--
+{Lulu} 
+The two of them, in {Yevon2}'s name,
+Will they transcend racial barriers and unite...?
+--------------------------------------------------End--
+{Lulu} 
+Certainly for {Spira},
+That will be a bright topic, won't it.
+--------------------------------------------------End--
+{Wakka} 
+But, it's truly just a momentary dream.
+That's how it feels, right.
+--------------------------------------------------End--
+{Tidus} 
+...Or rather,
+Shouldn't we quickly continue our journey?
+--------------------------------------------------End--
+{Tidus} 
+42+56.42+57.It's tough, you know.
+--------------------------------------------------End--
+{Rikku} 
+Oh, are you jealous?
+--------------------------------------------------End--
+{Tidus} 
+No, it's not!
+--------------------------------------------------End--
+{Tidus} 
+Defeating '{Sin}' is the priority.
+Everything else can wait, right?
+--------------------------------------------------End--
+{Wakka} 
+We got caught up in
+unnecessary matters, didn't we...
+--------------------------------------------------End--
+{Yuna} 
+Is this... unnecessary?
+--------------------------------------------------End--
+{Tidus} 
+Really?!
+--------------------------------------------------End--
+{Yuna} 
+By me {42+55}ing...
+The people inside {Spira}...
+--------------------------------------------------End--
+{Yuna} 
+Even a little brighter feelings
+If they could have...
+--------------------------------------------------End--
+{Yuna} 
+If I were wishing like that...
+I think that's worthwhile too.
+--------------------------------------------------End--
+{Yuna} 
+Things like this...
+I had never imagined until now.
+--------------------------------------------------End--
+{Yuna} 
+So, after thinking carefully...
+I want to give my {42+60}.
+--------------------------------------------------End--
+{Tidus} 
+Really?!
+--------------------------------------------------End--
+{Rikku} 
+Even {42+55}ing and stopping the journey...
+I think that's fine too.
+--------------------------------------------------End--
+{Yuna} 
+The journey... I'll continue it.
+--------------------------------------------------End--
+{Yuna} 
+{Seymour}-sama will surely also...
+...understand, I think.
+--------------------------------------------------End--
+{Rikku} 
+Yes... that's right.
+--------------------------------------------------End--
+{Yuna} 
+I am a Summoner.
+--------------------------------------------------End--
+{Yuna} 
+To defeat 『{Sin} 』.
+Since I've decided.
+--------------------------------------------------End--
+{Auron} 
+Just like {Braska}.
+--------------------------------------------------End--
+
+Then what is there to think?
+Is it necessary?!
+--------------------------------------------------End--
+
+……I wanted to shout that.
+--------------------------------------------------End--
+{Yuna} 
+I'll go to {Blue} 【{Farplane} 】{White}.
+--------------------------------------------------End--
+{Yuna} 
+Meet my father at {Farplane} and...
+I'll think about it.
+--------------------------------------------------End--
+{Lulu} 
+That's right.
+Think until you are satisfied.
+--------------------------------------------------End--
+
+It was strange that no one asked {Yuna}.
+(This line is a continuation of line 11. The prompt says "Return ONLY the numbered English translations", implying each number corresponds to one translated line.)
+--------------------------------------------------End--
+
+Do you like {Seymour}?
+(This line is a continuation of line 13. I'll combine 13 and 14 into one logical phrase, assuming the numbering in the prompt is for individual Japanese lines, not necessarily individual English utterances.)
+--------------------------------------------------End--
+{Yuna} 
+I'll go meet {Seymour}-sama.
+(This line is a continuation of line 15.)
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+{WINDOW}
+{Yuna} ！
+--------------------------------------------------End--
+{Auron} 
+The matter of {Jyscal} is {Guado}'s problem.
+You have no need to worry.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{WINDOW}
+Hey.
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+{WINDOW}
+What?
+--------------------------------------------------End--
+{Tidus} 
+About {Yuna}'s 結42+55.
+What did you think?
+--------------------------------------------------End--
+{Lulu} 
+If you continue the journey.
+Either one was fine.
+--------------------------------------------------End--
+{Tidus} 
+Is that all?
+--------------------------------------------------End--
+{Tidus} 
+{Yuna} and {Seymour}...
+...or whether they like them?
+--------------------------------------------------End--
+{Lulu} 
+People unite for various reasons.
+--------------------------------------------------End--
+{Tidus} 
+What do you mean?
+--------------------------------------------------End--
+{Lulu} 
+For that union, such feelings are
+unnecessary.
+--------------------------------------------------End--
+{Lulu} 
+Defeat 『{Sin} 』,
+I want to make the people of {Spira} happy.
+--------------------------------------------------End--
+{Lulu} 
+With bright news.
+I want to make the people of {Spira} happy.
+--------------------------------------------------End--
+{Lulu} 
+For {Yuna}...
+Both are the same.
+--------------------------------------------------End--
+{Lulu} 
+What's needed is your own resolve.
+--------------------------------------------------End--
+{Lulu} 
+If you have resolve, your feelings
+will work out somehow, right?
+--------------------------------------------------End--
+{Tidus} 
+......I wonder...
+--------------------------------------------------End--
+{Tidus} 
+I don't really understand.
+--------------------------------------------------End--
+{Rikku} 
+Well then, I'll keep you company.
+--------------------------------------------------End--
+{Rikku} 
+{Yunie} won't get married, will they?
+--------------------------------------------------End--
+{Tidus} 
+It seems so.
+--------------------------------------------------End--
+{Rikku} 
+You have a chance too.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} said it doesn't concern them.
+{CHOICE:31}, that's right.
+{CHOICE:32}, I'd prefer {Rikku}.
+--------------------------------------------------End--
+{Rikku} 
+......Is that so?
+--------------------------------------------------End--
+{Rikku} 
+Someone marry {Yuna} and...
+I wish someone would make them stop their journey.
+--------------------------------------------------End--
+{Tidus} 
+Seriously?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+{WINDOW}
+Yes.
+--------------------------------------------------End--
+{Tidus} 
+Why?
+--------------------------------------------------End--
+{Rikku} 
+The journey is......difficult, you know.
+--------------------------------------------------End--
+{Rikku} 
+Even after the journey ends, after that...
+You'll fight '{Sin}'.
+--------------------------------------------------End--
+{Tidus} 
+It seems so, but...
+--------------------------------------------------End--
+{Tidus} 
+With a man who says, "Stop the journey!"...
+{Yuna} won't get married, they say.
+--------------------------------------------------End--
+{Rikku} 
+That must be true, I'm sure.
+--------------------------------------------------End--
+{Rikku} 
+Oh! I'll support you!
+--------------------------------------------------End--
+{Rikku} 
+And, stop the journey and...
+Live quietly together.
+--------------------------------------------------End--
+{Rikku} 
+Hey, tell {Yuna} that.
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+{WINDOW}
+Oh!?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+{WINDOW}
+Oh, me?
+--------------------------------------------------End--
+{Rikku} 
+...Hehehehe.
+--------------------------------------------------End--
+{Rikku} 
+Ahahahahaha.
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+{WINDOW}
+Alright then!
+--------------------------------------------------End--
+{Rikku} 
+I'm happy, {Pink}!
+--------------------------------------------------End--
+{Lulu} 
+Um...
+--------------------------------------------------End--
+{Lulu} 
+Even I, if {Yuna}
+were to `結42+55.`...
+--------------------------------------------------End--
+{Tidus} 
+Oh, the continuation from earlier?
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+{WINDOW}
+Yes.
+--------------------------------------------------End--
+{Lulu} 
+If {Yuna} `結42+55.es`...
+I want them to do it with someone they love.
+--------------------------------------------------End--
+{Tidus} 
+Right?!
+--------------------------------------------------End--
+{Lulu} 
+But...
+--------------------------------------------------End--
+{Lulu} 
+If {Yuna} with the person they love
+were to say they want to `結42+55.`...
+--------------------------------------------------End--
+{Lulu} 
+I would oppose it.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+What you're saying...
+...is contradictory.
+--------------------------------------------------End--
+{Lulu} 
+I know.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{WINDOW}
+Hey.
+--------------------------------------------------End--
+{Lulu} 
+If this is a continuation of earlier, stop.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{WINDOW}
+Why?
+--------------------------------------------------End--
+{Lulu} 
+……I'm relieved.
+Please forget it.
+--------------------------------------------------End--
+{Tidus} 
+That's not fair……
+--------------------------------------------------End--
+{Lulu} 
+You will understand the 理42+61. someday.
+--------------------------------------------------End--
+{Lulu} 
+I don't want to make that 理42+61.
+into 言42+64..
+--------------------------------------------------End--
+{Lulu} 
+This might be unnecessary advice, but...
+You mustn't fall in love with {Yuna}.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} I know.
+{CHOICE:31} It seems I've fallen in love.
+{CHOICE:32} What about {Lulu}?
+--------------------------------------------------End--
+{Lulu} 
+……In that case, it's fine.
+--------------------------------------------------End--
+{Lulu} 
+So...
+--------------------------------------------------End--
+{Lulu} 
+But...
+--------------------------------------------------End--
+{Lulu} 
+Those feelings, until the journey ends,
+please keep them carefully put away.
+--------------------------------------------------End--
+{Lulu} 
+Well……
+--------------------------------------------------End--
+{Lulu} 
+As one of the 選択42+65.,
+I might allow it to be included.
+--------------------------------------------------End--
+{Lulu} 
+Do your utmost, young man.
+The path is difficult.
+--------------------------------------------------End--
+{Rikku} 
+Hey, do you think about things like 結42+55.?
+--------------------------------------------------End--
+{Tidus} 
+No, not at all, absolutely.
+--------------------------------------------------End--
+{Rikku} 
+I often think about it.
+--------------------------------------------------End--
+{Tidus} 
+Isn't that early?
+--------------------------------------------------End--
+{Rikku} 
+{Spira}, you know, people who are early.
+They get 結42+55. very early.
+--------------------------------------------------End--
+{Tidus} 
+At around our 42+66.
+You mean, they get 結42+55.?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+{WINDOW}
+Yes.
+--------------------------------------------------End--
+{Rikku} 
+There's 『{Sin} 』, right?
+There are many monsters too, right?
+--------------------------------------------------End--
+{Rikku} 
+When we might die,
+because we don't know.
+--------------------------------------------------End--
+{Rikku} 
+So, if you find someone you like,
+many people quickly get 結42+55.
+--------------------------------------------------End--
+{Tidus} 
+I see...
+--------------------------------------------------End--
+{Rikku} 
+I think I'd do that too.
+--------------------------------------------------End--
+{Rikku} 
+Are you an only child?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{WINDOW}
+Yes.
+--------------------------------------------------End--
+{Rikku} 
+I have an older brother.
+--------------------------------------------------End--
+{Tidus} 
+Haa...
+--------------------------------------------------End--
+{Rikku} 
+I'd like a 42+67. or a younger sister too, though.
+--------------------------------------------------End--
+{Tidus} 
+Why don't you ask 42+68.?
+--------------------------------------------------End--
+{Rikku} 
+Because 42+69.-san died.
+The machine 42+70.runs and...
+--------------------------------------------------End--
+{Tidus} 
+I see...
+--------------------------------------------------End--
+{Rikku} 
+When I 結42+55. then...
+I'll have lots of 42+71.children.
+--------------------------------------------------End--
+{Rikku} 
+And there will be lots of 42+67.older brothers.
+I'll make a family.
+--------------------------------------------------End--
+{Rikku} 
+What's wrong?
+--------------------------------------------------End--
+{Tidus} 
+You're thinking about the future that much?
+That's amazing.
+--------------------------------------------------End--
+{Rikku} 
+This much is normal.
+--------------------------------------------------End--
+{Rikku} 
+Oh, soon {Yuna}...
+They might be back!
+--------------------------------------------------End--
+{Wakka} 
+Phew... For a moment, I wondered what would happen...
+I really did.
+--------------------------------------------------End--
+{Lulu} 
+About Lord {Jyscal}.
+I'm concerned about them...
+--------------------------------------------------End--
+{Lulu} 
+As for {Master Seymor}...
+I wonder if they know...
+--------------------------------------------------End--
+{Lulu} 
+{Guado}'s problem is...
+{Guado} will solve it... right?
+--------------------------------------------------End--
+{Kimahri} 
+{Guado}'s potion works well.
+It's good to buy it before departing.
+--------------------------------------------------End--
+{Rikku} 
+Once we leave here, next is...
+It's 通42+72.{Blue} 【{Thunder Plains} 】{White}... right?
+--------------------------------------------------End--
+{Rikku} 
+I dislike lightning...
+--------------------------------------------------End--
+{Auron} 
+We will depart when {Yuna} returns.
+I'm leaving the preparations to you.
+--------------------------------------------------End--
+{WINDOW}
+{Shelinda} 
+{WINDOW}
+Oh?
+--------------------------------------------------End--
+{Shelinda} 
+The Summoner isn't with us...?
+Aren't they?
+--------------------------------------------------End--
+{Tidus} 
+Oh, they've gone to {Seymour}'s house.
+--------------------------------------------------End--
+{Shelinda} 
+{Master Seymor}, or
+{Seymour}-sama, right?
+--------------------------------------------------End--
+{Tidus} 
+Oh, I'll be careful. Yes.
+--------------------------------------------------End--
+{Shelinda} 
+That's fine.
+--------------------------------------------------End--
+{Shelinda} 
+{Master Seymor} just a moment ago...
+They ご出42+59.されました.
+--------------------------------------------------End--
+{Tidus} 
+Really?
+--------------------------------------------------End--
+{Shelinda} 
+To {Blue} 【{Macalania Temple} 】{White}.
+They seem to have headed there.
+--------------------------------------------------End--
+{Shelinda} 
+{Master Seymor} is that temple's...
+Since he is also the High Priest.
+--------------------------------------------------End--
+{Tidus} 
+Oh, to everyone.
+I have to tell them.
+--------------------------------------------------End--
+{Shelinda} 
+That {Shelinda} also 42+73.42+74.ows.
+Please tell {Yuna}-sama.
+--------------------------------------------------End--
+{Shelinda} 
+I'm also heading to {Macalania Temple}...
+...I intend to.
+--------------------------------------------------End--
+{Tidus} 
+{Seymour} went to Maracanya Temple.
+I hear.
+--------------------------------------------------End--
+{Wakka} 
+It's {Macalania Temple}.
+--------------------------------------------------End--
+{Tidus} 
+That's right.
+--------------------------------------------------End--
+{Wakka} 
+...Even so.
+--------------------------------------------------End--
+{Wakka} 
+Even for the Reverend Master,
+To just go without saying anything...?
+--------------------------------------------------End--
+{Rikku} 
+I never thought I'd be 42+60.urned so quickly.
+I hadn't thought that.
+--------------------------------------------------End--
+{Wakka} 
+Oh, you're right. Surely...
+--------------------------------------------------End--
+{Auron} 
+{Yuna} ……
+Did something happen?
+--------------------------------------------------End--
+{Yuna} 
+...No, nothing.
+--------------------------------------------------End--
+{Auron} 
+Hmph... You're bad at hiding things.
+--------------------------------------------------End--
+{Yuna} 
+It's really nothing.
+--------------------------------------------------End--
+{Yuna} 
+Well, let's go!
+--------------------------------------------------End--
+{Tromell} 
+To this {Guadosalam}.
+What business do you have at this late stage?
+--------------------------------------------------End--
+{Tidus} 
+Are you going to do it?!
+--------------------------------------------------End--
+{Tromell} 
+Torment this old man,
+if that satisfies you...
+--------------------------------------------------End--
+{Tromell} 
+42+75.るなり42+76.くなり
+Do as you wish.
+--------------------------------------------------End--
+{Tromell} 
+After {Seymour}-sama's death,
+no new chieftain exists.
+--------------------------------------------------End--
+{Tromell} 
+{Guado} is now merely
+waiting to be destroyed by '__P1__'.
+--------------------------------------------------End--
+{Tromell} 
+Then, even if I'm killed right here and now,
+what does it matter?
+--------------------------------------------------End--
+{Tromell} 
+If I can go to the side
+of __P0__-sama and __P1__-sama...
+--------------------------------------------------End--
+{Tromell} 
+Even if my head is struck off,
+I don't care at all.
+--------------------------------------------------End--
+{Tromell} 
+Will you cut down this old man?
+That is exactly what I wish for.
+--------------------------------------------------End--
+{Tromell} 
+The fallen {Guado2}.
+Have you come to mock?
+--------------------------------------------------End--
+
+The lightning strikes in the Thunder Plains have become intense.
+Please wait a moment.
+--------------------------------------------------End--
+
+Please hurry to {Macalania Temple}.
+Lord/Lady {Seymour} is eagerly waiting.
+--------------------------------------------------End--
+
+It is now a 42+79. with no 42+78.
+You must not enter wantonly.
+--------------------------------------------------End--
+
+A new chief who will lead {Guado2}.
+Until that is decided, 42+79. will be sealed.
+--------------------------------------------------End--
+
+Before visiting {Farplane}.
+Please go to Lord/Lady {Seymour}'s residence.
+--------------------------------------------------End--
+
+For a Guard to abandon the Summoner they should protect...
+That is not admirable.
+--------------------------------------------------End--
+
+Because {Farplane} is a sacred spiritual ground,
+Unnecessary commotion is forbidden.
+--------------------------------------------------End--
+
+Regarding Lord/Lady {Jyscal}'s matter,
+Please keep it strictly confidential.
+{NEWPAGE}
+
+If unsettling rumors spread,
+The peace of {Spira} will be disturbed.
+--------------------------------------------------End--
+
+Regarding Lord/Lady {Jyscal}'s matter,
+It will be resolved within {Guado}.
+--------------------------------------------------End--
+
+I have no intention of fighting you.
+After all, we cannot win.
+--------------------------------------------------End--
+
+Many of {Guado}'s soldiers died.
+Only a handful survived.
+--------------------------------------------------End--
+
+While {Guado} may differ from humans in appearance,
+the feeling of honoring the dead is the same.
+--------------------------------------------------End--
+
+Into this {Guadosalam}, from all over {Spira},
+people who mourn the dead 42+84.れます.
+--------------------------------------------------End--
+
+Lord {Jyscal}, why...
+Even though I should have wholeheartedly 42+85.った to {Farplane}...
+--------------------------------------------------End--
+
+It is a 42+86.ろしい 42+60.件. As quickly as possible...
+I must inform Lord {Seymour}...
+--------------------------------------------------End--
+
+What happened to Lord {Jyscal}...
+It is a concern, but...
+{NEWPAGE}
+
+Eventually, Lord {Seymour} will 42+88.えを出して
+for us.
+--------------------------------------------------End--
+
+We are only to obey Lord {Seymour}'s commands.
+We are only to obey Lord __P0__'s commands.
+--------------------------------------------------End--
+
+The soldiers who followed Lord {Seymour}...
+Many met tragic deaths.
+{NEWPAGE}
+
+{Guado} concerning those who will carry the future,
+has lost many.
+--------------------------------------------------End--
+
+{Guado} through {Farplane}
+is a people who have grown accustomed to death.
+{NEWPAGE}
+
+We are prepared to accept destruction by 『{Sin} 』.
+We are ready.
+--------------------------------------------------End--
+
+『{Sin} 』 is truly the power of death.
+Humans cannot possibly stand against it.
+--------------------------------------------------End--
+
+You think our appearance is creepy,
+don't you?
+{NEWPAGE}
+
+It's fine. {Guado} is used to being found creepy
+because it's used to it.
+--------------------------------------------------End--
+
+If you ask me, humans are
+far creepier, though.
+{NEWPAGE}
+
+But if I start talking about things like that,
+it would be endless, so I'll refrain.
+--------------------------------------------------End--
+
+The other day, a human child saw me and
+started crying. That hurt.
+--------------------------------------------------End--
+
+{Seymour}-sama, is it going to conclude...?
+Oh dear...
+--------------------------------------------------End--
+
+My {42+93.}s are also guarding the road.
+If you meet them, please give them my regards!
+--------------------------------------------------End--
+
+Caught up in the current {42+95.}'s troubles...
+Many men from {Guado} died.
+--------------------------------------------------End--
+
+My {42+93.}s are residents of {Farplane} now too.
+This is unbearable.
+--------------------------------------------------End--
+
+I want to go to {Farplane} too...
+--------------------------------------------------End--
+
+It's a person! It's a person!
+It's a Summoner and a Guard!
+--------------------------------------------------End--
+
+Could it be that?
+Heh heh heh...
+--------------------------------------------------End--
+
+Lady {Jyscal} has returned, hasn't she?
+Why, I wonder? How come, I wonder?
+--------------------------------------------------End--
+
+The reason {Jyscal}-sama returned.
+{Seymour}-sama might know!
+--------------------------------------------------End--
+
+Not chasing {Seymour}-sama...
+I wonder if that's okay~?
+--------------------------------------------------End--
+
+An adult said.
+They said it's a secret about {Jyscal}-sama.
+--------------------------------------------------End--
+
+Heh heh heh...
+--------------------------------------------------End--
+
+Everyone, everyone will die.
+Both {Guado}, humans, {Ronso}, and {Al Bhed}!
+{NEWPAGE}
+
+Only '{Sin}' will remain.
+Forever and ever...
+--------------------------------------------------End--
+
+If everyone from {Spira} dies,
+{Farplane} will become full.
+--------------------------------------------------End--
+
+Heh heh heh...
+--------------------------------------------------End--
+
+Because {Guado} is protecting {Farplane}.
+The deceased can rest peacefully.
+--------------------------------------------------End--
+
+Regarding the matter of {Jyscal}'s chief,
+please don't tell anyone.
+{NEWPAGE}
+
+That the one who was the chief of {Guado} and the elder master of {Yevon2}
+was wandering, unable to find peace in death...
+{NEWPAGE}
+
+Such a thing must not happen.
+The entire {Guado2} will become a 42+77. being.
+--------------------------------------------------End--
+
+{Guado2} will resolve {Guado2}'s problem.
+Please understand.
+--------------------------------------------------End--
+
+Having lost many comrades, {Guado2}
+is overcome with grief.
+{NEWPAGE}
+
+With {blitzball}, the hearts of our comrades,
+can they not be healed...?
+--------------------------------------------------End--
+
+For current {Guado2}, 42+96.な42+97.42+98. to...
+...ponder, the strength is not remaining.
+--------------------------------------------------End--
+
+From the time {Guado2} accepted {Yevon2}'s teachings,
+__P1__ came to enjoy {blitzball}.
+--------------------------------------------------End--
+
+Through {blitz}, if {Spira}'s people...
+...could unite, I hope.
+--------------------------------------------------End--
+
+Achieving good 42+99. in Blitz and...
+...I wish to [42+100.42+101.] Lord {Seymour}'s 42+55..
+--------------------------------------------------End--
+
+{Guadosalam} is a 42+103. of 42+102..
+There is no danger of monsters [42+104.bikomu], you know.
+--------------------------------------------------End--
+
+The monsters that appeared in {Luca Stadium}...
+...the one who defeated them was Lord {Seymour}'s summoned beast.
+{NEWPAGE}
+
+I, who was at that place, by Lord {Seymour}'s power...
+...was moved from the bottom of my heart.
+{NEWPAGE}
+
+But the one who [42+105.] those monsters was...
+Oh... I can't believe it.
+--------------------------------------------------End--
+
+I'm sorry, I cannot say.
+Please forget it.
+--------------------------------------------------End--
+
+I am in training.
+Do not disturb me.
+--------------------------------------------------End--
+
+Do you want attention that much?
+Eventually, I'll face you in Blitz.
+--------------------------------------------------End--
+
+What attracted the most attention at {Luca}'s tournament was...
+Not the match, but {Seymour}'s summoned beast.
+{NEWPAGE}
+
+Even showing understanding to the subjugation team that broke the teachings.
+{Seymour}'s 42+106.reputation is only rising.
+--------------------------------------------------End--
+
+The chieftain's position, the master's 42+107.power, and the 42+55.bond...
+Hmph, {Seymour} obtains anything.
+--------------------------------------------------End--
+
+Now that {Seymour} is gone, who will serve as the next chieftain...
+...is undecided.
+{NEWPAGE}
+
+That means...
+I also have a chance.
+--------------------------------------------------End--
+
+Leading {Guado Glories} to 42+108.victory,
+I will become the next chieftain.
+{NEWPAGE}
+
+Until that time comes, I won't go to {Farplane}.
+I will survive no matter what means I use.
+--------------------------------------------------End--
+
+The one who will become {Guado}'s new leader is...
+...I am...kukuku
+--------------------------------------------------End--

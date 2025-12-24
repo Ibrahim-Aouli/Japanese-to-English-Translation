@@ -1,0 +1,339 @@
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract for 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} will pray.
+{CHOICE:31} is watching here.
+--------------------------------------------------End--
+{Wakka} 
+Lord Ohaland...
+Your strength, please...
+--------------------------------------------------End--
+{Yuna} 
+Wakka and the others' prayers
+I hope they are answered...
+--------------------------------------------------End--
+{Lulu} 
+Wakka and the others' prayers
+aren't enough.
+--------------------------------------------------End--
+
+Are you a Summoner too?
+--------------------------------------------------End--
+{Yuna} 
+I came from {Besaid Island}.
+My name is {Yuna}.
+--------------------------------------------------End--
+
+I am Dona.
+--------------------------------------------------End--
+{Dona} 
+You are Lord {High Summoner Braska}'s answer, aren't you?
+You are the Summoner with the 血42+53.書, aren't you?
+--------------------------------------------------End--
+{Dona} 
+Oh my, oh my, oh my...
+--------------------------------------------------End--
+{Dona} 
+Are all these people your guards?
+How unseemly, trooping along like that.
+--------------------------------------------------End--
+{Dona} 
+Lord {Braska}'s guards
+there should have only been two.
+--------------------------------------------------End--
+{Dona} 
+Guards are 42+54. over quantity.
+To {42+55} on numbers... how shallow.
+--------------------------------------------------End--
+{Dona} 
+That's why I only have one guard.
+Hey, {P0}?
+--------------------------------------------------End--
+{Yuna} 
+The number of guards is...
+It's the same as the number of people you can {42+55}.
+--------------------------------------------------End--
+{Yuna} 
+Even if you entrust them with your life,
+It's the number of people you can feel safe with.
+--------------------------------------------------End--
+{Yuna} 
+That's why I have so many...
+I'm happy to have these guards.
+--------------------------------------------------End--
+{Yuna} 
+Yes, I think I am happier than my father.
+--------------------------------------------------End--
+{Yuna} 
+Of course, even your way of thinking...
+I don't think it's {42+56}.
+--------------------------------------------------End--
+{Yuna} 
+So... {P0}, go {42+57}.
+Please leave us alone.
+--------------------------------------------------End--
+{Dona} 
+Do as you please!
+Let's go, {P0}.
+--------------------------------------------------End--
+{Yuna} 
+Hmph...
+--------------------------------------------------End--
+
+A guard is someone a Summoner can entrust their life to,
+A person they can feel safe with.
+--------------------------------------------------End--
+
+I wonder if I was able to become that kind of person?
+--------------------------------------------------End--
+
+What are you 42+58.saying?
+--------------------------------------------------End--
+
+If we 42+59.win the tournament,
+We'll strike this pose.
+--------------------------------------------------End--
+
+Both Guard and Blitz, their teammates...
+Trusting them is 42+60.important, that's the 42+55.point.
+--------------------------------------------------End--
+
+This 42+61.time, we'll 42+59.win and with this pose,
+We'll be 42+62.showered with applause.
+--------------------------------------------------End--
+
+If a flying ship comes,
+This is how we'll 42+63.support them.
+--------------------------------------------------End--
+
+For when the 42+64.Calm arrives,
+I'm practicing a 42+65.prayer pose.
+--------------------------------------------------End--
+
+They say it's practice for a victory pose.
+I envy their carefree attitude.
+--------------------------------------------------End--
+
+Are you a player? Or a guard?
+Surely, you're not doing both?
+--------------------------------------------------End--
+
+If you have time to practice victory poses,
+You should pray more earnestly.
+--------------------------------------------------End--
+
+A strange rumor is going around, that a flying ship...
+They say if it comes, they'll sing a prayer song.
+--------------------------------------------------End--
+
+Right now, fighting with '{Sin}' is...
+I wonder what kind of Summoner-sama they are.
+--------------------------------------------------End--
+
+Our {Kilika Beasts}
+Regrettably, they narrowly missed the 42+59. win...
+{NEWPAGE}
+
+The way they fought, believing in themselves,
+must have been an inspiration to the people.
+--------------------------------------------------End--
+
+This year's {Besaid Aurochs}
+I hear they were very successful.
+{NEWPAGE}
+
+We prayed to Lord {Ohalland} for certain victory.
+Surely, the divine favor will be granted.
+--------------------------------------------------End--
+
+I don't want to admit it, but the hearts of the people
+are gradually drifting away from the temple.
+{NEWPAGE}
+
+If Lord {Ohalland} were to see this,
+what would they say...
+--------------------------------------------------End--
+
+We couldn't dispel the people's anxieties.
+We keenly feel the helplessness of us temple officials.
+--------------------------------------------------End--
+
+Having been tainted by '{Sin}',
+it seems great damage occurred to {Bevelle}, didn't it?
+{NEWPAGE}
+
+According to {Yevon2}'s teachings, a thing called '{Sin}'
+Perhaps a judgment was handed down?
+--------------------------------------------------End--
+
+If we cannot give hope to the people,
+The temple should perhaps disappear 42+74.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s activ42+66., to the Save Sphere...
+The trans42+75. function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s sacre42+76. ground, Blitz training continues.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to recruit them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The trans42+75. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

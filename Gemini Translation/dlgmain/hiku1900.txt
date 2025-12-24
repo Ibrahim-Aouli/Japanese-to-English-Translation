@@ -1,0 +1,410 @@
+{Auron} 
+{Jecht} is... waiting, it seems.
+--------------------------------------------------End--
+{Cid} 
+What are we supposed to do?
+Just so you know, we can't provide backup anymore.
+--------------------------------------------------End--
+{Tidus} 
+There's nothing more we can do, right?
+We're going from the front.
+--------------------------------------------------End--
+{Cid} 
+Alright.
+--------------------------------------------------End--
+{Cid} 
+Get it in front of its mouth!
+--------------------------------------------------End--
+{Cid} 
+If it's off even a little bit...
+I'll tear down the shops in that row!
+--------------------------------------------------End--
+{Brother} 
+Leave it to me.
+I'll take care of it. No mistakes, 'ssu.
+--------------------------------------------------End--
+{Tidus} 
+Let's jump across from the deck again!
+--------------------------------------------------End--
+{Yuna} 
+Let's go fulfill our fathers' wishes!
+--------------------------------------------------End--
+{Rikku} 
+Don't worry, I'm with you!
+--------------------------------------------------End--
+{Lulu} 
+Should just the two of us go?
+--------------------------------------------------End--
+{Wakka} 
+Alright then, let's settle this!
+--------------------------------------------------End--
+{Auron} 
+I need to finish my story too.
+--------------------------------------------------End--
+{Kimahri} 
+You are {Kimahri}'s 42+53.
+--------------------------------------------------End--
+{Wakka} 
+After hitting it that much...
+It won't revive anymore, will it?
+--------------------------------------------------End--
+{Wakka} 
+Well... a lot has happened, hasn't it...
+It's not over yet, I tell you!
+--------------------------------------------------End--
+{Wakka} 
+Everyone in {Spira} is supporting us.
+Let's play the best match!
+--------------------------------------------------End--
+{Wakka} 
+A person from the sea... huh.
+You're quite something.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract of 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+{Rikku} 
+Dad's machine...
+At important times, it 42+56.42+57.s, doesn't it?
+--------------------------------------------------End--
+{Rikku} 
+You know, when your head is full of {42+58.}...
+It's good to just shout.
+--------------------------------------------------End--
+{Rikku} 
+Once it's Nagi42+59., by airship...
+Let's go to your {Zanarkand}!
+--------------------------------------------------End--
+{Rikku} 
+Regardless of what he says, Dad also...
+He seems to like you.
+--------------------------------------------------End--
+{Rikku} 
+When the battle is over,
+We'll build a new home.
+--------------------------------------------------End--
+{Rikku} 
+Now {42+60.}, I'm not a summoner...
+I wonder if I should just kidnap you.
+--------------------------------------------------End--
+{Auron} 
+I don't think this will be the end.
+--------------------------------------------------End--
+{Auron} 
+While {Jecht}'s legacy remains...
+I want to meet them...
+--------------------------------------------------End--
+{Auron} 
+When {42+58.} ends, I will go.
+Because even pretending to be alive can also {42+61.}.
+--------------------------------------------------End--
+{Auron} 
+10 years ago...
+--------------------------------------------------End--
+{Auron} 
+Following {Jecht}'s last {42+62.}...
+I crossed over to {Zanarkand}.
+--------------------------------------------------End--
+{Auron} 
+In that town, always you...
+I intended to watch over, but...
+--------------------------------------------------End--
+{Auron} 
+When {Sin} took {Zanarkand} then.
+My thoughts changed.
+--------------------------------------------------End--
+{Auron} 
+Not a dream world like lukewarm water.
+A world that is painful, but alive and existing there.
+--------------------------------------------------End--
+{Auron} 
+That kind of world...
+I want you to feel...
+--------------------------------------------------End--
+{Auron} 
+That's what {Sin}'s friend said.
+--------------------------------------------------End--
+{Auron} 
+That's why I brought you.
+To this {Spira}.
+--------------------------------------------------End--
+{Lulu} 
+It seems it's still too early to defeat Nagisa, huh?
+--------------------------------------------------End--
+{Lulu} 
+The best guard...
+Might be you.
+--------------------------------------------------End--
+{Lulu} 
+When you and {Yuna} met...
+Truly...
+--------------------------------------------------End--
+{Lulu} 
+What is called '{Yevon2}'s blessing'...
+It will no longer be an era like that, will it?
+--------------------------------------------------End--
+{Lulu} 
+I'm glad I met you, boy.
+Is it okay if we talk for a bit, just the two of us now?
+--------------------------------------------------End--
+{Yuna} 
+No matter what happens,
+I'll accept everything and fight.
+--------------------------------------------------End--
+{Yuna} 
+Let's do our best!
+--------------------------------------------------End--
+{Yuna} 
+How are you feeling?
+--------------------------------------------------End--
+{CHOICE:30} Great.
+{CHOICE:31} Normal.
+{CHOICE:32} Not so good.
+--------------------------------------------------End--
+{Yuna} 
+Yeah, me too!
+--------------------------------------------------End--
+{Yuna} 
+I'm fine.
+Perhaps it's thanks to you.
+--------------------------------------------------End--
+{Yuna} 
+I see...
+--------------------------------------------------End--
+{Yuna} 
+{42+68.42+69.} If it's tough,
+You mustn't overdo it.
+--------------------------------------------------End--
+{Yuna} 
+I was able to come this far {42+68.42+69.}.
+It's thanks to you.
+--------------------------------------------------End--
+{Cid} 
+Count on you, kid!
+--------------------------------------------------End--
+{Brother} 
+What should I do...?
+--------------------------------------------------End--
+{Brother} 
+No more songs for 『{Sin}』...
+Won't it work?
+--------------------------------------------------End--
+{Brother} 
+Will 『{Sin}』 really
+revive?
+--------------------------------------------------End--
+{Brother} 
+You're going to charge into {Sin} again, aren't you?
+Leave it to me!
+--------------------------------------------------End--
+{Brother} 
+If you say so.
+I'll fly anywhere!
+--------------------------------------------------End--
+{Brother} 
+Old man! I...
+I can't believe it!
+--------------------------------------------------End--
+{Cid} 
+They're your own eyes!
+What will you do if you don't believe?!
+--------------------------------------------------End--
+{Brother} 
+{Rikku}, you did it!
+--------------------------------------------------End--
+{Yuna} 
+Revival... will it happen?
+--------------------------------------------------End--
+{Tidus} 
+Probably.
+--------------------------------------------------End--
+{Cid} 
+What?!
+So that's how it is!
+--------------------------------------------------End--
+{Tidus} 
+The one inside 『{Sin} 』...
+...must be defeated.
+--------------------------------------------------End--
+{Wakka} 
+If we could defeat it with just this,
+{Crusader} I mean, it doesn't hurt, does it?
+--------------------------------------------------End--
+{Lulu} 
+But it was what weakened {Sin},
+wasn't that for sure?
+--------------------------------------------------End--
+{Rikku} 
+That's right, that's right!
+--------------------------------------------------End--
+{Cid} 
+Alright, while we have the chance,
+It's {42+71.} cannon repair.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s {活42+72.}, to the Save Sphere.
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+73.place, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and talk to them, you may be able to {scout 42+55.contract}.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

@@ -1,0 +1,213 @@
+{Rikku} 
+Hmm...
+--------------------------------------------------End--
+{Rikku} 
+How come in a place like this...
+...is there a praying figure?
+--------------------------------------------------End--
+{Tidus} 
+Are you asking me?
+--------------------------------------------------End--
+{Lulu} 
+It was stolen from the temple quite some time ago,
+I hear.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Auron} 
+If there are no praying figures,
+summoners can't train.
+--------------------------------------------------End--
+{Auron} 
+If training is insufficient,
+the Ultimate Summon won't be acquired either.
+--------------------------------------------------End--
+{Auron} 
+If there is no Ultimate Summon,
+you can't fight {Sin}.
+--------------------------------------------------End--
+{Auron} 
+That's how it is.
+--------------------------------------------------End--
+{Rikku} 
+Then, summoners won't die either?
+--------------------------------------------------End--
+{Wakka} 
+Well, the group who thought that way
+must have stolen it.
+--------------------------------------------------End--
+{Tidus} 
+The shop person's feelings... I understand.
+--------------------------------------------------End--
+{Wakka} 
+Tch!
+Is it a monster of {Guado}!?
+--------------------------------------------------End--
+{Kimahri} 
+No, it's the dead.
+--------------------------------------------------End--
+{Lulu} 
+Indeed...
+It is you, isn't it, Lord Ginnemu?
+--------------------------------------------------End--
+{Lulu} 
+Because I was... so inadequate...
+--------------------------------------------------End--
+{Lulu} 
+The human heart
+has already been lost, hasn't it?
+--------------------------------------------------End--
+{Lulu} 
+Understood.
+--------------------------------------------------End--
+{Lulu} 
+My final duty as a guard,
+I will fulfill it.
+--------------------------------------------------End--
+{Lulu} 
+How strange.
+I thought I'd be sadder.
+--------------------------------------------------End--
+{Lulu} 
+Regarding parting with people,
+have I gotten too used to it?
+--------------------------------------------------End--
+{Wakka} 
+You've become stronger, haven't you?
+--------------------------------------------------End--
+{Lulu} 
+I suppose so...
+--------------------------------------------------End--
+{Lulu} 
+I hope so.
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} The Oracle, this response
+is offering a 42+53.prayer.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle} : Best Response
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle} : Back
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Direcional Up} : Oracle's Chamber{VAR07:60}{VAR07:E4}{Direcional Down} : Entrance
+{VAR07:E4}{Direcional Left} ：？？？{VAR07:60}{VAR07:E4}{Direcional Right} ：？？？
+{VAR07:E4}{Button Circle} : Confirm
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Direcional Down} : Entrance
+{VAR07:E4}{Direcional Left} ：？？？{VAR07:60}{VAR07:E4}{Direcional Right} ：？？？
+{VAR07:E4}{Button Circle} : Confirm
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+54., to the Save Sphere.
+The 転42+55. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training at {Spira}'s 42+56.地.
+hidden excellent players are lurking.
+If you interact and talk to {Button Square}, you may be able to Scout 42+57.約.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+55. function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Language Dictionary Volume 25!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language 42+58.!
+"{OPurple} Ah {White}" 42+59. "{Pink} ah {White}"
+"{OPurple} Ih {White}" 42+59. "{Pink} ih {White}"
+"{OPurple} Uh {White}" 42+59. "{Pink} uh {White}"
+"{OPurple} Eh {White}" 42+59. "{Pink} eh {White}"
+"{OPurple} Oh {White}" 42+59. "{Pink} oh {White}"
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar word 42+60. '{Al Bhed} Language', the {Al Bhed} Language Dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

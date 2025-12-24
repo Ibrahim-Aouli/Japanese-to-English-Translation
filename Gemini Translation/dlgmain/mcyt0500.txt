@@ -1,0 +1,93 @@
+{Tidus} 
+Understood!
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} The Macalania Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one {Yellow} Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+It looks like a {Yellow} Sphere {White} can be set in the recess.
+--------------------------------------------------End--
+{WINDOW}
+Take the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} has the Macalania Sphere {White}.
+--------------------------------------------------End--
+{WINDOW}
+Set the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+I have the {Yellow} Seal Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+I have the {Yellow} Destruction Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} took the Macalania Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} has been taken.
+--------------------------------------------------End--
+
+{WINDOW}
+`{Yellow} I took the Sphere of Ruin.{White}`
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} set the Macalania Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} has been set.
+--------------------------------------------------End--
+{Wakka} 
+Hahaha...
+My mind is completely blank...
+--------------------------------------------------End--
+{Lulu} 
+If the Master is at fault...
+It can't be helped...!
+--------------------------------------------------End--
+{Tidus} 
+What!?
+--------------------------------------------------End--
+{Tidus} 
+Is this harassment?!
+--------------------------------------------------End--
+{Auron} 
+Be prepared.
+--------------------------------------------------End--
+{Auron} 
+{Kimahri} is waiting.
+Go ahead.
+--------------------------------------------------End--
+{Auron} 
+Depending on the opponent's move... I'll take action.
+--------------------------------------------------End--

@@ -1,0 +1,373 @@
+{Auron} 
+Are you concerned about {Yuna}?
+--------------------------------------------------End--
+{Tidus} 
+It's impossible not to worry.
+--------------------------------------------------End--
+{Tidus} 
+What are you planning to do?
+--------------------------------------------------End--
+{Auron} 
+If we think simply...
+--------------------------------------------------End--
+{Auron} 
+To leave the base...
+...in accordance with {42+53}...
+--------------------------------------------------End--
+{Auron} 
+...to {42+54} with {Seymour}.
+That must be their intention.
+--------------------------------------------------End--
+{Tidus} 
+What kind of {42+54}?
+--------------------------------------------------End--
+{Auron} 
+Who knows.
+--------------------------------------------------End--
+{Tidus} 
+I wonder if they'll be okay alone...
+--------------------------------------------------End--
+{Auron} 
+...It's a {42+55} hope.
+On {Seymour}'s side, the {42+56} is superior.
+--------------------------------------------------End--
+{Tidus} 
+If you understand, then...
+Can't you do something about it?
+--------------------------------------------------End--
+{Auron} 
+{Yuna} does not wish for that.
+--------------------------------------------------End--
+{Tidus} 
+Ngh...
+--------------------------------------------------End--
+{Tidus} 
+I don't understand that either.
+Do you not trust us?
+--------------------------------------------------End--
+{Auron} 
+It's the opposite.
+--------------------------------------------------End--
+{Auron} 
+Alone, so as not to involve {42+57}.
+Is determined to solve it.
+--------------------------------------------------End--
+{Tidus} 
+Yeah, that's how it is.
+--------------------------------------------------End--
+{Tidus} 
+But that one...
+It makes me worry.
+--------------------------------------------------End--
+{Tidus} 
+It's fine if you just talk to me.
+--------------------------------------------------End--
+{Auron} 
+That's what I can't do{42+58}.
+--------------------------------------------------End--
+{Auron} 
+Very earnest and has strong beliefs.
+......{42+59}bad at expressing things.
+--------------------------------------------------End--
+{Tidus} 
+You're really observant.
+--------------------------------------------------End--
+{Auron} 
+{{Yuna}} is easy to understand.
+--------------------------------------------------End--
+{Tidus} 
+Hahaha...
+--------------------------------------------------End--
+{Tidus} 
+Indeed.
+--------------------------------------------------End--
+{Auron} 
+Someday, the guard will have their turn.
+--------------------------------------------------End--
+{Auron} 
+At that time, you {42+60.}show them.
+--------------------------------------------------End--
+{Rikku} 
+Too slow!
+--------------------------------------------------End--
+{Tidus} 
+Sorry!
+--------------------------------------------------End--
+
+I was strangely calm.
+--------------------------------------------------End--
+
+The outcome for {{Yuna}} was like what I imagined,
+not an outcome of this and that...
+--------------------------------------------------End--
+
+Yes, it was for continuing the journey.
+Something like a small 42+61. ceremony.
+--------------------------------------------------End--
+
+So that I could think that way.
+I think it's because it had become that way.
+--------------------------------------------------End--
+
+Well, how should I put it...
+--------------------------------------------------End--
+
+That thing, the 42+62. land of resignation.
+It might have been that, but...
+--------------------------------------------------End--
+{Tidus} 
+Shall we go, {Yuna}?
+--------------------------------------------------End--
+{Lucil} 
+{Yuna}-sama, your safe 42+63. arrival 42+64.
+That is most welcome.
+--------------------------------------------------End--
+{Lucil} 
+And your agreement.
+Congratulations.
+--------------------------------------------------End--
+{Elma} 
+A messenger from {Master Seymor}...
+It seems they've come to 42+65. meet you.
+--------------------------------------------------End--
+{Lucil} 
+To {Blue} 【{Macalania Temple} 】{White}...
+Please proceed along that path.
+--------------------------------------------------End--
+{Lucil} 
+This path leads to {Bevelle}.
+--------------------------------------------------End--
+{Lucil} 
+Now, to {Blue} 【{Macalania Temple} 】{White}.
+Please hurry.
+--------------------------------------------------End--
+{Elma} 
+The temple isn't this way~
+--------------------------------------------------End--
+{Elma} 
+Captain {Lucil}'s talk.
+Were you listening properly?
+--------------------------------------------------End--
+{Lucil} 
+Recently, summoners are going missing.
+It seems many 42+63. incidents are frequently occurring.
+--------------------------------------------------End--
+{Lucil} 
+Please be extremely careful.
+--------------------------------------------------End--
+{Lucil} 
+Once this 42+66.42+67. is finished,
+we will head north.
+--------------------------------------------------End--
+{Lucil} 
+We'll catch new Chocobos,
+and we intend to re-form the cavalry unit.
+--------------------------------------------------End--
+{Lucil} 
+Still... it's a happy occasion, isn't it?
+--------------------------------------------------End--
+{Lucil} 
+It's been quite a long time for such a topic,
+we haven't had one, you see.
+--------------------------------------------------End--
+{Elma} 
+Until Lord/Lady {Yuna}’s store inauguration ceremony is over,
+we decided to help with the temple's 42+69. preparations.
+--------------------------------------------------End--
+{Elma} 
+If there are any 42+71. who interfere with our helping,
+we'll get rid of them!
+--------------------------------------------------End--
+{Elma} 
+Oh, by the way, {Clasko} is
+acting as a 42+72. guard with a Chocobo.
+--------------------------------------------------End--
+{Elma} 
+If you have time, please
+say hello.
+--------------------------------------------------End--
+{Elma} 
+Next time you meet them, they'll be cool
+Chocobo cavalry again, you see!
+--------------------------------------------------End--
+
+Hm? What?
+--------------------------------------------------End--
+
+I'm waiting for my dad to come!
+--------------------------------------------------End--
+
+It's dangerous without Dad.
+I can't go to {Blue} 【{Macalania Temple} 】{White}.
+--------------------------------------------------End--
+
+Are you a guard?
+Thank you for your hard work.
+--------------------------------------------------End--
+
+I want to go to {Blue} 【{Macalania Temple} 】{White} with this child, but...
+There are many monsters, so if 42+75.person isn't with me...
+--------------------------------------------------End--
+
+42+75.person is my guard.
+--------------------------------------------------End--
+
+Lord/Lady {Seymour} is eagerly waiting.
+Please hurry to {Blue} 【{Macalania Temple} 】{White}.
+--------------------------------------------------End--
+
+Until we pass through this forest, {Yuna}-sama's protection...
+I will leave to 42+57.-sama, the guard.
+--------------------------------------------------End--
+
+I have a meeting with Dad, but...
+He hasn't come at all.
+--------------------------------------------------End--
+
+Dad, the meeting place...
+Maybe he forgot...
+--------------------------------------------------End--
+
+My dad.
+He's rather forgetful.
+--------------------------------------------------End--
+
+I'm supposed to meet 42+75.person here, but...
+They haven't come no matter how long I wait.
+--------------------------------------------------End--
+
+Unless something fortunate has happened...
+I hope it's good...
+--------------------------------------------------End--
+
+Because they're a bit scatterbrained.
+I wonder if they forgot the place...
+--------------------------------------------------End--
+
+Thanks to you all.
+I finally got to see my wife.
+--------------------------------------------------End--
+
+But... now my kid...
+went into the forest alone.
+--------------------------------------------------End--
+
+It seems he went to look for me because I didn't come.
+I need to find him soon...
+--------------------------------------------------End--
+
+Thanks to 42+57., I was able to meet the 42+75. person.
+Thank you very much.
+--------------------------------------------------End--
+
+But before the 42+75. person arrived,
+my son went into the forest on his own...
+--------------------------------------------------End--
+
+Now, what should I do...
+--------------------------------------------------End--
+{Wantz} 
+Welcome!
+{O'aka}, please!
+--------------------------------------------------End--
+{Wantz} 
+Welcome!
+There are good 42+77. available today!
+--------------------------------------------------End--
+{Wantz} 
+Oh, 42+78.'s treasure!
+--------------------------------------------------End--
+{Wantz} 
+Hey, keep it 42+79. to yourself.
+--------------------------------------------------End--
+{WINDOW}
+{{CHOICE:30}} Show items.
+{CHOICE:31} Show weapon.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s 42+80. action, to the Save Sphere.
+{blitzball} the 42+81. transfer function to the stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+82. land, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, and you may be able to scout and 42+83. them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+Airship transfer 42+81. function has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:72} Thunder Plains
+
+{VAR07:5E} Guadosalam
+
+{VAR07:4F} Luca {VAR07:77} Moonflow
+
+Besaid
+{VAR07:4A} Port Kilika
+{VAR07:6D} Djose Temple
+--------------------------------------------------End--
+{AREA}
+Macalania Woods
+--------------------------------------------------End--
+{AREA}
+Macalania Temple
+--------------------------------------------------End--
+{WINDOW}
+Discovered {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--

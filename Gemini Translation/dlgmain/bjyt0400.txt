@@ -1,0 +1,155 @@
+{Tidus} 
+It's cold...
+--------------------------------------------------End--
+{Tidus} 
+Fire...
+Where's the fire...?
+--------------------------------------------------End--
+{Tidus} 
+I'm hungry...
+--------------------------------------------------End--
+{Tidus} 
+Ah... H-hey, wh-what is it!?
+Are you going to disappear!?
+--------------------------------------------------End--
+{Tidus} 
+Ah, no, please wait.
+I'll go look for something!
+--------------------------------------------------End--
+{Tidus} 
+Ah~ What a relief!
+--------------------------------------------------End--
+{Tidus} 
+What are you doing!?
+--------------------------------------------------End--
+
+What is this guy?
+--------------------------------------------------End--
+
+It's {fiend}!
+He's disguised as a human.
+--------------------------------------------------End--
+
+That's right! It must be!
+--------------------------------------------------End--
+
+Shall we take him out!?
+--------------------------------------------------End--
+
+Wait!
+--------------------------------------------------End--
+
+What if he's human?
+--------------------------------------------------End--
+
+In that case, it can't be helped.
+--------------------------------------------------End--
+
+No!
+Let's take him to the boat.
+--------------------------------------------------End--
+
+Sorry.
+--------------------------------------------------End--
+
+It's the remains of a campfire.
+--------------------------------------------------End--
+
+If there's {P0}something to burn{P1}...
+We might be able to light a fire.
+--------------------------------------------------End--
+
+To start a fire,
+{P0}A fire-starting tool{P1} is needed.
+--------------------------------------------------End--
+
+To light a fire, as {P0}tinder{P1},
+Something flammable is needed.
+--------------------------------------------------End--
+
+...It's an eerie stone statue.
+--------------------------------------------------End--
+
+Withered flowers adorn it.
+--------------------------------------------------End--
+
+It's wet from the rain, so it can't be used as {P0}tinder{P1}...
+--------------------------------------------------End--
+Effect
+Lightning!!
+--------------------------------------------------End--
+Event
+Albedo Rucksack Stores Appear
+--------------------------------------------------End--
+Event
+Nojima's Memories
+--------------------------------------------------End--
+An effect where the eyes glow here...
+How about adding that?
+(The map will be darkened)
+--------------------------------------------------End--
+{WINDOW}
+
+{P0}{P1}: Examine{P2}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s activity, on the Save Sphere...
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s area, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, you may be able to Scout and 42+53. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

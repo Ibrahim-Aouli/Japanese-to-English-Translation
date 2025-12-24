@@ -1,0 +1,270 @@
+
+{WINDOW}
+{Blue} TIME {VAR12:32}：{VAR12:31}：{VAR12:30}{White} 
+--------------------------------------------------End--
+{WINDOW}
+The seal hidden in {Spira}'s land.
+An item that can release it.
+But it has lost its power now and is not available in shops.
+Can it regain its power somewhere...?
+--------------------------------------------------End--
+{WINDOW}
+
+Here, the Chocobos
+are training day and night.
+{NEWPAGE}
+
+Oh, good one...
+Please, won't you cooperate with the training?
+{NEWPAGE}
+
+
+On the opposite side of the temple, a Chocobo that has been marked with 手42+53.
+is waiting.
+{NEWPAGE}
+
+You will ride that Chocobo,
+and do 42+54.42+55. with the Chocobos here.
+--------------------------------------------------End--
+{WINDOW}
+
+If you are willing to cooperate, you should hurry to the Chocobo on the opposite side.
+(No translation for this line as it was combined with the previous line to form a complete sentence).
+{NEWPAGE}
+
+When you ride the Chocobo,
+the match will begin!
+--------------------------------------------------End--
+{WINDOW}
+
+On the opposite side of the temple, a Chocobo that has been marked with 手42+53.
+is waiting.
+{NEWPAGE}
+
+You will ride that Chocobo,
+and do 42+54.42+55. with the Chocobos here.
+{NEWPAGE}
+
+When you mount a Chocobo,
+the match will begin!
+--------------------------------------------------End--
+{WINDOW}
+
+It seems to want to say, "Mount!"
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【42+54.技脱明】{White}
+・There are several Treasure 42+56. on the course.
+When you open a Treasure 42+56., your Chocobo will jump and
+you can take a shortcut.
+・If you can reach the goal before the opponent's Chocobo,
+you will receive 42+57.42+58..
+・However, if you touch a pole on the course,
+the rank of 42+57.42+58. will decrease.
+・The more Treasure 42+56. you open, the better 42+57.42+58. you
+will receive. Not only by reaching the goal quickly,
+but also try to open as many Treasure 42+56. as possible.
+--------------------------------------------------End--
+{WINDOW}
+START！！
+--------------------------------------------------End--
+{WINDOW}
+{Red} LOSE{White} 
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} WIN！！{White} 
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count: 0 times!!
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count: 1 time
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count: 2 times
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count: 3 times
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count: 4 times
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count: 5 times
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count: 6 times
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 7
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 8
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 9
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 10
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 11
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 12
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 13
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 14
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 15
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 16
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 17
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 18
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 19
+--------------------------------------------------End--
+{WINDOW}
+Pole contact count 20
+--------------------------------------------------End--
+{WINDOW}
+Number of 42+56. treasures opened 0
+--------------------------------------------------End--
+{WINDOW}
+Number of 42+56. treasures opened 1
+--------------------------------------------------End--
+{WINDOW}
+Number of 42+56. treasures opened 2
+--------------------------------------------------End--
+{WINDOW}
+Number of 42+56. treasures opened 3
+--------------------------------------------------End--
+{WINDOW}
+Number of 42+56. treasures opened 4!!
+--------------------------------------------------End--
+{WINDOW}
+Number of 42+56. treasures opened 5!!
+--------------------------------------------------End--
+{WINDOW}
+Treasures 42+56. opened: 6!!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s activity, to the Save Sphere
+the transfer function to {blitzball} Stadium
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In the {Spira} region, continue Blitz's training.
+hidden excellent players are lurking.
+By pressing {Button Square} and speaking, you may be able to make a scout 42+61. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+the transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+I'll ride {CHOICE:30}.
+I won't ride {CHOICE:31}.
+{CHOICE:32} Race explanation.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 24!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language 42+62.!
+{VAR07:31} 『{OPurple} Pu {White} 』42+63.『{Pink} Pa {White} 』
+{VAR07:31} 『{OPurple} Pe {White} 』42+63.『{Pink} Pi {White} 』
+{VAR07:31} 『{OPurple} Pa {White} 』42+63.『{Pink} Pu {White} 』
+{VAR07:31} 『{OPurple} Po {White} 』42+63.『{Pink} Pe {White} 』
+{VAR07:31} 『{OPurple} Pi {White} 』42+63.『{Pink} Po {White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar 42+64. language '{Al Bhed} language' requires a {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

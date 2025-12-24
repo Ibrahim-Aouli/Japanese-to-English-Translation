@@ -1,0 +1,33 @@
+{Yuna} 
+Thank you for waiting!
+--------------------------------------------------End--
+{Yuna} 
+To {Master Seymor}
+I will go to return to formation.
+--------------------------------------------------End--
+
+Lord {Jyscal}!?
+--------------------------------------------------End--
+
+Oh... Lord {Jyscal}
+--------------------------------------------------End--
+{Auron} 
+You seem to be lost...
+--------------------------------------------------End--
+{Yuna} 
+Why...
+--------------------------------------------------End--
+{Auron} 
+Have {Yuna} run the shop.
+--------------------------------------------------End--
+{Yuna} 
+{Jyscal}...
+--------------------------------------------------End--
+{Lulu} 
+You are no longer Lord {Jyscal}.
+Please quickly attend to the shop.
+--------------------------------------------------End--
+{Auron} 
+The talk is for later.
+We are leaving here!
+--------------------------------------------------End--

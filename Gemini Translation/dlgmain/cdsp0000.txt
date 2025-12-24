@@ -1,0 +1,476 @@
+{WINDOW}
+{Yellow} [How to Use the Sphere Grid] {White}
+--------------------------------------------------End--
+{WINDOW}
+Characters place spheres on the Sphere Grid,
+and their abilities grow by setting them.
+Let's take a look at how to use the Sphere Grid.
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+
+You want to hear it again?!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Alright.
+{CHOICE:31} I don't understand.
+--------------------------------------------------End--
+{Tidus} 
+Ngh...
+--------------------------------------------------End--
+{Tidus} 
+Ow...
+--------------------------------------------------End--
+
+Stay still!
+--------------------------------------------------End--
+{Tidus} 
+Ugh, it hurts.
+--------------------------------------------------End--
+
+Don't move, alright?!
+--------------------------------------------------End--
+{Tidus} 
+Well, I give up.
+--------------------------------------------------End--
+
+Check your items.
+--------------------------------------------------End--
+
+You don't understand...?
+--------------------------------------------------End--
+{Tidus} 
+I don't understand at all.
+--------------------------------------------------End--
+{Tidus} 
+I don't understand!
+--------------------------------------------------End--
+
+You!
+--------------------------------------------------End--
+
+Wait!
+--------------------------------------------------End--
+
+If you help with the work, for a little while...
+they'll look after you, they said.
+--------------------------------------------------End--
+{Tidus} 
+You understand the Word Shop!?
+--------------------------------------------------End--
+{Tidus} 
+Understood! I'll handle it!
+--------------------------------------------------End--
+
+Oh! That's right!
+--------------------------------------------------End--
+
+So, let's do our best at work~!
+--------------------------------------------------End--
+{Tidus} 
+What's this?
+A crane... right?
+--------------------------------------------------End--
+
+With dirty hands,
+Don't touch it without permission!
+--------------------------------------------------End--
+{Tidus} 
+Don't get angry.
+It echoes in my empty stomach.
+--------------------------------------------------End--
+
+Finally, I discovered {airship}!
+--------------------------------------------------End--
+
+The record was correct.
+--------------------------------------------------End--
+
+Well now, how should we pull it up?
+--------------------------------------------------End--
+
+You're outside!
+--------------------------------------------------End--
+{Tidus} 
+What! I helped, didn't I?
+--------------------------------------------------End--
+{Tidus} 
+Ah~ I'm hungry...
+--------------------------------------------------End--
+{Tidus} 
+Ooh! Food!!
+--------------------------------------------------End--
+
+It's because you eat in a hurry.
+--------------------------------------------------End--
+
+What is it~?
+--------------------------------------------------End--
+{Tidus} 
+What is your name?
+--------------------------------------------------End--
+
+I'm {Rikku}.
+--------------------------------------------------End--
+{Tidus} 
+It really works!
+--------------------------------------------------End--
+{Tidus} 
+But if that's the case, from the start...
+...you should've just talked normally.
+--------------------------------------------------End--
+{Rikku} 
+There wasn't such an 応42+53..
+--------------------------------------------------End--
+{Rikku} 
+Everyone thought of Chii as...
+...a monster...
+--------------------------------------------------End--
+{Tidus} 
+Chii?
+--------------------------------------------------End--
+{Rikku} 
+Oh, Chii means "you."
+--------------------------------------------------End--
+{Tidus} 
+Who are you all?
+--------------------------------------------------End--
+{Rikku} 
+I'm {Al Bhed2}.
+You can tell by 言店, right?
+--------------------------------------------------End--
+{Rikku} 
+Hey, don't you dislike {Al Bhed}?
+--------------------------------------------------End--
+{Tidus} 
+It's not about liking or disliking... I don't know.
+--------------------------------------------------End--
+{Rikku} 
+Where did you come from?
+--------------------------------------------------End--
+{Tidus} 
+I'm {Zanarkand}.
+--------------------------------------------------End--
+{Tidus} 
+I was a Blitz player there, you see.
+The ace of {Zanarkand Abes}!
+--------------------------------------------------End--
+{Rikku} 
+By any chance, your head...
+...did you hit it hard, or something?
+--------------------------------------------------End--
+{Tidus} 
+I was hit by you all.
+--------------------------------------------------End--
+{Rikku} 
+So, about what happened before that.
+Do you remember?
+--------------------------------------------------End--
+
+About {Zanarkand}.
+--------------------------------------------------End--
+
+About the matches and daily life.
+--------------------------------------------------End--
+
+At the time of {blitzball}'s match,
+the fact that 『{Sin} 』 42+54.came,
+--------------------------------------------------End--
+
+And then, because of {Auron}, I was delayed in escaping,
+enveloped by light...
+--------------------------------------------------End--
+
+I talked as things came to mind, but
+eventually I started to feel uneasy.
+--------------------------------------------------End--
+{Tidus} 
+Am I... saying strange things?
+--------------------------------------------------End--
+{Rikku} 
+I got close to 『{Sin} 』...
+--------------------------------------------------End--
+{Rikku} 
+It's alright!
+It will surely get better soon.
+--------------------------------------------------End--
+{Rikku} 
+People who got too close to 『{Sin} 』
+they say their heads spin.
+--------------------------------------------------End--
+{Rikku} 
+So you also saw something like a strange dream,
+isn't that all?
+--------------------------------------------------End--
+{Tidus} 
+Does that mean I'm 42+55.ki?
+--------------------------------------------------End--
+{Rikku} 
+...by 『{Sin} 』's poisonous gas.
+I think it was destroyed.
+--------------------------------------------------End--
+{Tidus} 
+Why?
+--------------------------------------------------End--
+{Rikku} 
+But... something like {Zanarkand}...
+It doesn't exist anymore now.
+--------------------------------------------------End--
+{Rikku} 
+1000 years ago, '{Sin}'
+went on a rampage and destroyed it.
+--------------------------------------------------End--
+{Rikku} 
+So something like {blitzball}
+can't be done.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+Wh-What do you mean?
+1000 years ago, you say?
+--------------------------------------------------End--
+{Tidus} 
+I saw '{Sin}' {Zanarkand}...
+...42+54.u happen!
+--------------------------------------------------End--
+{Tidus} 
+Are you saying that was 1000 years ago!?
+I can't believe something like that!
+--------------------------------------------------End--
+{Rikku} 
+Hey...
+--------------------------------------------------End--
+{Rikku} 
+You're a Blitz player, right?
+--------------------------------------------------End--
+{Rikku} 
+If you go to {Luca},
+things might work out.
+--------------------------------------------------End--
+{Rikku} 
+Someone who knows you.
+Maybe there are...
+--------------------------------------------------End--
+{Rikku} 
+You might remember something too.
+It just might be, you know.
+--------------------------------------------------End--
+{Tidus} 
+{Luca} ？
+--------------------------------------------------End--
+{Rikku} 
+Alright! Leave it to me!
+I'll take you to {Luca}!
+--------------------------------------------------End--
+{Rikku} 
+You don't want to go~?
+--------------------------------------------------End--
+{Rikku} 
+Then I'll go talk to everyone,
+Wait a moment.
+--------------------------------------------------End--
+{Rikku} 
+Ah...
+And, a warning!
+--------------------------------------------------End--
+{Rikku} 
+That you came from {Zanarkand}
+It's better not to tell anyone.
+--------------------------------------------------End--
+{Rikku} 
+Because that place is {Yevon2}'s sacred land.
+I think some people would get angry.
+--------------------------------------------------End--
+
+{Zanarkand} is...
+{Yevon2}'s sacred land...
+--------------------------------------------------End--
+
+What is that about...?
+That's how it felt.
+--------------------------------------------------End--
+
+{Yevon2}? The poison of 『{Sin}』?
+{Luca} ？
+--------------------------------------------------End--
+
+I thought I had only come somewhere far away.
+I thought I could return right away.
+--------------------------------------------------End--
+{Tidus} 
+You mean it {42+56.} 1,000 years?
+--------------------------------------------------End--
+{Tidus} 
+Unbelievable!
+--------------------------------------------------End--
+
+『{Sin} 』！
+--------------------------------------------------End--
+
+{{Sin}} is coming!
+--------------------------------------------------End--
+
+It's below!
+--------------------------------------------------End--
+
+What's wrong! Hurry!
+Get to work!
+--------------------------------------------------End--
+
+Whatever you do,
+don't be a hindrance.
+--------------------------------------------------End--
+
+If you're about to die,
+use this!
+--------------------------------------------------End--
+
+Are you afraid of the sea?
+You're pathetic.
+--------------------------------------------------End--
+With the {42+57.42+58.} save sphere,
+you can save the game.
+--------------------------------------------------End--
+You can get recovery items.
+(One per person only)
+--------------------------------------------------End--
+
+There are old ruins at the bottom of the sea.
+--------------------------------------------------End--
+
+They're not active now, but
+there's probably still energy left.
+--------------------------------------------------End--
+
+If you dive in and fiddle with it a bit...
+The ruins have revived...
+--------------------------------------------------End--
+
+That thing submerged on the seabed
+I think we can pull it up.
+--------------------------------------------------End--
+
+I'll go immediately when ready.
+--------------------------------------------------End--
+{Tidus} 
+Right!
+--------------------------------------------------End--
+{Tidus} 
+Hmm.
+--------------------------------------------------End--
+{WINDOW}
+
+{White} {Button Square}: Return to the ship
+{Button X}: Dive {White}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s activity, to the Save Sphere
+the transfer function to {blitzball} Stadium
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s lands, continuing Blitz training,
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to recruit them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+the transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 1!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language 42+63.!
+{VAR07:31} "{OPurple} Wa{White}" 42+64. "{Pink} A{White}"
+{VAR07:31} "{OPurple} Mi{White}" 42+64. "{Pink} I{White}"
+{VAR07:31} "{OPurple} Fu{White}" 42+64. "{Pink} U{White}"
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+As for the unfamiliar Language Store '{Al Bhed} Language', the {Al Bhed} language dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

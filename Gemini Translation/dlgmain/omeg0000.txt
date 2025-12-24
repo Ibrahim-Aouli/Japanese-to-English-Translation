@@ -1,0 +1,169 @@
+{Tidus} 
+What is this place?
+--------------------------------------------------End--
+{Lulu} 
+About 700 years ago...
+--------------------------------------------------End--
+{Lulu} 
+A monk official who defied {Yevon2}'s teachings
+was punished.
+--------------------------------------------------End--
+{Wakka} 
+Ah, that's the rebel Omega, right?
+--------------------------------------------------End--
+{Yuna} 
+Omega resented the temple
+and became a monster, wandering {Spira}...
+--------------------------------------------------End--
+{Wakka} 
+The dark ground below
+is where he likes to be, according to legend, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+Is that here?
+--------------------------------------------------End--
+{Auron} 
+Are you intimidated?
+--------------------------------------------------End--
+{Tidus} 
+No way!
+--------------------------------------------------End--
+{Wakka} 
+Really?...
+--------------------------------------------------End--
+{Auron} 
+That was not Omega.
+--------------------------------------------------End--
+{Auron} 
+It must be merely one of the shadows
+Omega created.
+--------------------------------------------------End--
+{Wakka} 
+So the real one is still here!?
+--------------------------------------------------End--
+{Tidus} 
+Omega, come out!
+--------------------------------------------------End--
+{Yuna} 
+If we meet... shall I deliver you to {Farplane}?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s departure, to the Save Sphere.
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s area, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, you may be able to Scout and 42+53. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow} mark {White} appeared on the wall.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow} Mark {White} has appeared on the wall.
+--------------------------------------------------End--
+
+{WINDOW}
+I tried touching the wall, but there was no reaction.
+--------------------------------------------------End--
+
+{WINDOW}
+No reaction.
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Language Dictionary Volume 26!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31} '{OPurple} ッ{White}' 42+56. '{Pink} っ{White}'
+{VAR07:31} '{OPurple} ャ{White}' 42+56. '{Pink} ゃ{White}'
+{VAR07:31} '{OPurple} ュ{White}' 42+56. '{Pink} ゅ{White}'
+{VAR07:31} '{OPurple} ョ{White}' 42+56. '{Pink} ょ{White}'
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar language 42+57.'{Al Bhed} language'... {Al Bhed} language dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

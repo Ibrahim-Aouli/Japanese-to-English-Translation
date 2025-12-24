@@ -1,0 +1,222 @@
+{Lucil} 
+Summoner... this way?
+--------------------------------------------------End--
+{Tidus} 
+There are circumstances.
+--------------------------------------------------End--
+{Lucil} 
+I see……
+--------------------------------------------------End--
+{Lucil} 
+The end of the highway is over there.
+--------------------------------------------------End--
+{Lucil} 
+However, due to an operation currently underway,
+the path beyond the end point is closed.
+--------------------------------------------------End--
+{Lucil} 
+Whether the Summoner can pass or not,
+please consult with the captain of Tenmon.
+--------------------------------------------------End--
+{Lucil} 
+You cannot return to the new road from this old road.
+For now, please proceed to the end of the highway.
+--------------------------------------------------End--
+{Shelinda} 
+The rumors about me
+...seem to have spread...
+--------------------------------------------------End--
+{Shelinda} 
+The people from {Crusader}
+...are ignoring me...
+--------------------------------------------------End--
+{O'aka} 
+Going down to the old road
+...was a mistake.
+--------------------------------------------------End--
+{O'aka} 
+There's little foot traffic, so
+it won't be profitable.
+--------------------------------------------------End--
+{O'aka} 
+Hey, something...
+...won't you buy something?
+--------------------------------------------------End--
+{O'aka} 
+{Crusader} is extremely enthusiastic, but
+What's starting?
+--------------------------------------------------End--
+{O'aka} 
+Thanks, kid.
+I won't forget you.
+--------------------------------------------------End--
+{O'aka} 
+Well, I suppose so.
+--------------------------------------------------End--
+{O'aka} 
+You're lending money?
+--------------------------------------------------End--
+{O'aka} 
+What... Don't get my hopes up.
+--------------------------------------------------End--
+
+When I was training here before the operation...
+I thought we would definitely win.
+--------------------------------------------------End--
+
+42+53.It's too much, isn't it...42+54.will end up.
+--------------------------------------------------End--
+
+My Chocobo was defeated too.
+Even though we've fought together all this time...
+--------------------------------------------------End--
+{WINDOW}
+Funds on hand: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total 42+55. lent so far: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Set the 42+55. amount using {Direcional Up} {Direcional Down} {Direcional Left} {Direcional Right}
+Confirm with {Button Circle}
+--------------------------------------------------End--
+{WINDOW}
+……How much should I lend?
+Lend {CHOICE:56} Gil to {O'aka}
+--------------------------------------------------End--
+{O'aka} 
+……Hey, boy.
+I appreciate the sentiment, but I don't have enough Gil.
+--------------------------------------------------End--
+{O'aka} 
+Oh, boy, even {VAR12:32} Gil...
+Will you lend it to me?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Wait a minute.
+{CHOICE:31} Don't worry about it.
+{CHOICE:32} I changed my mind.
+--------------------------------------------------End--
+{WINDOW}
+Just show me {CHOICE:30}.
+42+56. into {CHOICE:31}{O'aka}
+{CHOICE:32} made it in time.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Okay.
+{CHOICE:31} No.
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+
+Secluding myself in the temple and 42+57. is...
+I decided to stop.
+{NEWPAGE}
+
+While traveling, I will interact with the people.
+I intend to convey my teachings.
+--------------------------------------------------End--
+
+First, I will learn {Al Bhed}'s 42+58. words, and...
+I intend to try talking with 42+59. them.
+{NEWPAGE}
+
+Just by 42+60. those 42+59. who don't pray...
+Nothing will be solved.
+--------------------------------------------------End--
+
+『{Sin} 』 is apparently still not dead.
+They are tenacious!
+{NEWPAGE}
+
+If we had the cannon we used during the operation...
+We could have taken an aimed shot...
+--------------------------------------------------End--
+
+Maybe I can be of some help.
+I'll try going to {Bevelle} too!
+--------------------------------------------------End--
+
+There are quite a lot of people evacuating from {Bevelle}.
+{NEWPAGE}
+
+The people exhausted from their long journey, from monsters...
+Protecting them is our duty.
+--------------------------------------------------End--
+
+Until a little while ago, warrior monks were along the highway...
+guarding it, but...
+{NEWPAGE}
+
+They have gone somewhere.
+They are utterly irresponsible.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s activ42+66., to the Save Sphere...
+a transfer42+67. function to {blitzball} Stadium has...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+68.land, continue Blitz training.
+hidden excellent players are lurking.
+When you press {Button Square} and speak to them, you can sometimes Scout42+69.contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+A transfer42+67. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Discovered {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--

@@ -1,0 +1,451 @@
+
+Stop.
+--------------------------------------------------End--
+
+{P0} is waiting.
+I'll have you come with us.
+--------------------------------------------------End--
+{Yuna} 
+Is just talking with {Master Seymor}
+There's nothing to talk about.
+--------------------------------------------------End--
+{Tidus} 
+So that's how it is.
+Get out of the way.
+--------------------------------------------------End--
+
+{P0}'s orders are absolute.
+I will surely bring you.
+--------------------------------------------------End--
+
+{P0} said...
+"It doesn't matter even if they're a corpse," they said.
+--------------------------------------------------End--
+{Tidus} 
+Is this the wrong path?
+--------------------------------------------------End--
+{Lulu} 
+That's the path down to the bottom of the valley.
+--------------------------------------------------End--
+{Wakka} 
+You really know a lot.
+--------------------------------------------------End--
+{Wakka} 
+……Huh?
+--------------------------------------------------End--
+
+Sometimes…… I used to watch the scenery at those kinds of shops.
+--------------------------------------------------End--
+
+I finally understand what that meant.
+--------------------------------------------------End--
+
+To the passing scenery……
+I was saying goodbye, wasn't I?
+--------------------------------------------------End--
+
+{WINDOW}
+To Be Continued！
+
+This is the end of the FFX February version.
+Good work.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 1!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Wa{White} 』to『{Pink} A{White} 』
+{VAR07:31}『{OPurple} Mi{White} 』to『{Pink} I{White} 』
+{VAR07:31}『{OPurple} Fu{White} 』to『{Pink} U{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 2!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ne{White} 』to『{Pink} E{White} 』
+{VAR07:31}『{OPurple} To{White} 』to『{Pink} O{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} language dictionary Volume 3!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} A{White} 』to『{Pink} Ka{White} 』
+{VAR07:31}『{OPurple} Chi{White} 』to『{Pink} Ki{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Word Dictionary Volume 4!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ru{White} 』to『{Pink} Ku{White} 』
+{VAR07:31}『{OPurple} Te{White} 』to『{Pink} Ke{White} 』
+{VAR07:31}『{OPurple} Yo{White} 』to『{Pink} Ko{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 5!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ra{White} 』to『{Pink} Sa{White} 』
+{VAR07:31}『{OPurple} Ki{White} 』to『{Pink} Shi{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained the {Al Bhed} Language Dictionary, Volume 6!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Nu{White} 』to『{Pink} Su{White} 』
+{VAR07:31}『{OPurple} He{White} 』to『{Pink} Se{White} 』
+{VAR07:31}『{OPurple} Ho{White} 』to『{Pink} So{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Word Dictionary Volume 7!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Sa{White} 』to『{Pink} Ta{White} 』
+{VAR07:31}『{OPurple} Hi{White} 』to『{Pink} Chi{White} 』
+{VAR07:31}『{OPurple} Yu{White} 』to『{Pink} Tsu{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {P0} Language Dictionary, Volume 8!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Se{White} 』to『{Pink} Te{White} 』
+{VAR07:31}『{OPurple} So{White} 』 becomes 『{Pink} To{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained the {Al Bhed} Language Dictionary, Volume 9!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ha{White} 』 becomes 『{Pink} Na{White} 』
+{VAR07:31}『{OPurple} Shi{White} 』 becomes 『{Pink} Ni{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 10!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Su{White} 』 becomes 『{Pink} Nu{White} 』
+{VAR07:31}『{OPurple} Me{White} 』 becomes 『{Pink} Ne{White} 』
+{VAR07:31}『{OPurple} O{White} 』 becomes 『{Pink} No{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Volume 11 {Al Bhed} language dictionary!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ma{White} 』 becomes 『{Pink} Ha{White} 』
+{VAR07:31}『{OPurple} Ri{White} 』 becomes 『{Pink} Hi{White} 』
+{VAR07:31}『{OPurple} Ku{White} 』 becomes 『{Pink} Fu{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 12!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ke{White} 』 becomes 『{Pink} He{White} 』
+{VAR07:31}『{OPurple} Ro{White} 』 becomes 『{Pink} Ho{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained the {Al Bhed} Language Dictionary, Volume 13!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ya{White} 』 becomes 『{Pink} Ma{White} 』
+{VAR07:31}『{OPurple} I{White} 』 becomes 『{Pink} Mi{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 14!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Tsu{White} 』 becomes 『{Pink} Mu{White} 』
+{VAR07:31}『{OPurple} Re{White} 』 becomes 『{Pink} Me{White} 』
+{VAR07:31}『{OPurple} Ko{White} 』 becomes 『{Pink} Mo{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 15!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ta{White} 』 becomes 『{Pink} Ya{White} 』
+{VAR07:31}『{OPurple} Wo{White} 』 becomes 『{Pink} Yu{White} 』
+{VAR07:31}『{OPurple} Mo{White} 』 becomes 『{Pink} Yo{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Word Dictionary Volume 16!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Na{White} 』 becomes 『{Pink} Ra{White} 』
+{VAR07:31}『{OPurple} Ni{White} 』 to 『{Pink} Ri{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 17!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31} 『{OPurple} ウ{White} 』 becomes 『{Pink} る{White} 』
+{VAR07:31} 『{OPurple} エ{White} 』 becomes 『{Pink} れ{White} 』
+{VAR07:31} 『{OPurple} ノ{White} 』 becomes 『{Pink} ろ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 18!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31} 『{OPurple} カ{White} 』 becomes 『{Pink} わ{White} 』
+{VAR07:31} 『{OPurple} ム{White} 』 becomes 『{Pink} を{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 19!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} N{White} 』 to 『{Pink} N{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Dictionary, Volume 20!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Da{White} 』 to 『{Pink} Ga{White} 』
+{VAR07:31}『{OPurple} Ji{White} 』 to 『{Pink} Gi{White} 』
+{VAR07:31}『{OPurple} Zu{White} 』 to 『{Pink} Gu{White} 』
+{VAR07:31}『{OPurple} De{White} 』 to 『{Pink} Ge{White} 』
+{VAR07:31}『{OPurple} Zo{White} 』 to 『{Pink} Go{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained the {Al Bhed} Dictionary, Volume 21!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ba{White} 』 to 『{Pink} Za{White} 』
+{VAR07:31}『{OPurple} Gi{White} 』 to 『{Pink} Ji{White} 』
+{VAR07:31}『{OPurple} Bu{White} 』 to 『{Pink} Zu{White} 』
+{VAR07:31}『{OPurple} Ge{White} 』 to 『{Pink} Ze{White} 』
+{VAR07:31}『{OPurple} Bo{White} 』 to 『{Pink} Zo{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained the {Al Bhed} Language Dictionary, Volume 22!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Ga{White} 』 to 『{Pink} Da{White} 』
+{VAR07:31}『{OPurple} Bi{White} 』 to 『{Pink} Dji{White} 』
+{VAR07:31}『{OPurple} Gu{White} 』 to 『{Pink} Dzu{White} 』
+{VAR07:31}『{OPurple} Be{White} 』 to 『{Pink} De{White} 』
+{VAR07:31}『{OPurple} Go{White} 』 to 『{Pink} Do{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 23!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} Za{White} 』 to 『{Pink} Ba{White} 』
+{VAR07:31}『{OPurple} Dji{White} 』 to 『{Pink} Bi{White} 』
+{VAR07:31}『{OPurple} ズ{White} 』 to 『{Pink} ふ{White} 』
+{VAR07:31}『{OPurple} ゼ{White} 』 to 『{Pink} べ{White} 』
+{VAR07:31}『{OPurple} ド{White} 』 to 『{Pink} ぼ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 24!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} プ{White} 』 to 『{Pink} ぱ{White} 』
+{VAR07:31}『{OPurple} ペ{White} 』 to 『{Pink} ぴ{White} 』
+{VAR07:31}『{OPurple} パ{White} 』 to 『{Pink} ぷ{White} 』
+{VAR07:31}『{OPurple} ポ{White} 』 to 『{Pink} ぺ{White} 』
+{VAR07:31}『{OPurple} ピ{White} 』 to 『{Pink} ぽ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Language Dictionary Volume 25!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} ァ{White} 』 to 『{Pink} ぁ{White} 』
+{VAR07:31}『{OPurple} ィ{White} 』 to 『{Pink} ぃ{White} 』
+{VAR07:31}『{OPurple} ゥ{White} 』 to 『{Pink} ぅ{White} 』
+{VAR07:31}『{OPurple} ェ{White} 』 to 『{Pink} ぇ{White} 』
+{VAR07:31}『{OPurple} ォ{White} 』 to 『{Pink} ぉ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Language Dictionary Volume 26!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language!
+{VAR07:31}『{OPurple} ッ{White} 』 to 『{Pink} っ{White} 』
+{VAR07:31}『{OPurple} ャ{White} 』 to 『{Pink} ゃ{White} 』
+{VAR07:31}『{OPurple} ュ{White} 』 to 『{Pink} ゅ{White} 』
+{VAR07:31}『{OPurple} ョ{White} 』 to 『{Pink} ょ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Regarding the unfamiliar language '{Al Bhed}', the {Al Bhed} Language Dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--
+{WINDOW}
+`{Yellow} 【{Al Bhed} Dictionary Synthesis Sphere】{White}`
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Loading Language Dictionary data 42+53.
+`You can synthesize {Al Bhed} dictionaries!`
+{NEWPAGE}
+`Please select the save data to synthesize the Al Bhed dictionary.`
+--------------------------------------------------End--
+{WINDOW}
+`Do you want to synthesize other save data?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+No save data for 【{FINAL FANTASY X} 】!
+--------------------------------------------------End--
+{WINDOW}
+42+53.みこみ for the {Al Bhed} language dictionary failed!
+--------------------------------------------------End--
+{WINDOW}
+42+53.みこみ for the {Al Bhed} language dictionary 成42+54.ed!
+--------------------------------------------------End--
+{WINDOW}
+`There is no {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+`Synthesize {Al Bhed} dictionary?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+aiueo kakikukeko
+sashisuseso tachitsuteto
+naninuneno hahihuheho
+mamimumemo yayuyo
+wawon
+{NEWPAGE}
+gagigugego zazizuzezo
+dadizudedo babibubebo
+papipupepo aiueo
+tsuyuyo
+--------------------------------------------------End--
+{WINDOW}
+Discovered {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--
+{WINDOW}
+Found {Auron}'s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Discovered {Braska}'s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {P0}'s actions, to the Save Sphere...
+The transfer function to {P0} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {P0}'s region, Blitz training continues.
+hidden excellent players are lurking.
+If you press {P0} and talk, you may be able to sign a scout contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+HP/MP recovered!
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--

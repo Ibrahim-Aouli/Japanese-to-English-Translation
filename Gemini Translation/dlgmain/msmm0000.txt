@@ -1,0 +1,47 @@
+{Auron} 
+Thanks for your help, {Kinoc}.
+--------------------------------------------------End--
+{Kinoc} 
+Take care as a guard.
+Protect {Braska}-san well.
+--------------------------------------------------End--
+{Auron} 
+Yes, I intend to.
+--------------------------------------------------End--
+{Auron} 
+You do your best too.
+--------------------------------------------------End--
+{Auron} 
+I heard about your promotion to Platoon Leader!
+--------------------------------------------------End--
+{Kinoc} 
+Originally, the one who would become Platoon Leader...
+...was you.
+--------------------------------------------------End--
+Kinok.
+In the end, until the very end, you...
+...I couldn't surpass.
+--------------------------------------------------End--
+{Auron} 
+Don't say "the end."
+It's like I'm going to die.
+--------------------------------------------------End--
+{Auron} 
+We'll meet again...
+--------------------------------------------------End--
+{Kinoc} 
+That's right.
+--------------------------------------------------End--
+{Auron} 
+Well then...
+--------------------------------------------------End--
+{Kinoc} 
+Are you going already?
+--------------------------------------------------End--
+{Kinoc} 
+Go to {Zanarkand}.
+And tell me about it.
+--------------------------------------------------End--
+{Auron} 
+See ya!
+--------------------------------------------------End--

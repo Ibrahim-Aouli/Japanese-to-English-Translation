@@ -1,0 +1,188 @@
+
+{WINDOW}
+Even if I push, I cannot align the step.
+--------------------------------------------------End--
+
+If you use {Yellow} [Destruction Sphere] {White} effectively,
+It seems a hidden item can be obtained.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow} Mark {White} has appeared on the wall.
+--------------------------------------------------End--
+{WINDOW}
+I'll try touching the {CHOICE:30} Mark __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+It looks like a {Yellow} Sphere {White} can be set in the recess.
+--------------------------------------------------End--
+
+{WINDOW}
+I have the {Yellow} Besaid Sphere {White}.
+--------------------------------------------------End--
+{WINDOW}
+Set the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Besaid Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+I have the {Yellow} Seal Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+I have the {Yellow} Destruction Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Besaid Sphere {White} is set.
+--------------------------------------------------End--
+{WINDOW}
+Take the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Besaid Sphere {White} has been taken.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one {Yellow} Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} has been taken.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+`{Yellow} I took the Sphere of Ruin.{White}`
+--------------------------------------------------End--
+
+{WINDOW}
+`The door is tightly sealed.`
+--------------------------------------------------End--
+
+{WINDOW}
+`It looks like something can be set in the recess.`
+--------------------------------------------------End--
+
+`The {Yellow} 【Dosari】{White} with the sphere fitted...`
+`It seems you move it to the correct place.`
+{NEWPAGE}
+
+`If you make a mistake in moving it, if you step on the {Yellow} 【Glowing Mark】{White}...`
+`Apparently, you can return the Dosari to its original position.`
+--------------------------------------------------End--
+{WINDOW}
+`{CHOICE:30} I'll try touching the writing on the wall.`
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+`{Yellow} I found the 【{Besaid} 's Sphere】.{White}`
+--------------------------------------------------End--
+
+`Suddenly... my heart felt heavy.`
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+{WINDOW}
+Hey!
+--------------------------------------------------End--
+{Wakka} 
+`What was I getting so fired up about?`
+--------------------------------------------------End--
+{Wakka} 
+`Oh well.`
+--------------------------------------------------End--
+{Wakka} 
+`This place is for Summoners and Attendant Summoners.`
+`And other than Guards, 42+53. entry is prohibited.`
+--------------------------------------------------End--
+{Wakka} 
+`42+54. So, remember it well.`
+--------------------------------------------------End--
+{Tidus} 
+`Are you allowed?`
+--------------------------------------------------End--
+{Wakka} 
+`I'm a Guard, you see.`
+--------------------------------------------------End--
+{Tidus} 
+`A Guard, you say?`
+--------------------------------------------------End--
+{Wakka} 
+`Summoners, in the temple within {Spira}...`
+`...set out on a journey to offer 42+55. prayers.`
+--------------------------------------------------End--
+{Wakka} 
+A guard... that is protection.
+--------------------------------------------------End--
+{Wakka} 
+Now, the guards in this 42+57. are...
+--------------------------------------------------End--
+{Wakka} 
+One gets angry quickly, and...
+The other one, I don't know what they're thinking.
+--------------------------------------------------End--
+{Wakka} 
+Well, if we've come this far...
+It's all the same, I guess.
+--------------------------------------------------End--
+{Wakka} 
+It can't be helped. Let's go!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Chamber of Trials]{White}
+Those who seek Ebon's secret art...
+Will be tested in {Yellow} [Chamber of Trials]{White}.
+If you find the correct path...
+Will be invited to {Blue} [Chamber of the Fayth]{White}.
+Examine suspicious places with {Button Circle}.
+Open the way.
+--------------------------------------------------End--
+
+A mysterious {Yellow} [Mark]{White} is glowing.
+--------------------------------------------------End--
+
+It seems you proceed using Spheres from here on.
+--------------------------------------------------End--
+
+{Yellow} [Seal Sphere]{White} is for the {Blue} [Chamber of the Fayth]{White}.
+It is said to have the power to open the way.
+--------------------------------------------------End--
+
+{Yellow} [Break Sphere]{White} is for hidden items.
+It is said to have the power to open the way.
+--------------------------------------------------End--
+
+Furthermore, P0 [Sphere of P1] P2 also seems to be needed.
+--------------------------------------------------End--
+
+Spheres, only one per [42+58.]...
+...can be carried, it seems.
+--------------------------------------------------End--

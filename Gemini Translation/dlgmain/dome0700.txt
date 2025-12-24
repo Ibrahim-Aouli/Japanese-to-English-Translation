@@ -1,0 +1,137 @@
+{Auron} 
+{Yuna} ...We're here.
+--------------------------------------------------End--
+{Yuna} 
+Ultimate Summon... I see.
+--------------------------------------------------End--
+{Auron} 
+Go!
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{Jecht} 
+Huh?
+There's no Ultimate Summon!?
+--------------------------------------------------End--
+{Yuna} 
+{Auron}!
+--------------------------------------------------End--
+{Yuna} 
+Everyone, come!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activation, to the Save Sphere.
+Transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s location, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, and you may be able to recruit scouts.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+Transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+
+{WINDOW}
+It looks like a {Yellow} Sphere {White} can be set in the recess.
+--------------------------------------------------End--
+{WINDOW}
+Set the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Besaid Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} set the Kilika Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Besaid Sphere {White} is set.
+--------------------------------------------------End--
+{WINDOW}
+Take the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Besaid Sphere {White} has been taken.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one {Yellow} Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}: The Kilika Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} took the Kilika Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+`{Yellow} I took the Sphere of Ruin.{White}`
+--------------------------------------------------End--

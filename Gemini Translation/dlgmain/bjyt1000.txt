@@ -1,0 +1,6 @@
+{WINDOW}
+Six treasures in six temples.
+The {Yellow} 【Treasure Rows】 hidden within {Yellow} 【Hall of Trials】.
+Open all, and display before the statue.
+Then, the door to {Blue} 【Chamber of Prayers】{White} will open.
+--------------------------------------------------End--

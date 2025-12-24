@@ -1,0 +1,159 @@
+{Tidus} 
+Gah!
+There's no moment to let your guard down.
+--------------------------------------------------End--
+{Auron} 
+Every time I hear your song,
+I remembered {Spira}...
+--------------------------------------------------End--
+{Tidus} 
+I see... You passed from {Spira}
+to {Zanarkand}, didn't you?
+--------------------------------------------------End--
+{Tidus} 
+Was your heart aligned, after all?
+--------------------------------------------------End--
+{Auron} 
+Who knows.
+--------------------------------------------------End--
+{Tidus} 
+I understand.
+--------------------------------------------------End--
+{Tidus} 
+You want to end it, don't you?
+--------------------------------------------------End--
+{Tidus} 
+I'll take care of it.
+--------------------------------------------------End--
+{Tidus} 
+Hey, how did you
+go to {Zanarkand}?
+--------------------------------------------------End--
+{Tidus} 
+『{Sin} 』？
+--------------------------------------------------End--
+{Tidus} 
+I knew it... That's right, isn't it?
+--------------------------------------------------End--
+
+It was conclusive.
+--------------------------------------------------End--
+
+What connects {Zanarkand} and {Spira}
+is '{{Sin}}'.
+--------------------------------------------------End--
+
+So if you defeat '{{Sin}}',
+you can't return to {Zanarkand}.
+--------------------------------------------------End--
+{Rikku} 
+Huh?
+--------------------------------------------------End--
+{Lulu} 
+It seems the song has ended.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+Oh!
+--------------------------------------------------End--
+{Wakka} 
+There's something here, isn't there!?
+--------------------------------------------------End--
+{Auron} 
+Down!
+--------------------------------------------------End--
+{Yuna} 
+『{Sin} 』！？
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+Hah!?
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Ack!?
+--------------------------------------------------End--
+{Lulu} 
+Watch out for the poisonous air!
+--------------------------------------------------End--
+
+It was at this time.
+--------------------------------------------------End--
+
+'{Sin}' is
+...that he was my dad...
+--------------------------------------------------End--
+
+For the first time, honestly...
+...I was able to accept him.
+--------------------------------------------------End--
+{Tidus} 
+You were listening to the song, weren't you?
+--------------------------------------------------End--
+{Tidus} 
+The shop now is... what is it?
+--------------------------------------------------End--
+{Auron} 
+I can't keep resting forever.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s activity, on the Save Sphere...
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s area, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, you may be able to Scout and 42+53. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

@@ -1,0 +1,8 @@
+{WINDOW}
+
+{P0}{P1}: Examine{P2}
+--------------------------------------------------End--
+
+There is a rotted bouquet.
+It's wet, so it won't become {Yellow} 【火種】{White}.
+--------------------------------------------------End--

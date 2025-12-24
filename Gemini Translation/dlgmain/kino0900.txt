@@ -1,0 +1,115 @@
+{Tidus} 
+Ngh...
+--------------------------------------------------End--
+{Gatta} 
+What's happening...?
+--------------------------------------------------End--
+{Gatta} 
+Hey... listen...
+--------------------------------------------------End--
+{Gatta} 
+What's happening?!
+--------------------------------------------------End--
+{Tidus} 
+{Gatta} ……
+--------------------------------------------------End--
+{Tidus} 
+{Gatta} ...you
+What are you doing...?
+--------------------------------------------------End--
+{Tidus} 
+You... what are you?!
+--------------------------------------------------End--
+
+It's already finished.
+--------------------------------------------------End--
+
+There's still warmth, but...
+Not breathing.
+--------------------------------------------------End--
+
+Died staring at the sky.
+--------------------------------------------------End--
+
+Just like sleeping.
+Is dead.
+--------------------------------------------------End--
+
+They probably didn't have time to feel pain.
+--------------------------------------------------End--
+
+They're dead...
+--------------------------------------------------End--
+
+Still heavy, but...
+They won't move anymore.
+--------------------------------------------------End--
+
+It's a peaceful death.
+They didn't know what happened, did they...?
+--------------------------------------------------End--
+
+Both of them, their hands...
+There's nothing that can be done.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+To the Save Sphere by {Besaid Aurochs}'s activation.
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s {42+54.} land, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and talk to them, you may be able to {scout 42+55.contract}.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

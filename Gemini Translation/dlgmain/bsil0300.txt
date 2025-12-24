@@ -1,0 +1,51 @@
+{Tidus} 
+What are you doing?!
+--------------------------------------------------End--
+{Wakka} 
+Gufffufufu...
+--------------------------------------------------End--
+{Tidus} 
+Let go of me!
+--------------------------------------------------End--
+{Wakka} 
+You're in the lineup, aren't you~
+--------------------------------------------------End--
+{Tidus} 
+I'm telling you to join my team!
+--------------------------------------------------End--
+{Wakka} 
+Uh?!
+--------------------------------------------------End--
+{Wakka} 
+There's a big Blitz tournament coming up soon.
+It's a huge one where teams from all over {P0} will gather!
+--------------------------------------------------End--
+{Wakka} 
+Since it's a huge tournament,
+those who know you will surely come too.
+--------------------------------------------------End--
+{Wakka} 
+Then you can return to your original team and...
+...your life, right?
+--------------------------------------------------End--
+{Wakka} 
+Hey, I don't think that's a bad deal.
+How about it? Huh? Huh!
+--------------------------------------------------End--
+{Wakka} 
+Thanks!
+I'm counting on you until the tournament!
+--------------------------------------------------End--
+
+Only Blitz and "{P0}" connected {P1} and...
+...{P0}, I felt.
+--------------------------------------------------End--
+
+I wasn't that far off, right?
+--------------------------------------------------End--
+{Tidus} 
+Is something up?
+--------------------------------------------------End--
+{Tidus} 
+Okay.
+--------------------------------------------------End--

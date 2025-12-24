@@ -1,0 +1,105 @@
+
+Even if you practice now,
+There's no way you'll suddenly get stronger.
+{NEWPAGE}
+
+Instead, ask Gowers
+to coach you.
+--------------------------------------------------End--
+
+It's already late at night, so quickly,
+shouldn't you just sleep?
+--------------------------------------------------End--
+
+I hear you came from {Zanarkand}?
+It's become a rumor on the ship.
+--------------------------------------------------End--
+
+I've never seen a big-talking player
+like you before.
+--------------------------------------------------End--
+
+I'm absolutely
+a fan of {Luca Goers}.
+{NEWPAGE}
+
+Well, just try your best.
+Heh heh heh.
+--------------------------------------------------End--
+
+You might as well humble yourself to Gowers
+and have him coach you.
+--------------------------------------------------End--
+
+Even though they say there are monsters in the sea,
+you managed to avoid harm.
+--------------------------------------------------End--
+
+Your dedication to practice is admirable, but
+if you do it again, I'll leave you behind.
+--------------------------------------------------End--
+
+We have two Summoners on board, and...
+Since Gowers is here too...
+{NEWPAGE}
+
+With such important guests, I feel vigilant.
+We must be careful in how we respond.
+--------------------------------------------------End--
+
+What, {Besaid Aurochs}?
+Those guys are just an extra.
+--------------------------------------------------End--
+
+So we don't repeat the Riki-go's failure.
+We are strengthening the lookout.
+{NEWPAGE}
+
+If we detect 『{Sin} 』's presence,
+Report it immediately.
+--------------------------------------------------End--
+
+This ship has no weapons.
+If we encounter 『{Sin} 』, it's over.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 5!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language 42+54.!
+{VAR07:31} "{OPurple} ra {White}" 42+55. "{Pink} sa {White}"
+{VAR07:31} "{OPurple} ki {White}" 42+55. "{Pink} shi {White}"
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar word 42+56. '{Al Bhed} language' {Al Bhed} language dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

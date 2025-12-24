@@ -1,0 +1,198 @@
+Ronzo Male Choir, Line (approx. 40 shops)
+--------------------------------------------------End--
+{Biran} 
+Summoner {Yuna}!
+--------------------------------------------------End--
+{Tidus} 
+You're persistent!
+--------------------------------------------------End--
+{Lulu} 
+Summoners who perished here, and...
+The passing of the guards.
+--------------------------------------------------End--
+{Lulu} 
+The summoners who lost their lives in this mountain...
+...are not sent to the Farplane.
+--------------------------------------------------End--
+{Lulu} 
+Why...
+--------------------------------------------------End--
+{Tidus} 
+If there isn't another summoner,
+--------------------------------------------------End--
+{Lulu} 
+no one can send them, right?
+That means...
+--------------------------------------------------End--
+{Tidus} 
+Some of them become fiends,
+--------------------------------------------------End--
+{Lulu} 
+and it wouldn't be strange for them to be around here.
+__P0__ is safe, though!
+--------------------------------------------------End--
+{Tidus} 
+To collapse after coming all this way...
+--------------------------------------------------End--
+{Lulu} 
+That's right.
+--------------------------------------------------End--
+{Lulu} 
+It must have been so regrettable for them...
+Nice to meet you, __P0__.
+--------------------------------------------------End--
+{Wantz} 
+My name is {Yuna}.
+We've met {42+53} times before, haven't we?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+今まで 何42+53.か会ってますよね
+--------------------------------------------------End--
+{Tidus} 
+Not running away today?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wantz} 
+In my brother's place,
+I have to do my duty properly.
+--------------------------------------------------End--
+{Wantz} 
+Traveler {O'aka XXIII}
+You know... right?
+--------------------------------------------------End--
+{Tidus} 
+You... his accomplice!?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wantz} 
+My brother... to help {Yuna}-sama
+He wanted to come, but...
+--------------------------------------------------End--
+{Wantz} 
+For the crime of aiding a rebel,
+He was captured by the temple.
+--------------------------------------------------End--
+{Tidus} 
+Is it our fault!?
+--------------------------------------------------End--
+{Wantz} 
+But my brother has no regrets.
+Because he said so before he was captured.
+--------------------------------------------------End--
+{Wantz} 
+In his place,
+"To help {Yuna}-sama."
+--------------------------------------------------End--
+{Yuna} 
+Why are you so...
+...good to me?
+--------------------------------------------------End--
+{Wantz} 
+That is...
+--------------------------------------------------End--
+{Wantz} 
+Hey! That kind of thing...
+This isn't the time to worry about, right?
+--------------------------------------------------End--
+{Wantz} 
+Let me do my duty.
+--------------------------------------------------End--
+{Wantz} 
+{O'aka}, please!
+--------------------------------------------------End--
+{Yuna} 
+I pray for your brother's safety.
+--------------------------------------------------End--
+{Wantz} 
+{Yuna}-sama, please take care as well.
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s activity, to the Save Sphere
+{blitzball} Stadium transfer function...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training in {Spira}'s 42+60.land.
+hidden excellent players are lurking.
+By pressing {Button Square} and speaking, you may be able to make a scout 42+61. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The Airship transfer function has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Select Warp Destination
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Mount Gagazet - Mountain Gate
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+Discovered {Braska}'s Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--

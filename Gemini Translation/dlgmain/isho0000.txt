@@ -1,0 +1,277 @@
+{Yuna} 
+{Auron}
+--------------------------------------------------End--
+{Yuna} 
+I heard from {Kimahri}.
+--------------------------------------------------End--
+{Yuna} 
+He said to take me from {Bevelle}.
+Father's words...
+--------------------------------------------------End--
+{Yuna} 
+What was conveyed to {Kimahri} was...
+You were the one who conveyed it to {Auron}, weren't you?
+--------------------------------------------------End--
+{Yuna} 
+I had wanted to meet you someday,
+I was thinking.
+--------------------------------------------------End--
+{Yuna} 
+I'm happy to meet you.
+--------------------------------------------------End--
+{Yuna} 
+To have you even serve as my guard...
+How should I thank you...?
+--------------------------------------------------End--
+{Yuna} 
+No...
+Your thanks is to defeat '{Sin}'.
+--------------------------------------------------End--
+{Yuna} 
+That's right.
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+I will defeat '{Sin}'.
+--------------------------------------------------End--
+{Yuna} 
+By the time everyone sees this...
+'{Sin}' will already be gone.
+--------------------------------------------------End--
+{Yuna} 
+And... me too.
+--------------------------------------------------End--
+{Yuna} 
+So I'll say it while I still can.
+--------------------------------------------------End--
+{Yuna} 
+{Auron}
+Thank you very much.
+--------------------------------------------------End--
+{Yuna} 
+{Kimahri} ……
+--------------------------------------------------End--
+{Yuna} 
+Do you remember the day we first met?
+--------------------------------------------------End--
+{Yuna} 
+I was seven years old.
+--------------------------------------------------End--
+{Yuna} 
+Dad defeated 『{Sin} 』,
+It was a big fuss...
+--------------------------------------------------End--
+{Yuna} 
+Everyone praised Dad...
+I was happy as if it were my own.
+--------------------------------------------------End--
+{Yuna} 
+But when night came, I thought.
+--------------------------------------------------End--
+{Yuna} 
+He defeated 『{Sin} 』, but...
+Dad had died.
+--------------------------------------------------End--
+{Yuna} 
+That I was all alone.
+--------------------------------------------------End--
+{Yuna} 
+I couldn't sleep, so I just went out to town,
+Passing through the bustling street...
+--------------------------------------------------End--
+{Yuna} 
+I went to {Bevelle}'s long bridge,
+and gazed at it alone.
+--------------------------------------------------End--
+{Yuna} 
+From the bridge where I saw Dad off,
+the plain where Dad fought.
+--------------------------------------------------End--
+{Yuna} 
+Then, {Kimahri} appeared.
+--------------------------------------------------End--
+{Yuna} 
+He said he was looking for {Braska}'s 42+53..
+I told you, right?
+--------------------------------------------------End--
+{Yuna} 
+At first... I was scared.
+--------------------------------------------------End--
+{Yuna} 
+But I understood right away.
+That he was a kind person.
+--------------------------------------------------End--
+{Yuna} 
+Talking with child 42+54.
+I wasn't used to it.
+--------------------------------------------------End--
+{Yuna} 
+That I was {Braska}'s 42+53.
+If 42+55. ...
+--------------------------------------------------End--
+{Yuna} 
+To the place farthest from {Bevelle}.
+That they would take me...
+--------------------------------------------------End--
+{Yuna} 
+That this was the 42+56. of a dying person.
+--------------------------------------------------End--
+{Yuna} 
+I cried, didn't I?
+--------------------------------------------------End--
+{Yuna} 
+That was, you know, because Father...
+Had died...
+--------------------------------------------------End--
+{Yuna} 
+That I wouldn't see him anymore...
+Because I understood...
+--------------------------------------------------End--
+{Yuna} 
+{Kimahri}, without saying anything...
+42+57. hugged me...
+--------------------------------------------------End--
+{Yuna} 
+Even after arriving with {Besaid}...
+I cried, didn't I?
+--------------------------------------------------End--
+{Yuna} 
+When you entrusted me to the temple...
+{Kimahri} tried to leave the village, didn't you?
+--------------------------------------------------End--
+{Yuna} 
+"Don't go!"
+I clung to you and cried.
+--------------------------------------------------End--
+{Yuna} 
+Ever since then, you've always been by my side...
+--------------------------------------------------End--
+{Yuna} 
+{Kimahri} ...Truly, thank you.
+--------------------------------------------------End--
+{Yuna} 
+I like your 42+58.reta horns.
+--------------------------------------------------End--
+{Yuna} 
+{Wakka} {Lulu}
+--------------------------------------------------End--
+{Yuna} 
+The days spent 42+59.rashita with {Besaid}.
+I will never forget them.
+--------------------------------------------------End--
+{Yuna} 
+The three of us, with {Chappu}.
+You often 42+60.nde with me.
+--------------------------------------------------End--
+{Yuna} 
+That's why I...
+I was always able to stay energetic.
+--------------------------------------------------End--
+{Yuna} 
+When I said I would become a summoner,
+even though you opposed it so much...
+--------------------------------------------------End--
+{Yuna} 
+I'm sorry.
+--------------------------------------------------End--
+{Yuna} 
+I had thought about apologizing someday.
+--------------------------------------------------End--
+{Yuna} 
+But, when I was opposed,
+I was very happy.
+--------------------------------------------------End--
+{Yuna} 
+You were worried about me,
+I thought, 'You're worried about me.'
+--------------------------------------------------End--
+{Yuna} 
+Truly, like an older brother and
+it was like I had an older sister.
+--------------------------------------------------End--
+{Yuna} 
+No.
+--------------------------------------------------End--
+{Yuna} 
+As a real older brother and
+older sister, I think.
+--------------------------------------------------End--
+{Yuna} 
+Is it strange?
+--------------------------------------------------End--
+{Yuna} 
+Plays Blitz.
+I like {Wakka}.
+--------------------------------------------------End--
+{Yuna} 
+Angry {Lulu}.
+I like you no matter how much I'm scolded.
+--------------------------------------------------End--
+{Yuna} 
+It hasn't been long since we met, but...
+...
+--------------------------------------------------End--
+{Yuna} 
+...It's strange.
+--------------------------------------------------End--
+{Yuna} 
+Is this what it's like?
+I thought.
+--------------------------------------------------End--
+{Yuna} 
+It was more than I imagined...
+...a very overwhelming feeling...
+--------------------------------------------------End--
+{Yuna} 
+It's overwhelming, but...it's painful.
+--------------------------------------------------End--
+{Yuna} 
+Hmm... I wonder what it is.
+--------------------------------------------------End--
+{Yuna} 
+Something feels strange...
+--------------------------------------------------End--
+{Yuna} 
+Reshoot this part.
+--------------------------------------------------End--
+{Yuna} 
+Umm...
+--------------------------------------------------End--
+{Tidus} 
+What are you doing?
+--------------------------------------------------End--
+{Yuna} 
+...And then.
+--------------------------------------------------End--
+{Yuna} 
+New Guard.
+--------------------------------------------------End--
+{Yuna} 
+{Zanarkand Abes}'s ace.
+--------------------------------------------------End--
+{Yuna} 
+You...
+--------------------------------------------------End--
+{Yuna} 
+You...
+--------------------------------------------------End--
+{Yuna} 
+Umm...
+--------------------------------------------------End--
+{Yuna} 
+I'm glad... I met you.
+--------------------------------------------------End--
+{Yuna} 
+I can't put it into words.
+Anyway, I'm glad I met you.
+--------------------------------------------------End--
+{Yuna} 
+Is that why it's so painful...?
+--------------------------------------------------End--
+{Yuna} 
+The thought of parting with you...
+When I think about it...
+--------------------------------------------------End--
+{Yuna} 
+...I'm scared.
+--------------------------------------------------End--

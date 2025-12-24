@@ -1,0 +1,354 @@
+{Tidus} 
+Is that {Djose}'s temple?
+--------------------------------------------------End--
+{Tidus} 
+Amazing...
+--------------------------------------------------End--
+{Lulu} 
+That 'Thunder Mushroom Rock', you see, a summoner...
+...only opens when they meet the Prayer Child.
+--------------------------------------------------End--
+{Wakka} 
+Another summoner has come.
+That's what it means.
+--------------------------------------------------End--
+{Yuna} 
+I wonder what kind of person they are.
+--------------------------------------------------End--
+{Tidus} 
+Maybe it's {Dona}.
+--------------------------------------------------End--
+{Yuna} 
+I don't want to lose.
+--------------------------------------------------End--
+{Tidus} 
+Right! Let's go!
+--------------------------------------------------End--
+{Gatta} 
+The front line...
+{Luzzu} the front line...
+--------------------------------------------------End--
+{Wakka} 
+Are they missing?
+--------------------------------------------------End--
+{Gatta} 
+Went to look... found them.
+Their body... half...
+--------------------------------------------------End--
+{Wakka} 
+That damn shop!
+--------------------------------------------------End--
+{Gatta} 
+Me... from now on...
+What should I do?
+--------------------------------------------------End--
+{Gatta} 
+I can't take this anymore.
+I'll go back to {Besaid}.
+--------------------------------------------------End--
+{Luzzu} 
+Hey.
+--------------------------------------------------End--
+{Luzzu} 
+That {Gatta}, huh.
+……He died.
+--------------------------------------------------End--
+{Luzzu} 
+Well, he had no luck.
+Luck is also part of skill.
+--------------------------------------------------End--
+{Wakka} 
+Stop it, {Luzzu}!!
+--------------------------------------------------End--
+{Luzzu} 
+Shut up! My...
+...frustration, do you understand!
+--------------------------------------------------End--
+{Wakka} 
+Of course I understand!
+--------------------------------------------------End--
+{Luzzu} 
+……Sorry.
+--------------------------------------------------End--
+{Wakka} 
+Anyway, you...
+Return to {Besaid} now.
+--------------------------------------------------End--
+{Wakka} 
+Rest quietly for a while.
+Okay?
+--------------------------------------------------End--
+{Luzzu} 
+……Rest?
+--------------------------------------------------End--
+{Wakka} 
+Yeah, and get well soon.
+You're injured too, aren't you?
+--------------------------------------------------End--
+{Luzzu} 
+I suppose I will...
+--------------------------------------------------End--
+{Wakka} 
+Yeah, I'm counting on it.
+--------------------------------------------------End--
+{Wakka} 
+Someone who's feeling down...
+...because I can't hit them.
+--------------------------------------------------End--
+{Luzzu} 
+…I see.
+--------------------------------------------------End--
+{Wakka} 
+Hey there, sleepyhead!
+--------------------------------------------------End--
+{Yuna} 
+I'm so sorry!
+--------------------------------------------------End--
+{Yuna} 
+I'm sorry.
+--------------------------------------------------End--
+{Lulu} 
+You don't have to rush so much.
+There's that habit again.
+--------------------------------------------------End--
+{Wakka} 
+A Summoner with that kind of habit...
+Everyone will be disappointed.
+--------------------------------------------------End--
+{Yuna} 
+You should have woken me up.
+--------------------------------------------------End--
+{Lulu} 
+I called out.
+But you were sleeping with your mouth open.
+--------------------------------------------------End--
+{Yuna} 
+Oh! Even {Auron}-san!
+--------------------------------------------------End--
+{Auron} 
+Well then... the Summoner's...
+Once that habit is gone, we'll depart.
+--------------------------------------------------End--
+
+{Font Italic}, leaving like that was a pretense.
+--------------------------------------------------End--
+
+{Font Italic}, but now I understand.
+--------------------------------------------------End--
+
+{Font Italic}, everyone but me...
+They weren't truly leaving, were they?
+--------------------------------------------------End--
+
+{Font Italic}, if you hadn't left like that...
+You couldn't have managed, could you?
+--------------------------------------------------End--
+{Dona} 
+Oh, you all.
+--------------------------------------------------End--
+{Tidus} 
+Haven't you stopped traveling?
+--------------------------------------------------End--
+{Dona} 
+That's right.
+Well, the destination has changed, though.
+--------------------------------------------------End--
+{Dona} 
+Not {Zanarkand},
+{Barthello}'s 42+53.舎.
+--------------------------------------------------End--
+{Dona} 
+Fleeing from the fight with '{Sin}',
+and the two of us 42+54. live together.
+--------------------------------------------------End--
+{Dona} 
+I became... scared.
+--------------------------------------------------End--
+{Tidus} 
+It's okay, you don't need to worry about it.
+--------------------------------------------------End--
+{Tidus} 
+Soon, we will
+handle it somehow.
+--------------------------------------------------End--
+{Dona} 
+Then, the Ultimate Summoning!?
+--------------------------------------------------End--
+{Tidus} 
+It's not like that.
+It's a plan where no one dies.
+--------------------------------------------------End--
+{Dona} 
+I don't really understand, but...
+I'm looking forward to it.
+--------------------------------------------------End--
+{Tidus} 
+42+55.援, please!
+--------------------------------------------------End--
+{Dona} 
+Please do your best.
+Let's go, {Barthello}.
+--------------------------------------------------End--
+{Yuna} 
+For some reason today...
+Everyone is so mean.
+--------------------------------------------------End--
+{Luzzu} 
+Damn it! And they're just a new 42+56.
+This is what happens because they dared to 42+57.!
+--------------------------------------------------End--
+{Luzzu} 
+Why did he go all the way to the front lines!
+(No line 6, combined with 5)
+--------------------------------------------------End--
+{Luzzu} 
+Why didn't he just stay put at the command center!
+(No line 8, combined with 7)
+--------------------------------------------------End--
+{Luzzu} 
+Damn it! Damn it!
+--------------------------------------------------End--
+{Wakka} 
+We depart when {Yuna} arrives.
+--------------------------------------------------End--
+{Kimahri} 
+{Dona} departed.
+{Isaaru} departed too.
+--------------------------------------------------End--
+{Lulu} 
+No matter the time, night turns to day,
+and 42+58. will come...
+--------------------------------------------------End--
+{Lulu} 
+Another journey begins.
+--------------------------------------------------End--
+{Auron} 
+Newcomers, prepare for the journey
+while there's time.
+--------------------------------------------------End--
+{Lucil} 
+...I wonder if the excommunication will be lifted.
+--------------------------------------------------End--
+{Lucil} 
+I hear the monastic officials of {Djose Temple}
+will heal the wounded.
+--------------------------------------------------End--
+{Lucil} 
+I hear {Yevon2} will not abandon the people.
+That is a blessing.
+--------------------------------------------------End--
+{Lucil} 
+For the fallen soldiers,
+I want to offer prayers for them, but...
+--------------------------------------------------End--
+{Lucil} 
+In my excommunicated state, entering a temple...
+I feel reluctant...
+--------------------------------------------------End--
+{Elma} 
+I will no longer disobey
+__P0__'s teachings...
+--------------------------------------------------End--
+{Elma} 
+This child has finally
+calmed down, I wonder.
+--------------------------------------------------End--
+{Elma} 
+The temple official told us to rest.
+He called out to us.
+--------------------------------------------------End--
+{Clasko} 
+From now on, no matter what I do,
+--------------------------------------------------End--
+{Clasko} 
+absolutely,
+I will live by {Yevon2}'s teachings.
+--------------------------------------------------End--
+{Clasko} 
+I'm thinking about the future.
+--------------------------------------------------End--
+{Luzzu} 
+Everything... it must have been a sin against
+__P0__'s teachings, I suppose.
+--------------------------------------------------End--
+
+Thank you for your efforts! The temple's security,
+leave it to the warrior monks, and please rest!
+--------------------------------------------------End--
+
+I quit the extermination team and became a warrior monk.
+How about it? Do I look the part?
+--------------------------------------------------End--
+
+{Al Bhed}'s great fools are somehow...
+plotting something...
+{NEWPAGE}
+
+As long as we warrior monks are guarding, to the temple...
+they cannot even approach! Wahaha!
+--------------------------------------------------End--
+
+Lord {Yuna}'s 42+65.entry, how joyous!
+I am as happy as if it were my own affair.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s activ42+66., to the Save Sphere...
+a transfer42+67. function to {blitzball} Stadium has...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+68.land, continue Blitz training.
+hidden excellent players are lurking.
+When you press {Button Square} and speak to them, you can sometimes Scout42+69.contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+A transfer42+67. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

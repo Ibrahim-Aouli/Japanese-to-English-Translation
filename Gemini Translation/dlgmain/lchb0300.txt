@@ -1,0 +1,300 @@
+{WINDOW}
+Battle with an Al Bhed Machine.
+{CHOICE:30}Waiting for command.
+{CHOICE:31}Seamless Test.
+{CHOICE:32}Event Retry.
+{CHOICE:33}Battle Unconditional Victory.
+--------------------------------------------------End--
+
+Is it... over already?
+Why is something like that in this port...?
+--------------------------------------------------End--
+
+At the Shop Port, our staff will always
+be stationed there, so please rest assured.
+--------------------------------------------------End--
+
+If you proceed to the left, it's Port 2.
+If you proceed to the right, it will be Port 4.
+--------------------------------------------------End--
+
+Lord Seymour is the one who guides us, the Guado tribe,
+to eternal rest.
+--------------------------------------------------End--
+
+This year's tournament, Kyobi is quite the challenge.
+I hope nothing happens.
+--------------------------------------------------End--
+
+Hey, hey! On the Monk Soldier Army's warship,
+you can't just board without permission!
+--------------------------------------------------End--
+
+If only...,
+a machine like that would be nothing.
+--------------------------------------------------End--
+
+I am truly sorry, but
+ordinary people cannot board this ship.
+--------------------------------------------------End--
+
+You're lucky to be in charge of Kyobi.
+And when I'm off duty, I can watch Blitz.
+--------------------------------------------------End--
+
+Against machines that defy the teachings,
+we cannot lose!
+--------------------------------------------------End--
+
+Grand Master Maika's ship.
+On guard!
+--------------------------------------------------End--
+
+By {Maester Kinoc}'s command.
+We are defending {Luca}!
+--------------------------------------------------End--
+
+No help needed!
+Warrior monks will guard Grand Master's ship!
+--------------------------------------------------End--
+
+Please don't associate us with the punitive force.
+We are warrior monks who uphold Ebon's teachings.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Amount: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Amount: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Amount: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Amount: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract for 1 or more matches.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract amount is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+Bixson
+Precisely because the battle with 『{Sin} 』 continues...
+...we must play our best game and inspire the people.
+--------------------------------------------------End--
+Bixson
+Whether you are a rebel or not...
+...it doesn't matter during the match.
+--------------------------------------------------End--
+Bixson
+For the sake of the {Luca} people, we Gowers...
+...must continue to be always victorious.
+--------------------------------------------------End--
+Bixson
+Underestimating {Aurochs} was our biggest failure.
+Now, we will crush them with all our strength. Prepare yourself.
+--------------------------------------------------End--
+Bixson
+We {Luca Goers} always stand at the top.
+If you're frustrated, then crawl your way back up.
+--------------------------------------------------End--
+Graab
+About Nagi coming? I haven't thought about it.
+All I'm thinking about is the next match.
+--------------------------------------------------End--
+Graab
+No matter what happens to the temple, we...
+Just play Blitz, that's all.
+--------------------------------------------------End--
+Graab
+If you have time to take a walk,
+why don't you improve your Blitz skills?
+--------------------------------------------------End--
+Graab
+Something like {42+66.42+67.} happens.
+Your {42+68.} victory is precisely that.
+--------------------------------------------------End--
+Graab
+You avoided a first-round defeat for 24 consecutive years.
+Just be satisfied with that.
+--------------------------------------------------End--
+Ambus
+When the flying ship flew off, both the players and the spectators
+we all sang together.
+--------------------------------------------------End--
+Ambus
+I heard a rumor that you're rebels.
+There were some utterly pointless stories like that too, weren't there?
+--------------------------------------------------End--
+Ambus
+We appreciate you protecting {{Luca}}, but
+it's full of monk soldiers everywhere, so it's hard to relax, isn't it?
+--------------------------------------------------End--
+Ambus
+Ah, I let my guard down and lost.
+Even {{Aurochs}} is quite capable, huh.
+--------------------------------------------------End--
+Ambus
+42+68. We won, but thanks to the monster 42+69. activity...
+42+70. The victory party is canceled. How unlucky, huh?
+--------------------------------------------------End--
+Doram
+A flying ship is {Al Bhed}'s machine, right?
+I wonder if we can really defeat '{Sin}'.
+--------------------------------------------------End--
+Doram
+It seems you've been wandering around everywhere, but...
+Are you practicing properly?
+--------------------------------------------------End--
+Doram
+You became a guard, right?
+Can you be a player and also hold another job?
+--------------------------------------------------End--
+Doram
+It's not that we lost to {Aurochs}, but to {Wakka}'s...
+I'll just say we lost to __P1__'s 42+71. nature.
+--------------------------------------------------End--
+Doram
+The final match was fun.
+You showed a cute 42+72. gesture. Not bad.
+--------------------------------------------------End--
+Bargerda
+I hear the next Grand Master hasn't been decided yet.
+No matter who it is, it doesn't concern the players.
+--------------------------------------------------End--
+Bargerda
+What are these temples thinking lately?
+I completely don't understand.
+--------------------------------------------------End--
+Bargerda
+They're skipping their duties to watch the matches.
+There are many monk soldiers. How appalling.
+--------------------------------------------------End--
+Bargerda
+Of all opponents, to someone like {Aurochs}...
+To lose... 42+73.42+74. No, that's not it.
+--------------------------------------------------End--
+Bargerda
+Well, did you realize the difference in our abilities?
+If I feel like it, I'll 42+75. for you again.
+--------------------------------------------------End--
+Raudia.
+I don't know who is on that flying ship, but...
+I just hope they manage well.
+--------------------------------------------------End--
+Raudia.
+The Ronzo and Al Bhed teams were hurt.
+It seems they intend to cheer up their comrades with Blitz.
+--------------------------------------------------End--
+Raudia.
+I hear that {Crusader} suffered a crushing defeat.
+Humph. That's the 42+67. result.
+--------------------------------------------------End--
+Raudia.
+I'll entrust the trophy to you until the next tournament.
+Do your utmost to store it away carefully in a 42+76. place.
+--------------------------------------------------End--
+Raudia.
+To think a mere {Aurochs} would be a runner-up 42+68.
+The tournament's level has really dropped.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32}, the other port number 3.
+{CHOICE:33} Control Map Lines
+{CHOICE:34}, return to 42+77.42+78.'s home.
+--------------------------------------------------End--

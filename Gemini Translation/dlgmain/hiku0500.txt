@@ -1,0 +1,724 @@
+{Kimahri} 
+{Kimahri} is {Al Bhed}'s.
+I won't forget the line of stores.
+--------------------------------------------------End--
+{Kimahri} 
+If {Yuna} is found.
+Even forbidden machines don't matter.
+--------------------------------------------------End--
+{Kimahri} 
+As for {Yuna}...
+{Yuna} should decide.
+--------------------------------------------------End--
+{Kimahri} 
+{Yuna} was deeply troubled.
+I am worried about {Kimahri}.
+--------------------------------------------------End--
+{Kimahri} 
+You just look forward and go.
+{Kimahri} will protect your back.
+--------------------------------------------------End--
+{Kimahri} 
+Thanks to you.
+{Yuna} did not lose courage.
+--------------------------------------------------End--
+{Kimahri} 
+I express my thanks.
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri}'s life is a life saved in return.
+I won't treat it lightly.
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri}'s preparations are ready.
+I can fight '{Sin}' anytime.
+--------------------------------------------------End--
+{Kimahri} 
+'{Sin}' is alive.
+{Kimahri} understands.
+--------------------------------------------------End--
+{Kimahri} 
+{Ronso} and the others were also singing.
+{Kimahri}'s ears definitely heard.
+--------------------------------------------------End--
+{Kimahri} 
+Inside '{Sin},' just a little...
+...there were 42+53.kai thoughts.
+--------------------------------------------------End--
+{Kimahri} 
+There is nothing to 42+54.
+{Kimahri} will go with you to 42+55.
+--------------------------------------------------End--
+{Isaaru} 
+To {Al Bhed2}, quite a lot...
+...I've become indebted.
+--------------------------------------------------End--
+{Isaaru} 
+However... no matter what I'm told.
+I cannot stop the journey.
+--------------------------------------------------End--
+{Tidus} 
+Even though you'll die?
+--------------------------------------------------End--
+{Isaaru} 
+I had decided this since my 42+56.hood.
+I've been ready for a long time.
+--------------------------------------------------End--
+{Isaaru} 
+If 42+57. doesn't do it, who will...?
+That's how it is.
+--------------------------------------------------End--
+{Isaaru} 
+That something like this flies through the sky...
+I can't believe it.
+--------------------------------------------------End--
+{Isaaru} 
+I think it's an amazing machine, but...
+Still, it goes against the teachings.
+--------------------------------------------------End--
+{Isaaru} 
+Honestly, when I'm riding it...
+I feel better, huh.
+--------------------------------------------------End--
+{Tidus} 
+It's just a vehicle42+58.i, isn't it?
+--------------------------------------------------End--
+{Isaaru} 
+A vehicle...42+58.i?
+What is that?
+--------------------------------------------------End--
+{Isaaru} 
+Once we get off the ship,
+we'll resume the journey immediately.
+--------------------------------------------------End--
+{Maroda} 
+Me too, Aniki at the journey's end...
+For him to die, that's not a good feeling.
+--------------------------------------------------End--
+{Maroda} 
+If there's a way for no one to die,
+I'd definitely choose that way.
+--------------------------------------------------End--
+{Tidus} 
+Well then, let's think!
+--------------------------------------------------End--
+{Maroda} 
+You just say it so simply, 42+59.tanni...
+--------------------------------------------------End--
+{Maroda} 
+If only we had plenty of time,
+I could think endlessly.
+--------------------------------------------------End--
+{Maroda} 
+But, while we're thinking slowly,
+『{Sin}』 will destroy everything, won't it?
+--------------------------------------------------End--
+{Maroda} 
+There's no time for {Spira}.
+--------------------------------------------------End--
+{Maroda} 
+We are at {Besaid} and...
+we've been caught by {Al Bhed2}.
+--------------------------------------------------End--
+{Maroda} 
+{Pacce} fell into a trap...
+and we had no choice but to obey.
+--------------------------------------------------End--
+{Maroda} 
+Well, it can't be helped, I guess.
+{Pacce} was quite strained too, you see.
+--------------------------------------------------End--
+{Maroda} 
+Even though they're still a kid, they're pushing themselves.
+Coming along on our journey...
+--------------------------------------------------End--
+{Maroda} 
+They're straining themselves with their small body.
+They're quite something, that one.
+--------------------------------------------------End--
+{Maroda} 
+Hey, this ship...
+Where is it heading?
+--------------------------------------------------End--
+{Maroda} 
+Don't get hurt!
+--------------------------------------------------End--
+{Isaaru} 
+Could you let them sleep?
+--------------------------------------------------End--
+{Maroda} 
+Don't wake them up!
+--------------------------------------------------End--
+{Pacce} 
+This place is safe!
+We're protecting it!
+--------------------------------------------------End--
+{Rin} 
+Well, well.
+--------------------------------------------------End--
+{Rin} 
+It seems you managed to escape safely.
+That is most welcome.
+--------------------------------------------------End--
+{Tidus} 
+You were on board too!?
+--------------------------------------------------End--
+{Rin} 
+To procure supplies at home...
+Just as I returned, I got caught up in it.
+--------------------------------------------------End--
+{Rin} 
+It's a terrible misfortune.
+--------------------------------------------------End--
+{Rin} 
+Fortunately, everything is fine.
+--------------------------------------------------End--
+{Rin} 
+If you need anything.
+Please feel free to ask for anything.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+{Rin} 
+For our travel company in the future...
+Please continue to favor us.
+--------------------------------------------------End--
+{Rin} 
+Upgrades are at the Home's...
+I will visit again.
+--------------------------------------------------End--
+{Rin} 
+Welcome.
+--------------------------------------------------End--
+{Rin} 
+Welcome.
+--------------------------------------------------End--
+{Rin} 
+This is the Travel Agency and Airship Head Office.
+--------------------------------------------------End--
+{Rin} 
+Welcome.
+--------------------------------------------------End--
+{Rin} 
+If you need anything, please ask.
+--------------------------------------------------End--
+{Rin} 
+{Yuna},
+You've become stronger.
+--------------------------------------------------End--
+{Rin} 
+Within your calm demeanor,
+I sense an inner strength.
+--------------------------------------------------End--
+{Rin} 
+You really take after your parents.
+--------------------------------------------------End--
+{Tidus} 
+{Yuna}'s father, {Yevon2}'s...
+A monk, yet he married a {Al Bhed} person?
+--------------------------------------------------End--
+{Rin} 
+{Braska}, with {Al Bhed},
+shared a friendship.
+--------------------------------------------------End--
+{Rin} 
+Because of that, the home at the time...
+was often visited.
+--------------------------------------------------End--
+{Tidus} 
+So, he met {Cid}'s younger sister?
+--------------------------------------------------End--
+{Rin} 
+Yes, the two of them, practically eloping...
+Apparently, they ran off.
+--------------------------------------------------End--
+{Tidus} 
+Hah... Impressive...
+--------------------------------------------------End--
+{Tidus} 
+Ah! Old man, you're angry, aren't you?
+--------------------------------------------------End--
+{Rin} 
+It's because of that nature.
+They immediately cut ties, I hear.
+--------------------------------------------------End--
+{Rin} 
+However, since {Yuna} was born,
+They ended up reconciling, you see.
+--------------------------------------------------End--
+{Rin} 
+Their younger sister, by herself,
+Headed for Home.
+--------------------------------------------------End--
+{Rin} 
+However, that ship...
+--------------------------------------------------End--
+{Tidus} 
+……『{Sin} 』？
+--------------------------------------------------End--
+{Rin} 
+The reason {Braska} became a summoner was
+It is said that that 42+62. incident was the catalyst.
+--------------------------------------------------End--
+{Tidus} 
+Is it all {Sin} 's fault...?
+--------------------------------------------------End--
+{Rin} 
+You will bring it to an end, won't you?
+--------------------------------------------------End--
+{Tidus} 
+Ah, I'll defeat them.
+--------------------------------------------------End--
+{Rin} 
+I am praying for your 42+85. battle.
+--------------------------------------------------End--
+{Rin} 
+Finally, it's the decisive battle with {Sin} , isn't it?
+Do you need any 42+65.?
+--------------------------------------------------End--
+{Tidus} 
+Even at a time like this, 42+64.壳?
+--------------------------------------------------End--
+{Rin} 
+Yes, of course.
+--------------------------------------------------End--
+{Rin} 
+After you all defeat {Sin}.
+I must rebuild the home.
+--------------------------------------------------End--
+{Tidus} 
+Greedy, or rather...
+...resilient, or rather...
+--------------------------------------------------End--
+{Rin} 
+Speaking of which, the strength of {Al Bhed} language is...
+How is it?
+--------------------------------------------------End--
+{Tidus} 
+I've learned quite a lot!
+--------------------------------------------------End--
+{Tidus} 
+Hmm...
+--------------------------------------------------End--
+{Tidus} 
+Nice to meet you.
+--------------------------------------------------End--
+{Rin} 
+Even if they repeat the words I taught...
+...that doesn't mean you've learned them.
+--------------------------------------------------End--
+{Rin} 
+However, the pronunciation is quite difficult.
+You seem to have improved quite a bit.
+--------------------------------------------------End--
+{Rin} 
+If you have any needs in the future...
+Please feel free to ask for anything.
+--------------------------------------------------End--
+{Tidus} 
+Thank you.
+Next time too, please.
+--------------------------------------------------End--
+{Rin} 
+Wonderful.
+--------------------------------------------------End--
+{Rin} 
+Our language.
+You've learned it perfectly.
+--------------------------------------------------End--
+{Tidus} 
+It's easy once you understand the trick.
+--------------------------------------------------End--
+{Rin} 
+To think a day would come when we could speak like this...
+It is truly a joyful matter.
+--------------------------------------------------End--
+{Tidus} 
+Me too.
+--------------------------------------------------End--
+{Rin} 
+Please, by all means, accept my celebratory gift.
+Please accept it.
+--------------------------------------------------End--
+{Tidus} 
+Thank you!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract of 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+Damn it! Those {Guado} guys!
+I'll repay this in {blitz}!
+--------------------------------------------------End--
+
+I'll leave this to you!
+I'm not good at fighting.
+--------------------------------------------------End--
+
+I miss {Bikanel}'s desert.
+Even if it's harsh land, it's my homeland.
+--------------------------------------------------End--
+
+I can't believe {Mika} is a corpse...
+I didn't even notice when I saw them in {Luca}.
+--------------------------------------------------End--
+
+Everyone's song throughout {Spira}...
+If it echoes, it'll work out somehow.
+--------------------------------------------------End--
+
+Hey, hey, watching 『{Sin}』...
+Is it okay not to be there?
+--------------------------------------------------End--
+
+Do you intend to clash head-on with 『{Sin}』?
+You're quite something!
+--------------------------------------------------End--
+
+To jump into 『{Sin}』...
+I hadn't even dreamed of it.
+--------------------------------------------------End--
+
+Precisely at a time like this...
+Training, training!
+--------------------------------------------------End--
+
+Everyone, calm down! Calm yourselves!
+You mustn't panic!
+--------------------------------------------------End--
+
+『{Sin}』 that close...
+It's the first time I've seen it!
+--------------------------------------------------End--
+
+When you stay on a ship for a long time, your body gets dull.
+I want to work up a sweat at {blitzball}.
+--------------------------------------------------End--
+
+Finally, it's the decisive battle with 『{Sin}』.
+Can I stay calm?!
+--------------------------------------------------End--
+
+It's the calm before the storm.
+Training, training during this time!
+--------------------------------------------------End--
+
+This time for sure, settle it!
+I'll leave it to you.
+--------------------------------------------------End--
+
+When {Calm} comes, we'll have many matches!
+Train, train in preparation for that time!
+--------------------------------------------------End--
+
+I did something inexcusable concerning {Luca}.
+I wanted to protect {summoner}.
+--------------------------------------------------End--
+
+That the location of {Home} was exposed to {Yevon2}...
+...is it because we were followed...?
+--------------------------------------------------End--
+
+On the island called {Baaj}, long ago there was a temple...
+...but now it is the lair of {fiend}.
+{NEWPAGE}
+
+Somewhere in the deserted temple...
+...apparently there is an amazing treasure.
+{NEWPAGE}
+
+However, a strong {fiend} lives there...
+...and seems to be protecting the treasure.
+--------------------------------------------------End--
+
+I went to {Baaj} to investigate before.
+I heard from my comrades, but...
+{NEWPAGE}
+
+When they entered the desolate temple,
+a song of prayer could faintly be heard, apparently.
+{NEWPAGE}
+
+Perhaps with {aeons},
+it might be related, I suppose.
+--------------------------------------------------End--
+
+{Baaj}'s island has many mysteries.
+Why don't you try investigating thoroughly?
+--------------------------------------------------End--
+
+You can surely do it.
+Believing that, I will sing too.
+--------------------------------------------------End--
+
+When this battle ends,
+it'll be a match in {blitz} again, then.
+--------------------------------------------------End--
+
+Since I was a child,
+I was dedicated solely to {blitz}.
+--------------------------------------------------End--
+
+After resting a bit in {Home},
+I was planning to return to {Luca}, but...
+--------------------------------------------------End--
+
+You're a rebel, aren't you?
+Then you're the same as {Al Bhed}.
+--------------------------------------------------End--
+
+Even though {Yunalesca} and {Mika} died,
+they were clinging to {Spira}, weren't they...
+--------------------------------------------------End--
+
+I'm sorry, I'm scared and my body is trembling.
+I was very scared before the battle.
+--------------------------------------------------End--
+
+But when I was singing, the fear disappeared.
+I want this battle to end quickly...
+--------------------------------------------------End--
+
+When I was inside '__P0__,'
+I was scared, so I kept singing.
+--------------------------------------------------End--
+
+Everyone in {Sin} is immortal.
+They can also participate in matches.
+--------------------------------------------------End--
+
+Be careful! {Al Bhed Psyches} are everywhere!
+I wonder where __P0__ will head from now.
+--------------------------------------------------End--
+
+I want to become a first-rate player, so I want to experience various teams.
+I'm not flustered, you know!
+--------------------------------------------------End--
+
+It's training to endure a pinch!
+Leave the ship to __P0__, and you should rest while you can.
+--------------------------------------------------End--
+
+いちりゅうの せんしゅに なりたいから
+いろんな ちーむを けいけん したいわ
+--------------------------------------------------End--
+
+あわてて いるんじゃ ないからね！
+ぴんちに たえる くんれんよ！
+--------------------------------------------------End--
+
+ふねの ことは {Al Bhed} に まかせて
+いまのうちに やすんでおいたら
+--------------------------------------------------End--
+
+There's no point in me panicking, but...
+I can't stay calm.
+--------------------------------------------------End--
+
+{Rikku} and {Yuna}.
+Please take care of them.
+--------------------------------------------------End--
+
+Everyone grieving after losing {Home}...
+I want to cheer them up with {blitz}!
+--------------------------------------------------End--
+
+I won't die in a place like this!
+{fiend}! If you're coming, then come!
+--------------------------------------------------End--
+
+While on {airship}...
+Let's train our bodies.
+--------------------------------------------------End--
+
+This is the end for the temple, too.
+The age of machines will come soon.
+--------------------------------------------------End--
+
+{Cid} chief's courage is amazing.
+I want to learn from that too.
+--------------------------------------------------End--
+
+Because the ship shook violently...
+I felt sick.
+--------------------------------------------------End--
+
+When the time comes, I'll fight too!
+I'll ram a shot into 『{Sin}』.
+--------------------------------------------------End--
+
+How was it inside 『{Sin}』?
+It seems like {fiend} are swarming.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unknown {42+87} '{Al Bhed} Language' requires the {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+`{Yellow} 【{Al Bhed} Dictionary Synthesis Sphere】{White}`
+--------------------------------------------------End--
+{WINDOW}
+Loading {Al Bhed} language dictionary data {42+89}...
+`You can synthesize {Al Bhed} dictionaries!`
+{NEWPAGE}
+`Please select the save data to synthesize the Al Bhed dictionary.`
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+`Do you want to synthesize other save data?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+The {Al Bhed} language dictionary's {42+89} loading failed!
+--------------------------------------------------End--
+{WINDOW}
+`There is no {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+The {Al Bhed} language dictionary's {42+89} loading succeeded {42+90}!
+--------------------------------------------------End--
+{WINDOW}
+`Synthesize {Al Bhed} dictionary?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

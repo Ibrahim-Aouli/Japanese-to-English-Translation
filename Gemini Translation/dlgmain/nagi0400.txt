@@ -1,0 +1,288 @@
+{Rikku} 
+What is this place~?
+--------------------------------------------------End--
+{Lulu} 
+A Revered Child in the line...
+Is present.
+--------------------------------------------------End--
+{Lulu} 
+...And monsters too.
+--------------------------------------------------End--
+{Wakka} 
+Hey... Is this it?
+--------------------------------------------------End--
+{Tidus} 
+Did something happen?
+--------------------------------------------------End--
+{Lulu} 
+The first time I acted as a guard...
+...was for a Summoner...
+--------------------------------------------------End--
+{Lulu} 
+They died here.
+--------------------------------------------------End--
+{Lulu} 
+Let's go, {Yuna}.
+The Revered Child is waiting.
+--------------------------------------------------End--
+
+Long ago, Great Summoner {Yocun}...
+...underwent training in this land.
+{NEWPAGE}
+
+We {Crusader} also wish to train here...
+...and once again challenge 『{Sin} 』.
+--------------------------------------------------End--
+
+But... the companions gathered here...
+...are too few.
+{NEWPAGE}
+
+Can we no longer do anything...?
+--------------------------------------------------End--
+
+To this land where {Yocun} once trained...
+...companions have gathered from various places.
+{NEWPAGE}
+
+Our numbers are few, but we cannot complain.
+Now we can do {Crusader} again.
+--------------------------------------------------End--
+
+After training here for a while...
+We plan to depart to defeat monsters.
+--------------------------------------------------End--
+
+This place where Lord {Yocun} trained...
+It's a significant land for {Crusader}.
+{NEWPAGE}
+
+Before Lord {Yocun} became a Summoner...
+They were a member of {Crusader}.
+--------------------------------------------------End--
+
+Even if we try to 42+53.restore {Crusader}...
+It's difficult to gather people.
+--------------------------------------------------End--
+
+This place where Lord {Yocun} trained...
+It's a significant land for {Crusader}.
+{NEWPAGE}
+
+Before Lord {Yocun} became a Summoner...
+They were a member of {Crusader}.
+--------------------------------------------------End--
+
+The reason companions have gathered is...
+I wonder if it's Lord {Yocun}'s blessing?
+--------------------------------------------------End--
+
+I... in {Operation Mi'ihen}...
+was participating.
+{NEWPAGE}
+
+I became disgusted in that losing battle.
+For a 42+54. time, I quit {Crusader}, but...
+{NEWPAGE}
+
+Even though {Spira} is in trouble.
+I can't be wandering around.
+--------------------------------------------------End--
+
+My family tried to stop me, but...
+I decided to fight as {Crusader}.
+--------------------------------------------------End--
+
+Don't misunderstand.
+I am a former warrior monk, but now I am a {Crusader} member.
+{NEWPAGE}
+
+Protecting the temple became pointless, so...
+I decisively quit being a warrior monk.
+--------------------------------------------------End--
+
+The Warrior Monk Army 42+55. is holed up in the {St. Bevelle} Palace.
+They are hopeless 42+56. deserters.
+--------------------------------------------------End--
+
+Recently, flying ships have often been sighted.
+Could it be {Al Bhed2}'s new weapon?
+{NEWPAGE}
+
+Again, borrowing their power...
+I want to carry out the Second {Operation Mi'ihen}!
+--------------------------------------------------End--
+
+{Crusader} is still very weak.
+42+58. power with {Al Bhed2} is necessary.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+59. contract period: {VAR12:33} matches
+42+59. contract money: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+59. contract period: {VAR12:33} matches
+42+59. contract money: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+59. contract period: {VAR12:33} matches
+42+59. contract money: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+59. contract period: {VAR12:33} matches
+42+59. contract money: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you 42+59.約?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of 42+59.約 matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A 42+59.約 for 1 or more matches.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The 42+59.約 fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s utilization, to the Save Sphere
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training at {Spira}'s shop.
+hidden excellent players are lurking.
+If you press {Button Square} and speak, you may be able to make a scout 42+59. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

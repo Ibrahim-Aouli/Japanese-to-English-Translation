@@ -1,0 +1,72 @@
+{WINDOW}
+
+Press {Button Circle} at the Search Point.
+--------------------------------------------------End--
+{WINDOW}
+
+List: Specify the Airship destination list.
+--------------------------------------------------End--
+{WINDOW}
+
+Input: Enter the password.
+--------------------------------------------------End--
+{WINDOW}
+
+Search: Explore the World.
+--------------------------------------------------End--
+{WINDOW}
+
+Please specify the destination.
+--------------------------------------------------End--
+{WINDOW}
+
+This is a newly discovered point.
+--------------------------------------------------End--
+{WINDOW}
+
+Is this okay here?
+--------------------------------------------------End--
+{WINDOW}
+1000-year-old ruins scattered across Spira's ancient lands.
+Unravel the Al Bhed mysteries left there...
+Please enter the derived password.
+--------------------------------------------------End--
+Godhand
+--------------------------------------------------End--
+Victorious
+--------------------------------------------------End--
+Murasame
+--------------------------------------------------End--
+{WINDOW}
+Password solution failed!
+--------------------------------------------------End--
+{WINDOW}
+Password NO{VAR12:30}: Solved!
+--------------------------------------------------End--
+{WINDOW}
+Already solved.
+--------------------------------------------------End--
+{WINDOW}
+Discovered Baaj Temple!
+Added to the Airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Discovered Omega Ruins!
+Added to the Airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Discovered Besaid Rainbow Falls!
+Added to the Airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Discovered Mi'ihen Sea Ruins!
+Added to the Airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Discovered Mushroom Rock Battleground!
+Added to the Airship destination list!
+--------------------------------------------------End--
+{WINDOW}
+Discovered Sanubia Sands 42+53.!
+Added to the Airship destination list!
+--------------------------------------------------End--

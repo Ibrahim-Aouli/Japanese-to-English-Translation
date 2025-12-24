@@ -1,0 +1,518 @@
+
+
+--------------------------------------------------End--
+
+If 'Sin' disappears, Spira's seas will
+become calm too, won't they?
+--------------------------------------------------End--
+
+I can't say it loudly, but the temples lately are
+strange! ...Oops, I spoke too loudly.
+--------------------------------------------------End--
+
+Every time I hear someone's marriage story, I think it's about time for me too...
+Well, it's just a thought, though.
+--------------------------------------------------End--
+
+If I keep thinking "just one more store, just one more store,"
+I'll never be able to stop.
+--------------------------------------------------End--
+
+I couldn't get a ticket,
+so I was watching the match here.
+--------------------------------------------------End--
+
+Thanks to that, I wasn't
+attacked by monsters.
+--------------------------------------------------End--
+
+It's a blessing in disguise. This is also
+{Yevon2}'s gift... perhaps?
+--------------------------------------------------End--
+
+I want to gather as many comrades as possible
+and re-form the subjugation squad.
+--------------------------------------------------End--
+
+Giving up on the subjugation squad
+and becoming a monk warrior might be good too.
+--------------------------------------------------End--
+
+{Spira} is full of monsters.
+It wouldn't be strange if anywhere were attacked.
+--------------------------------------------------End--
+
+To think I'd be invited to the extermination squad.
+I wasn't expecting it.
+--------------------------------------------------End--
+
+The desire to protect people...
+Warrior monks and the extermination squad are the same.
+--------------------------------------------------End--
+
+In short, what's certain is...
+...not a single thing is understood, then.
+--------------------------------------------------End--
+
+Nagi-ō soon, huh...? Passed away...
+Grand Maester Maika, too, must be satisfied in the Farplane.
+--------------------------------------------------End--
+
+There's no way the Great Summoner's daughter would rebel.
+I wonder what the temple misunderstood.
+--------------------------------------------------End--
+
+Maester Seymour is going to break ties, then...?
+Oh, what a waste.
+--------------------------------------------------End--
+
+Because there are warrior monks all over town...
+It feels like 42+53.42+54. has been done to me.
+--------------------------------------------------End--
+
+{Master Seymor} was amazing, wasn't it?
+It's the first time I've seen a summon like that.
+--------------------------------------------------End--
+
+If someone of that caliber is a Maester...
+I want to believe that {Spira} is also 平42+55.......
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract period: {VAR12:33} matches
+Contract fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract period: {VAR12:33} matches
+Contract fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract period: {VAR12:33} matches
+Contract fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract period: {VAR12:33} matches
+Contract fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract of 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+When the flying ship came flying...
+Everyone sang while operating the 42+57. shop.
+--------------------------------------------------End--
+
+Is Lady Yuna a rebel? Or isn't she?
+It's nothing but vague rumors, so I can't tell.
+--------------------------------------------------End--
+
+Maester Seymour and Lady Yuna's ceremony...
+It will become a 42+60. magnificent wedding ceremony that will be remembered 42+58.42+59..
+--------------------------------------------------End--
+
+It looks difficult for the Crusaders to 42+61. recover.
+I wonder what will happen now.
+--------------------------------------------------End--
+
+You're the player from 42+62. {Aurochs}, aren't you?
+You were amazing this time!
+--------------------------------------------------End--
+
+After 23 consecutive years of first-round defeats, suddenly...
+So something like a 42+63. victory really can happen, huh?
+--------------------------------------------------End--
+
+You couldn't achieve a 42+63. victory, but it was a great 42+64. fight!
+Keep up the good work!
+--------------------------------------------------End--
+
+If 'Sin' truly disappears...
+To hold a Calm Commemoration Blitzball tournament...
+--------------------------------------------------End--
+
+In order to 42+66. support the confused temples...
+Hold a Blitzball tournament...
+--------------------------------------------------End--
+
+42+67.42+68. to commemorate Maester Seymour's procession...
+Hold a commemorative Blitzball tournament...
+--------------------------------------------------End--
+
+In order to console the Crusaders for their defeat...
+Hold a Blitzball tournament...
+--------------------------------------------------End--
+
+The tournament is finally over.
+Please let me rest a little.
+--------------------------------------------------End--
+
+Just when the Grand Maester had arrived...
+Because a monster disturbance broke out...
+--------------------------------------------------End--
+
+The preparatory staff collapsed from mental strain.
+The tournament operating committee is in chaos.
+--------------------------------------------------End--
+
+Scoop! The one on the flying ship is...
+It's said to be Lord Braska's daughter!
+--------------------------------------------------End--
+
+The Guado tribe, the Al Bhed's dwelling...
+They apparently utterly destroyed it. How terrible.
+--------------------------------------------------End--
+
+The Maester's ceremony at Luca Stadium...
+I think it would get more exciting if we did it there.
+--------------------------------------------------End--
+
+Summoners all over Spira...
+...are apparently going missing.
+--------------------------------------------------End--
+
+It was amazing when the flying ship arrived~!
+It was a commotion of shouting and singing, wasn't it!
+--------------------------------------------------End--
+
+The temple is in a commotion? Hmm...
+We staff are completely occupied with Blitz.
+--------------------------------------------------End--
+
+Quit the extermination squad and help with the stadium's work?
+I wonder if there's anyone who would help.
+--------------------------------------------------End--
+
+The operation failed, I hear...
+After all, machine weapons won't work, will they?
+--------------------------------------------------End--
+
+Because of the monster 42+69. activity, from now on...
+It's the stadium repairs. Haa...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Celestial Mirror}】{White}...
+{CHOICE:30} Show it.
+{CHOICE:31} Don't show it.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Cloudy Mirror}】{White}...
+{CHOICE:30} Show it.
+{CHOICE:31} Don't show it.
+--------------------------------------------------End--
+
+That's impressive. With you, I can feel at ease.
+I can hand over my family heirloom.
+--------------------------------------------------End--
+
+Our ancestor 42+78.-sama received it from {High Summoner Ohalland}-sama.
+It is 42+79. Please use it with great 42+77.!
+--------------------------------------------------End--
+
+Welcome!
+Player Blitz is fine 42+80.42+81.
+--------------------------------------------------End--
+
+No matter how weak, a player is a player!
+Do your best! I'm 42+66.supporting you!
+--------------------------------------------------End--
+
+The temple has become dilapidated, and...
+I want to quit being a warrior monk already...
+--------------------------------------------------End--
+
+Then join the subjugation squad!
+If it's you, you'll be fine 42+80.42+81.
+--------------------------------------------------End--
+
+The Mihen Session failed, and...
+The expeditionary force is done for...
+--------------------------------------------------End--
+
+Then, will you become a warrior monk?
+I'll 42+82.42+83. our captain.
+--------------------------------------------------End--
+
+What! We the teachings...
+...violated, but is that alright?
+--------------------------------------------------End--
+
+Nonsense. When we 42+84.ed...
+We're in the same boat.
+--------------------------------------------------End--
+
+That monster is {Al Bhed}'s doing!
+It's harassment toward the temple!
+--------------------------------------------------End--
+
+What are you saying? If it's {Al Bhed}...
+...they'd obviously use machines.
+--------------------------------------------------End--
+
+Oh... I see.
+--------------------------------------------------End--
+
+That monster is {Crusader}'s doing!
+It's harassment toward the tournament!
+--------------------------------------------------End--
+
+There's absolutely no logic.
+Zero comprehension.
+--------------------------------------------------End--
+
+Yes, I think so myself.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+It seems they're not here.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+Shall we try asking?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+Why are you silent, {Kimahri}? We haven't met for 10 years.
+Why can't I see {Yenke}?
+--------------------------------------------------End--
+{Yenke} 
+Have you forgotten {Yenke}?
+Have you forgotten Elder Brother {Biran}?
+--------------------------------------------------End--
+{Biran} 
+Don't underestimate {Yenke}!
+{Kimahri} is a small {Ronso}.
+--------------------------------------------------End--
+{Biran} 
+You're short. I can't see your face.
+I can't tell {Biran} and {Yenke} apart.
+--------------------------------------------------End--
+{Yenke} 
+Uwahahahaha!
+--------------------------------------------------End--
+{Yenke} 
+Have you forgotten {Ronso}'s compatriot, you ignorant one!
+I doted on you when your horns were regrowing!
+--------------------------------------------------End--
+{Yenke} 
+Elder Brother {Biran} trained {Kimahri}.
+Raised you into a strong {Ronso}.
+--------------------------------------------------End--
+{Biran} 
+I overdid it, though.
+--------------------------------------------------End--
+{Tidus} 
+Why don't you do it?
+--------------------------------------------------End--
+{Yenke} 
+Uwahahahaha!
+--------------------------------------------------End--
+{Yenke} 
+Gueh!?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+The match is starting!
+If you're going to fight, do it outside! Outside!
+--------------------------------------------------End--
+{Tidus} 
+This is bad, isn't it!?
+--------------------------------------------------End--
+{Mika} 
+Today, on this 42+90. day,
+Players gathered from all over Spira.
+--------------------------------------------------End--
+{Mika} 
+Their well-honed strength and skill
+In order to fairly and squarely 42+91.compete.
+--------------------------------------------------End--
+{Tidus} 
+{Kimahri} ！
+{Yuna} isn't here!
+--------------------------------------------------End--
+
+You're a good player, but...
+You're still lacking effort.
+--------------------------------------------------End--
+
+If you want to get that,
+You have to win more.
+--------------------------------------------------End--
+
+You've become an amazing player.
+--------------------------------------------------End--
+
+All that's left is if you bring that.
+I'll give you our family treasure.
+--------------------------------------------------End--
+
+Hey! Star player!
+--------------------------------------------------End--
+
+You have that.
+Show it to me for a bit.
+--------------------------------------------------End--
+
+Yes, yes, that's it, that!
+But that still lacks power.
+--------------------------------------------------End--
+
+Too bad! If that were filled with power...
+I'd give you our family treasure...
+--------------------------------------------------End--
+
+Lord Oharand used this.
+It is a historically significant ball.
+--------------------------------------------------End--
+
+Our family has kept it secret [42+92.] for generations.
+--------------------------------------------------End--
+
+Please, Lord Oharand's will...
+...please carry on.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Event Select.
+{CHOICE:33} Model Change.
+{CHOICE:34} Background Switching
+{CHOICE:35} Ronzo Display Control
+{CHOICE:36} Ronzo Motion
+{CHOICE:37} Dendatsu Weapon Relations
+{CHOICE:38} Map Line Control
+{CHOICE:39} Return to 42+93.42+94. Sanchi.
+--------------------------------------------------End--
+{WINDOW}
+`Model: {CHOICE:51}`
+--------------------------------------------------End--
+{WINDOW}
+Dendatsu Weapon Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Initialize Dendatsu
+{CHOICE:32} Cancellable
+{CHOICE:33} Non-Cancellable
+{CHOICE:34} Scenario Settings
+{CHOICE:35} Blitz Status [42+95.]: {VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+Initialize
+--------------------------------------------------End--
+{WINDOW}
+Tavern Background Select
+{CHOICE:30} As Is
+{CHOICE:31} Default
+{CHOICE:32} Fight Cut
+Monitor Cut
+Ronzo Fight
+--------------------------------------------------End--
+{WINDOW}
+Tavern Event Select
+{CHOICE:30} Never mind.
+Mean Ronzo
+Yuna Isn't Here
+Wait Adjustment
+--------------------------------------------------End--
+{WINDOW}
+Wait {VAR12:30} : {CHOICE:52}
+--------------------------------------------------End--
+{WINDOW}
+Motion : {CHOICE:51}
+--------------------------------------------------End--

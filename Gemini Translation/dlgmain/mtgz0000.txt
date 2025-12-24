@@ -1,0 +1,949 @@
+
+Reiretsu {Gagazet} shelters the weak.
+The weaponry crafted by {Ronso} is consumed each time.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Buy weapons.
+{CHOICE:31} Buy items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+{Ronso} always prepares for battle.
+Never neglects weaponry maintenance.
+--------------------------------------------------End--
+
+The conflict between {Biran} and {Kimahri}
+Began 10 years ago.
+{NEWPAGE}
+
+{Ronso}'s clan fights among comrades,
+Comparing each other's strength.
+{NEWPAGE}
+
+Even if {Kimahri} is defeated by {Biran},
+They did not admit defeat even once.
+{NEWPAGE}
+
+The {Biran} who had left the place
+Broke off {Kimahri}'s horn.
+{NEWPAGE}
+
+{Kimahri} could not endure the shame,
+Abandoned the mountain and left.
+--------------------------------------------------End--
+
+{Kimahri} became silent
+From the time their horn was broken off.
+--------------------------------------------------End--
+
+{Biran} and {Yenke} are {Ronso}'s successors.
+They do not harbor resentment, even if defeated.
+{NEWPAGE}
+
+They will probably sincerely admire {Kimahri}
+Who seized victory with their true strength.
+--------------------------------------------------End--
+
+For {Kimahri} to defeat {Biran}...
+It seems {they} have spent a fruitful ten years.
+--------------------------------------------------End--
+
+For a man of {Ronso}, his horn...
+...to have his horn broken is the greatest shame.
+{NEWPAGE}
+
+{Kimahri}, who lost his horn...
+It's a mystery why {he} was able to return.
+--------------------------------------------------End--
+
+The current {Kimahri} shows no sign of shame.
+Has {he} obtained something more important than a horn?
+--------------------------------------------------End--
+
+Can you hear the sound of the wind sweeping through the ranks?
+It is praising {Kimahri}'s victory.
+--------------------------------------------------End--
+
+The cold wind raging on the sacred mountain...
+...is fiercer than {Ronso}'s fangs.
+{NEWPAGE}
+
+The weak have their path blocked.
+...and buried in the blizzard, they perish.
+--------------------------------------------------End--
+
+Prepare your equipment, and steel your resolve.
+Aim for the summit of the Spirit Peaks.
+--------------------------------------------------End--
+
+Do not worry, little guard.
+{Ronso} will protect the Summoner's back.
+--------------------------------------------------End--
+
+Even in old age, all {Ronso} are warriors.
+To fulfill the duty of protecting the sacred mountain.
+{NEWPAGE}
+
+Until the day 42+69. death.
+{Ronso} sharpens its fangs day and night.
+--------------------------------------------------End--
+
+That {Kimahri} who abandoned the sacred mountain 10 years ago,
+That __P0__ would return, having 42+70. gallantly.
+{NEWPAGE}
+
+There is nothing left to regret.
+It is truly {Yevon2}'s blessing.
+--------------------------------------------------End--
+
+Now, go.
+霊列{Gagazet} is waiting.
+--------------------------------------------------End--
+
+That {Kimahri} gained great power
+is probably thanks to Summoner {Yuna}.
+{NEWPAGE}
+
+On behalf of all {Ronso},
+I shall 42+71. offer my thanks.
+--------------------------------------------------End--
+
+Eventually, the temple's pursuers will come.
+You should hurry ahead.
+--------------------------------------------------End--
+{Maechen} 
+About the ancient {Spira},
+__P0__, please stop.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} at the next opportunity,
+{CHOICE:31} please tell us.
+--------------------------------------------------End--
+{Maechen} 
+Ahem.
+--------------------------------------------------End--
+{Maechen} 
+There is a legend like this,
+--------------------------------------------------End--
+{Maechen} 
+A little before 『{Sin} 』 appears……
+--------------------------------------------------End--
+{Maechen} 
+{Zanarkand} and {Bevelle}
+It was when 42+72. was occurring fiercely.
+--------------------------------------------------End--
+{Maechen} 
+The {Bevelle} army that assaulted and climbed {Gagazet},
+Heard a song echoing on the snowy mountain.
+--------------------------------------------------End--
+{Maechen} 
+To a singing voice that seemed not of this world,
+The soldiers were terrified and fled, it is said.
+--------------------------------------------------End--
+{Maechen} 
+And then, as if pursuing the 42+73.ing army,
+『{Sin} 』 appeared.
+--------------------------------------------------End--
+{Maechen} 
+Eventually, {Bevelle}'s 42+74.42+75. unit...
+Climbed {Gagazet}...
+--------------------------------------------------End--
+{Maechen} 
+The destruction of {Zanarkand},
+Confirmed with their own eyes.
+--------------------------------------------------End--
+{Maechen} 
+The 42+76. city was utterly destroyed,
+Every single resident vanished.
+--------------------------------------------------End--
+{Maechen} 
+Instead, in {Gagazet},
+There were countless {fayth}-sama...
+--------------------------------------------------End--
+{Maechen} 
+They were singing.
+--------------------------------------------------End--
+{Maechen} 
+Yes, today, it's called a song of prayer,
+And a song that is 42+77. called.
+--------------------------------------------------End--
+{Maechen} 
+Well, that's about it.
+--------------------------------------------------End--
+{Maechen} 
+There's more, though?
+--------------------------------------------------End--
+{Maechen} 
+May I continue the story?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} See you later.
+{CHOICE:31} Continue.
+--------------------------------------------------End--
+{Maechen} 
+Regarding the '{Sin}' that suddenly appeared...
+The people of {Bevelle} rumored.
+--------------------------------------------------End--
+{Maechen} 
+The people of {Zanarkand} becoming {fayth}...
+...might have created '{Sin}'.
+--------------------------------------------------End--
+{Maechen} 
+The one who performed that spell was...
+--------------------------------------------------End--
+{Maechen} 
+The summoner who controlled {Zanarkand}...
+...might have been {Yevon2}.
+--------------------------------------------------End--
+{Maechen} 
+Yes, {Yunalesca}-sama's father, isn't that right?
+--------------------------------------------------End--
+{Maechen} 
+When {Zanarkand} was destroyed...
+{Yunalesca}-sama...
+--------------------------------------------------End--
+{Maechen} 
+...fled with 42+80.'s {Zaon}-sama, and...
+...they were gone.
+--------------------------------------------------End--
+{Maechen} 
+After that, the two of them used the Ultimate Summon to...
+...defeated '{Sin}'.
+--------------------------------------------------End--
+{Maechen} 
+However, the people of {Bevelle}...
+...still blamed Summoner {Yevon2}.
+--------------------------------------------------End--
+{Maechen} 
+So, in an attempt to appease {Yevon2}'s anger...
+They spread teachings praising {Yevon2}.
+--------------------------------------------------End--
+{Maechen} 
+This was the beginning of the {Yevon2} Temple.
+--------------------------------------------------End--
+{Maechen} 
+Could it be Lord {Yunalesca}...
+...was aiming for that, perhaps.
+--------------------------------------------------End--
+{Maechen} 
+Instead of me defeating '{Sin}',
+...so that Father {Yevon2}'s name would remain.
+--------------------------------------------------End--
+{Maechen} 
+Of course, there was no 42+82.42+83. at all.
+Everything is in the darkness of 42+84.42+85.
+--------------------------------------------------End--
+{Maechen} 
+That {Yevon2} was {Bevelle}'s enemy,
+...could never be publicly announced.
+--------------------------------------------------End--
+{Maechen} 
+Therefore, the temple... this 42+84.42+85.
+...keeps completely secret.
+--------------------------------------------------End--
+{Maechen} 
+Well, that's about it.
+--------------------------------------------------End--
+{Maechen} 
+May I speak further?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} See you later.
+{CHOICE:31} Continue.
+--------------------------------------------------End--
+{Maechen} 
+Well then, about the Song of Prayer...
+Let's speak of it.
+--------------------------------------------------End--
+{Maechen} 
+That was originally against {Bevelle}...
+...the song of {Zanarkand} who rebelled.
+--------------------------------------------------End--
+{Maechen} 
+At that 42+86., the {Yevon2} Temple...
+...prohibited singing.
+--------------------------------------------------End--
+{Maechen} 
+Then, those who did not obey the temple...
+I came to enjoy singing.
+--------------------------------------------------End--
+{Maechen} 
+For example, {Al Bhed}.
+--------------------------------------------------End--
+{Maechen} 
+Songs of prayer represent the 42+87.42+88. to the temple.
+It became a song.
+--------------------------------------------------End--
+{Maechen} 
+The temple that 42+89. its hands changed its policy.
+--------------------------------------------------End--
+{Maechen} 
+They lifted the ban on songs.
+Twisting its 42+90.rai...
+--------------------------------------------------End--
+{Maechen} 
+Songs that soothe the souls of the dead.
+That's what they made it out to be.
+--------------------------------------------------End--
+{Maechen} 
+And so, that song
+was incorporated into the temple's teachings.
+--------------------------------------------------End--
+{Maechen} 
+Thanks to that, songs of prayer now
+have spread throughout {Spira}.
+--------------------------------------------------End--
+{Maechen} 
+In other words, the {Zanarkand} that vanished from the world
+only survived within the songs.
+--------------------------------------------------End--
+{Maechen} 
+Oh, this has turned into quite
+a long talk.
+--------------------------------------------------End--
+{Maechen} 
+I was happy to be able to speak, so I just...
+--------------------------------------------------End--
+{Maechen} 
+No, no, I'm grateful for being allowed to talk
+about various things.
+--------------------------------------------------End--
+{Maechen} 
+May I speak one more 42+57. word?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Never mind.
+{CHOICE:31} The fall of Zanarkand
+{CHOICE:32}{Yevon2} and Yunalesca
+{CHOICE:33} About the song of prayer
+--------------------------------------------------End--
+
+The aged 42+80. fell in the 42+91. of battle.
+That is truly a fitting way to die for {Ronso}.
+{NEWPAGE}
+
+Like a 42+92., 42+94.-ing 42+93.
+It must be that they went to the Farplane.
+--------------------------------------------------End--
+
+From the spirit path {Gagazet}, the wind is 42+66.-ly cold.
+Even the flowing 42+95. instantly freezes.
+{NEWPAGE}
+
+Therefore, {Ronso} abandons the 42+95.
+Faces sorrow.
+--------------------------------------------------End--
+
+All the people of {Ronso} are warriors.
+At least those who remained will protect the sacred mountain.
+--------------------------------------------------End--
+
+Even though the temple is 42+96.-ed...
+It would be too early to abandon the teachings.
+{NEWPAGE}
+
+Discerning the changes of the era...
+...choose what should be protected.
+--------------------------------------------------End--
+
+The flying ship came flying, 42+97.-ing the sacred mountain.
+A survivor of ancient Zanarkand?
+--------------------------------------------------End--
+
+Even {Ronso}'s children have horns.
+I will not lose to monsters.
+{NEWPAGE}
+
+Tempered by snow and ice.
+I will grow as big as the mountain.
+--------------------------------------------------End--
+
+Summoner {Yuna}'s Nagi42+98.
+{Ronso} is also eagerly awaiting.
+--------------------------------------------------End--
+
+Even to the warriors of the flying ship,
+I think {Ronso}'s song was heard.
+{NEWPAGE}
+
+By the power of song, defeat '{Sin}',
+and I want you to 42+77. Nagi42+98..
+--------------------------------------------------End--
+
+If true 42+99. comes,
+I want to try traveling to the ends of {Spira}.
+--------------------------------------------------End--
+
+Fell into the hands of the deceased {Seymour},
+many {Ronso} lost their lives.
+{NEWPAGE}
+
+To die in battle is the fate of {Ronso}.
+I was prepared since the day I was born, but...
+{NEWPAGE}
+
+The survivors are... too few.
+--------------------------------------------------End--
+
+Even if I become the last one,
+{Ronso} will not abandon the mountain.
+--------------------------------------------------End--
+
+When I was singing the song of prayer,
+a big mountain42+100.ri 42+67. across.
+{NEWPAGE}
+
+The spirit procession {Gagazet} also along with {Ronso}
+It seems they were singing.
+--------------------------------------------------End--
+
+The current {Ronso} does not have the power to fight '{Sin}'.
+There is no power. It is regrettable.
+--------------------------------------------------End--
+{Kelk} 
+Summoner {Yuna} and Guard 42+55.!
+Promptly 42+101.!
+--------------------------------------------------End--
+{Kelk} 
+{Gagazet} that {Ronso} protects is
+{Yevon2}'s sacred mountain.
+--------------------------------------------------End--
+{Kelk} 
+For rebels who defied the teachings,
+The sacred mountain's soil cannot be 42+102.
+--------------------------------------------------End--
+{Biran} 
+{Yevon2}'s enemy is {Ronso}'s enemy.
+Tremble, rebel!
+--------------------------------------------------End--
+{Yuna} 
+I abandoned the temple.
+I will no longer obey the temple's orders.
+--------------------------------------------------End--
+{Kelk} 
+That 42+103. word cannot be undone!
+--------------------------------------------------End--
+{Yuna} 
+I don't mind.
+--------------------------------------------------End--
+{Yuna} 
+The temple distorted the teachings
+and is 42+104.ing {Spira}.
+--------------------------------------------------End--
+{Wakka} 
+They are only 42+104. with small 42+105. 42+106.!
+しやがってよ！
+--------------------------------------------------End--
+{Tidus} 
+That's right!
+--------------------------------------------------End--
+{Rikku} 
+That's right!
+--------------------------------------------------End--
+{Yuna} 
+I have no regrets.
+--------------------------------------------------End--
+{Yenke} 
+Let them talk!
+--------------------------------------------------End--
+{Kelk} 
+Both summoners and guards.
+Such a being...
+--------------------------------------------------End--
+{Lulu} 
+But, Lord {Kelk Ronso}, your words...
+--------------------------------------------------End--
+{Lulu} 
+You, too, {Bevelle}...
+Didn't you also leave __P0__?
+--------------------------------------------------End--
+{Auron} 
+Even so, protecting the mountain is...
+For the sake of the clan's honor.
+--------------------------------------------------End--
+{Auron} 
+{Yuna} is the same.
+--------------------------------------------------End--
+{Kelk} 
+Hmph...
+--------------------------------------------------End--
+{Biran} 
+Grand Elder {Kelk}!
+--------------------------------------------------End--
+{Biran} 
+{Biran} will tear these guys to pieces!
+(Combined with 15)
+--------------------------------------------------End--
+{Yenke} 
+Not a single one will escape!
+--------------------------------------------------End--
+{Yuna} 
+Yes, I won't flee.
+--------------------------------------------------End--
+{Yuna} 
+I will fight and continue my journey.
+--------------------------------------------------End--
+{Kelk} 
+Branded with the name of a rebel.
+Well, to challenge {Sin}, or rather...
+--------------------------------------------------End--
+{Kelk} 
+Even if I defy the temple, even if despised by the people...
+To continue the journey, I mean!
+--------------------------------------------------End--
+{Kelk} 
+To fight, going to such lengths...
+Why?!
+--------------------------------------------------End--
+{Yuna} 
+I like {Spira}.
+--------------------------------------------------End--
+{Yuna} 
+For the people waiting for Nagi.
+The gift I can give.
+--------------------------------------------------End--
+{Yuna} 
+My only gift.
+--------------------------------------------------End--
+{Yuna} 
+That is to defeat {Sin}.
+--------------------------------------------------End--
+{Yuna} 
+...That's all.
+--------------------------------------------------End--
+{Kelk} 
+Even if I sacrifice myself...?
+--------------------------------------------------End--
+{Kelk} 
+You all, clear the way!
+--------------------------------------------------End--
+{Kelk} 
+Summoner {Yuna}.
+Your resolve is stronger than steel.
+--------------------------------------------------End--
+{Kelk} 
+Even if {Ronso}'s champions band together...
+Your will shall not waver.
+--------------------------------------------------End--
+{Kelk} 
+Truly, it is admirable resolve.
+--------------------------------------------------End--
+{Kelk} 
+Go forth.
+--------------------------------------------------End--
+{Kelk} 
+The Spirit Line {Gagazet}...
+Let us accept 42+113.ら.
+--------------------------------------------------End--
+{Yuna} 
+Thank you very much.
+--------------------------------------------------End--
+{Kelk} 
+The words of Summoner {Yuna} [42+103.].
+It was [42+67.] in each and every [42+93.].
+--------------------------------------------------End--
+{Kelk} 
+Even if their voice and body are small, their aspiration
+will [42+116.く] to the peak of {Gagazet}.
+--------------------------------------------------End--
+{Kelk} 
+The path of Spirit Ranks {Gagazet} is treacherous,
+and many monsters dwell there.
+--------------------------------------------------End--
+{Kelk} 
+Guard 42+55.! Prepare thoroughly
+and protect the Summoner!
+--------------------------------------------------End--
+{Kelk} 
+...Protect the Summoner with diligence!
+--------------------------------------------------End--
+{Yuna} 
+Just a little more... right?
+--------------------------------------------------End--
+{Lulu} 
+{Yuna}... you've become strong, haven't you?
+--------------------------------------------------End--
+{Tidus} 
+Strong... I wonder?
+--------------------------------------------------End--
+{Tidus} 
+They're trying desperately.
+Don't you think so?
+--------------------------------------------------End--
+{Lulu} 
+That's why that child is strong.
+They're steadily moving forward.
+--------------------------------------------------End--
+{Lulu} 
+Even if weak people try desperately,
+they'll only corner themselves and break.
+--------------------------------------------------End--
+{Lulu} 
+What allows one to steadily move forward is...
+…Because it's strong.
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} …became strong.
+--------------------------------------------------End--
+{Lulu} 
+I …without complaining.
+It's all I can manage.
+--------------------------------------------------End--
+{Lulu} 
+Preparations for mountain climbing… please.
+--------------------------------------------------End--
+{Wakka} 
+Don't let my neck start hurting.
+--------------------------------------------------End--
+{Tidus} 
+Beyond this is...
+Is it {Zanarkand}...?
+--------------------------------------------------End--
+{Wakka} 
+Ah, it's your 42+117.42+118..
+--------------------------------------------------End--
+{Tidus} 
+Even though you don't believe.
+--------------------------------------------------End--
+{Wakka} 
+It's 42+119. now.
+--------------------------------------------------End--
+{Wakka} 
+Of course, what's beyond the mountain is...
+It might be ruins.
+--------------------------------------------------End--
+{Wakka} 
+But separate from that, your...
+{Zanarkand} is somewhere.
+--------------------------------------------------End--
+{Wakka} 
+Definitely.
+Oh, you'll reach it eventually, I tell you.
+--------------------------------------------------End--
+{Tidus} 
+I hope so...
+--------------------------------------------------End--
+{Wakka} 
+You're not very energetic, are you?
+Well, 42+120. I'll wait.
+--------------------------------------------------End--
+{Wakka} 
+Make sure you're properly prepared.
+You won't be able to resupply once you enter the mountain.
+--------------------------------------------------End--
+{Rikku} 
+…Did you think of anything?
+--------------------------------------------------End--
+{Rikku} 
+I'm flustered.
+Somehow, this isn't good…
+--------------------------------------------------End--
+{Rikku} 
+Ugh… Thinking.
+--------------------------------------------------End--
+{Kimahri} 
+{Biran} and {Yenke} disappeared.
+--------------------------------------------------End--
+{Tidus} 
+Someone's plotting something…
+That's right.
+--------------------------------------------------End--
+{Tidus} 
+Well, it'll be fine!
+--------------------------------------------------End--
+{Kimahri} 
+{Biran} is {Ronso}'s top 42+60.士.
+{Yenke} is also a formidable opponent.
+--------------------------------------------------End--
+{Tidus} 
+Ah...
+He's certainly burly, isn't he?
+--------------------------------------------------End--
+{Kimahri} 
+Even so, {Kimahri}…
+Must win.
+--------------------------------------------------End--
+{Kimahri} 
+Reiretsu {Gagazet}
+{Kimahri} is also climbing for the first time.
+--------------------------------------------------End--
+{Auron} 
+That's definitive.
+--------------------------------------------------End--
+{Tidus} 
+What do you mean?
+--------------------------------------------------End--
+{Auron} 
+{Yevon2} is 42+96.れている.
+--------------------------------------------------End--
+{Auron} 
+Still, {Mika} is burning, but
+Soon, destruction will begin.
+--------------------------------------------------End--
+{Tidus} 
+That kind of thing, I...
+I don't care.
+--------------------------------------------------End--
+{Auron} 
+You are not one of {Spira},
+That is why.
+--------------------------------------------------End--
+{Auron} 
+Those who completely believed the teachings...
+For them...
+--------------------------------------------------End--
+{Auron} 
+A difficult era might begin.
+--------------------------------------------------End--
+{Auron} 
+10 years ago, here too...
+I looked up at {Gagazet}.
+--------------------------------------------------End--
+{Tidus} 
+Father... what was he doing?
+--------------------------------------------------End--
+{Auron} 
+...I don't remember.
+--------------------------------------------------End--
+{Auron} 
+How to make sure {Braska}...
+...doesn't die...
+--------------------------------------------------End--
+{Auron} 
+I was thinking only about that.
+--------------------------------------------------End--
+{Auron} 
+What can be done as a guard...
+...isn't much left.
+--------------------------------------------------End--
+{Biran} 
+Wait!
+--------------------------------------------------End--
+{Tidus} 
+Are you still going to interfere?!
+--------------------------------------------------End--
+{Biran} 
+Summoners are allowed through.
+Guards are also allowed through.
+--------------------------------------------------End--
+{Biran} 
+{Kimahri} will not pass.
+--------------------------------------------------End--
+{Biran} 
+{Kimahri} is {Ronso}'s Men42+108.shi.
+One who abandoned {Ronso}'s mission.
+--------------------------------------------------End--
+{Yenke} 
+You abandoned your clan, and the Mountain too!
+Small {Ronso}, weak {Ronso}!
+--------------------------------------------------End--
+{Biran} 
+The Mountain dislikes the weak and small.
+If you wish to climb...
+--------------------------------------------------End--
+{Kimahri} 
+I just need to show my strength, then?
+--------------------------------------------------End--
+{Biran} 
+Do you think you can win?
+--------------------------------------------------End--
+{Biran} 
+Who broke {Kimahri}'s horn?
+Surely you haven't forgotten.
+--------------------------------------------------End--
+{Yenke} 
+You have never once...
+...defeated Elder Brother {Biran}.
+--------------------------------------------------End--
+{Kimahri} 
+This time, I will win.
+I decided to win.
+--------------------------------------------------End--
+{Tidus} 
+Are you saying this is {Ronso}'s problem?!
+--------------------------------------------------End--
+{Kimahri} 
+It is {Kimahri}'s problem.
+--------------------------------------------------End--
+{Biran} 
+You've grown stronger, {Kimahri}.
+{Biran} is pleased.
+--------------------------------------------------End--
+{Biran} 
+Spirit-ranked {Gagazet}!
+--------------------------------------------------End--
+{Biran} 
+Of the mighty one who defeated {Biran}...
+I shall tell you their glorious name!
+--------------------------------------------------End--
+{Biran} 
+Remember it well, {Gagazet}!
+Their name is {Kimahri Ronso}!
+--------------------------------------------------End--
+{Yenke} 
+The Mountain has learned of {Kimahri}'s strength.
+It will accept {Kimahri}.
+--------------------------------------------------End--
+{Biran} 
+Summoner!
+--------------------------------------------------End--
+{Biran} 
+The pursuers from the Temple...
+We, the {Ronso}, will hold them back.
+--------------------------------------------------End--
+{Yuna} 
+Is that true?!
+--------------------------------------------------End--
+{Biran} 
+Long ago, I 42+59.{Kimahri}'s horn.
+This is atonement.
+--------------------------------------------------End--
+{Yenke} 
+Enemies coming from behind the Summoner...
+We will defeat them.
+--------------------------------------------------End--
+{Kimahri} 
+Enemies that flee before {Yuna}...
+{Kimahri} will defeat them.
+--------------------------------------------------End--
+{Biran} 
+There is no Summoner as 42+125.d as you.
+招喚士はいない
+--------------------------------------------------End--
+{Yuna} 
+Thank you very much.
+--------------------------------------------------End--
+{Yenke} 
+When your statue is made,
+{Ronso} will polish it for you.
+--------------------------------------------------End--
+{Yuna} 
+...Yes.
+--------------------------------------------------End--
+{Yuna} 
+But I am a rebel, so
+I'm sure a statue won't be made for me.
+--------------------------------------------------End--
+{Biran} 
+Then {Ronso} will make one.
+--------------------------------------------------End--
+{Yenke} 
+I'll give it magnificent horns.
+--------------------------------------------------End--
+{Yuna} 
+Yes, please do.
+--------------------------------------------------End--
+
+I also felt like looking up at {Yuna}'s statue.
+(combined with 8)
+--------------------------------------------------End--
+
+...together with {Yuna}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activ42+126., to the Save Sphere.
+The transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+127. base, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to scout/sign a 42+128. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:66} Mt. Gagazet
+
+
+{VAR07:66} Calm Lands
+
+
+{VAR07:4F} Bevelle-Yevon Temple
+{VAR07:51} Macalania-Yevon Temple
+
+Guadosalam{VAR07:54}Macalania Woods
+
+{VAR07:4A} Thunder Plains
+--------------------------------------------------End--
+{AREA}
+Zanarkand Ruins
+--------------------------------------------------End--
+{WINDOW}
+Select Warp Destination
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} None
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Mt. Gagazet - Mountain Trail
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Mt. Gagazet - Mountain Trail
+{CHOICE:31} Mt. Gagazet - Just Before Mountain Cave
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Mt. Gagazet - Mountain Trail
+{CHOICE:31} Mt. Gagazet - Just Before Mountain Cave
+{CHOICE:32} Mt. Gagazet - Mountain Cave 42+129.
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Mt. Gagazet - Mountain Trail
+{CHOICE:31} Mt. Gagazet - Just Before Mountain Cave
+{CHOICE:32} Mt. Gagazet - Mountain Cave 42+129.
+{CHOICE:33} Zanarkand Ruins Vicinity
+{CHOICE:34} Cancel
+--------------------------------------------------End--

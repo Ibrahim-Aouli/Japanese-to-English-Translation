@@ -1,0 +1,64 @@
+{Seymour} 
+Heh heh heh...
+--------------------------------------------------End--
+{Tidus} 
+You're a persistent nuisance.
+--------------------------------------------------End--
+{Seymour} 
+{Sin} accepted me.
+--------------------------------------------------End--
+{Seymour} 
+I have become a part of {Sin}...
+...and will go forth with the immortal {Sin}.
+--------------------------------------------------End--
+{Seymour} 
+Naturally.
+--------------------------------------------------End--
+{Tidus} 
+You were merely absorbed, weren't you?
+--------------------------------------------------End--
+{Seymour} 
+Eventually, I will dominate it from within.
+Time... yes, it is infinite.
+--------------------------------------------------End--
+{Seymour} 
+You all... {Yunalesca}...
+...thanks to you destroying it...
+--------------------------------------------------End--
+{Seymour} 
+The ultimate summoning has been lost forever,
+the means to defeat {Sin} have vanished.
+--------------------------------------------------End--
+{Seymour} 
+No one can stop {Sin} anymore.
+--------------------------------------------------End--
+{Tidus} 
+I'll stop it.
+--------------------------------------------------End--
+{Seymour} 
+In that case, I must protect {Sin}.
+--------------------------------------------------End--
+{Seymour} 
+Be grateful.
+I will protect your father.
+--------------------------------------------------End--
+{Seymour} 
+Foolish...
+--------------------------------------------------End--
+{Wakka} 
+Now!
+[42+53] into {Farplane}!
+--------------------------------------------------End--
+{Yuna} 
+Yes!
+--------------------------------------------------End--
+{Seymour} 
+So you are the one to erase me after all?
+--------------------------------------------------End--
+{Tidus} 
+I will erase you along with {Sin}.
+--------------------------------------------------End--
+{Seymour} 
+Even if you erase me...
+{Spira}'s sadness won't disappear.
+--------------------------------------------------End--

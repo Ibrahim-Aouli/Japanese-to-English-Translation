@@ -1,0 +1,33 @@
+{Dona} 
+What one should have is a grand father's establishment, huh.
+--------------------------------------------------End--
+{Dona} 
+There are an excessive number of guards, and...
+And you even have Lord {Auron} on your side.
+--------------------------------------------------End--
+{Dona} 
+And furthermore, to Lord {Seymour} as well...
+It seems you're favored, doesn't it?
+--------------------------------------------------End--
+{Dona} 
+The phrase "Lord {Braska}'s Level"...
+If such a record exists, I'll comply, you know.
+--------------------------------------------------End--
+{Dona} 
+Oh, that's quite splendid.
+--------------------------------------------------End--
+{Dona} 
+But before you say such pompous things,
+First, why don't you stand firmly on your own two feet, [42+53.ったら]?
+--------------------------------------------------End--
+{Dona} 
+If you keep relying on your guards,
+you'll have a painful experience when the time comes.
+--------------------------------------------------End--
+{Yuna} 
+Father... is not involved.
+--------------------------------------------------End--
+{Yuna} 
+I, as a single Summoner,
+am just traveling.
+--------------------------------------------------End--

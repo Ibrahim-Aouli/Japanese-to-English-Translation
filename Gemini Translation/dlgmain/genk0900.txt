@@ -1,0 +1,55 @@
+{Tidus} 
+The town is sinking!
+--------------------------------------------------End--
+{Wakka} 
+It's a mechanical town from over 1000 years ago.
+--------------------------------------------------End--
+{Wakka} 
+They built many bridges over the river,
+and apparently built a town on top of them.
+--------------------------------------------------End--
+{Lulu} 
+The bridges collapsed due to the town's weight,
+and it sank to the bottom of the river, I hear.
+--------------------------------------------------End--
+{Wakka} 
+Well, that's a good lesson.
+--------------------------------------------------End--
+{Tidus} 
+A lesson?
+--------------------------------------------------End--
+{Wakka} 
+Why were you silent!?
+--------------------------------------------------End--
+{Wakka} 
+Building a town over a river...
+What's the point?
+--------------------------------------------------End--
+{Tidus} 
+Hmm... there's a lot of water, so...
+it's beneficial, or something.
+--------------------------------------------------End--
+{Wakka} 
+Nope, that's not it.
+--------------------------------------------------End--
+{Wakka} 
+It's just that their technology...
+they just wanted to test their power.
+--------------------------------------------------End--
+{Tidus} 
+Is that so?
+--------------------------------------------------End--
+{Wakka} 
+It's {Yevon2}'s teaching.
+--------------------------------------------------End--
+{Wakka} 
+When people gain power,
+they can't help but use it.
+--------------------------------------------------End--
+{Wakka} 
+I have to forbid it.
+So it's endless.
+--------------------------------------------------End--
+{Wakka} 
+{Yuna} I'll save you now!
+--------------------------------------------------End--

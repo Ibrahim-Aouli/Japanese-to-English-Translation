@@ -1,0 +1,77 @@
+{Rikku} 
+Please!
+Let's rest!
+--------------------------------------------------End--
+{Rikku} 
+Lightning is no good~!
+Let's rest, okay? Please!
+--------------------------------------------------End--
+{Rikku} 
+I'm saying I hate it this much,
+and yet...!
+--------------------------------------------------End--
+{Rikku} 
+Cruel... It's cruel...!
+No blood and no line...!
+--------------------------------------------------End--
+{Rikku} 
+Could it be you're enjoying this~?
+--------------------------------------------------End--
+{Auron} 
+It's unavoidable. We'll rest.
+I can't stand the noise.
+--------------------------------------------------End--
+To you, who were hurt by a lightning strike,
+this is a get-well gift from the Travel Company.
+{NEWPAGE}
+When your wounds are not healing, do not push yourself,
+and we recommend resting at the Travel Company.
+--------------------------------------------------End--
+No matter how many times you are struck by lightning, you stand back up,
+showing respect for your fighting spirit...
+{NEWPAGE}
+From the Travel Company Birigan Commemorative {42+53}Committee.
+We will perform {42+54.闘}{42+55.を}{42+56.42+57}.
+--------------------------------------------------End--
+Congratulations! You have avoided a lightning strike
+5 times consecutively.
+{NEWPAGE}
+From the Travel Company Birigan Commemorative {42+53}Committee.
+We will {42+56.}{42+57.} make a small commemoration{42+58.}.
+--------------------------------------------------End--
+Congratulations! You have avoided a lightning strike
+You avoided 10 times consecutively.
+{NEWPAGE}
+From the Travel Company Birigan Commemorative {42+53}Committee.
+We will {42+56.}{42+57.} make a small commemoration{42+58.}.
+--------------------------------------------------End--
+Congratulations! You have avoided a lightning strike
+You avoided 20 times consecutively.
+{NEWPAGE}
+From the Travel Company Birigan Commemorative {42+53}Committee.
+We will {42+56.}{42+57.} make a small commemoration{42+58.}.
+--------------------------------------------------End--
+Congratulations! You have avoided a lightning strike
+You avoided 50 times consecutively.
+{NEWPAGE}
+From the Travel Company Birigan Commemorative {42+53}Committee.
+We will {42+56.}{42+57.} make a small commemoration{42+58.}.
+--------------------------------------------------End--
+Congratulations! You have avoided a lightning strike
+You avoided 100 times consecutively.
+{NEWPAGE}
+From the Travel Company Birigan Commemorative {42+53}Committee.
+We will {42+56.}{42+57.} make a small commemoration{42+58.}.
+--------------------------------------------------End--
+Wonderful! You avoided lightning...
+150 times consecutively!
+{NEWPAGE}
+From the Travel Company Birigan Commemorative {42+53}Committee.
+In honor of glory{42+59.}, we will {42+56.}{42+57.} make {42+55.}{42+58.}.
+--------------------------------------------------End--
+Wonderful! You avoided lightning...
+200 times consecutively!
+{NEWPAGE}
+From the Travel Company Birigan Commemorative {42+53}Committee.
+In honor of glory{42+59.}, we will {42+56.}{42+57.} make {42+55.}{42+58.}.
+--------------------------------------------------End--

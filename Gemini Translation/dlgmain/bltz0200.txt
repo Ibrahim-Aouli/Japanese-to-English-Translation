@@ -1,0 +1,1000 @@
+{WINDOW}
+{CHOICE:30} League Match
+{CHOICE:31}{Gray} Tournament Cup{White}
+{CHOICE:32} Exhibition
+{CHOICE:33} Tutorial
+{CHOICE:34} Team Data
+{CHOICE:35} Cancel
+{CHOICE:36} Data Reset
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} League Match
+{CHOICE:31} Tournament Cup
+{CHOICE:32} Exhibition
+{CHOICE:33} Tutorial
+{CHOICE:34} Team Data
+{CHOICE:35} Cancel
+{CHOICE:36} Data Reset
+--------------------------------------------------End--
+{WINDOW}
+
+Spira League: Row {VAR12:30}
+Match 1: {VAR12:31}{VAR07:66} VS {VAR07:79}{VAR12:32}
+Match 2: {VAR12:33}{VAR07:66} VS {VAR07:79}{VAR12:34}
+Match 3: {VAR12:35}{VAR07:66} VS {VAR07:79}{VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+
+VS {VAR12:30} Start!
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:8F}{VAR12:30}
+{VAR07:46}{VAR12:3D}{VAR07:8F}{VAR12:31}
+{VAR07:8F}{VAR12:32}
+{VAR07:8F}{VAR12:33}
+{VAR07:8F}{VAR12:34}
+{VAR07:8F}{VAR12:35}
+{VAR07:48}{VAR12:3C}{VAR07:72}{VAR12:3A}
+{VAR07:72}{VAR12:3B}
+--------------------------------------------------End--
+{WINDOW}
+
+Ebon Cup: Final Match
+Finals: {VAR12:31}{VAR07:66} VS {VAR07:79}{VAR12:32}
+3rd Place Match: {VAR12:33}{VAR07:66} VS {VAR07:79}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+Ebon Cup: Round {VAR12:30}
+Match 1: {VAR12:31}{VAR07:66} VS {VAR07:79}{VAR12:32}
+Match 2: {VAR12:33}{VAR07:66} VS {VAR07:79}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+There are no tournament cups currently open.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} VS Luca Goers
+{CHOICE:31} VS Kilika Beasts
+{CHOICE:32} VS Al Bhed Psyches
+{CHOICE:33} VS Ronso Fangs
+{CHOICE:34} VS Guado Glories
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Team Data] {White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Team Data] {White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Team Data] {White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+{CHOICE:38} Cancel
+--------------------------------------------------End--
+{WINDOW}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP{VAR07:46}：{VAR12:35}{VAR07:60}SPD{VAR07:66}：{VAR12:36}
+PHY{VAR07:46}：{VAR12:37}{VAR07:60}ATK{VAR07:66}：{VAR12:38}
+PAS{VAR07:46}：{VAR12:39}{VAR07:60}CUT{VAR07:66}：{VAR12:3A}
+SHT{VAR07:46}：{VAR12:3B}{VAR07:60}CAT{VAR07:66}：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Developed player data and acquired abilities also
+All will be reset to their initial state.
+--------------------------------------------------End--
+{WINDOW}
+Do you really want to reset?
+{CHOICE:30} No
+{CHOICE:31} Yes
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} [Player Position Settings] {White}
+In the order selected: Front Left (LF), Front Right
+(RF), Center (MF), Back Left (LD)
+Back Right (RD), Keeper (KP) and position
+will be set. Members not selected
+will automatically become substitute players.
+--------------------------------------------------End--
+{WINDOW}
+
+Positions
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} [Player Ability Settings] {White}
+Players Lv3 or higher can set abilitie
+s in slots. Slots
+can be increased up to a maximum of 5
+by leveling up.
+--------------------------------------------------End--
+{WINDOW}
+Ability Settings
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}OK
+--------------------------------------------------End--
+{WINDOW}
+
+Ability Settings
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+{VAR12:35}
+OK
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:48}Current HP: {VAR12:33}
+{OCyan} Key Ability {White}
+{VAR12:30}{VAR07:64}{VAR12:31}{VAR07:88}{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:31}{VAR07:66}{CHOICE:3A}{VAR12:3B}{VAR07:8C}{CHOICE:44}{VAR12:45}
+{CHOICE:31}{VAR12:32}{VAR07:66}{CHOICE:3B}{VAR12:3C}{VAR07:8C}{CHOICE:45}{VAR12:46}
+{CHOICE:32}{VAR12:33}{VAR07:66}{CHOICE:3C}{VAR12:3D}{VAR07:8C}{CHOICE:46}{VAR12:47}
+{CHOICE:33}{VAR12:34}{VAR07:66}{CHOICE:3D}{VAR12:3E}{VAR07:8C}{CHOICE:47}{VAR12:48}
+{CHOICE:34}{VAR12:35}{VAR07:66}{CHOICE:3E}{VAR12:3F}{VAR07:8C}{CHOICE:48}{VAR12:49}
+{CHOICE:35}{VAR12:36}{VAR07:66}{CHOICE:3F}{VAR12:40}{VAR07:8C}{CHOICE:49}{VAR12:4A}
+{CHOICE:36}{VAR12:37}{VAR07:66}{CHOICE:40}{VAR12:41}{VAR07:8C}{CHOICE:4A}{VAR12:4B}
+{CHOICE:37}{VAR12:38}{VAR07:66}{CHOICE:41}{VAR12:42}{VAR07:8C}{CHOICE:4B}{VAR12:4C}
+{CHOICE:38}{VAR12:39}{VAR07:66}{CHOICE:42}{VAR12:43}{VAR07:8C}{CHOICE:4C}{VAR12:4D}
+{CHOICE:39}{VAR12:3A}{VAR07:66}{CHOICE:43}{VAR12:44}{VAR07:8C}{CHOICE:4D}{VAR12:4E}
+{VAR07:8C}{CHOICE:4E}Unequip
+{VAR07:8C}{CHOICE:4F}To next page{VAR07:AA}
+
+
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{VAR12:31}{VAR07:66}{CHOICE:3A}{VAR12:3B}{VAR07:8C}{CHOICE:44}{VAR12:45}
+{CHOICE:31}{VAR12:32}{VAR07:66}{CHOICE:3B}{VAR12:3C}{VAR07:8C}{CHOICE:45}{VAR12:46}
+{CHOICE:32}{VAR12:33}{VAR07:66}{CHOICE:3C}{VAR12:3D}{VAR07:8C}{CHOICE:46}{VAR12:47}
+{CHOICE:33}{VAR12:34}{VAR07:66}{CHOICE:3D}{VAR12:3E}{VAR07:8C}{CHOICE:47}{VAR12:48}
+{CHOICE:34}{VAR12:35}{VAR07:66}{CHOICE:3E}{VAR12:3F}{VAR07:8C}{CHOICE:48}{VAR12:49}
+{CHOICE:35}{VAR12:36}{VAR07:66}{CHOICE:3F}{VAR12:40}{VAR07:8C}{CHOICE:49}{VAR12:4A}
+{CHOICE:36}{VAR12:37}{VAR07:66}{CHOICE:40}{VAR12:41}{VAR07:8C}{CHOICE:4A}{VAR12:4B}
+{CHOICE:37}{VAR12:38}{VAR07:66}{CHOICE:41}{VAR12:42}{VAR07:8C}{CHOICE:4B}{VAR12:4C}
+{CHOICE:38}{VAR12:39}{VAR07:66}{CHOICE:42}{VAR12:43}{VAR07:8C}{CHOICE:4C}{VAR12:4D}
+{CHOICE:39}{VAR12:3A}{VAR07:66}{CHOICE:43}{VAR12:44}{VAR07:8C}{CHOICE:4D}{VAR12:4E}
+{VAR07:8C}{CHOICE:4E}Unequip
+{VAR07:8C}{CHOICE:4F}To previous page{VAR07:AA}
+
+
+--------------------------------------------------End--
+{WINDOW}
+Not enough HP to equip.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} Opponent Mark Settings {White}
+In 'Mark Mode', you can chase marked targets.
+You can also capture marked targets' abilities.
+(This line is part of 10)
+Capturable abilities are displayed in light
+blue.
+--------------------------------------------------End--
+{WINDOW}
+Mark Settings
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}OK
+--------------------------------------------------End--
+{WINDOW}
+
+Mark Settings
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+{VAR12:35}
+OK
+--------------------------------------------------End--
+{WINDOW}
+Marked Target
+{CHOICE:30}{VAR12:38}
+{CHOICE:31}{VAR12:39}
+{CHOICE:32}{VAR12:3A}
+{CHOICE:33}{VAR12:3B}
+{CHOICE:34}{VAR12:3C}
+{CHOICE:35}{VAR12:3D}
+{CHOICE:36}Do not mark
+--------------------------------------------------End--
+{WINDOW}
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Can knock away up to 2 opponents
+blocking your way.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Legendary Ject Shoot No. 2
+Knocks back 3 targets + Invisible effect
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+SHT42+53. powers up
+Confirm with {Button Circle}
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Vanishing Magic Shot! Shoot with the left stick
+Confirm point. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Poisons the goalkeeper. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Poisons the goalkeeper. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Poisons the goalkeeper. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Puts the goalkeeper to sleep. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Puts the goalkeeper to sleep. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Puts the goalkeeper to sleep. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Goalkeeper's CUT CAT
+Powers down. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Goalkeeper's CUT CAT
+Powers down. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Goalkeeper's CUT CAT
+Powers down. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Poisons pass cut opponent
+Probability is {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Poisons pass cut opponent
+Probability is {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Poisons pass cut opponent
+Probability is {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Causes the pass-cut opponent to sleep.
+Probability is {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Causes the pass-cut opponent to sleep.
+Probability is {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Causes the pass-cut opponent to sleep.
+Probability is {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Pass-cut opponent's PHY ATK CUT
+Causes it to power down. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Pass-cut opponent's PHY ATK CUT
+Causes it to power down. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumption {VAR12:31} PAS{VAR12:32}
+Pass-cut opponent's PHY ATK CUT
+Causes it to power down. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumed: {VAR12:31}
+Direct shooting of loose balls without the opponent's 42+54.42+55.
+Possible. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumed: {VAR12:31}
+Direct shooting of loose balls without the opponent's 42+54.42+55.
+Possible. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumed: {VAR12:31}
+Direct shooting of loose balls without the opponent's 42+54.42+55.
+Possible. Probability {VAR12:33}%
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Poison Damage Tackle. Probability {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Poison Damage Tackle. Probability {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Poison Damage Tackle. Probability {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Sleep Damage Tackle. Probability {VAR12:33}%.
+Only effective when opponent's PHY is 0.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Sleep Damage Tackle. Probability {VAR12:33}%.
+Only effective when opponent's PHY is 0.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Sleep Damage Tackle. Probability {VAR12:33}%.
+Only effective when opponent's PHY is 0.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Opponent's PHY PAS SHT
+Causes power down. Probability {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Opponent's PHY PAS SHT
+Causes power down. Probability {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost {VAR12:31} ATK {VAR12:32}
+Opponent's PHY PAS SHT
+Causes power down. Probability {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Absorb HP{VAR12:31} ATK{VAR12:32}
+Absorbs opponent's HP. Your HP is {VAR12:31}.
+Cannot be used unless {VAR12:33} or more. Chance {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Absorb HP{VAR12:31} ATK{VAR12:32}
+Absorbs opponent's HP. Your HP is {VAR12:31}.
+Cannot be used unless {VAR12:33} or more. Chance {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Absorb HP{VAR12:31} ATK{VAR12:32}
+Absorbs opponent's HP. Your HP is {VAR12:31}.
+Cannot be used unless {VAR12:33} or more. Chance {VAR12:33}%.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance is {VAR12:33}%.
+Evade tackle unharmed. However,
+Might also lose balance after evasion.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance is {VAR12:33}%.
+Evade tackle unharmed. However,
+Might also lose balance after evasion.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+Barrier that evades poison status attacks.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+Barrier that evades poison status attacks.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+A barrier to avoid sleep status attacks.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+A barrier to avoid sleep status attacks.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+A barrier to avoid power-down attacks.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+A barrier to avoid power-down attacks.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+A barrier to avoid drain attacks.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+A barrier to avoid drain attacks.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumed: {VAR12:31}
+Makes the shot ball spin.
+Increases the chance of the keeper deflecting the ball.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP consumed: {VAR12:31}
+The keeper's chance of deflecting the ball
+Is lowered.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Equip Cost: HP{VAR12:31}
+Even from distant areas,
+Discovers and pursues the player with the ball.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+Even from distant areas, rushes over
+And joins the battle.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Equip Cost: HP{VAR12:31}
+Can stack poison effects.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Equip Cost: HP{VAR12:31}
+Power-down effects
+Can be stacked.
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Equip Cost: HP{VAR12:31}
+HP when not holding the ball
+Recovery speed increases
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+When waking from sleep, abilities temporarily increase
+Is there something 法42+56. depending on how you wake up?
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Equip Cost: HP{VAR12:31}
+All parameters halved
+42+57.42+58.42+53. x2
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Equip Cost HP[P0] ATK[P1]
+Based on distance during passes or shots
+Amount of HP decrease is reduced
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+Consume HP{VAR12:31}. Chance {VAR12:33}%.
+All abilities change when waking from sleep
+Determine 42+59. parameters with [P0]
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Consumed [P0]+α Chance [P1]%
+Keeper's CAT powers up
+Determine parameters with [P0]
+--------------------------------------------------End--
+{WINDOW}
+
+{Yellow} 【{VAR12:30}】{White} 
+HP Cost: {VAR12:31} SHT: {VAR12:32}
+Of the original [P0] members
+Total SHT42+53. into [P0]'s power!
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan} {VAR12:31}{White} 
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{OCyan} {VAR12:31}{White} 
+{VAR12:32}
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{OCyan} {VAR12:32}{White} 
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{VAR12:31}
+{OCyan} {VAR12:32}{White} 
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan} {VAR12:31}{White} 
+{OCyan} {VAR12:32}{White} 
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{OCyan} {VAR12:31}{White} 
+{OCyan} {VAR12:32}{White} 
+{VAR12:33}
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{OCyan} {VAR12:33}{White} 
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{VAR12:31}
+{VAR12:32}
+{OCyan} {VAR12:33}{White} 
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan} {VAR12:31}{White} 
+{VAR12:32}
+{OCyan} {VAR12:33}{White} 
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{OCyan} {VAR12:31}{White} 
+{VAR12:32}
+{OCyan} {VAR12:33}{White} 
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{OCyan} {VAR12:32}{White} 
+{OCyan} {VAR12:33}{White} 
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{VAR12:31}
+{OCyan} {VAR12:32}{White} 
+{OCyan} {VAR12:33}{White} 
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan} {VAR12:31}{White} 
+{OCyan} {VAR12:32}{White} 
+{OCyan} {VAR12:33}{White} 
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{OCyan} {VAR12:31}{White} 
+{OCyan} {VAR12:32}{White} 
+{OCyan} {VAR12:33}{White} 
+{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{VAR12:31}
+{VAR12:32}
+{VAR12:33}
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan} {VAR12:31}{White} 
+{VAR12:32}
+{VAR12:33}
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{OCyan} {VAR12:31}{White} 
+{VAR12:32}
+{VAR12:33}
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{OCyan} {VAR12:32}{White} 
+{VAR12:33}
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{VAR12:31}
+{OCyan} {VAR12:32}{White} 
+{VAR12:33}
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan} {VAR12:31}{White} 
+{OCyan} {VAR12:32}{White} 
+{VAR12:33}
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{OCyan} {VAR12:31}{White} 
+{OCyan} {VAR12:32}{White} 
+{VAR12:33}
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{VAR12:32}
+{OCyan} {VAR12:33}{White} 
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{VAR12:31}
+{VAR12:32}
+{OCyan} {VAR12:33}{White} 
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan} {VAR12:31}{White} 
+{VAR12:32}
+{OCyan} {VAR12:33}{White} 
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{OCyan} {VAR12:31}{White} 
+{VAR12:32}
+{OCyan} {VAR12:33}{White} 
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{VAR12:31}
+{OCyan} {VAR12:32}{White} 
+{OCyan} {VAR12:33}{White} 
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{VAR12:31}
+{OCyan} {VAR12:32}{White} 
+{OCyan} {VAR12:33}{White} 
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}
+{OCyan} {VAR12:31}{White} 
+{OCyan} {VAR12:32}{White} 
+{OCyan} {VAR12:33}{White} 
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+{OCyan} {VAR12:30}{White} 
+{OCyan} {VAR12:31}{White} 
+{OCyan} {VAR12:32}{White} 
+{OCyan} {VAR12:33}{White} 
+{OCyan} {VAR12:34}{White} 
+--------------------------------------------------End--
+{WINDOW}
+
+Unmarked
+--------------------------------------------------End--
+{WINDOW}
+
+入42+60.42+60.42+61.
+1st Place: [P0]
+2nd Place: [P0]
+3rd Place: {VAR12:32}
+Top Scorer: {VAR12:33}
+--------------------------------------------------End--

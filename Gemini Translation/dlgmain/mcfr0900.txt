@@ -1,0 +1,127 @@
+
+I was supposed to meet my family here, but...
+I can't find them.
+--------------------------------------------------End--
+
+They're so absent-minded, so...
+Did they get the meeting place wrong?
+--------------------------------------------------End--
+
+What!? Is that right!?
+My apologies, young man!
+--------------------------------------------------End--
+
+I am tired from a long journey.
+Please leave me be.
+--------------------------------------------------End--
+
+Oh? You are {Besaid Aurochs}'s...
+...a player, aren't you?
+--------------------------------------------------End--
+
+Oh... so you are a player.
+If that's the case, I have an important matter.
+--------------------------------------------------End--
+
+To you, the player, representing {Guado}...
+...I felt I must apologize.
+{NEWPAGE}
+
+The monster that left the stadium after the finals...
+That was {Guado2}'s doing.
+{NEWPAGE}
+
+It completely ruined a match typical of Taiou.
+We truly did something inexcusable.
+--------------------------------------------------End--
+
+Releasing the monster in {Luca Stadium}...
+...was something Lord {Seymour} planned.
+{NEWPAGE}
+
+If monsters are defeated by summoned beasts, Lord {Seymour}'s
+popularity would increase... that was the goal.
+{NEWPAGE}
+
+Considering a tie with the Great Summoner's daughter was also
+perhaps to win over the people of {Yevon2}.
+{NEWPAGE}
+
+It seemed there were other reasons too, but
+at this point, I don't know.
+--------------------------------------------------End--
+
+Due to obeying Lord {Seymour}, {Guado2}
+has committed an unpardonable sin.
+{NEWPAGE}
+
+Now, to say 'It's Lord {Seymour}'s fault,'
+even if I make excuses, no one will be convinced.
+{NEWPAGE}
+
+The whole of {Guado2}, like {Al Bhed2},
+will probably come to be blamed...
+--------------------------------------------------End--
+
+That child's brother was a subordinate of Lord {Seymour}.
+{NEWPAGE}
+
+Searching for the missing summoner, he raided {Al Bhed2}'s
+hideout... and died.
+{NEWPAGE}
+
+Not even sent to the otherworld, he must have become a monster by now
+and be wandering...
+--------------------------------------------------End--
+
+{Guado2}'s power has greatly weakened,
+and the clan merely awaits destruction.
+{NEWPAGE}
+
+Therefore, I am taking that child...
+I left {Guadosalam}.
+{NEWPAGE}
+
+Moving to and settling in some distant land,
+I intend to live quietly.
+--------------------------------------------------End--
+
+To that child, I still haven't told the truth of {Guado}.
+...I haven't told yet.
+{NEWPAGE}
+
+When that child matures, the weight of the truth...
+...when they become able to accept...
+{NEWPAGE}
+
+I intend to tell everything anew...
+...I am thinking.
+--------------------------------------------------End--
+
+I've talked for a long time and become tired.
+Please let me rest a little...
+--------------------------------------------------End--
+
+Grandmother has an important story...
+...I hear.
+--------------------------------------------------End--
+
+My older brother fought against the Megumi nasty people and...
+...achieved an honorable death in battle.
+--------------------------------------------------End--
+
+I dislike the current {Guadosalam}.
+Everyone is only making gloomy faces...
+{NEWPAGE}
+
+That's why, with Grandmother,
+we set out on a journey.
+--------------------------------------------------End--
+
+Until Grandmother recovers her spirits.
+I will rest here.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} I was waiting over there.
+{CHOICE:31} I hope we can meet.
+--------------------------------------------------End--

@@ -1,0 +1,200 @@
+{Wakka} 
+I was born there,
+and started Blitzball at age 5.
+--------------------------------------------------End--
+{Wakka} 
+I joined {Besaid Aurochs} at age 13...
+I'm what you'd call a 10-year player.
+--------------------------------------------------End--
+{Wakka} 
+But even after 10 years,
+I couldn't win a single match in the tournaments.
+--------------------------------------------------End--
+{Wakka} 
+So, thinking the timing of my retirement was crucial,
+I retired after this year's tournament.
+--------------------------------------------------End--
+{Wakka} 
+It's an old custom, you see. When leaving the island,
+at this ruin, we pray for mu42+53. before we go.
+--------------------------------------------------End--
+{Wakka} 
+It brings quite a bit of go ri42+54., you know.
+--------------------------------------------------End--
+{Lulu} 
+Want to take a good look?
+--------------------------------------------------End--
+{Tidus} 
+Let's go quickly!
+--------------------------------------------------End--
+{Wakka} 
+Wait for a little while.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Wakka} 
+Is it... okay now?
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{Tidus} 
+Wh-What?
+--------------------------------------------------End--
+{Wakka} 
+That day, {Chappu} didn't pray.
+Saying he wouldn't make the ship in time.
+--------------------------------------------------End--
+{Wakka} 
+Alright, perfect!
+--------------------------------------------------End--
+{Tidus} 
+The pier isn't this way, is it?
+--------------------------------------------------End--
+{Tidus} 
+What are you doing in a place like this?
+--------------------------------------------------End--
+{Luzzu} 
+Monsters are around.
+--------------------------------------------------End--
+{Luzzu} 
+Protecting the village is {Crusader}'s job, you know.
+--------------------------------------------------End--
+{Luzzu} 
+Even if defeating '{Sin}' is impossible...
+I can do at least that much.
+--------------------------------------------------End--
+{Tidus} 
+We'll take care of it.
+We're thinking of a good plan.
+--------------------------------------------------End--
+{Luzzu} 
+In that case, you should go and pray to that.
+--------------------------------------------------End--
+{Luzzu} 
+Everyone who leaves the island, over there...
+...they pray for a safe journey.
+--------------------------------------------------End--
+{Luzzu} 
+{Gatta}... doesn't pray, you know.
+--------------------------------------------------End--
+{Tidus} 
+Well then, I won't.
+--------------------------------------------------End--
+{Tidus} 
+That kind of strange superstition.
+...I want to change it.
+--------------------------------------------------End--
+{Tidus} 
+So I won't pray, and...
+I'll defeat '{Sin}' too!
+--------------------------------------------------End--
+{Luzzu} 
+Without that much confidence...
+...it probably won't do, I suppose.
+--------------------------------------------------End--
+{Luzzu} 
+...Please.
+--------------------------------------------------End--
+{Luzzu} 
+Even if excommunicated by the temple.
+{Crusader}'s mission will not change.
+--------------------------------------------------End--
+{Luzzu} 
+To protect people from monsters.
+That is all.
+--------------------------------------------------End--
+{Luzzu} 
+To think {Yuna}-chan is a rebel...
+That's their mistake.
+--------------------------------------------------End--
+{Luzzu} 
+The idea that {Yuna}-chan is a rebel...
+It seems it was a mistake after all.
+--------------------------------------------------End--
+{Luzzu} 
+{Besaid}... but everyone...
+...was thinking something was wrong.
+--------------------------------------------------End--
+{Luzzu} 
+As long as '{Sin}' is here,
+{Crusader}'s mission will not end.
+--------------------------------------------------End--
+{Luzzu} 
+It seems the flying ship has
+cornered '__P0__'.
+--------------------------------------------------End--
+{Luzzu} 
+However, the opponent is '{Sin}'.
+We cannot let our guard down until the very end.
+--------------------------------------------------End--
+{Luzzu} 
+For now, we can only pray that those on the flying ship
+defeat '{Sin}'.
+--------------------------------------------------End--
+{WINDOW}
+Pray.
+Do nothing.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+With {Besaid Aurochs}'s activat{42+61.}, to the Save Sphere.
+The transfe{42+62.} function to {blitzball} Stadium
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s bas{42+63.}, continue Blitz training.
+hidden excellent players are lurking.
+If you press `{Button Square}` and talk to them, you may be able to scout and contrac{42+64.}.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfe{42+62.} function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

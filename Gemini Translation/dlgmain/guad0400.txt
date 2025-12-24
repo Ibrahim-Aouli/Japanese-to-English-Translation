@@ -1,0 +1,318 @@
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract for 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+It is {Guado2} who bears the mission to protect {Farplane}.
+The most excellent, chosen people in {Spira}.
+{NEWPAGE}
+
+Mere numerous humans, or those who are just bodies...
+The quality is different, the quality.
+{NEWPAGE}
+
+However, that is a story of the past. Today's {Guado}...
+...values friendship with other races.
+--------------------------------------------------End--
+
+Humans and {Ronso} alike, without discrimination,
+let us interact.
+--------------------------------------------------End--
+
+Lord {Jyscal} has appeared, you say?
+Hahahaha, please forgive me!
+{NEWPAGE}
+
+Entrusting the rest to Lord {Seymour},
+they passed away peacefully.
+{NEWPAGE}
+
+Such a thing as a reason to return from {Farplane}...
+...does not exist.
+--------------------------------------------------End--
+
+{Guado} will manage the matters of {Farplane}.
+Unnecessary interference is not needed.
+--------------------------------------------------End--
+
+Lord {Jyscal} might have returned
+wanting to see the appearance of the person who will become your son's bride.
+{NEWPAGE}
+
+Even a person who ascended to become the elder master of {Yevon2}...
+...their behavior is no different from common people.
+--------------------------------------------------End--
+
+We must not overlook that matter [42+64, 42+65, 42+66].
+That would spoil the joyous celebration [42+67].
+--------------------------------------------------End--
+
+The sorrow [42+68] of {Guado} is that the one with human blood mixed in...
+...may be the recompense for making them chief.
+{NEWPAGE}
+
+All [42+69, 42+70] lies with {Seymour} alone.
+That's how it is.
+--------------------------------------------------End--
+
+Lately, {Tromell} has been shut away in {Farplane}.
+They are not in a state to have a proper conversation.
+--------------------------------------------------End--
+
+Distinguishing {Guado2} is...
+...difficult, isn't it?
+{NEWPAGE}
+
+To humans, everyone looks the same [42+60]...
+...it seems.
+--------------------------------------------------End--
+
+Actually, even we {Guado}...
+...are not good at distinguishing humans.
+--------------------------------------------------End--
+
+My [42+71]...
+...died a long time ago.
+{NEWPAGE}
+
+But I can always meet them in {Farplane}.
+When I'm in trouble, I often go to meet them.
+--------------------------------------------------End--
+
+Being able to meet a dead person anytime...
+...don't you think it's a wonderful thing?
+--------------------------------------------------End--
+
+When will we be pursued by {Al Bhed2}?
+Since we don't know, be careful.
+--------------------------------------------------End--
+
+Protect Lord {Yuna} properly.
+Because they are the one who will become the chieftain of {Guado}!
+--------------------------------------------------End--
+
+Even though I prayed a lot at {Farplane}.
+I couldn't meet Lord {Seymour}.
+--------------------------------------------------End--
+
+Anyone is fine, so quickly choose a new chieftain,
+and I want them to restore {Guado}.
+--------------------------------------------------End--
+
+Sometimes, I want to leave {Guado Glories}
+and try playing on another team.
+--------------------------------------------------End--
+
+As long as I get paid, I
+don't mind teaming up with {Al Bhed2}.
+--------------------------------------------------End--
+
+We always
+practice Blitz at __P0__.
+{NEWPAGE}
+
+The other day, during practice, Shipalf
+happened to pass by and we were almost crushed.
+--------------------------------------------------End--
+
+To train our reflexes, at {Thunder Plains}
+we also train to dodge lightning strikes.
+--------------------------------------------------End--
+
+It is certain that many lives
+vanished into {Farplane} because of Lord {Farplane}.
+{NEWPAGE}
+
+But until recently, I...
+...was very much 42+75.42+76.-ing that person.
+{NEWPAGE}
+
+42+77. As if suddenly changing my mind, 惠口...
+...I think saying that is not manly.
+--------------------------------------------------End--
+
+It might be foolish pride, but...
+Now, I have nothing left to protect but my pride.
+--------------------------------------------------End--
+
+You're {Besaid Aurochs}'s...
+...{Tidus}, aren't you?
+{NEWPAGE}
+
+I've been paying attention to you since seeing you at the tournament.
+42+78. Let's play together.
+--------------------------------------------------End--
+
+During the tournament, it was tough because of the monster 42+65.activity, wasn't it?
+Our team also had injured people, you know.
+--------------------------------------------------End--
+
+Aren't you going to {Macalania}?
+You shouldn't make the other person wait too long.
+{NEWPAGE}
+
+Lord {Seymour} doesn't say anything, but...
+...I think {Tromell} will get angry.
+--------------------------------------------------End--
+
+After the 42+67. ceremony is over, please come again.
+I want to get 42+79.riagaritai talking about Blitz.
+--------------------------------------------------End--
+
+Our captain is aiming for the next clan chief's...
+...seat.
+{NEWPAGE}
+
+They say he's shouldering {Guado2}'s future.
+I wonder how serious he really is.
+--------------------------------------------------End--
+
+If a Blitz player became a tribal chief...
+I wonder if {Guado} would change even a little.
+--------------------------------------------------End--
+{WINDOW}
+Obtained the {Al Bhed} Language Dictionary, Volume 13!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language 42+80.!
+{VAR07:31}『{OPurple} ヤ{White} 』42+81.『{Pink} ま{White} 』
+{VAR07:31}『{OPurple} イ{White} 』42+81.『{Pink} み{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+The unfamiliar word 42+82.『{Al Bhed} Language』, the {Al Bhed} Language Dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

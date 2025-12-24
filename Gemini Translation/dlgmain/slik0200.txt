@@ -1,0 +1,110 @@
+{Yuna} 
+Fū, this feels good.
+--------------------------------------------------End--
+{Yuna} 
+You're a Blitz player, right?
+{Zanarkand}'s
+--------------------------------------------------End--
+{Tidus} 
+Did you hear that from {Wakka}?
+--------------------------------------------------End--
+{Tidus} 
+He definitely doesn't believe it, though.
+--------------------------------------------------End--
+{Yuna} 
+In {Zanarkand}...
+--------------------------------------------------End--
+{Yuna} 
+Even at night, light overflows and...
+There's a big stadium and...
+--------------------------------------------------End--
+{Yuna} 
+I heard it from a person named {Jecht}.
+The person who protected my father.
+--------------------------------------------------End--
+{Tidus} 
+...My Dad also.
+His name is {Jecht}.
+--------------------------------------------------End--
+{Yuna} 
+Amazing!
+--------------------------------------------------End--
+{Yuna} 
+That we were able to meet...
+It must be {Yevon2}'s blessing!
+--------------------------------------------------End--
+{Tidus} 
+Dad... he died.
+10 years ago, in the sea of {Zanarkand}.
+--------------------------------------------------End--
+{Yuna} 
+I see...
+--------------------------------------------------End--
+{Tidus} 
+One day, he went to the sea for training and never returned.
+He didn't come back.
+--------------------------------------------------End--
+{Tidus} 
+He's been missing ever since.
+--------------------------------------------------End--
+{Yuna} 
+Because it was the day Dad departed.
+You remember it well.
+--------------------------------------------------End--
+{Yuna} 
+The timing is perfect, right?
+--------------------------------------------------End--
+{Yuna} 
+You are here.
+--------------------------------------------------End--
+
+*Silence!*
+--------------------------------------------------End--
+{Wakka} 
+That's a wire hook!
+--------------------------------------------------End--
+{Wakka} 
+What are you going to do by shooting that in!
+The whole ship will be dragged into the sea!
+--------------------------------------------------End--
+
+'{Sin}' is heading towards {Kilika}!
+I want to get his attention!
+--------------------------------------------------End--
+
+Our families are in {Kilika}!
+Summoner, please forgive me!
+--------------------------------------------------End--
+{Wakka} 
+Wait!
+--------------------------------------------------End--
+{Wakka} 
+Are you serious?!
+--------------------------------------------------End--
+{Yuna} 
+I believe.
+--------------------------------------------------End--
+{Yuna} 
+At the stadium, {blitzball}'s
+A match is held, always completely full.
+--------------------------------------------------End--
+{Tidus} 
+How do you know?!
+--------------------------------------------------End--
+{Tidus} 
+They look similar, but it's a different person.
+--------------------------------------------------End--
+{Yuna} 
+Why?
+--------------------------------------------------End--
+{Yuna} 
+{Jecht} on that day
+Came to Spira!
+--------------------------------------------------End--
+{Yuna} 
+But I... to {Jecht}...
+It was 10 years and 95 days ago that I met them!
+--------------------------------------------------End--
+{Tidus} 
+But how did you say you came?
+--------------------------------------------------End--

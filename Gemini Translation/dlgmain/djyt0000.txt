@@ -1,0 +1,366 @@
+{Tidus} 
+Is that {Djose}'s temple?
+--------------------------------------------------End--
+{Lucil} 
+Lord {Yuna}, everyone.
+I'm glad you're safe.
+--------------------------------------------------End--
+{Yuna} 
+It's good that you are safe too...
+It's Yevon's blessing, isn't it?
+--------------------------------------------------End--
+{Lucil} 
+Our lives were spared, but...
+As a fighting force, we're practically wiped out.
+--------------------------------------------------End--
+{Elma} 
+The only Chocobo that survived is...
+...this one.
+--------------------------------------------------End--
+{Clasko} 
+With this, we can't call ourselves a Chocobo Cavalry...
+...we can't identify ourselves as such...
+--------------------------------------------------End--
+{Lucil} 
+After defying the teachings and joining the war...
+...this is our plight.
+--------------------------------------------------End--
+{Lucil} 
+To the soldiers who died...
+I can't face them.
+--------------------------------------------------End--
+{Lucil} 
+That's an early departure, isn't it?
+--------------------------------------------------End--
+{Lucil} 
+Lord {Yuna} was {42+53} until so late...
+...{42+54} even though... Are you alright?
+--------------------------------------------------End--
+{Yuna} 
+Thank you for your concern.
+But I've rested enough.
+--------------------------------------------------End--
+{Yuna} 
+Are you also departing?
+--------------------------------------------------End--
+{Lucil} 
+Right! We'll cross {Moonflow} and head north.
+We intend to search for a new Chocobo.
+--------------------------------------------------End--
+{Elma} 
+Once a Chocobo is found...
+We'll re-form the cavalry!
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+Isn't someone missing?
+--------------------------------------------------End--
+{Clasko} 
+Captain!
+Please wait!
+--------------------------------------------------End--
+{Elma} 
+What are you doing?!
+We'll leave you behind!
+--------------------------------------------------End--
+{Clasko} 
+But... with the Chocobo...
+Following a Chocobo is impossible...
+--------------------------------------------------End--
+{Lucil} 
+Well then, Lord {Yuna}, good luck.
+{Elma} {Clasko}, let's go!
+--------------------------------------------------End--
+{Elma} 
+Yes!
+--------------------------------------------------End--
+{Clasko} 
+Eh!?
+U-Um, just let me rest...
+--------------------------------------------------End--
+{Elma} 
+Don't give up!
+--------------------------------------------------End--
+
+Hey! Rebels aren't welcome!
+--------------------------------------------------End--
+
+You all, don't approach the temple!
+Go quickly!
+--------------------------------------------------End--
+
+Understand our feelings too!
+Honestly, I don't want to do this!
+--------------------------------------------------End--
+
+You're a rebel! ...Just kidding.
+That was an outrageous rumor.
+--------------------------------------------------End--
+
+Hey, it's 42+57.しふり.
+How are you doing?
+--------------------------------------------------End--
+
+We are also 42+58.援.
+Do your best!!
+--------------------------------------------------End--
+
+Stay well!
+Please defeat 『{Sin} 』!
+--------------------------------------------------End--
+
+Come again anytime!
+--------------------------------------------------End--
+
+Stay well! We too
+want to go 42+58.援 too!
+--------------------------------------------------End--
+{Lucil} 
+Before joining the operation.
+I should have been calm...
+--------------------------------------------------End--
+{Elma} 
+You're the only one left...
+Let's do our best for everyone.
+--------------------------------------------------End--
+{Clasko} 
+After all, breaking the teachings
+was wrong...
+--------------------------------------------------End--
+
+Machines cannot defeat {Sin}.
+The only reliable one is the Summoner...
+{NEWPAGE}
+
+{Yevon2}'s teachings are correct.
+The {Crusader} who defied was foolish.
+--------------------------------------------------End--
+
+Take this.
+Because I won't use it anymore.
+--------------------------------------------------End--
+
+The people have no choice but to live by following the teachings.
+I was made to realize it by this 42+59. now.
+--------------------------------------------------End--
+
+Because {Crusader} broke 42+60.
+I'll help with the temple's 42+61.bi for a while.
+{NEWPAGE}
+
+Us, who were excommunicated...
+It's a 42+62. repayment for accepting us.
+--------------------------------------------------End--
+
+I... I'll quit {Crusader}.
+I wonder if I should become a monk soldier or something.
+--------------------------------------------------End--
+
+The temple's 42+61.bi isn't easy either, is it?
+{NEWPAGE}
+
+I won't let monsters and rebels pass!
+--------------------------------------------------End--
+
+By the way, I heard that {Yuna}-sama is 42+63.
+I was a fan, though...
+{NEWPAGE}
+
+Leave the 42+63. ceremony's 42+61.bi to me too, okay?
+--------------------------------------------------End--
+
+And the monk officials are dispirited.
+Fewer people visit the temple.
+{NEWPAGE}
+
+But I 42+64.u, no matter what happens.
+I decided to live according to the teachings.
+--------------------------------------------------End--
+
+Because the warrior monks went to {Bevelle}.
+It's our 42+65.turn to protect this temple.
+--------------------------------------------------End--
+
+Myself, for having participated in such an operation...
+I was 42+66.reproaching myself all 42+53.the while...
+{NEWPAGE}
+
+Then the Senior Monk advised me.
+He told me to pray if I had time for regrets.
+{NEWPAGE}
+
+To comfort my subordinates from the otherworld.
+It is my duty to offer prayers.
+--------------------------------------------------End--
+
+I received this from the Senior Monk, but...
+It's probably the 42+68. that 42+67.should use.
+--------------------------------------------------End--
+
+As a humble offering to my fallen subordinates.
+I must offer heartfelt prayers.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+69.Contract Period: {VAR12:33} matches
+42+69.Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+69.Contract Period: {VAR12:33} matches
+42+69.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+69.Contract Period: {VAR12:33} matches
+42+69.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+69.Contract Period: {VAR12:33} matches
+42+69.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you make a 42+69. contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of 42+69. contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A 42+69. contract for one match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The 42+69. contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+My 42+70.42+71. is the temple's 42+61. protection... That's what I decided.
+I'm making an effort not to think about unnecessary things.
+--------------------------------------------------End--
+
+More than when I was formulating a plan to defeat '{Sin}'.
+It is an arrangement 42+72. lacking in stimulation, isn't it?
+{NEWPAGE}
+
+A desire to lead my former subordinates and fight.
+It's not that I don't have that feeling.
+--------------------------------------------------End--
+
+Recently, people who 42+73. defy the temple's policies.
+It seems they're increasing... This is bad.
+{NEWPAGE}
+
+If they break the teachings and get carried away, once again...
+A tragedy 42+74. like {Operation Mi'ihen} will occur.
+--------------------------------------------------End--
+
+What happened to {Crusader} who broke the teachings?
+Did you forget? Even if you regret 42+75. in {Farplane}, it's too late!
+--------------------------------------------------End--
+
+The people of {Crusader}, their own actions...
+It seems they are 42+76. deeply 42+77. reflecting.
+{NEWPAGE}
+
+Therefore, we of the temple open our hearts,
+and are considering forgiving 42+78. them.
+{NEWPAGE}
+
+Even {Crusader} is no different from the common people.
+The temple will not abandon the common people.
+--------------------------------------------------End--
+
+Whenever you are hurt, come back to this temple.
+(No translation for line 4, it's combined with line 3)
+--------------------------------------------------End--
+
+The suffering of injured soldiers will also be healed if prayers are offered.
+(No translation for line 6, it's combined with line 5)
+--------------------------------------------------End--
+
+This place is located at the center of {Djose Continent}.
+The temple of {Djose}.
+{NEWPAGE}
+
+Heal the weariness of your journey.
+--------------------------------------------------End--
+
+All I can do is offer prayers.
+Let us believe in {Yevon2} until the very end.
+--------------------------------------------------End--

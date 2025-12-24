@@ -1,0 +1,297 @@
+{WINDOW}
+Save up to this point?
+{VAR07:49}{CHOICE:30}Yes
+{VAR07:49}{CHOICE:31}No
+--------------------------------------------------End--
+
+
+The victor this year is {Luca Goers} again!
+This settles it!
+--------------------------------------------------End--
+
+No no, {Kilika Beasts} too...
+Don't forget!
+--------------------------------------------------End--
+
+Hm? {Besaid Aurochs}, you say?
+--------------------------------------------------End--
+
+Wah ha ha ha ha ha!
+{NEWPAGE}
+
+You're really good!
+--------------------------------------------------End--
+
+Currently, admission restrictions are in place,
+The stadium area is closed to traffic.
+{NEWPAGE}
+
+The stadium has just opened,
+It is very crowded, so please cooperate.
+--------------------------------------------------End--
+
+The stadium area is closed to traffic.
+Please wait a moment.
+--------------------------------------------------End--
+
+{Maester Mika2} has, for over 50 years,
+been the one who has guided Spira.
+--------------------------------------------------End--
+
+Even important people are coming to watch,
+After all, a real tournament is 42+53.u yo na~
+--------------------------------------------------End--
+
+If I can catch a glimpse of Lord {Mika},
+I can boast when I 42+54.sha ni futte.
+--------------------------------------------------End--
+
+Lord {Mika} is advanced in years.
+They rarely appear before the people.
+--------------------------------------------------End--
+
+It's a relief to have arrived safely.
+I don't want a repeat of Riki-go.
+--------------------------------------------------End--
+Announcer
+All Blitzfreaks of {Spira}
+The long-awaited day has arrived!
+--------------------------------------------------End--
+Announcer
+Announcing the start of the season,
+The Big Tournament!
+--------------------------------------------------End--
+Announcer
+This year it will be held with the sponsorship of the Yevon Temple.
+(No translation, combined with 7)
+--------------------------------------------------End--
+Announcer
+Grand Maester Yo-{Mika}-sama's 50th Anniversary Commemoration Tournament of his reign.
+(No translation, combined with 9)
+--------------------------------------------------End--
+Announcer
+Now, the ships carrying the competing teams are
+entering port one after another!
+--------------------------------------------------End--
+Announcer
+This is... Port 2, isn't it?
+--------------------------------------------------End--
+Announcer
+Truly, truly, the legendary weakest!
+A team with an utterly winless record!
+--------------------------------------------------End--
+Announcer
+23 consecutive years of first-round defeats are
+an inimitable, runaway record!
+--------------------------------------------------End--
+Announcer
+For their magnificent losing style,
+it seems they have dedicated fans!
+--------------------------------------------------End--
+Liberated One
+Be careful not to get injured.
+I want them to return to the island without 42+55.
+--------------------------------------------------End--
+Announcer
+Yes, indeed.
+--------------------------------------------------End--
+Announcer
+Alright, let's go to the next! Next!
+Appearing next is...
+--------------------------------------------------End--
+Announcer
+They're here, they're here, they're here, they're here!
+Our hero, {Luca Goers}!
+--------------------------------------------------End--
+Announcer
+Power, Speed, Technique!
+Teamwork and fine plays!
+--------------------------------------------------End--
+Announcer
+The strongest team that possesses everything,
+has returned to the town of {Luca}!
+--------------------------------------------------End--
+Liberated One
+Unquestionably, the closest to victory.
+They are the best team, aren't they?
+--------------------------------------------------End--
+Liberated One
+Following from 42+62. year, by 制42+63.ing this tournament as well,
+they will add color to the legend!
+--------------------------------------------------End--
+Announcer
+That's right! That's precisely it!
+Please look at this 42+64. excitement!
+--------------------------------------------------End--
+Announcer
+It's as if the entire town of {Luca}... the glory of the Gowers
+...is 42+65.42+66.ing, isn't it?!
+--------------------------------------------------End--
+Announcer
+The town knows.
+The name of the hero who grasps victory!
+--------------------------------------------------End--
+Announcer
+That's right, its name is {Luca Goers}!
+--------------------------------------------------End--
+{Wakka} 
+Well, after 42+59. years, this is how it is.
+Don't worry about every little thing.
+--------------------------------------------------End--
+{Tidus} 
+Don't get cocky, Gowaaz!
+--------------------------------------------------End--
+{Tidus} 
+The way you're acting so big is
+only for now!
+--------------------------------------------------End--
+{Tidus} 
+This year's Championship, we
+{Besaid Aurochs} will take it!
+--------------------------------------------------End--
+{Wakka} 
+You idiot!
+I was really embarrassed.
+--------------------------------------------------End--
+Datto.
+But I stood out!
+--------------------------------------------------End--
+Reti!
+It was shown on the sphere!
+--------------------------------------------------End--
+
+Appeared? Yes.
+It appeared, huh...
+--------------------------------------------------End--
+
+{Maester Mika2} has arrived!
+--------------------------------------------------End--
+
+Already that late!?
+--------------------------------------------------End--
+
+Hurry to Port 3!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+What's starting?
+--------------------------------------------------End--
+{Yuna} 
+It's {Maester Mika2} arriving.
+--------------------------------------------------End--
+{Tidus} 
+Maika Souroushi?
+--------------------------------------------------End--
+{Lulu} 
+{Maester Mika2} is the one from {Yevon2}'s people,
+who stands at the apex.
+--------------------------------------------------End--
+{Lulu} 
+They have come from {St. Bevelle} Palace to spectate.
+It's the Grand Master's 50th anniversary tournament.
+--------------------------------------------------End--
+{Tidus} 
+50 years!? It's about time they retired.
+Don't you think~?
+--------------------------------------------------End--
+{Wakka} 
+Hey!
+Mind your words!
+--------------------------------------------------End--
+{Yuna} 
+Let's go cheer them on too.
+--------------------------------------------------End--
+Here, map jump.
+--------------------------------------------------End--
+Statue on another map.
+42+70.像はめ込みムービー
+--------------------------------------------------End--
+Announcer
+The team participating from {Kilika Island}
+{Kilika Beasts} ！
+--------------------------------------------------End--
+Announcer
+inherits the lineage of {High Summoner Ohalland}-sama,
+and is a traditional team.
+--------------------------------------------------End--
+Announcer
+Their King {Kilika Island}
+has just been defeated in '『{Sin}』,' but...
+--------------------------------------------------End--
+Liberated One
+Yes, also to encourage the King's fans,
+they will aim for consecutive victories!
+--------------------------------------------------End--
+Announcer
+That seems promising!
+--------------------------------------------------End--
+Announcer
+Now then, next to appear is...
+--------------------------------------------------End--
+Announcer
+Oh! That's a transcendent team.
+It's {Besaid Aurochs}!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activation, to the Save Sphere...
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s home base, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to sign a scout contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

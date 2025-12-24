@@ -1,0 +1,104 @@
+{Tidus} 
+{P0} What!?
+--------------------------------------------------End--
+{Wakka} 
+Probably inside!
+--------------------------------------------------End--
+{Tidus} 
+Not 'probably'...
+Check it!
+--------------------------------------------------End--
+{Wakka} 
+H-Hey...
+--------------------------------------------------End--
+{Tidus} 
+There's no line at this point, is there!?
+--------------------------------------------------End--
+{Kinoc} 
+One Store Strike Degree.
+--------------------------------------------------End--
+{Kinoc} 
+As for you all,
+you will face trial.
+--------------------------------------------------End--
+{Auron} 
+A fair judgment...
+I truly hope for one.
+--------------------------------------------------End--
+{Kinoc} 
+Pray your hardest.
+--------------------------------------------------End--
+{Shelinda} 
+Um... {P0} is nowhere...
+to be found.
+--------------------------------------------------End--
+{Tidus} 
+That's enough now.
+--------------------------------------------------End--
+{Shelinda} 
+Ah... Is that so?
+--------------------------------------------------End--
+{Rikku} 
+That's right!
+--------------------------------------------------End--
+{Rikku} 
+Can I ask about the song?
+--------------------------------------------------End--
+{Tidus} 
+Oh! That's right!
+--------------------------------------------------End--
+{Rikku} 
+Um, you see, as much as possible, to the person of great departure.
+I need you to convey this.
+--------------------------------------------------End--
+{Shelinda} 
+Yes, what is it?
+--------------------------------------------------End--
+{Rikku} 
+A flying ship
+sings a song of prayer.
+--------------------------------------------------End--
+{Rikku} 
+If you hear it, everyone also
+please sing together.
+--------------------------------------------------End--
+{Wakka} 
+Convey it within {Spira}!
+--------------------------------------------------End--
+{Shelinda} 
+Meaning... I don't understand.
+--------------------------------------------------End--
+{Rikku} 
+It doesn't matter!
+Convey it as is!
+--------------------------------------------------End--
+{Shelinda} 
+A flying ship
+sings a song of prayer.
+--------------------------------------------------End--
+{Shelinda} 
+If you hear it, everyone also
+please sing together... right?
+--------------------------------------------------End--
+{Tidus} 
+And with that, the '{Sin}'
+we might be able to defeat it.
+--------------------------------------------------End--
+{Shelinda} 
+Really!
+--------------------------------------------------End--
+{Yuna} 
+Yes!
+--------------------------------------------------End--
+{Shelinda} 
+That's amazing!
+--------------------------------------------------End--
+{Shelinda} 
+Please leave it to me!
+I will convey it within {Spira}!
+--------------------------------------------------End--
+{WINDOW}
+Save up to this point?
+{VAR07:49}{CHOICE:30}Yes
+{VAR07:49}{CHOICE:31}No
+--------------------------------------------------End--

@@ -1,0 +1,33 @@
+{Yuna} 
+Lord {Yunalesca}!
+--------------------------------------------------End--
+{Seymour} 
+Who, for the first time in history, defeated '{Sin}'.
+The person who saved the world.
+--------------------------------------------------End--
+{Seymour} 
+And you...
+Have inherited that name.
+--------------------------------------------------End--
+{Yuna} 
+My father gave it to me, I hear.
+--------------------------------------------------End--
+{Seymour} 
+Lord {Braska} entrusted his will to you,
+I suppose.
+--------------------------------------------------End--
+{Seymour} 
+Like Lord {Yunalesca},
+To confront '{Sin}'.
+--------------------------------------------------End--
+{Seymour} 
+However, Lord {Yunalesca}...
+Did not save the world alone.
+--------------------------------------------------End--
+{Seymour} 
+The one who defeated the invincible '{Sin}' was...
+--------------------------------------------------End--
+{Seymour} 
+Two firmly bound hearts,
+42+53.Of eternally unchanging love.42+54.
+--------------------------------------------------End--

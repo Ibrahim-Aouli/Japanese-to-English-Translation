@@ -1,0 +1,46 @@
+{Wakka} 
+This way! This way!
+--------------------------------------------------End--
+{Tidus} 
+Huh!? Wha!? What!?
+--------------------------------------------------End--
+{Wakka} 
+Watch closely!
+--------------------------------------------------End--
+{Tidus} 
+I can't see a thing!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Good!
+--------------------------------------------------End--
+{WINDOW}
+
+Yes.
+--------------------------------------------------End--
+
+...It was an overwhelming sight.
+--------------------------------------------------End--
+
+Its appearance was a little scary, but...
+How should I put it?
+--------------------------------------------------End--
+
+Something like a mysterious shop-quality
+Even I felt it.
+--------------------------------------------------End--
+
+That's right.
+--------------------------------------------------End--
+
+The first time we talked was
+after nightfall.
+--------------------------------------------------End--
+
+I didn't realize it, but...
+That really was a special night, wasn't it?
+--------------------------------------------------End--
+
+Everyone's...
+My...
+--------------------------------------------------End--

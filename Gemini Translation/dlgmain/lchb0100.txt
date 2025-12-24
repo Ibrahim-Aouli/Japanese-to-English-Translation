@@ -1,0 +1,326 @@
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Change Spectator Model
+{CHOICE:33} Control Map Lines
+{CHOICE:34} Return to Retten-san's place.
+--------------------------------------------------End--
+{WINDOW}
+Spectator: {CHOICE:50}
+--------------------------------------------------End--
+{WINDOW}
+{O'aka} Shop Call
+--------------------------------------------------End--
+{WINDOW}
+……How much should I lend?
+Lend {CHOICE:56} Gil to {O'aka}
+--------------------------------------------------End--
+{WINDOW}
+Set the money amount with {Direcional Up} {Direcional Down} {Direcional Left} {Direcional Right}
+Confirm with {Button Circle}
+--------------------------------------------------End--
+{WINDOW}
+Total amount lent so far: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Funds on hand: {VAR12:30} Gil
+--------------------------------------------------End--
+{O'aka} 
+Oh, boy, even {VAR12:32} Gil...
+Will you lend it to me?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Wait a minute.
+{CHOICE:31} Don't worry about it.
+{CHOICE:32} I changed my mind.
+--------------------------------------------------End--
+{O'aka} 
+……Hey, boy.
+I appreciate the thought, but there isn't enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Okay.
+{CHOICE:31} No.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+Discard {CHOICE:32} to {O'aka}
+{CHOICE:33} I have enough.
+--------------------------------------------------End--
+{O'aka} 
+The stadium's reception is...
+I heard it's closed during the tournament.
+--------------------------------------------------End--
+{O'aka} 
+So.
+{O'aka}, please!
+--------------------------------------------------End--
+{O'aka} 
+Everyone's in high spirits for the tournament.
+Their purse strings are loose.
+--------------------------------------------------End--
+{O'aka} 
+It's what you call a busy time, huh.
+--------------------------------------------------End--
+{O'aka} 
+……So it pays to ask.
+Thanks, kid.
+--------------------------------------------------End--
+{O'aka} 
+As funds for {O'aka}'s revival,
+I'll be making use of it.
+--------------------------------------------------End--
+{O'aka} 
+Well, I suppose so.
+--------------------------------------------------End--
+{O'aka} 
+You're lending money?
+--------------------------------------------------End--
+{O'aka} 
+What... Don't get my hopes up.
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+
+Up ahead, the connecting ship bound for {Kilika}...
+...is 42+53.42+54.ing at {Blue} Port 2.
+--------------------------------------------------End--
+
+When it comes to such an enormous 42+55.structure...
+...even patrols are tough, you know.
+--------------------------------------------------End--
+
+So that's why, at 42+56.the port like this...
+...we staff are stationed.
+--------------------------------------------------End--
+
+The flying mechanical ship, it's the best 42+57.view, you know.
+Truly, what a breathtaking view!
+--------------------------------------------------End--
+
+{blitz} is the best, after all.
+You're a competitor too, right? Do your best!
+--------------------------------------------------End--
+
+I don't know anything!
+Really! Really!
+--------------------------------------------------End--
+
+Between {Al Bhed} and that {fiend}...
+There's no connection, I swear!
+--------------------------------------------------End--
+
+In the previous operation, {Al Bhed}'s...
+Many comrades also died...
+--------------------------------------------------End--
+
+I won't ride {airship}.
+I get motion sickness easily.
+--------------------------------------------------End--
+
+霊42+58.{Gagazet}'s ice and snow...
+...represented {Ronso}'s spirit 42+59.
+{NEWPAGE}
+
+The 42+60.victory is {Ronso Fangs}.
+Everyone knows {Ronso}.
+--------------------------------------------------End--
+
+{Ronso Fangs}'s 42+61.people...
+...swore 42+60.victory on their own horns.
+{NEWPAGE}
+
+There is no {Ronso} who breaks their vow.
+--------------------------------------------------End--
+
+The tournament ends, and {Ronso} returns to the sacred mountain.
+...to fulfill the duty of protecting {Yevon2}'s sacred land.
+--------------------------------------------------End--
+
+{Maester Mika2} is 42+62.safe.
+{Master Kelk Ronso} also 42+63.fu.
+--------------------------------------------------End--
+
+Came for 42+64.aid from distant {Gagazet}.
+{Ronso} will definitely win!
+--------------------------------------------------End--
+
+{Ronso Fangs} is the strongest.
+There is no defeat!
+--------------------------------------------------End--
+
+{Biran} and {Yenke} at the stadium
+Fought to protect the people.
+{NEWPAGE}
+
+The monsters the two of them defeated
+Were more than could be counted on fingers.
+--------------------------------------------------End--
+
+{Biran Ronso} is {Ronso}'s best 42+61.者.
+Is the admiration of {Ronso}'s 42+65.者.
+--------------------------------------------------End--
+
+What's that ship floating over there, I wonder?
+Is it an ancient machine, I wonder?
+--------------------------------------------------End--
+
+I sang a song of prayer.
+With this, will Nagi 42+66. come?
+--------------------------------------------------End--
+
+It's a really wide river, isn't it?
+Can Shipaafu cross by walking, I wonder?
+--------------------------------------------------End--
+
+I was invited to Blitz.
+But I want to take it easy.
+--------------------------------------------------End--
+
+{Luca} is a strange town.
+{Al Bhed2} is walking with a swagger.
+--------------------------------------------------End--
+
+Is that flying ship {Al Bhed}'s kiri42+67...?
+I want you to dispel the regrets of the fallen {Crusader} members!
+--------------------------------------------------End--
+
+The ferry to {Kilika} and {Besaid}
+Operations have resumed. It's going to get busy.
+--------------------------------------------------End--
+
+Because I fled {Bevelle} with only the clothes on my back,
+There are no clothes that fit {Luca}'s size.
+--------------------------------------------------End--
+
+The marriage talk regarding {Yuna}
+It seems to have fallen through.
+--------------------------------------------------End--
+
+I was worried if we could defeat 『{Sin}』 with something like a song,
+But when I saw that ship, I feel like we can do it.
+--------------------------------------------------End--
+
+Even though the sea is close, this is still land.
+I miss the storms of the open sea.
+--------------------------------------------------End--
+
+Because the monk soldiers are keeping a close watch,
+I can do my work with peace of mind.
+--------------------------------------------------End--
+
+Is it true that the temple is in confusion?
+I can't believe such a story.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Amount: {VAR12:34} gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Amount: {VAR12:34} gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Amount: {VAR12:34} gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Amount: {VAR12:34} gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+42+75. Agree?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+42+75. Please decide the number of matches for the agreement.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+42+75. The agreement fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+An agreement for one or more matches.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--

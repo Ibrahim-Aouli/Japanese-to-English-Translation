@@ -1,0 +1,12 @@
+{Tidus} 
+{Font Italic} Dad...{Font Normal}
+--------------------------------------------------End--
+{Tidus} 
+{Font Italic} There is no Ultimate Summon anymore.{Font Normal}
+--------------------------------------------------End--
+{Tidus} 
+{Font Italic} But I'll do something about it.{Font Normal}
+--------------------------------------------------End--
+{Tidus} 
+{Font Italic} Please wait a little longer...{Font Normal}
+--------------------------------------------------End--

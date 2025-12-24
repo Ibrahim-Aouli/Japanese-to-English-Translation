@@ -1,0 +1,526 @@
+{Dona} 
+Please don't make me say it repeatedly.
+I am a Summoner!
+--------------------------------------------------End--
+
+But I have no business here!
+Please understand!
+--------------------------------------------------End--
+{Dona} 
+To interrupt a Summoner's journey...
+What are you thinking?
+--------------------------------------------------End--
+
+But I have no business here!
+There is no passing!
+--------------------------------------------------End--
+{Dona} 
+This is pointless!
+--------------------------------------------------End--
+
+Sorry, but the road is closed.
+--------------------------------------------------End--
+
+I said the road is closed!
+I know it's confusing.
+--------------------------------------------------End--
+
+42+53.Help me out!
+Because we're going to defeat 『{Sin} 』!
+--------------------------------------------------End--
+{Dona} 
+Oh, you all...
+--------------------------------------------------End--
+{Dona} 
+As you can see, it's a roadblock even for a Summoner.
+--------------------------------------------------End--
+{Dona} 
+Even though you'll end up relying on a Summoner eventually.
+You don't understand at all.
+--------------------------------------------------End--
+{Dona} 
+Well, since it's a good opportunity,
+I'll go back and rest.
+--------------------------------------------------End--
+{Dona} 
+Let's go, {Barthello}.
+--------------------------------------------------End--
+
+At the Mushroom Rock Road ahead!
+The operation by {Crusader} will commence!
+--------------------------------------------------End--
+
+My deepest apologies, but!
+No one can pass through~!
+--------------------------------------------------End--
+
+From the {Operation Mi'ihen} Operation Executive Committee,
+We are requesting your donations and cooperation.
+--------------------------------------------------End--
+
+We are truly deeply grateful for your cooperation.
+Please accept this!
+--------------------------------------------------End--
+
+Thank you for your cooperation.
+Please, take this!
+--------------------------------------------------End--
+
+Thanks.
+Please use this.
+--------------------------------------------------End--
+{WINDOW}
+{Lucil} 
+Report!
+--------------------------------------------------End--
+{Lucil} 
+Deployment of rear support units, and...
+Cavalry drills completed.
+--------------------------------------------------End--
+{Elma} 
+Evacuation guidance for civilians in the vicinity is also proceeding smoothly!
+--------------------------------------------------End--
+{Lucil} 
+Only a few remain, but...
+The evacuation will be completed shortly.
+--------------------------------------------------End--
+
+Hmm, well done.
+Are there any problems?
+--------------------------------------------------End--
+{Lucil} 
+No! Absolutely no problem!
+--------------------------------------------------End--
+
+Alright, understood.
+I acknowledge preparations for the operation are complete.
+--------------------------------------------------End--
+
+Chocobo Cavalry, promptly take up your positions.
+Prepare for the operation to begin!
+--------------------------------------------------End--
+{Lucil} 
+Understood!
+--------------------------------------------------End--
+{Elma} 
+Understood!
+--------------------------------------------------End--
+
+You're the Summoner and her guards, right?
+My apologies for the trouble.
+--------------------------------------------------End--
+
+I appreciate {42+53.strength}.
+--------------------------------------------------End--
+
+What? You didn't know...?
+--------------------------------------------------End--
+
+The '{{sinspawn}}' that was {42+63.captured} in {42+62.place}
+Are successively being brought here.
+--------------------------------------------------End--
+
+At locations where '{{sinspawn}}' are present,
+A '{{Sin}}' will appear, right?
+--------------------------------------------------End--
+
+By utilizing this characteristic,
+We will lure out '{{Sin}}'.
+--------------------------------------------------End--
+
+This operation: [{{Operation Mi'ihen}}]
+Its greatest feature lies in the {42+64.battle} with {{Al Bhed}} people.
+--------------------------------------------------End--
+
+We, the subjugation unit, will lure out '{{Sin}}'
+The {Al Bhed} people deliver the finishing blow.
+--------------------------------------------------End--
+
+The desire to defeat '{Sin}'.
+Because we are no different from the {Al Bhed} people.
+--------------------------------------------------End--
+
+They resurrected...
+...the ancient machines.
+--------------------------------------------------End--
+
+Those machines are as powerful as summoned beasts...
+...I hear they produce power.
+--------------------------------------------------End--
+
+Their machines, of course...
+...go against {Yevon2}'s teachings, but...
+--------------------------------------------------End--
+
+Ah... I'll stop there.
+It's better not to know about things that go against the teachings.
+--------------------------------------------------End--
+
+The {Crusader} participating in this operation...
+...were all excommunicated from the temple.
+--------------------------------------------------End--
+
+As for my family...
+...they won't even speak to me anymore.
+--------------------------------------------------End--
+
+We will defeat '{Sin}' with this operation.
+--------------------------------------------------End--
+
+If we don't, our place to belong...
+...will vanish completely.
+--------------------------------------------------End--
+{Gatta} 
+It's {Gatta} and {Luzzu} from {Besaid}.
+--------------------------------------------------End--
+{Luzzu} 
+This is the last decoy.
+--------------------------------------------------End--
+
+You've come a long way.
+Now, please come through.
+--------------------------------------------------End--
+{Gatta} 
+Blitz, please teach me about this formation, okay!
+--------------------------------------------------End--
+{Luzzu} 
+I'll just go and...
+...defeat 『__P0__ 』 and return, so wait for me.
+--------------------------------------------------End--
+{Clasko} 
+We were supposed to gather here, but...
+Captain {Lucil} and the others aren't coming...
+--------------------------------------------------End--
+{Clasko} 
+That {Elma}...
+I wonder what they're doing...
+--------------------------------------------------End--
+{Clasko} 
+The place we can go by Chocobo is...
+...up to here!
+--------------------------------------------------End--
+{Clasko} 
+Alright, alright, get off!
+--------------------------------------------------End--
+{Seymour} 
+We meet again, {Yuna} 42+66..
+--------------------------------------------------End--
+{Yuna} 
+Y-Yes!
+--------------------------------------------------End--
+{Seymour} 
+What's wrong?
+You seem tired, but...
+--------------------------------------------------End--
+{Yuna} 
+Actually...
+--------------------------------------------------End--
+{Seymour} 
+I see.
+--------------------------------------------------End--
+
+I was waiting for you.
+I will guide you to Operations Command!
+--------------------------------------------------End--
+{Seymour} 
+Before that, I have a request.
+--------------------------------------------------End--
+
+Hah! Anything!
+--------------------------------------------------End--
+{Seymour} 
+Summoner {Yuna} 42+66. and the guards too,
+I would like them to pass through as well.
+--------------------------------------------------End--
+
+With all due respect, {Seymour}-sama...
+--------------------------------------------------End--
+{Seymour} 
+I will not cause trouble for you.
+I will take all responsibility.
+--------------------------------------------------End--
+
+Understood.
+Passage is permitted.
+--------------------------------------------------End--
+{Seymour} 
+Now, go ahead.
+--------------------------------------------------End--
+{Yuna} 
+Oh... thank you very much.
+--------------------------------------------------End--
+{Lulu} 
+{Yuna}, let's go.
+--------------------------------------------------End--
+{Yuna} 
+Yeah!
+--------------------------------------------------End--
+{Tidus} 
+That arrogant person.
+--------------------------------------------------End--
+{Wakka} 
+It's not arrogance.
+He's truly important.
+--------------------------------------------------End--
+
+Hello there!
+This time it's free.
+--------------------------------------------------End--
+
+This time it's free, but...
+It seems you're already riding~
+{NEWPAGE}
+
+I'll make it free for you next time.
+--------------------------------------------------End--
+
+Would you like to ride a Chocobo~?
+--------------------------------------------------End--
+
+Please take care on your journey.
+--------------------------------------------------End--
+
+How to ride a Chocobo...
+Would you like to know?
+--------------------------------------------------End--
+
+I'm delivering meals
+to the soldiers!
+--------------------------------------------------End--
+
+The operation will begin soon.
+Those not involved are not allowed to pass.
+--------------------------------------------------End--
+
+Good children will be eaten by 『{Sin}』.
+My mom said that.
+--------------------------------------------------End--
+
+The operation will begin soon.
+Those not involved are not allowed to pass.
+--------------------------------------------------End--
+
+Even we are {Crusader}!
+We're doing our work properly too!
+{NEWPAGE}
+
+My role is...
+It's tidying up everyone's belongings!
+--------------------------------------------------End--
+
+How about that? It's amazing work, isn't it?
+--------------------------------------------------End--
+
+If it passes, what will happen?
+--------------------------------------------------End--
+
+Hyaa...
+--------------------------------------------------End--
+
+Even a great Master is here.
+I must do my best!
+--------------------------------------------------End--
+
+By {Maester Kinoc}'s command.
+The highway is under guard!
+--------------------------------------------------End--
+
+{Al Bhed}'s lot has come all the way here...
+They're here to make money.
+{NEWPAGE}
+
+After driving the plan to failure...
+What an impudent lot!
+--------------------------------------------------End--
+
+Eventually, our warrior monk army...
+We will repel {Al Bhed2}!
+--------------------------------------------------End--
+
+The large items around here...
+They're all {Crusader}'s parting gifts.
+{NEWPAGE}
+
+Those guys, with only the clothes on their backs.
+It ran away.
+--------------------------------------------------End--
+
+Into such a cage, {sinspawn}...
+They had put it in...? They're wasting it.
+--------------------------------------------------End--
+{WINDOW}
+Shall I go find {CHOICE:30}?
+{CHOICE:31}, we mustn't disturb them, right?
+--------------------------------------------------End--
+
+Few are guarding beyond this point.
+Monsters are rampant, so be careful.
+--------------------------------------------------End--
+
+And deploy soldiers even at {Mushroom Rock Road}...
+I want to ensure the safety of the main road, but...
+{NEWPAGE}
+
+Anyway, we're short on manpower.
+Please understand.
+--------------------------------------------------End--
+{WINDOW}
+Funds on hand: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, 100 Gil is sufficient, right?
+{CHOICE:31}, would about 1000 Gil be okay?
+{CHOICE:32}, I'll go for 10,000 Gil!!
+{CHOICE:33}, I don't want to contribute.
+--------------------------------------------------End--
+
+You don't have enough Gil.
+--------------------------------------------------End--
+
+Our guarding method is difficult, so we...
+We are struggling in that cage.
+{NEWPAGE}
+
+It's good we didn't have to clean up after the operation.
+It's a lucky accident, isn't it?
+--------------------------------------------------End--
+
+Sometimes, the travel company's {Al Bhed2}...
+They bring refreshments.
+{NEWPAGE}
+
+I don't really understand their way of thinking, but...
+Anyone who gives us food is a friend.
+--------------------------------------------------End--
+
+Please come through.
+--------------------------------------------------End--
+
+The warrior monks guarding this place, and {Guado2}...
+They've gone somewhere.
+{NEWPAGE}
+
+Could it be... the rebels...
+...are they pursuing them?
+--------------------------------------------------End--
+
+The ones who truly protect the people are...
+Only {Crusader}...
+--------------------------------------------------End--
+
+When the machine ship flew, of course I sang.
+That child from {Al Bhed} was with me too.
+{NEWPAGE}
+
+Even though our words didn't connect, to be able to sing the same song...
+It was somehow strange.
+--------------------------------------------------End--
+
+The people of {Yevon2} and {Al Bhed2}...
+...perhaps there's a way for them to get along.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, don't worry about it.
+I want to hear about the {CHOICE:31} operation.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} doesn't listen.
+{CHOICE:31} listens.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [How to Ride a Chocobo] {White}
+
+{Blue} Movement {White}
+Screen42+88.{VAR07:E8}{Direcional Up} {VAR07:50}ScreenForeground{VAR07:E8}{Direcional Down}
+Screen Left {VAR07:E8}{Direcional Left} {VAR07:50} Screen Right {VAR07:E8}{Direcional Right}
+
+{Blue} Mount/Dismount {White}
+Dismount {VAR07:E8}{Button X}
+Mount {VAR07:E8} towards the Chocobo {Button Circle}
+
+You can only ride Chocobos at {Mi'ihen Highroad}.
+While mounted, beyond {Luca} or the highway
+...you cannot go.
+--------------------------------------------------End--
+{WINDOW}
+Chocobos will wait for you where you dismounted, but
+if you leave it there and exit from {Mi'ihen Highroad},
+If you end up borrowing a new Chocobo...
+...will disappear.
+When you want to ride, please come again to 42+89.
+--------------------------------------------------End--
+{WINDOW}
+I'll ride {CHOICE:30}.
+Not riding.
+Teach me how to ride.
+--------------------------------------------------End--
+{WINDOW}
+Money42+90.: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Funds: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s [42+91.], for Save Spheres...
+...a transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s home base, to continue Blitz training
+hidden excellent players are lurking.
+Press {Button Square} to talk, and you may be able to make a Scout 42+93.Contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+A Transfer 42+92.Function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

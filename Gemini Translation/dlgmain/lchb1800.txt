@@ -1,0 +1,888 @@
+
+
+--------------------------------------------------End--
+
+The Temples and the Al Bhed are teaming up with a flying ship...
+Is the rumor that they're fighting Sin true?
+--------------------------------------------------End--
+
+It's good the operation force has regained its spirit, but...
+I'm worried they're about to start another reckless operation.
+--------------------------------------------------End--
+
+During the operation, I heard cannon fire all the way in Luca.
+It seems it was an intense battle...
+--------------------------------------------------End--
+
+We're not warrior monks anymore.
+We got fired, rather than quit, though.
+--------------------------------------------------End--
+
+This shop is such a struggle, I want to sell it off quickly
+I want to find a new job in Luca.
+--------------------------------------------------End--
+
+If I could ride on that flying ship, Luca and...
+Kilika's {42+53.復} would be easier, though.
+--------------------------------------------------End--
+
+The ferry has started moving, so...
+I can finally return to Kilika!
+--------------------------------------------------End--
+
+To the Summoner, as soon as possible...
+I wish they'd do something.
+--------------------------------------------------End--
+
+Sin hasn't appeared recently.
+Instead, I'm getting worried...
+--------------------------------------------------End--
+
+As expected, the operation force couldn't win.
+I thought it would turn out this way from the beginning.
+--------------------------------------------------End--
+
+{Crusader} says they'll defeat 『{Sin} 』.
+They're boasting, but I can't expect much.
+--------------------------------------------------End--
+
+If Nagi42+54. comes, immediately...
+Apparently, there'll be a commemorative Blitz tournament!
+{NEWPAGE}
+
+If you secure tickets now,
+it looks like you could make a huge profit!
+--------------------------------------------------End--
+
+Brother, were you a player?
+Do your best during the commemorative tournament!
+--------------------------------------------------End--
+
+Even if various incidents occur,
+Luca city revolves around Blitz.
+{NEWPAGE}
+
+Even if the Yevon Temple is tottering,
+this city remains unchanged.
+--------------------------------------------------End--
+
+Even if 『Sin』 comes, the matter of tomorrow's match...
+we won't forget... that's what it means to be the people of Luca.
+--------------------------------------------------End--
+
+As for those monk soldiers, their own exclusive seats...
+they're apparently blabbering, "Prepare them!"
+{NEWPAGE}
+
+They're outrageous!
+Who do they think they are?!
+--------------------------------------------------End--
+
+Those monk soldiers who are getting carried away...
+will surely face retribution!
+--------------------------------------------------End--
+
+Monster 42+55.Moving? What about it?
+It's no big deal.
+--------------------------------------------------End--
+
+Everyone will quickly forget it.
+They'll become engrossed in Blitz.
+--------------------------------------------------End--
+
+I'm eagerly looking forward to the next tournament.
+--------------------------------------------------End--
+
+The opening ceremony has started.
+Everyone went to go watch it.
+--------------------------------------------------End--
+
+I mean, you're a player, right?
+Is it okay to be wandering around?
+--------------------------------------------------End--
+
+The young woman who was with you just now...
+Where did she go?
+--------------------------------------------------End--
+
+Aha... you got rejected, huh...
+Don't mope, live strongly.
+--------------------------------------------------End--
+
+Hey mister, do you have a ticket?
+If you have 42+56.one, I'll buy it from you~
+--------------------------------------------------End--
+
+Or do you want better seats?
+How about pair seats with that young woman?
+--------------------------------------------------End--
+
+Huh? Mister, you're a player...
+Then you have no use for tickets.
+--------------------------------------------------End--
+
+I don't really buy tickets~
+We have front row {42+57} seats~
+--------------------------------------------------End--
+
+From in front of the stadium.
+We are {42+59} delivering by live {42+58} broadcast.
+--------------------------------------------------End--
+
+With the opening ceremony {42+60} approaching soon,
+The excitement is building... hey, wait!
+--------------------------------------------------End--
+
+I'm in the middle of a {42+61} report.
+Don't interrupt!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+62. Contract Period: {VAR12:33} Matches
+42+62. Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+62. Contract Period: {VAR12:33} Matches
+42+62. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+62. Contract Period: {VAR12:33} Matches
+42+62. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+62. Contract Period: {VAR12:33} Matches
+42+62. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please set the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract of one match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+Until now, we have regarded machines and the Al Bhed...
+...with hatred, but...
+--------------------------------------------------End--
+
+Now, a forbidden machine, the airship,
+is cornering 'Sin'.
+--------------------------------------------------End--
+
+Regarding Yevon's teachings, which have lasted 1000 years,
+it might be time to reconsider them.
+--------------------------------------------------End--
+
+Furthermore, since Grand Maester Mika's death, Yevon Temple...
+...has remained silent... Ugh!
+--------------------------------------------------End--
+
+This is important news for Spira!
+Don't interrupt! Don't interrupt!
+--------------------------------------------------End--
+
+Currently, Yevon Temple is in great {42+63} disarray, but
+there have been no specific announcements.
+--------------------------------------------------End--
+
+the Temple's {42+64} stance, which seems to ignore the people.
+Voices of criticism are growing louder.
+--------------------------------------------------End--
+
+Even people disappointed with the Temple are leaving Bevelle.
+are increasing... Hey, hey, hey!
+--------------------------------------------------End--
+
+Stop interfering with my work, I told you!
+You're really an attention-seeker, aren't you?
+--------------------------------------------------End--
+
+As you know, the Mi'ihen Session...
+...ended in a complete failure.
+--------------------------------------------------End--
+
+Replacing the annihilated expeditionary force, monk warriors and...
+...the Guado tribe are handling preparations for the position.
+--------------------------------------------------End--
+
+This is Maester Kinoc and Maester Seymour's...
+...decision... H-Hey, wait!
+--------------------------------------------------End--
+
+Stop interrupting!
+As always, you're an attention-seeker, aren't you?
+--------------------------------------------------End--
+
+About the fiend in the stadium...
+...do you know anything?
+--------------------------------------------------End--
+
+There's too little information...
+...so it can't become news.
+--------------------------------------------------End--
+
+What? Do you want me to report on it?
+--------------------------------------------------End--
+
+{Aurochs} will, this year too,
+be eliminated in the first round anyway, right?
+--------------------------------------------------End--
+
+Something where the outcome is already clear...
+...even if you {42+61.} it...
+--------------------------------------------------End--
+
+All of Spira is {42+69.} holding its breath watching the flying ship's
+battle... Hey, move aside, move aside!
+--------------------------------------------------End--
+
+This is unofficial information, but Master Seymour has committed a {42+70.} terrible crime...
+...Hey, hey, you're getting in the way of work!
+--------------------------------------------------End--
+
+The connection between the Summoner Disappearance Incident and the Al Bhed tribe...
+...Ugh, just let me work!
+--------------------------------------------------End--
+
+Even though I {42+61.} quite a lot, no one...
+...has any decent information.
+--------------------------------------------------End--
+
+If you win at least once,
+I might even {42+61.} for you.
+--------------------------------------------------End--
+
+Oh, right! Congratulations on your {42+71.} victory!
+I've started to see {Aurochs} in a new light.
+--------------------------------------------------End--
+
+Did our song of prayer reach the flying ship?
+...I wonder.
+--------------------------------------------------End--
+
+The temples are in chaos, but precisely at times like this,
+we should believe in the teachings and await the Nagi{42+54.}.
+--------------------------------------------------End--
+
+I pray from my heart that the casualties of the extermination force may rest peacefully...
+...in the Farplane.
+--------------------------------------------------End--
+
+{Master Seymor}'s summoned beast...
+It was a tremendous power.
+--------------------------------------------------End--
+
+To be recognized by the master at that young age...
+It's no wonder.
+--------------------------------------------------End--
+
+Are you a Summoner?
+No, I haven't seen them.
+--------------------------------------------------End--
+
+Even if they came through here, in the crowd...
+They would have blended in and I wouldn't have known.
+--------------------------------------------------End--
+
+Speaking of which, the sound of a finger whistle...
+...I thought I heard...?
+--------------------------------------------------End--
+
+Honestly, things like winning or losing the match...
+...they don't matter to me.
+--------------------------------------------------End--
+
+I just want to get excited about the match and revel.
+...that's all I want to do.
+--------------------------------------------------End--
+
+The Calm coming in my lifetime...
+...I hadn't even imagined it would come.
+--------------------------------------------------End--
+
+Recently, the entire town of Guadosalam...
+...is in a dark, gloomy mood, like the Farplane, I hear.
+--------------------------------------------------End--
+
+Even if the Crusaders are defeated, the monk soldiers...
+...because they will protect us, we're safe, aren't we?
+--------------------------------------------------End--
+
+Ahead is {Blue} [Luca Theater]{White}.
+--------------------------------------------------End--
+
+For a memory of your journey.
+42+76. Please enjoy the statues and music.
+--------------------------------------------------End--
+
+The temple isn't doing anything, I bet...
+...because they're thinking of an amazing strategy.
+--------------------------------------------------End--
+
+Because the warrior monks will protect us.
+Even if fiends appear, it'll be fine.
+--------------------------------------------------End--
+
+That fiend, '{Sin},' is coming.
+I hope it's not a precursor...
+--------------------------------------------------End--
+
+When I think about the tournament starting soon...
+There's no way I can stay calm.
+--------------------------------------------------End--
+
+The people of Kilika must have sung too.
+I believe so.
+--------------------------------------------------End--
+
+Kilika again, by '__P0__'...
+42+77. I'm worried it will be destroyed.
+--------------------------------------------------End--
+
+The Kilika Beasts returned to the island.
+Next year, I really hope they 42+71.win.
+--------------------------------------------------End--
+
+This year's {Kilika Beasts}...
+They weren't very 42+78.active.
+--------------------------------------------------End--
+
+Well, the island was attacked by '{Sin}'.
+It's just that, so it's no wonder.
+--------------------------------------------------End--
+
+In my family, since my great-grandfather's generation.
+I'm 42+64.supporting {Kilika Beasts}.
+--------------------------------------------------End--
+
+To the flying ships, Yevon's 42+79.grace...
+Let us pray that it is bestowed.
+--------------------------------------------------End--
+
+Some of Luca's people disregard the teachings.
+They are doing so. It is foolish.
+--------------------------------------------------End--
+
+I will stay in Luca for a while, and to the 42+80.people,
+I intend to preach Yevon's teachings.
+--------------------------------------------------End--
+
+Thanks to {Master Seymor}'s summoned beast,
+the 42+81.42+82. was kept to a minimum.
+--------------------------------------------------End--
+
+This truly is {Yevon2}'s gift;
+it is nothing else.
+--------------------------------------------------End--
+
+The people are 42+83. letting loose
+and 42+55.reveling, but...
+--------------------------------------------------End--
+
+Formal preaching,
+let us avoid.
+--------------------------------------------------End--
+
+Build many flying ships,
+and we just need to concentrate our attack on 'Sin'.
+--------------------------------------------------End--
+
+I saw the flying ship at Port One.
+With that, can we fight 'Sin'?
+--------------------------------------------------End--
+
+That was a shame about the extermination squad...
+I thought it would go well, though.
+--------------------------------------------------End--
+
+Of all places, in front of the Grand Maester...
+For monsters to rampage...
+--------------------------------------------------End--
+
+For {Spira}, a safe place...
+...doesn't exist anywhere, does it?
+--------------------------------------------------End--
+
+Haven't you seen my child?
+I lost them in the crowd.
+--------------------------------------------------End--
+
+I told them to signal with finger 42+74. if they got separated...
+Even though I told them to...
+--------------------------------------------------End--
+
+When Nagi 42+54. comes, even the temple...
+...will surely regain its vitality.
+--------------------------------------------------End--
+
+Macalania Temple has lost its vitality.
+I can't bring myself to 42+84. in a place like that.
+--------------------------------------------------End--
+
+Having broken the teachings and then suffered a crushing defeat...
+...the extermination squad should be disbanded.
+--------------------------------------------------End--
+
+{Crusader} is devising an ill-advised plan, I hear.
+(Combined with 18)
+--------------------------------------------------End--
+
+Something about 42+85.ing forces with people.
+Not doing it...
+--------------------------------------------------End--
+
+Would a cleric's [42+86.] be too [42+66.] noticeable?
+I wonder if I should change into [42+86.] and [42+87.]bō.
+--------------------------------------------------End--
+
+Even if we weaken 'Sin' with machines and songs of prayer.
+Only the Summoner can deliver the finishing blow.
+--------------------------------------------------End--
+
+The warrior monks can't be relied on.
+In the end, it didn't [42+66.]ta for any [42+88.] at all.
+--------------------------------------------------End--
+
+Aren't the [42+89.] people of the monster [42+55.] movement Al Bhed?
+Bad things are always their fault.
+--------------------------------------------------End--
+
+Up until [42+90.] year, the tournament's [42+68.]bi...
+It was {Crusader}'s shio.
+--------------------------------------------------End--
+
+If {Crusader} had been doing it this year too.
+Monsters wouldn't have appeared.
+--------------------------------------------------End--
+
+{Al Bhed2} in the Ebon Cup...
+I don't like the idea of them appearing.
+--------------------------------------------------End--
+
+Flying ships are forbidden machines, but...
+We just need to ask the temple for permission.
+--------------------------------------------------End--
+
+The warrior monks came right away when the extermination team lost.
+I wonder if they knew the plan would fail.
+--------------------------------------------------End--
+
+The [42+91.]s were seriously injured by monsters.
+This is no joke...
+--------------------------------------------------End--
+
+I feel sorry for the people from {Crusader}, too.
+They're preparing their strategy without even watching the tournament, I hear.
+--------------------------------------------------End--
+
+Warrior monks apparently swarmed Besaid Island.
+They went to capture the rebels, I hear.
+--------------------------------------------------End--
+
+Auraka has been reborn, hasn't it?
+I'm looking forward to your swift advance!
+--------------------------------------------------End--
+
+This is the first time in my life...
+I saw {Aurochs} win.
+--------------------------------------------------End--
+
+You're {Aurochs}'s helper, aren't you?
+D-d-do your best!
+--------------------------------------------------End--
+
+They say it's no use for the people to struggle.
+We should just pray for Nagi42+54. to come.
+--------------------------------------------------End--
+
+Without relying on the power of machines, just leave it to the Summoner-sama.
+It'll be fine if we leave everything to them.
+--------------------------------------------------End--
+
+This year, {Aurochs} made great progress, but...
+it was overshadowed because of the monster activity, wasn't it?
+--------------------------------------------------End--
+
+A Summoner-sama was just around here a while ago...
+They came, right? What kind of person were they?
+--------------------------------------------------End--
+
+You're, if I remember correctly, a rebel...!?
+--------------------------------------------------End--
+
+You should stop.
+We're no match.
+--------------------------------------------------End--
+
+But then, as warrior monks,
+our 42+66. place...
+--------------------------------------------------End--
+
+What are you saying? We missed the ship to Bevelle.
+We're already dropouts.
+--------------------------------------------------End--
+
+Certainly, even if I fought you,
+I don't think I could win...
+--------------------------------------------------End--
+
+We're dressed as warrior monks, but
+we're practically 42+92. fired.
+--------------------------------------------------End--
+
+The monster that appeared in the stadium,
+what on earth was it?
+--------------------------------------------------End--
+
+It seems they don't understand at all.
+They say it seemed to just spring out of nowhere.
+--------------------------------------------------End--
+
+This year, I'm putting my support
+into __P0__.
+--------------------------------------------------End--
+
+You're still so 42+93. biased.
+You're 42+64. supporting {Al Bhed2}?
+--------------------------------------------------End--
+
+The way they all hide their 42+94. identities
+is mysterious and makes me curious.
+--------------------------------------------------End--
+
+If {Seymour} hadn't saved us,
+What would have become of us...
+--------------------------------------------------End--
+
+{Master Seymor} is our lifesaver.
+--------------------------------------------------End--
+
+My favorite is {Ronso Fangs}.
+--------------------------------------------------End--
+
+{Ronso2} 〜？
+You like someone that bulky?
+--------------------------------------------------End--
+
+They're not bulky, they're sturdy!
+--------------------------------------------------End--
+
+The monsters were surprising, but
+There was something even more surprising.
+--------------------------------------------------End--
+
+{Aurochs}'s 42+71.victory, right?
+I still can't believe it.
+--------------------------------------------------End--
+
+Huh? {Besaid Aurochs}?
+--------------------------------------------------End--
+
+That place is... you know.
+--------------------------------------------------End--
+
+Hey, hey, let's skip 42+68.preparations
+and go have some 42+87.fun somewhere?
+--------------------------------------------------End--
+
+Wh-What are you saying?!
+We are 42+96.honorable Yevon warrior monks!
+--------------------------------------------------End--
+
+Tsk! You're such a stick-in-the-mud! Monks...
+They're too serious, it's annoying.
+--------------------------------------------------End--
+
+And you're a monk yourself...
+--------------------------------------------------End--
+
+Now that we've come to warm Luca,
+Even the warrior monks should be more open.
+--------------------------------------------------End--
+
+For {Aurochs} to win...
+It's definitely some kind of mistake.
+--------------------------------------------------End--
+
+That's right! More than the monster...
+We should investigate that instead.
+--------------------------------------------------End--
+
+Gowers winning for us...
+I'm happy, but I can't honestly rejoice.
+--------------------------------------------------End--
+
+Because the monster appeared, things became ambiguous...
+...and it ended up vague, you see.
+--------------------------------------------------End--
+
+I wonder what kind of developments there will be this year?
+--------------------------------------------------End--
+
+That's Gowers' victory.
+It's already decided, isn't it?
+--------------------------------------------------End--
+
+That's true! What I want to say is...
+It's about how many points Bixun will score.
+--------------------------------------------------End--
+
+After all, the one to lead Gowers is...
+It can only be Bixun.
+--------------------------------------------------End--
+
+But lately, Graab has also been improving.
+He might become the star in this tournament.
+--------------------------------------------------End--
+
+I'm devoted to Bixun alone!
+Because he's always at the top.
+--------------------------------------------------End--
+
+My sister's 42+91. 42+103. is
+Grave's cousin!
+--------------------------------------------------End--
+
+Even I am acquainted with Bixun-sama's 42+104.42+91.'s
+later 42+105.!
+--------------------------------------------------End--
+
+When Nagi 42+54. comes, I plan to travel throughout Spira and
+collect 42+99. voices.
+--------------------------------------------------End--
+
+If you want me to 42+61.,
+bring me a scoop.
+--------------------------------------------------End--
+
+Don't bother me! You stood out enough during the tournament,
+so isn't that enough?
+--------------------------------------------------End--
+
+{Besaid Aurochs} Congratulations on your 42+71. victory!
+I've captured it perfectly!
+--------------------------------------------------End--
+
+Well, it's strange to say, but
+I never even dreamed of achieving a 42+71. victory.
+--------------------------------------------------End--
+
+Keii is in the middle of 42+61. of monster 42+55. activity.
+See you later 42+106.!
+--------------------------------------------------End--
+
+Hey, {Aurochs}'s naughty 42+107.!
+Thanks for the good scoop earlier.
+--------------------------------------------------End--
+
+Keep that up and disrupt the tournament
+for me.
+--------------------------------------------------End--
+
+The opening ceremony is soon, right~?
+Is it okay to be loitering around?
+--------------------------------------------------End--
+
+Hey, is it true the ferry service is suspended?
+--------------------------------------------------End--
+
+Still, in the nearby sea, '{Sin}'
+might be there, they say.
+--------------------------------------------------End--
+
+At this rate, when {Kilika}
+can be dealt with, I have no idea.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+Excuse me, please let me through.
+--------------------------------------------------End--
+{Yuna} 
+Alright, let's go.
+--------------------------------------------------End--
+{Tidus} 
+It's so popular~.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+It would be terrible if we got separated.
+--------------------------------------------------End--
+{Tidus} 
+{Yuna} ！
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+Woah!?
+--------------------------------------------------End--
+{Yuna} 
+Wh-What?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+In {Zanarkand}, during a Blitz,
+this is how you provide support.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+It seems no good.
+--------------------------------------------------End--
+{Tidus} 
+It's practice!
+--------------------------------------------------End--
+{Yuna} 
+That's right.
+--------------------------------------------------End--
+{Tidus} 
+If we get separated, we'll meet up with that.
+--------------------------------------------------End--
+{Tidus} 
+Then I'll immediately
+fly over.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+Until {42+109.} we start to lose.
+So, it's about not getting separated.
+--------------------------------------------------End--
+{Yuna} 
+Understood.
+--------------------------------------------------End--
+{Tidus} 
+Yuna, you try it too.
+Place your finger like this...
+--------------------------------------------------End--
+{Yuna} 
+Um... like this?
+--------------------------------------------------End--
+{Tidus} 
+Not like that, this way.
+--------------------------------------------------End--
+{Tidus} 
+Then, forcefully {42+109.}ku.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32}Event Debug
+{CHOICE:33}Wait Count
+{CHOICE:34}Model Change
+{CHOICE:35}Map Line Control
+{CHOICE:36} Invisifull
+{CHOICE:37}Return to {42+110.42+111.}'s place.
+--------------------------------------------------End--
+{WINDOW}
+`Model: {CHOICE:51}`
+--------------------------------------------------End--
+{WINDOW}
+Wait Count
+{CHOICE:30} End Settings
+  {CHOICE:31}01   {CHOICE:36}06
+  {CHOICE:32}02   {CHOICE:37}07
+  {CHOICE:33}03   {CHOICE:38}08
+  {CHOICE:34}04   {CHOICE:39}09
+  {CHOICE:35}05   {CHOICE:3A}10
+--------------------------------------------------End--
+{WINDOW}
+Wait{VAR12:30} : {CHOICE:53}
+--------------------------------------------------End--

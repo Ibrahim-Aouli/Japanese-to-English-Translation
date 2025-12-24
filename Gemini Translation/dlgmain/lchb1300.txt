@@ -1,0 +1,791 @@
+{WINDOW}
+Discovered {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--
+{WINDOW}
+Save up to this point?
+{VAR07:49}{CHOICE:30}Yes
+{VAR07:49}{CHOICE:31}No
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+{Wakka} {Wakka} ？
+--------------------------------------------------End--
+{Tidus} 
+Stiff.
+--------------------------------------------------End--
+{Tidus} 
+No, not a line. I'm scared of lines.
+Stiff.
+--------------------------------------------------End--
+{Tidus} 
+Relax...
+Yes, yes, that's the feeling.
+--------------------------------------------------End--
+{Lulu} 
+About {Yuna}'s birth.
+Be quiet, okay?
+--------------------------------------------------End--
+{Lulu} 
+It's crowded.
+Don't get separated, okay?
+--------------------------------------------------End--
+{Wakka} 
+I-I'm relying on you.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Period: {VAR12:33} matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contracted matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract for one or more matches.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+Datto.
+What!? The ones on the flying ship are...
+Is it you all!?
+--------------------------------------------------End--
+Datto.
+To think {Yuna}-chan is a rebel...
+Nobody will believe a lie.
+--------------------------------------------------End--
+Datto.
+They say {Yuna}-chan is getting married.
+I wonder if the rumor is true.
+--------------------------------------------------End--
+Datto.
+There's no need to worry about {Aurochs}.
+Everyone is full of energy.
+--------------------------------------------------End--
+Datto.
+We were able to beat Gowers thanks to you.
+Thank you!
+--------------------------------------------------End--
+Datto.
+We couldn't get a victory, but for the first time in 23 years...
+We should be satisfied.
+--------------------------------------------------End--
+Datto.
+It might be a bit late now, but...
+Shall we review the rules?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Review.
+{CHOICE:31} No need.
+--------------------------------------------------End--
+Datto.
+Please come back soon.
+We're relying on you all~
+--------------------------------------------------End--
+Datto.
+{Wakka}-san is frozen stiff...
+I've even started to get worried.
+--------------------------------------------------End--
+Reti!
+If 『{Sin}』 is gone, you can do as you please.
+{blitzball} can do it, right!
+--------------------------------------------------End--
+Reti!
+It seems the temple has lifted {Crusader}'s excommunication.
+I feel like it's too late now.
+--------------------------------------------------End--
+Reti!
+I wonder if {Luzzu} and {Gatta} are doing well...
+I hear {Besaid} hasn't made contact either.
+--------------------------------------------------End--
+Reti!
+{Operation Mi'ihen} was a huge failure, then...
+I remember when {Chappu} died.
+--------------------------------------------------End--
+Reti!
+It's lonely without you.
+Come back anytime, okay?
+--------------------------------------------------End--
+Reti!
+We made good progress, didn't we?
+Next time, we'll definitely crush Gowers!
+--------------------------------------------------End--
+Reti!
+Let's rout Gowers!
+For {Farplane}'s {Chappu} too.
+--------------------------------------------------End--
+Reti!
+There's no point in struggling anymore.
+I'll brace myself and wait for the match!
+--------------------------------------------------End--
+Reti!
+Our motto is Decisive Victory!
+Right? Ha ha ha...
+--------------------------------------------------End--
+Jash
+Teaming up with Gowers' crowd to form 42+53.
+I sang a prayer song.
+--------------------------------------------------End--
+Jash
+I knew about {Yuna}'s birth, but...
+I kept it quiet from {Wakka}.
+--------------------------------------------------End--
+Jash
+The combination of {Yuna} and {Master Seymor}...
+That's quite hard to imagine, isn't it?
+--------------------------------------------------End--
+Jash
+So you became {Yuna}'s guard?
+{Lulu} is strict, right?
+--------------------------------------------------End--
+Jash
+I still can't believe the win...
+Pinching myself has become a habit.
+--------------------------------------------------End--
+Jash
+{Wakka} says they retired, but...
+I wonder if they'd play in a match if I begged them.
+--------------------------------------------------End--
+Jash
+Instead of {Wakka}, I...
+I wish I had gotten injured...
+--------------------------------------------------End--
+Jash
+Of course, winning twice counts as a victory, but...
+Those two wins are a big deal, aren't they?
+--------------------------------------------------End--
+Jash
+Before that, and the time before that, it was a first-round defeat, right?
+Now I'm getting scared.
+--------------------------------------------------End--
+Bots
+Even in a tough battle, Gogengou...
+I will do my absolute best.
+--------------------------------------------------End--
+Bots
+I- I am always...
+I'm on {P0}'s side!
+--------------------------------------------------End--
+Bots
+Yu... I wonder if {P0} will stop their journey.
+Perhaps that's better...
+--------------------------------------------------End--
+Bots
+Even if {P0} retires,
+I'll do my absolute best!
+--------------------------------------------------End--
+Bots
+There's so much I want to learn from {P0}...
+...but... f-I want them to come back!
+--------------------------------------------------End--
+Bots
+Because I did my best,
+I won't be frustrated even if I lose.
+--------------------------------------------------End--
+Bots
+Who will be left on the bench?
+Could it be...?
+--------------------------------------------------End--
+Bots
+Only five people can play, so one person...
+...on the bench... Wh-Who could it be?
+--------------------------------------------------End--
+Bots
+And there are also people who came from Besaid for 42+54.aid.
+We absolutely cannot lose!
+--------------------------------------------------End--
+KIPPA
+If {P0} defeats "{P1}",
+Now 42+55. you're the legendary guard.
+--------------------------------------------------End--
+KIPPA
+Since {P0}'s engagement was called off,
+I'm a little relieved.
+--------------------------------------------------End--
+KIPPA
+Did you meet {P0} in the Farplane?
+I was 42+56.ing to you a little, wasn't I?
+--------------------------------------------------End--
+KIPPA
+10 years ago, P0 came to P1.
+A jolly old man was guarding, I recall.
+--------------------------------------------------End--
+KIPPA
+Does winning mean we're in a position to be chased
+now?! Oh, seriously...?
+--------------------------------------------------End--
+KIPPA
+If I had tried a little harder,
+I could have won, right...? Sorry!
+--------------------------------------------------End--
+KIPPA
+P0 and the others are watching too.
+I have to show 42+58. spirit.
+--------------------------------------------------End--
+KIPPA
+Victory! Victory! Victory! Victory!...
+If I don't repeat it, I might forget.
+--------------------------------------------------End--
+KIPPA
+I'll guard the goal, so
+keep shooting!
+--------------------------------------------------End--
+Datto.
+Oh, P0.
+Do you want to review the rules?
+--------------------------------------------------End--
+{Aurochs} Everyone:
+Phew...
+--------------------------------------------------End--
+{Tidus} 
+P0?
+--------------------------------------------------End--
+Datto.
+It's the tournament's 42+59. round!
+--------------------------------------------------End--
+Reti!
+In the 42+60. year, in the first round against the Gowaz,
+we ended up getting matched against them...
+--------------------------------------------------End--
+Jash
+And the time before that, and the time before that too...
+--------------------------------------------------End--
+KIPPA
+Well, no matter who we faced...
+I was losing...
+--------------------------------------------------End--
+{WINDOW}
+Datto.
+{Wakka}!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka} 
+Our first opponent is {Al Bhed Psyches}!
+After that... it's the finals!
+--------------------------------------------------End--
+{Wakka} 
+That's right, we got seed 42+61.!
+If we win twice... it's the finals!!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka} 
+Don't let your guard down!
+Let's go back to basics and review the basic rules!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+Listen!
+--------------------------------------------------End--
+{Yuna} 
+Someone said they saw {Auron} at the cafe.
+(combined with 11)
+--------------------------------------------------End--
+{Tidus} 
+Ah, {Auron}!?
+--------------------------------------------------End--
+{Yuna} 
+Yes, {Auron}!
+Let's go meet them!
+--------------------------------------------------End--
+{Wakka} 
+Whoa, whoa, whoa, whoa, whoa!
+The match is starting right away!
+--------------------------------------------------End--
+{Wakka} 
+H-Hurry and come back, okay?
+--------------------------------------------------End--
+{Tidus} 
+Leave it to me.
+--------------------------------------------------End--
+{Wakka} 
+U-Understood!
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Yuna} 
+With this, {Jecht}'s whereabouts also...
+we might find out, you know.
+--------------------------------------------------End--
+{Tidus} 
+Huh? Why?
+--------------------------------------------------End--
+{Yuna} 
+{Auron} also...
+...was Dad's guard.
+--------------------------------------------------End--
+{Yuna} 
+So, about {Jecht}...
+...I think they know something.
+--------------------------------------------------End--
+{Yuna} 
+Let's go quickly!
+--------------------------------------------------End--
+
+The {Auron} {Yuna} is talking about, and...
+that person I met in {Zanarkand}.
+--------------------------------------------------End--
+
+It might be a different person... such a thought.
+I didn't think about it at all.
+--------------------------------------------------End--
+
+I don't know why, but...
+I realized. It's the same person.
+--------------------------------------------------End--
+
+It's Master {summoner}.
+--------------------------------------------------End--
+
+Should I report?
+--------------------------------------------------End--
+{Tidus} 
+Oh!
+--------------------------------------------------End--
+{Tidus} 
+You're {Al Bhed Psyches}, right?
+--------------------------------------------------End--
+{Tidus} 
+I, the other day, by {Al Bhed}...
+...was helped.
+--------------------------------------------------End--
+{Tidus} 
+To a child named {Rikku}.
+After being fed...
+--------------------------------------------------End--
+{Tidus} 
+Ah... you don't understand me...?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+Well, how should I put it...
+--------------------------------------------------End--
+{Tidus} 
+If you meet {Rikku},
+Please say hello.
+--------------------------------------------------End--
+{Tidus} 
+And also,
+Let's have a good first round.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+Datto.
+{Wakka}, are you alright?
+--------------------------------------------------End--
+Reti!
+Even though the finals are about to start...
+With this injury...
+--------------------------------------------------End--
+Jash
+And our opponent is Gowaazu...
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Tidus} 
+I kept you waiting.
+--------------------------------------------------End--
+Datto.
+{Yuna}!
+--------------------------------------------------End--
+Reti!
+Are you unhurt!?
+--------------------------------------------------End--
+{Yuna} 
+I caused you worry...
+--------------------------------------------------End--
+{Yuna} 
+I'm sorry, I'm sorry.
+I'm sorry!
+--------------------------------------------------End--
+{Wakka} 
+Why would you be taken by someone like {Al Bhed}?
+(This line is combined with the previous one for a complete sentence.)
+--------------------------------------------------End--
+{Tidus} 
+That's enough about that, isn't it?
+--------------------------------------------------End--
+{Wakka} 
+Don't talk to {Al Bhed} anymore.
+You'll get caught up in trouble.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka} 
+The final match is about to start.
+There's no time to warm up.
+--------------------------------------------------End--
+{Wakka} 
+Can you do it?
+--------------------------------------------------End--
+{Tidus} 
+42+62.42+63.Yes!
+--------------------------------------------------End--
+{Wakka} 
+Alright!
+--------------------------------------------------End--
+{Wakka} 
+There's something I need to say now.
+--------------------------------------------------End--
+{Wakka} 
+Once the final match is over...
+--------------------------------------------------End--
+{Wakka} 
+I'm...retiring.
+--------------------------------------------------End--
+{Wakka} 
+I decided this tournament would be my last.
+Because I had decided it a long time ago.
+--------------------------------------------------End--
+{Wakka} 
+The outcome doesn't matter.
+I'll retire whether I win or lose.
+--------------------------------------------------End--
+{Wakka} 
+But...
+--------------------------------------------------End--
+{Wakka} 
+But since we've come this far, we want to win, don't we?
+--------------------------------------------------End--
+{Aurochs} Everyone:
+Yeah!
+--------------------------------------------------End--
+Bots
+M-Me? Am I on the bench?
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Wakka} 
+I'm on the bench.
+I'll leave the final match to this guy.
+--------------------------------------------------End--
+{Wakka} 
+If we've come this far, we absolutely must win!
+We'll beat {Luca Goers}!
+--------------------------------------------------End--
+{Tidus} 
+Let's go!!
+--------------------------------------------------End--
+{Aurochs} Everyone:
+Yeah!
+--------------------------------------------------End--
+{Lulu} 
+I saw you passed out.
+--------------------------------------------------End--
+{Wakka} 
+Tch...
+I was supposed to look cool there...
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Lulu} 
+You're... okay with that, right?
+--------------------------------------------------End--
+{Tidus} 
+Of {Besaid Aurochs}
+What's the password!?
+--------------------------------------------------End--
+{Aurochs} Everyone:
+It's Kyokatsu!!
+--------------------------------------------------End--
+Bots
+For {Wakka}
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+Announcer
+Alright!
+It's finally the climax!
+--------------------------------------------------End--
+Announcer
+Soon, any moment now!
+The final match is starting!
+--------------------------------------------------End--
+{Wakka} 
+You all, just stop Gowarz!
+--------------------------------------------------End--
+{Aurochs} Everyone:
+Understood!
+--------------------------------------------------End--
+{Tidus} 
+Me?
+--------------------------------------------------End--
+{Wakka} 
+Steal the ball!
+Once you're open, just shoot!
+--------------------------------------------------End--
+Datto.
+We'll stop Gowarz!
+--------------------------------------------------End--
+{Aurochs} Everyone:
+Oh!
+--------------------------------------------------End--
+{Tidus} 
+I'll shoot!
+--------------------------------------------------End--
+{Aurochs} Everyone:
+Oh!
+--------------------------------------------------End--
+{Wakka} 
+Alright! Go!
+--------------------------------------------------End--
+
+Of course, I was a little lonely.
+But...
+--------------------------------------------------End--
+
+That was {Wakka} and {Besaid Aurochs}'s
+It was an important match, you see.
+--------------------------------------------------End--
+
+To the memories of boyhood
+{Besaid Aurochs} Captain {Wakka}
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Wait Count
+{CHOICE:33} Motion Frame
+{CHOICE:34} Event Select
+{CHOICE:35} Map ID Control
+{CHOICE:36} Open Door 42+64. Debug
+{CHOICE:37} Open Locker 42+64. Debug
+{CHOICE:38} Ball Respawn Debug
+{CHOICE:39} Invisible
+{CHOICE:3A} Invisible 42+65. Technique
+{CHOICE:3B} 42+66.42+67. Return to Base
+--------------------------------------------------End--
+{WINDOW}
+Open 42+64.42+68.42+55. : {CHOICE:52}
+--------------------------------------------------End--
+{WINDOW}
+Input 42+69. Invert Control
+{CHOICE:30} As Is
+{CHOICE:31} Invert
+--------------------------------------------------End--
+{WINDOW}
+Open 42+64. Time : {CHOICE:52}
+--------------------------------------------------End--
+{WINDOW}
+
+{Button Circle} : Check
+--------------------------------------------------End--
+{WINDOW}
+Locker Room Event Select
+{CHOICE:30} Never mind.
+{CHOICE:31} Everyone in the line is downcast.
+{CHOICE:32} Wakka's Retirement Announcement
+{CHOICE:33} Wakka and Lulu (Capture)
+{CHOICE:34} Aurochs 42+70.Chin - Pep Talk
+{CHOICE:35} The Boy's 42+71. Memories
+{CHOICE:36} Wakka's Tactical Instructions
+{CHOICE:37} Player Substitution, Captain Wakka
+{CHOICE:38} Yuna and Kimahri to the Spectator Seats
+--------------------------------------------------End--
+{WINDOW}
+Map ID Selection: {CHOICE:50}
+--------------------------------------------------End--
+{WINDOW}
+Map ID {VAR12:30}
+{CHOICE:30} Never mind.
+{CHOICE:31} Released
+{CHOICE:32} Locked
+--------------------------------------------------End--
+{WINDOW}
+Frame : {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+Wait Count
+{CHOICE:30} End Settings
+  {CHOICE:31}01   {CHOICE:36}06
+  {CHOICE:32}02   {CHOICE:37}07
+  {CHOICE:33}03   {CHOICE:38}08
+  {CHOICE:34}04   {CHOICE:39}09
+  {CHOICE:35}05   {CHOICE:3A}10
+--------------------------------------------------End--
+{WINDOW}
+Wait{VAR12:30} : {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s {活42+72.}, to the Save Sphere.
+{blitzball} The transfer 42+73. function to the stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+{Spira} Continue Blitz training in the 42+74. land.
+hidden excellent players are lurking.
+{Button Square} By pressing and talking, you may be able to make scouting agreements.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer 42+73. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

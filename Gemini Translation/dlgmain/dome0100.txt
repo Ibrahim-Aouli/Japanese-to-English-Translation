@@ -1,0 +1,135 @@
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+{Jecht} 
+Could this be a trial ahead?
+--------------------------------------------------End--
+{Braska} 
+Probably.
+--------------------------------------------------End--
+{Jecht} 
+So tiresome...
+All this way, and it's this again?
+--------------------------------------------------End--
+{Jecht} 
+I thought fireworks like those at the stalls, or something,
+would be going off one after another.
+--------------------------------------------------End--
+{Braska} 
+If I defeat 『{Sin} 』,
+then you can have that done.
+--------------------------------------------------End--
+{Dona} 
+Hey, what's going on?
+--------------------------------------------------End--
+{Dona} 
+Even though we finally came all this way,
+it's an empty shell, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+Well, various things happened.
+Ultimate Summon... it's gone.
+--------------------------------------------------End--
+{Dona} 
+What...
+What is that?!
+--------------------------------------------------End--
+{Tidus} 
+If it's a plan, I'm properly thinking it through.
+--------------------------------------------------End--
+{Dona} 
+What's the success rate?
+--------------------------------------------------End--
+{Tidus} 
+We'll just do what we can!
+--------------------------------------------------End--
+{Dona} 
+In other words... to you all...
+So there's no choice but to leave it to you all.
+--------------------------------------------------End--
+{Dona} 
+Alright, until my turn comes.
+Do your best to handle the counter, 42+53.
+--------------------------------------------------End--
+{Dona} 
+Well, if you all do well.
+That's fine in itself, though?
+--------------------------------------------------End--
+{Tidus} 
+Just watch.
+I'll absolutely defeat 『{Sin} 』.
+--------------------------------------------------End--
+{Dona} 
+I'll wait without expectation.
+Let's go, {Barthello}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+54., to the Save Sphere.
+The 転42+55. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training at {Spira}'s 42+56.地.
+hidden excellent players are lurking.
+If you interact and talk to {Button Square}, you may be able to Scout 42+57.約.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+55. function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Direcional Left} : Dome Surroundings {VAR07:60}{Button Circle} : Confirm
+--------------------------------------------------End--

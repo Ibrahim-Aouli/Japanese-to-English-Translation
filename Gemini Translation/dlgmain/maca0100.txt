@@ -1,0 +1,390 @@
+{WINDOW}
+{Yuna} 
+Hm?
+--------------------------------------------------End--
+{Tidus} 
+You'll travel cheerfully, won't you?
+--------------------------------------------------End--
+{Yuna} 
+Mmm... that's right...
+I'll do my best.
+--------------------------------------------------End--
+{Yuna} 
+Retsuten, training in progress...
+--------------------------------------------------End--
+{Tidus} 
+Mmm, I'll do my best.
+--------------------------------------------------End--
+{Auron} 
+We don't know what will happen.
+--------------------------------------------------End--
+{Tidus} 
+Don't neglect preparations, right?
+--------------------------------------------------End--
+{Auron} 
+There's a saying, "Hurry up and wait."
+--------------------------------------------------End--
+{Auron} 
+After preparing swiftly,
+wait for the next situation. That's what it means.
+--------------------------------------------------End--
+{Tidus} 
+Your way of speaking is old-mannish.
+--------------------------------------------------End--
+{Auron} 
+That was fortunate.
+--------------------------------------------------End--
+{Tidus} 
+Don't get angry~!
+--------------------------------------------------End--
+{Rikku} 
+Let's go quickly.
+Let's depart quickly.
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} You're brooding...
+--------------------------------------------------End--
+{Lulu} 
+When we stop like this,
+you end up thinking about many things, don't you?
+--------------------------------------------------End--
+{Kimahri} 
+The temple is right there.
+Why stop here?
+--------------------------------------------------End--
+{Wakka} 
+Well...
+--------------------------------------------------End--
+{Wakka} 
+I'm starting to feel so gloomy.
+[42+53] is strange, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+Stop it already!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Strange!
+--------------------------------------------------End--
+{Wakka} 
+Ever since I was a kid,
+I've been indecisive!
+--------------------------------------------------End--
+{Tidus} 
+Ah, they're just being defiant.
+--------------------------------------------------End--
+{Wakka} 
+Humph! That's how it is.
+--------------------------------------------------End--
+{Wakka} 
+I mean, the journey's interruption...
+How long will it be, I wonder?
+--------------------------------------------------End--
+{Tidus} 
+Don't ask me.
+--------------------------------------------------End--
+{Wakka} 
+Ever since {Auron} joined,
+It's just been hard to do, somehow.
+--------------------------------------------------End--
+{Tidus} 
+Oh, I knew it.
+--------------------------------------------------End--
+{Wakka} 
+Somehow... they're a person with a lot of [42+54], aren't they?
+--------------------------------------------------End--
+{Maechen} 
+{Yuna}-sama and {Master Seymor}...
+I heard that __P0__-sama and __P1__ will [42+53].
+--------------------------------------------------End--
+{Maechen} 
+First, congratulations.
+Let's offer our [42+55].
+--------------------------------------------------End--
+{Maechen} 
+However, it is somewhat regrettable, isn't it?
+--------------------------------------------------End--
+{Maechen} 
+If it's Mr./Ms. {Yuna}, they will defeat '{Sin},' and...
+I thought they would graciously 42+57. Nagi42+56., but...
+--------------------------------------------------End--
+{Tidus} 
+Even if {Yuna} resolves 42+53.,
+they say they won't stop their journey.
+--------------------------------------------------End--
+{Maechen} 
+Oh! How wonderful.
+That is truly a composed resolve, isn't it?
+--------------------------------------------------End--
+{Maechen} 
+__P0__, please stop.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, until next time.
+{CHOICE:31}Please.
+--------------------------------------------------End--
+{Maechen} 
+This {Lake Macalania}...
+is frozen all year round.
+--------------------------------------------------End--
+{Maechen} 
+No matter how hot the day is,
+the ice will absolutely not melt.
+--------------------------------------------------End--
+{Maechen} 
+The lake is frozen because of the temple's
+42+61. of the freezing aura that Mr./Ms. {fayth} emits, isn't it?
+--------------------------------------------------End--
+{Maechen} 
+Is this all for this time?
+--------------------------------------------------End--
+{Maechen} 
+Ahem.
+--------------------------------------------------End--
+{Maechen} 
+If it's a 42+53. ceremony, we must witness it, mustn't we?
+It's rare.
+--------------------------------------------------End--
+{Maechen} 
+...because it's a cheerful topic, you see.
+Somehow, it's noisy outside, isn't it?
+--------------------------------------------------End--
+{Maechen} 
+I wonder if __P0__ is also 42+63.42+64. their 42+53. resolve?
+--------------------------------------------------End--
+
+{Al Bhed2} も 結42+53.を42+63.42+64.してるのかな
+I can't quite trust them...
+--------------------------------------------------End--
+
+I heard a flying machine appeared in {Bevelle}.
+Could it be {Al Bhed2}'s doing?
+--------------------------------------------------End--
+
+Lord/Lady {Yuna}'s 結42+53.式 is soon, isn't it...?
+Even I'm starting to feel excited.
+--------------------------------------------------End--
+
+Is it true that Lord/Lady {Yuna} is a rebel?
+I hope it's a mistake...
+--------------------------------------------------End--
+
+I heard the temple destroyed {Al Bhed}'s dwelling.
+Even so, there was no need to go that far...
+{NEWPAGE}
+
+Oh, I have no intention of defying the temple!
+Please don't tell anyone what I just said.
+--------------------------------------------------End--
+
+This 42+65. too, I don't know when it will be 42+66.ed.
+What a dreadful world it has become.
+--------------------------------------------------End--
+
+{Macalania Temple} is overflowing with {Guado}'s soldiers, making it quite imposing.
+With that, one can't even feel like praying.
+{NEWPAGE}
+
+I wonder when the quiet will return.
+Young man, you greatly 42+67. a rebel.
+--------------------------------------------------End--
+
+Don't get caught up in trouble.
+By the command of Clan Leader __P0__.
+--------------------------------------------------End--
+
+{Cid} ぞくちょうの めいれいで
+descended from {airship}.
+{NEWPAGE}
+
+I wanted to be with everyone...
+I was forcibly dragged down.
+--------------------------------------------------End--
+
+I can fight too!
+Don't make a fool of me!
+--------------------------------------------------End--
+
+They say that {Sin} fell to {Bevelle}.
+The people from {Yevon2} are flustered, aren't they?
+--------------------------------------------------End--
+
+At {Rin}'s shop,
+I was thinking of working, but...
+{NEWPAGE}
+
+Only {Al Bhed}'s language.
+They said it was no good because I can't speak it.
+{NEWPAGE}
+
+Now, from that shop assistant,
+I'm learning the language.
+--------------------------------------------------End--
+
+From now on, like {Rin} and {Rikku},
+it's no good if you can't use two languages.
+--------------------------------------------------End--
+
+When I touched a white thing outside,
+my hand got cold.
+--------------------------------------------------End--
+
+Could that be snow?
+I saw it for the first time.
+--------------------------------------------------End--
+
+When I sang a song outside, my breath...
+turned white. I wonder why?
+--------------------------------------------------End--
+
+They're sensitive to cold, so they're staying still.
+Even though there are so many interesting things!
+--------------------------------------------------End--
+
+When I was playing by sliding on the ice...
+I almost fell into a huge hole.
+--------------------------------------------------End--
+
+This is good for the new {Home}!
+Then I can play in the snow every day!
+--------------------------------------------------End--
+{WINDOW}
+
+A network spreading across all of {Spira}.
+Welcome to {Rin}'s travel company, {Lake Macalania} 42+68.42+65.!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} rest
+Buy {CHOICE:31} Weapons.
+Buy {CHOICE:32} Item
+{CHOICE:33} Refrain.
+--------------------------------------------------End--
+{WINDOW}
+
+Thank you very much.
+Please use Travel Company 42+69.42+65. for your itinerary.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s actions, for the Save Sphere.
+The teleport function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s base, Blitz training continues.
+hidden excellent players are lurking.
+If you press {Button Square} and talk to them, you may be able to scout [42+72.].
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+Teleport function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar word '{Al Bhed} Language' requires the {Al Bhed} Language Dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+`{Yellow} 【{Al Bhed} Dictionary Synthesis Sphere】{White}`
+--------------------------------------------------End--
+{WINDOW}
+Loading {Al Bhed} language dictionary data.
+`You can synthesize {Al Bhed} dictionaries!`
+{NEWPAGE}
+`Please select the save data to synthesize the Al Bhed dictionary.`
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+`Do you want to synthesize other save data?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+Failed to load {Al Bhed} language dictionary 42+73.!
+--------------------------------------------------End--
+{WINDOW}
+`There is no {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+Successfully loaded {Al Bhed} language dictionary 42+73.!
+--------------------------------------------------End--
+{WINDOW}
+`Synthesize {Al Bhed} dictionary?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

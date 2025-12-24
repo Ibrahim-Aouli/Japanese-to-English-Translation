@@ -1,0 +1,207 @@
+
+Even Master P0, who possesses a splendid record...
+The shop will surely prosper thanks to P0!
+--------------------------------------------------End--
+
+I heard you were attacked by P0...
+Are you injured?
+--------------------------------------------------End--
+
+While I am alive, Master P0's...
+I wish to witness Master P0's Nagi-sari.
+--------------------------------------------------End--
+
+At P0, to Master P1...
+How about meeting Master P1 at P0?
+--------------------------------------------------End--
+
+Thanks to the Master Summoner's presence...
+Even the 42+53.fear of '{Sin}' will be lessened!
+--------------------------------------------------End--
+
+I was able to meet Master P0...
+I have a good souvenir story to tell, indeed.
+--------------------------------------------------End--
+
+To think that Master P0 got married (42+54.)!
+This is truly the best souvenir story!
+--------------------------------------------------End--
+
+You know there's a Shipahuf to ride, don't you?
+I'm not good with that.
+{NEWPAGE}
+
+Even if the temple has given its permission...
+A machine is a machine.
+--------------------------------------------------End--
+
+Even with a machine that has the temple's permission...
+Anyway, it makes me feel 42+55.sick, it's no good.
+--------------------------------------------------End--
+
+My grandma, too, when she was [42+56]...
+she was a beauty who wouldn't lose to {Yuna}-sama.
+--------------------------------------------------End--
+
+If you go to [42+57], will {Yuna}-sama with "{Sin}"...
+stop the fight, I wonder?
+{NEWPAGE}
+
+Only that worries me.
+--------------------------------------------------End--
+
+If I travel alone, I'm scared I might be captured by {Al Bhed}.
+(This line is a continuation of 6 and should not be numbered separately, but since the input gives 7 as a separate line, I will treat it as such. However, grammatically it completes line 6.)
+--------------------------------------------------End--
+
+The temple should more [42+58]ly discipline {Al Bhed}, I think!
+(This line is a continuation of 8 and should not be numbered separately, but since the input gives 9 as a separate line, I will treat it as such. However, grammatically it completes line 8.)
+--------------------------------------------------End--
+
+Did you see {Crusader} returning [42+59][42+60]?
+They're tattered and miserable, aren't they...?
+{NEWPAGE}
+
+When they passed through here heading to the operation...
+everyone was full of confidence then.
+--------------------------------------------------End--
+
+Since Master Roshi is [42+54]-ing...
+it must be a very [42+61] ceremony.
+{NEWPAGE}
+
+Such cheerful news is [42+62], right?
+Even I'm getting excited.
+--------------------------------------------------End--
+
+Is that person {Yuna}-sama?
+Hmm... I see.
+--------------------------------------------------End--
+
+If it's someone of {Yuna}-sama's caliber, then {Al Bhed2}...
+It's no wonder they'd aim for it.
+--------------------------------------------------End--
+
+It looks like I'll be busy with the wedding preparations.
+I can't afford to be idle.
+--------------------------------------------------End--
+
+Guard-san, until the wedding day,
+Please protect Lord {Yuna}.
+--------------------------------------------------End--
+
+I've paid my respects at {Farplane} and said I'll be
+heading over there soon.
+{NEWPAGE}
+
+Now, even if I'm defeated by '{Sin}',
+there's nothing to worry about.
+--------------------------------------------------End--
+
+{Guado2} had a 42+64.gloomy42+65. look on their face.
+Did something happen?
+--------------------------------------------------End--
+
+Thanks to the song of prayer, my heart found peace.
+Now I can go to {Farplane} with peace of mind.
+--------------------------------------------------End--
+
+{Guado2} had a 42+64.gloomy42+65. look on their face.
+Did something happen?
+--------------------------------------------------End--
+
+Even though the people of {Spira} are panicking,
+only the Hypero Tribe remains calm.
+{NEWPAGE}
+
+How 42+66.audacious...
+They are admirable people.
+--------------------------------------------------End--
+
+If Lord {Yunalesca} were alive in this era,
+It would be nice not to [42+53.] 『{Sin} 』.
+--------------------------------------------------End--
+
+Using an ancient machine, against 『{Sin} 』...
+Who could be fighting?
+{NEWPAGE}
+
+Could it be that Lord {Yunalesca} from 1000 years ago...
+...has revived?
+--------------------------------------------------End--
+
+With song and machines, they [42+67.] 『{Sin} 』.
+All that's left is for Lord Summoner to deliver the finishing blow!
+--------------------------------------------------End--
+{Lulu} 
+I won't be able to move for a while, it seems.
+--------------------------------------------------End--
+{Wakka} 
+There might still be {Al Bhed}.
+Let's be careful.
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} was careless on the Shipah.
+I will never be careless again.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s [42+69.], to the Save Sphere...
+...a [42+70.] function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s [42+71.], continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and talk to them, you may be able to scout [42+72.].
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+A [42+70.] function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

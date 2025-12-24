@@ -1,0 +1,198 @@
+{Dona} 
+I wonder who it is.
+The one doing unruly acts.
+--------------------------------------------------End--
+{Gatta} 
+ZZZ……
+--------------------------------------------------End--
+{Luzzu} 
+Please let them sleep.
+--------------------------------------------------End--
+{Luzzu} 
+The match is finally here.
+Well, it's a bit cliché, but do your best!
+--------------------------------------------------End--
+
+Oh! This is a rare occurrence.
+--------------------------------------------------End--
+
+What? It's quite run-down, damn it.
+This won't be for sale, will it?
+--------------------------------------------------End--
+
+They don't look like they have money, either...
+--------------------------------------------------End--
+
+That's enough. Go away.
+--------------------------------------------------End--
+{Tidus} 
+What do you want?
+--------------------------------------------------End--
+
+I am {O'aka XXIII}.
+--------------------------------------------------End--
+{Tidus} 
+{O'aka} ？
+--------------------------------------------------End--
+{O'aka} 
+Tsk... You don't know?
+Well, nobody knows anyway.
+--------------------------------------------------End--
+{O'aka} 
+{Besaid}'s response items are expensive, and...
+{Kilika} had that happen, and...
+--------------------------------------------------End--
+{O'aka} 
+It's not becoming a 42+53.shell at all!
+It's a crisis of {O'aka}'s survival, that's what it is.
+--------------------------------------------------End--
+{O'aka} 
+That's right, boy. Just one more time.
+Won't you lend me money?
+--------------------------------------------------End--
+{O'aka} 
+Thanks, kid.
+I won't forget you.
+--------------------------------------------------End--
+{O'aka} 
+Well, I suppose so.
+--------------------------------------------------End--
+{O'aka} 
+You're lending money?
+--------------------------------------------------End--
+{O'aka} 
+Thanks, kid.
+I won't forget this 42+54., you know.
+--------------------------------------------------End--
+{O'aka} 
+What... Don't get my hopes up.
+--------------------------------------------------End--
+{O'aka} 
+Someday, {O'aka}'s name...
+I'll make it famous throughout {Spira}.
+--------------------------------------------------End--
+{O'aka} 
+That's right, boy, won't you lend me some money?
+--------------------------------------------------End--
+{O'aka} 
+Well, I suppose so.
+--------------------------------------------------End--
+{O'aka} 
+Welcome!
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+Funds on hand: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total 42+55. lent so far: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Set the 42+55. amount using {Direcional Up} {Direcional Down} {Direcional Left} {Direcional Right}
+Confirm with {Button Circle}
+--------------------------------------------------End--
+{WINDOW}
+……How much should I lend?
+Lend {CHOICE:56} Gil to {O'aka}
+--------------------------------------------------End--
+{O'aka} 
+……Hey, boy.
+I appreciate the sentiment, but I don't have enough Gil.
+--------------------------------------------------End--
+{O'aka} 
+Oh, boy, even {VAR12:32} Gil...
+Will you lend it to me?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Wait a minute.
+{CHOICE:31} Don't worry about it.
+{CHOICE:32} I changed my mind.
+--------------------------------------------------End--
+{O'aka} 
+Oh! That's right, boy.
+If you need anything, tell me.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Okay.
+{CHOICE:31} No.
+--------------------------------------------------End--
+{O'aka} 
+What's wrong, boy? Do you need anything?
+--------------------------------------------------End--
+{WINDOW}
+Do you have anything, {CHOICE:30}?
+42+56. into {CHOICE:31}{O'aka}
+{CHOICE:32} made it in time.
+--------------------------------------------------End--
+{WINDOW}
+
+It says 'Power Room'.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+57., to the Save Sphere.
+The trans42+58. function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s 42+59.land, they continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to scout42+60. them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The trans42+58. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

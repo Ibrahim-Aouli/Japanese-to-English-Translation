@@ -1,0 +1,97 @@
+{Tidus} 
+What is it today?
+--------------------------------------------------End--
+{Auron} 
+That was a trivial mistake.
+--------------------------------------------------End--
+{Auron} 
+We clearly lost because of you.
+--------------------------------------------------End--
+{Tidus} 
+Is that what you came to say?!
+--------------------------------------------------End--
+{Auron} 
+Today is... the anniversary of my death.
+--------------------------------------------------End--
+{Tidus} 
+Ah...
+--------------------------------------------------End--
+{Auron} 
+I was wondering if you were crying alone.
+--------------------------------------------------End--
+{Tidus} 
+As if I'd cry!
+--------------------------------------------------End--
+
+You were crying.
+--------------------------------------------------End--
+{fayth} 
+Welcome back.
+--------------------------------------------------End--
+{Tidus} 
+You...
+--------------------------------------------------End--
+{fayth} 
+I met them at {Bevelle}.
+Do you remember?
+--------------------------------------------------End--
+{Tidus} 
+Oh... oh.
+--------------------------------------------------End--
+{fayth} 
+But that wasn't the first time, was it?
+--------------------------------------------------End--
+{fayth} 
+I've known you for a while.
+For a very, very long time.
+--------------------------------------------------End--
+{Tidus} 
+I also... feel like I know.
+--------------------------------------------------End--
+{Tidus} 
+Where is this place?
+--------------------------------------------------End--
+{fayth} 
+You're saying strange things.
+It's your house, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+What's that?
+--------------------------------------------------End--
+{Wakka} 
+What happened to you, hey?!
+--------------------------------------------------End--
+{Rikku} 
+Hey, wake up, I'm telling you!
+--------------------------------------------------End--
+{Tidus} 
+Could it be... everything is a dream?
+--------------------------------------------------End--
+{fayth} 
+Hit.
+--------------------------------------------------End--
+{Tidus} 
+A dream!?
+--------------------------------------------------End--
+{Tidus} 
+Stop joking around!
+--------------------------------------------------End--
+{Tidus} 
+Time for dreams like that...
+...I don't have it, you know.
+--------------------------------------------------End--
+{fayth} 
+No, that's wrong.
+--------------------------------------------------End--
+{fayth} 
+You're not having a dream.
+You are the dream.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{fayth} 
+Hmm... you don't remember?
+Well then, I'll tell you.
+--------------------------------------------------End--

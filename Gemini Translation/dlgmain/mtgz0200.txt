@@ -1,0 +1,330 @@
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+{Rikku} 
+If we get over the mountain...
+I'm {Zanarkand}.
+--------------------------------------------------End--
+{Tidus} 
+I know.
+--------------------------------------------------End--
+{Rikku} 
+{Yunie} Ultimate Summon
+I'll get it.
+--------------------------------------------------End--
+{Tidus} 
+I know.
+--------------------------------------------------End--
+{Rikku} 
+I...
+I can't think of anything.
+--------------------------------------------------End--
+{Tidus} 
+Me too.
+--------------------------------------------------End--
+{Rikku} 
+What should I do...?
+--------------------------------------------------End--
+{Tidus} 
+It'll work out.
+--------------------------------------------------End--
+{Tidus} 
+As we are now...
+We don't know anything.
+--------------------------------------------------End--
+{Tidus} 
+If we stay like this, {Yuna}...
+...we can't save them, but...
+--------------------------------------------------End--
+{Tidus} 
+Let's go to {Zanarkand}.
+If we go, we'll understand something.
+--------------------------------------------------End--
+{Tidus} 
+It will surely start from there.
+--------------------------------------------------End--
+{Rikku} 
+Huh...?
+--------------------------------------------------End--
+{Tidus} 
+Hm?
+--------------------------------------------------End--
+{Rikku} 
+Now, a dependable ace...
+I got that feeling.
+--------------------------------------------------End--
+{Tidus} 
+The ace of {Zanarkand Abes}!
+I've been saying it from the start.
+--------------------------------------------------End--
+{Rikku} 
+Hah!
+--------------------------------------------------End--
+{Rikku} 
+What!?
+--------------------------------------------------End--
+{Seymour} 
+Hm... {Jecht}'s son?
+--------------------------------------------------End--
+{Tidus} 
+{Rikku}, go on ahead.
+Tell {Auron}.
+--------------------------------------------------End--
+{Rikku} 
+Are you going to fight alone!?
+--------------------------------------------------End--
+{Tidus} 
+Just go!
+--------------------------------------------------End--
+{Seymour} 
+Very well.
+Sink into the repose of death.
+--------------------------------------------------End--
+{Tidus} 
+Don't put on airs!
+--------------------------------------------------End--
+{Kimahri} 
+Don't try to look good.
+--------------------------------------------------End--
+{Seymour} 
+{Yuna} row, shop closed.
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} ！
+--------------------------------------------------End--
+{Seymour} 
+Passage to the Otherworld?
+--------------------------------------------------End--
+{Seymour} 
+Before that, to {Ronso}'s survivors...
+I have something I want to tell.
+--------------------------------------------------End--
+{Seymour} 
+Truly.
+Truly, they were a resilient clan.
+--------------------------------------------------End--
+{Seymour} 
+In an attempt to block my path...
+...and challenging me with a self-sacrificing spirit...
+--------------------------------------------------End--
+{Seymour} 
+One by one.
+--------------------------------------------------End--
+{Kimahri} 
+Foolish...
+--------------------------------------------------End--
+{Yuna} 
+{Kimahri} ……
+--------------------------------------------------End--
+{Seymour} 
+That {Ronso}'s sorrow.
+Wouldn't you like to heal it?
+--------------------------------------------------End--
+{Yuna} 
+What are you trying to say?
+--------------------------------------------------End--
+{Seymour} 
+You should just let 42+53. die.
+The sorrow will disappear with 42+54.
+--------------------------------------------------End--
+{Seymour} 
+{Spira} ……
+--------------------------------------------------End--
+{Seymour} 
+Trapped by death's 42+55.42+56.
+A land of sorrow and suffering.
+--------------------------------------------------End--
+{Seymour} 
+To destroy everything and heal.
+I will become '{Sin}'.
+--------------------------------------------------End--
+{Seymour} 
+Yes, by your power.
+--------------------------------------------------End--
+{Seymour} 
+Come with me.
+--------------------------------------------------End--
+{Seymour} 
+If I become the new '{Sin}'...
+Your father will also be saved.
+--------------------------------------------------End--
+{Tidus} 
+What do you know?!
+--------------------------------------------------End--
+{Seymour} 
+How pitiful.
+--------------------------------------------------End--
+{Seymour} 
+But that despair will also disappear here.
+--------------------------------------------------End--
+{Seymour} 
+I will sever all lamentations.
+--------------------------------------------------End--
+{Tidus} 
+Stop getting in my way!
+--------------------------------------------------End--
+{Yuna} 
+With my power, I will become '{{Sin}}'...
+--------------------------------------------------End--
+{Auron} 
+Nonsense.
+Forget it.
+--------------------------------------------------End--
+{Yuna} 
+If 42+53. becomes '{{Sin}}'
+Will '{{Jecht}}'-san be saved...?
+--------------------------------------------------End--
+{Auron} 
+Let's go.
+--------------------------------------------------End--
+{Yuna} 
+If you know anything.
+Please tell me!
+--------------------------------------------------End--
+{Yuna} 
+Tell me.
+--------------------------------------------------End--
+{Tidus} 
+'{{Sin}}'... is Dad.
+--------------------------------------------------End--
+{Wakka} 
+What's that?
+--------------------------------------------------End--
+{Tidus} 
+'{{Sin}}' is my Dad.
+Dad became '{{Sin}}'.
+--------------------------------------------------End--
+{Tidus} 
+Logic and things like that.
+I don't really understand.
+--------------------------------------------------End--
+{Tidus} 
+But I... felt it.
+Dad is inside '{{Sin}}'.
+--------------------------------------------------End--
+{Tidus} 
+Dad, '{{Spira}}'
+Is tormenting.
+--------------------------------------------------End--
+{Tidus} 
+...Sorry.
+--------------------------------------------------End--
+{Yuna} 
+...Sorry.
+--------------------------------------------------End--
+{Yuna} 
+Even if '{{Sin}}'
+...even '{{Jecht}}'-san...
+--------------------------------------------------End--
+{Yuna} 
+As long as 『{Sin} 』 is 『{Sin} 』.
+I...
+--------------------------------------------------End--
+{Tidus} 
+I know.
+I'll defeat him.
+--------------------------------------------------End--
+{Tidus} 
+Dad wants that too.
+--------------------------------------------------End--
+{Lulu} 
+Can I fight... Father42+57.?
+--------------------------------------------------End--
+{Tidus} 
+It's alright.
+I'll do it.
+--------------------------------------------------End--
+{Wakka} 
+Hey, that talk...
+--------------------------------------------------End--
+{Wakka} 
+Affected by 『{Sin} 』's poisonous aura.
+I had a dream... that's not it, is it?
+--------------------------------------------------End--
+{Tidus} 
+Yeah...
+--------------------------------------------------End--
+{Wakka} 
+Then {Chappu} is...
+--------------------------------------------------End--
+{Wakka} 
+...Sorry, but I...
+I'll pretend I didn't hear anything.
+--------------------------------------------------End--
+{Wakka} 
+My head's getting confused, is it?
+--------------------------------------------------End--
+{Wakka} 
+Why again, such a thing...
+...ended up happening.
+--------------------------------------------------End--
+{Auron} 
+You'll understand when you go.
+It's almost time.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+To the Save Sphere, through {Besaid Aurochs}'s act42+58.
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s 42+59.land, they continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to scout42+60. them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

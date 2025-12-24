@@ -1,0 +1,62 @@
+{Tidus} 
+I understand.
+--------------------------------------------------End--
+{Tidus} 
+I want to end this, you know.
+--------------------------------------------------End--
+{Tidus} 
+I'll take care of it.
+--------------------------------------------------End--
+{Tidus} 
+Stop it!
+--------------------------------------------------End--
+{Tidus} 
+A dream or anything, it's fine.
+--------------------------------------------------End--
+{Tidus} 
+Don't... erase me.
+--------------------------------------------------End--
+{fayth} 
+Yes.
+--------------------------------------------------End--
+{fayth} 
+{P0} isn't alive, so it won't die.
+It's not dead, so it can't live.
+--------------------------------------------------End--
+{fayth} 
+All I can do is dream.
+--------------------------------------------------End--
+{fayth} 
+Always dreaming...
+I somehow got drawn in.
+--------------------------------------------------End--
+{fayth} 
+Hey, if it's you and your father...
+...will you put the shops to sleep?
+--------------------------------------------------End--
+{Tidus} 
+"Put to sleep," you mean...?
+--------------------------------------------------End--
+{fayth} 
+You and your father touched "{P0}."
+--------------------------------------------------End--
+{fayth} 
+The passage of death revolving around {P0}.
+...to {P0}, which is at its center.
+--------------------------------------------------End--
+{fayth} 
+You are no longer just a dream.
+--------------------------------------------------End--
+{Yuna} 
+Please, open your eyes!
+--------------------------------------------------End--
+{Tidus} 
+I don't understand...
+--------------------------------------------------End--
+{fayth} 
+Run a little more for me.
+--------------------------------------------------End--
+{fayth} 
+You, into the dream that ends a dream...
+Might be able to...
+--------------------------------------------------End--

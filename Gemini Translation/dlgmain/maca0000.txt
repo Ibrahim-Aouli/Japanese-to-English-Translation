@@ -1,0 +1,286 @@
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+{O'aka} 
+Ohh!
+That's more like it!
+--------------------------------------------------End--
+{O'aka} 
+Huh?
+Still going to shop?
+--------------------------------------------------End--
+{O'aka} 
+Preparation before going to help?
+You've got a good lineup!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+{Tromell} 
+Lord/Lady {Yuna}, to the shop.
+I have arrived.
+--------------------------------------------------End--
+{Tromell} 
+So quickly.
+To receive a reply...
+--------------------------------------------------End--
+{Tromell} 
+A completely unexpected event.
+--------------------------------------------------End--
+{Tromell} 
+My leaving without saying anything.
+On behalf of Lord/Lady {Seymour}...
+--------------------------------------------------End--
+{Yuna} 
+That's fine.
+--------------------------------------------------End--
+{Yuna} 
+Um, there's one thing I'd like to ask.
+--------------------------------------------------End--
+{Tromell} 
+Anything you wish.
+--------------------------------------------------End--
+{Yuna} 
+I, even if I marry...
+I want to continue my journey.
+--------------------------------------------------End--
+{Yuna} 
+Will {Master Seymor} permit...
+...me to?
+--------------------------------------------------End--
+{Tromell} 
+Of course...
+--------------------------------------------------End--
+{Tromell} 
+{Seymour} also has that intention.
+Is present.
+--------------------------------------------------End--
+{Yuna} 
+I'll be going.
+--------------------------------------------------End--
+{WINDOW}
+{Tromell} 
+Well then...
+--------------------------------------------------End--
+{Tromell} 
+There is a custom of {Guado}...
+...you see.
+--------------------------------------------------End--
+{Tromell} 
+42+53.様, just a little longer...
+Please wait here.
+--------------------------------------------------End--
+{Tromell} 
+Soon, I will send a representative from the shop.
+Therefore.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+{WINDOW}
+Um...
+--------------------------------------------------End--
+{Auron} 
+The Guard is always on the Summoner's side.
+Do as you like.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+{WINDOW}
+Yes!
+--------------------------------------------------End--
+{Auron} 
+That was fortunate.
+--------------------------------------------------End--
+{Auron} 
+That was your line.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{WINDOW}
+{Yuna} ！
+--------------------------------------------------End--
+{Yuna} 
+Understood!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+{WINDOW}
+Ah!!
+--------------------------------------------------End--
+{Wakka} 
+It's {Al Bhed2}!
+--------------------------------------------------End--
+{O'aka} 
+{Rin}'s wild 42+54., such a good place...
+...to 42+55.42+56. it!
+--------------------------------------------------End--
+{O'aka} 
+If you follow the 42+57.ri42+58.gi of courtesy.
+This is sure to be a huge profit, isn't it?
+--------------------------------------------------End--
+{O'aka} 
+Huh? What is it?
+Are you buying from me?
+--------------------------------------------------End--
+{WINDOW}
+I'm {CHOICE:30}{O'aka}'s ally!
+{CHOICE:31} See you again 42+59.
+--------------------------------------------------End--
+{O'aka} 
+What... Don't get my hopes up.
+--------------------------------------------------End--
+{Clasko} 
+Hello.
+--------------------------------------------------End--
+{Clasko} 
+Look at this.
+--------------------------------------------------End--
+{Clasko} 
+I'm always the only one...
+...who is the departure guard, you know.
+--------------------------------------------------End--
+{Clasko} 
+Oh, right, right.
+Your neck is itchy, isn't it?
+--------------------------------------------------End--
+{Clasko} 
+Oh, that's good.
+--------------------------------------------------End--
+{Tidus} 
+I really understand.
+--------------------------------------------------End--
+{Clasko} 
+Ah, the Chocobo's feelings...
+They just vaguely come across to me, you know.
+--------------------------------------------------End--
+{Clasko} 
+Perhaps I, more than a cavalryman...
+...am more suited for this kind of thing.
+--------------------------------------------------End--
+{Clasko} 
+Hey, which of the two...
+...roles am I suited for?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Chocobo Cavalryman
+{CHOICE:31} Chocobo 42+60.42+61. Attendant.
+--------------------------------------------------End--
+{Clasko} 
+Is that really how it is...?
+--------------------------------------------------End--
+{Clasko} 
+I was sure it was "Chocobo 42+60.42+61. Attendant".
+I thought they'd say that, but...
+--------------------------------------------------End--
+{Clasko} 
+I see... I too...
+...had that feeling, though...
+--------------------------------------------------End--
+{Clasko} 
+Hmm... this is a bit...
+I wonder if I should give it some serious thought.
+--------------------------------------------------End--
+{Clasko} 
+I need to get a new Chocobo.
+And reorganize the cavalry.
+--------------------------------------------------End--
+{Clasko} 
+The road ahead is long, isn't it...?
+Haaaah... I wonder if I'll be okay.
+--------------------------------------------------End--
+{Clasko} 
+Hmm... I wonder if I should quit the cavalry.
+--------------------------------------------------End--
+{Clasko} 
+I wonder if Captain {Lucil} will get angry...
+{Elma} will probably make fun of me...
+--------------------------------------------------End--
+{Clasko} 
+About my own life...
+This is the first time I've thought this much.
+--------------------------------------------------End--
+{Clasko} 
+Even at a time like this...
+...to not even be able to take a single step...
+--------------------------------------------------End--
+{Clasko} 
+After all, someone like me...
+I'm a Chocobo Knight 失42+64.
+--------------------------------------------------End--
+{Clasko} 
+Right? Don't you think so?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Everyone has times when their feet freeze up.
+{WINDOW}
+{CHOICE:31}, that's right.
+--------------------------------------------------End--
+{Clasko} 
+And that's always the case...
+--------------------------------------------------End--
+{Clasko} 
+Just as I thought.
+After being told clearly, I've made up my mind.
+--------------------------------------------------End--
+{Clasko} 
+I'm quitting as a knight.
+--------------------------------------------------End--
+{Clasko} 
+We must go help quickly.
+Isn't that bad?
+--------------------------------------------------End--
+
+Please hurry to {Macalania Temple}.
+Lord/Lady {Seymour} is eagerly waiting.
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Word Dictionary Volume 16!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Learned 42+65. words!
+{VAR07:31} 『{OPurple} ナ{White} 』42+66. 『{Pink} ら{White} 』
+{VAR07:31} 『{OPurple} ニ{White} 』42+66. 『{Pink} り{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+The unfamiliar 言42+67. 『{Al Bhed} 語』, the {Al Bhed} language dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

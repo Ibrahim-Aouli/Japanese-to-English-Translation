@@ -1,0 +1,355 @@
+{WINDOW}
+{Yellow} How to advance through the Thunder Plains {White}
+In the Gandof Thunder Plains, {Tidus}...
+lightning may strike.
+--------------------------------------------------End--
+{WINDOW}
+It's unknown when or at what time lightning will strike.
+Standing around idly is the most dangerous.
+--------------------------------------------------End--
+{WINDOW}
+Promptly take shelter in a nearby lightning tower.
+You are safe under a lightning tower because lightning will not strike there.
+--------------------------------------------------End--
+{WINDOW}
+If by chance you are caught in a lightning strike in a place far from a lightning tower...
+you can avoid lightning by pressing {Button Circle}.
+--------------------------------------------------End--
+{WINDOW}
+Please press {Button Circle} the moment lightning flashes.
+If you succeed, you can evade the lightning strike.
+--------------------------------------------------End--
+{WINDOW}
+Furthermore, while continuously pressing {Button Circle}...
+walking is dangerous, so it is not recommended.
+--------------------------------------------------End--
+{WINDOW}
+Well then, wishing you a safe journey...
+--------------------------------------------------End--
+{Shelinda} 
+Oh, good work!
+--------------------------------------------------End--
+{Tidus} 
+Thanks!
+--------------------------------------------------End--
+{Shelinda} 
+That's right!
+--------------------------------------------------End--
+{Shelinda} 
+{Master Seymor} and Mr./Ms. {Yuna}...
+are getting 42+53., I heard.
+--------------------------------------------------End--
+{Shelinda} 
+It's a wonderful story, isn't it?
+I want to tell everyone soon!
+--------------------------------------------------End--
+{Tidus} 
+Who told you?
+--------------------------------------------------End--
+{Shelinda} 
+From {Guado2}.
+Everyone looked very happy.
+--------------------------------------------------End--
+{Tidus} 
+That's a little 42+54...
+{Yuna} intends to refuse.
+--------------------------------------------------End--
+{Shelinda} 
+What! Really!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Yeah, the 42+53. is off.
+{CHOICE:31} 42+55.42+56. Yes.
+--------------------------------------------------End--
+{Shelinda} 
+Is that so...
+--------------------------------------------------End--
+{Shelinda} 
+...I'm disappointed.
+--------------------------------------------------End--
+{Shelinda} 
+{Spira} The inside was 42+57.42+58.42+59.
+It must have been in an uproar...
+--------------------------------------------------End--
+{Shelinda} 
+Oh, come on!
+--------------------------------------------------End--
+{Shelinda} 
+To happy news,
+You shouldn't spoil it!
+--------------------------------------------------End--
+{Shelinda} 
+Please give my regards to {Yuna}-sama.
+Please tell them.
+--------------------------------------------------End--
+{Shelinda} 
+{Master Seymor} and {Yuna}-sama...
+Really a wonderful story, isn't it?
+--------------------------------------------------End--
+{Shelinda} 
+Please go ahead.
+--------------------------------------------------End--
+{Rikku} 
+Oh dear...
+We've come...
+--------------------------------------------------End--
+{Rikku} 
+Kyaaah!?
+--------------------------------------------------End--
+{Tidus} 
+How do we proceed here?
+--------------------------------------------------End--
+{Lulu} 
+Lightning towers everywhere.
+They're lined up.
+--------------------------------------------------End--
+{Lulu} 
+Lightning, the lightning towers...
+will absorb it for us, I see.
+--------------------------------------------------End--
+{Wakka} 
+Without straying too far from the lightning towers,
+and without getting too close, proceed north, I see.
+--------------------------------------------------End--
+{Lulu} 
+Wide open areas are dangerous.
+That's what it means.
+--------------------------------------------------End--
+{Rikku} 
+Kyaaaaaaah!?
+--------------------------------------------------End--
+{Rikku} 
+Go back just a little, {Guadosalam}?
+--------------------------------------------------End--
+{Auron} 
+42+60. We've been together a while, haven't we?
+--------------------------------------------------End--
+{Rikku} 
+Ah...
+Alright, let's go!
+--------------------------------------------------End--
+{Wakka} 
+Oh! So close, so close!
+Uhahahahaha~!!
+--------------------------------------------------End--
+{Lulu} 
+Let's get going quickly!
+--------------------------------------------------End--
+{Wakka} 
+Alright, alright.
+--------------------------------------------------End--
+{Rikku} 
+Hehehehe...
+--------------------------------------------------End--
+{Wakka} 
+Hmm? What's wrong?
+--------------------------------------------------End--
+{Rikku} 
+Hehehehe...
+--------------------------------------------------End--
+{Tidus} 
+Hehehehe{x09:DE}...
+What is that? It's creepy.
+--------------------------------------------------End--
+{Rikku} 
+Noooooo~!?
+--------------------------------------------------End--
+{Rikku} 
+Let's go rest there!
+Right? Right?
+--------------------------------------------------End--
+{Auron} 
+The thunder here never stops.
+It's better to leave quickly.
+--------------------------------------------------End--
+{Rikku} 
+I know that, but~!
+It's not about logic~!
+--------------------------------------------------End--
+{Tidus} 
+But still...
+What should we do?
+--------------------------------------------------End--
+{Rikku} 
+No~!
+--------------------------------------------------End--
+{Rikku} 
+I've had enough~! I hate thunder~!!
+--------------------------------------------------End--
+{Maechen} 
+Oh, good work.
+May I speak...?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}See you later.
+{CHOICE:31}Please.
+--------------------------------------------------End--
+{Maechen} 
+Ahem.
+--------------------------------------------------End--
+{Maechen} 
+So, about this highway...
+Let me tell you.
+--------------------------------------------------End--
+{Maechen} 
+Long ago, this was a famous
+traveler's resting place.
+--------------------------------------------------End--
+{Maechen} 
+42+63.すに42+63.されぬ{Thunder Plains}
+A light obstructing the path ahead
+--------------------------------------------------End--
+{Maechen} 
+...And so, even a song like this
+remains.
+--------------------------------------------------End--
+{Maechen} 
+Then, a man named Birigan
+appeared.
+--------------------------------------------------End--
+{Maechen} 
+Manipulating machines, throughout the plains
+he went around erecting lightning rods.
+--------------------------------------------------End--
+{Maechen} 
+So travelers, while avoiding lightning,
+could proceed.
+--------------------------------------------------End--
+{Maechen} 
+Birigan, while erecting
+those lightning rods...
+--------------------------------------------------End--
+{Maechen} 
+was struck by lightning and died.
+--------------------------------------------------End--
+{Maechen} 
+Birigan is{Al Bhed2}
+a name that does not remain in history...
+--------------------------------------------------End--
+{Maechen} 
+Please be careful as you go.
+--------------------------------------------------End--
+
+A suspicious stone is glowing...
+--------------------------------------------------End--
+
+It won't open...
+--------------------------------------------------End--
+
+{Yellow} 【{Celestial Mirror}】{White} is reflecting...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Celestial Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+{Yellow} 【{Cloudy Mirror}】{White} is reflecting...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Cloudy Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+It seems power is insufficient...
+--------------------------------------------------End--
+{Tidus} 
+{Guadosalam}...
+There are {Seymour}'s minions, aren't there?
+--------------------------------------------------End--
+{Tidus} 
+Now is not the time to fight with {Guado2}.
+Let's not.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s actions, for the Save Sphere.
+The teleport function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s headquarters, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to sign a scout contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+Teleport function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:52} Moonflow
+{VAR07:63} Djose Temple
+
+{VAR07:43} Guadosalam
+
+
+
+
+
+{VAR07:4C} Luca
+{VAR07:63} Port Kilika
+
+
+{VAR07:56} Besaid
+--------------------------------------------------End--
+{AREA}
+Thunder Plains
+--------------------------------------------------End--
+{AREA}
+Macalania Woods
+--------------------------------------------------End--
+{WINDOW}
+Discovered {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--

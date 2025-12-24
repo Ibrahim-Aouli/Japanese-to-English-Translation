@@ -1,0 +1,397 @@
+{Kelk} 
+Furthermore, allied with the {Al Bhed} tribe.
+Caused a rebellion.
+--------------------------------------------------End--
+{Kelk} 
+This disrupts the order of {Yevon2}.
+This is an unforgivable act of rebellion.
+--------------------------------------------------End--
+{Kelk} 
+Why did you {42+53.} into such a {42+54.}?
+State your {42+55.}.
+--------------------------------------------------End--
+{Yuna} 
+Their struggles and their {42+57.42+58.}, too...
+Is all of it {42+59.}!?
+--------------------------------------------------End--
+{Mika} 
+A Summoner's life and death...
+Will never become {42+59.}.
+--------------------------------------------------End--
+
+From this moment, the {Yevon2} Supreme {42+60.} will be opened.
+--------------------------------------------------End--
+
+In the name of {Yevon2}, {42+61.} and just,
+A sacred {42+60.} that carries out {42+62.}.
+--------------------------------------------------End--
+
+O, you who are judged.
+Believe in {Yevon2} and state the truth.
+--------------------------------------------------End--
+{Lulu} 
+{Master Kelk Ronso} 
+--------------------------------------------------End--
+{Kelk} 
+Summoner {Yuna}.
+--------------------------------------------------End--
+{Kelk} 
+{42+63.} protects the people of {Yevon2}.
+You are a person bearing a mission.
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{Kelk} 
+Then I ask.
+--------------------------------------------------End--
+{Kelk} 
+{42+63.} to Master {Seymor}...
+Inflicted harm...
+--------------------------------------------------End--
+{Yuna} 
+That is...
+--------------------------------------------------End--
+{Yuna} 
+The true traitor is Master {Seymour}.
+--------------------------------------------------End--
+{Yuna} 
+Master {Jyscal}... Lord Father [42+65.] {Jyscal}...
+With his hands...!
+--------------------------------------------------End--
+{Kelk} 
+What?!
+--------------------------------------------------End--
+{Seymour} 
+Oh, was that news to you?
+--------------------------------------------------End--
+{Yuna} 
+Not only that...
+--------------------------------------------------End--
+{Yuna} 
+Master {Seymour}...
+He is already dead!
+--------------------------------------------------End--
+{Lulu} 
+Sending wandering dead to the otherworld...
+is a summoner's important duty.
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} as a summoner...
+Only did what was proper.
+--------------------------------------------------End--
+{Yuna} 
+{Maester Mika2} …… 
+Please send Master {Seymour} to the otherworld!
+--------------------------------------------------End--
+{Mika} 
+The dead to the otherworld...
+Do you say so?
+--------------------------------------------------End--
+{Yuna} 
+Yes!
+--------------------------------------------------End--
+{Mika} 
+Heh heh heh heh...
+--------------------------------------------------End--
+{Yuna} 
+...Master?
+--------------------------------------------------End--
+{Mika} 
+The dead to the otherworld, is that it...?
+--------------------------------------------------End--
+{Mika} 
+Indeed.
+I too am dead.
+--------------------------------------------------End--
+{Wakka} 
+What!?
+--------------------------------------------------End--
+{Kelk} 
+{Maester Mika2} is a 42+69.wise leader.
+A person still necessary for {Spira}, even after death.
+--------------------------------------------------End--
+{Kinoc} 
+Guidance by the 42+70.chosen dead...
+...surpasses the 42+72.rule of the 42+71.foolish living.
+--------------------------------------------------End--
+{Seymour} 
+Life is, after all, an empty dream.
+It is the death that follows life that is 42+73.eternal.
+--------------------------------------------------End--
+{Mika} 
+Humans die. Beasts die too.
+42+74.Trees die too. Even the earth dies.
+--------------------------------------------------End--
+{Mika} 
+What 42+72.controls all of {Spira} is...
+...none other than the power of death.
+--------------------------------------------------End--
+{Mika} 
+Defying it is just 42+59.futile.
+--------------------------------------------------End--
+{Yuna} 
+Then... what about 『{Sin}』!
+--------------------------------------------------End--
+{Yuna} 
+I am a summoner!
+A summoner, just like my father!
+--------------------------------------------------End--
+{Yuna} 
+To stop the death that 『{Sin}』 brings...
+...I continue my journey!
+--------------------------------------------------End--
+{Yuna} 
+That too... that too...
+Are you saying it's 無42+59.!?
+--------------------------------------------------End--
+{Yuna} 
+I'm not the only one!
+--------------------------------------------------End--
+{Yuna} 
+stood up to 『{Sin} 』
+Many people...
+--------------------------------------------------End--
+{Mika} 
+I won't say it's 無42+59.
+--------------------------------------------------End--
+{Mika} 
+Indeed, no matter how many summoners
+『{Sin} 』 cannot be defeated.
+--------------------------------------------------End--
+{Mika} 
+There is no way to prevent its revival.
+--------------------------------------------------End--
+{Mika} 
+However, the 42+76.spirit of those who fight
+will give hope to the people.
+--------------------------------------------------End--
+{Auron} 
+It won't become 無42+59., but
+nor will it be a solution.
+--------------------------------------------------End--
+{Mika} 
+Hmm...
+--------------------------------------------------End--
+{Mika} 
+Indeed...
+That is the truth of {Yevon2}.
+--------------------------------------------------End--
+{Yuna} 
+Lord {Mika}!
+--------------------------------------------------End--
+{Mika} 
+The unchanging is the truth of {Yevon2}.
+42+77.tinuation is the very truth of {Yevon2}.
+--------------------------------------------------End--
+{Yuna} 
+It's strange... it's wrong...
+--------------------------------------------------End--
+{Mika} 
+One who challenges the truth.
+This, then, is a rebel.
+--------------------------------------------------End--
+{Yuna} 
+Lord {Mika}!
+--------------------------------------------------End--
+{Mika} 
+What became of {Ronso}'s master?
+--------------------------------------------------End--
+{Seymour} 
+My father-killer...
+It seems it does not please you.
+--------------------------------------------------End--
+{Mika} 
+Hmm...
+After all, it's {Ronso}.
+--------------------------------------------------End--
+{Mika} 
+Just stubborn.
+42+78.に42+75.たん
+--------------------------------------------------End--
+{Seymour} 
+Compared to that...
+--------------------------------------------------End--
+{Seymour} 
+The Summoner {Yuna}...
+Great Summoner {Braska}'s 42+80.
+--------------------------------------------------End--
+{Seymour} 
+If we let him live...
+There is 42+81.42+82. in utilization.
+--------------------------------------------------End--
+{Mika} 
+That 42+80. will disturb {Yevon2}'s tendo.
+--------------------------------------------------End--
+{Mika} 
+Cannot let him live.
+--------------------------------------------------End--
+{Seymour} 
+...Understood.
+--------------------------------------------------End--
+{Kinoc} 
+Give up, {Seymour}.
+--------------------------------------------------End--
+{Kinoc} 
+Thrown into that 'Path of Atonement'...
+No one has come out alive.
+--------------------------------------------------End--
+{Mika} 
+However, it's not certain that he won't break through.
+--------------------------------------------------End--
+{Mika} 
+Station soldiers at the exit.
+When they appear, deal with them 42+83..
+--------------------------------------------------End--
+{Seymour} 
+Leave that 42+84. to me.
+--------------------------------------------------End--
+{Mika} 
+Oh...
+Are you going to lay hands on the flower42+85. 42+68.su?
+--------------------------------------------------End--
+{Seymour} 
+Because it is a flower42+85..
+At least by my own hands.
+--------------------------------------------------End--
+{Kinoc} 
+Wait. I'll go too.
+--------------------------------------------------End--
+{Seymour} 
+You cannot trust me?
+--------------------------------------------------End--
+{Kinoc} 
+Can you trust a man who killed his father?
+--------------------------------------------------End--
+{Seymour} 
+Very well.
+Suit yourself.
+--------------------------------------------------End--
+{Mika} 
+What do you intend to know now?
+It would be better to quickly defeat 『{Sin} 』.
+--------------------------------------------------End--
+{Mika} 
+Having encountered 『{Yunalesca} 』,
+You must have obtained the Ultimate Summon.
+--------------------------------------------------End--
+{Tidus} 
+We met 『{Yunalesca} 』, but...
+--------------------------------------------------End--
+{Yuna} 
+We defeated it ourselves.
+--------------------------------------------------End--
+{Mika} 
+What!?
+--------------------------------------------------End--
+{Auron} 
+No longer will a Summoner and Guardian...
+will not become the Ultimate Summon's 42+57.42+58..
+--------------------------------------------------End--
+{Mika} 
+The 1000-year principle...
+Are you saying it's erased?
+--------------------------------------------------End--
+{Mika} 
+You utter fools!
+Do you understand what you've done?
+--------------------------------------------------End--
+{Mika} 
+The only way to save 『{Sin}』
+...which was the only way...
+--------------------------------------------------End--
+{Tidus} 
+Don't just assume there's only one way!
+I'm thinking of a new way.
+--------------------------------------------------End--
+{Mika} 
+N-...
+--------------------------------------------------End--
+{Mika} 
+Such a way...
+There is no such way!
+--------------------------------------------------End--
+{Auron} 
+Will you tuck your tail and flee to {Farplane}?
+--------------------------------------------------End--
+{Mika} 
+{Spira}'s salvation is lost.
+Doom is now unavoidable.
+--------------------------------------------------End--
+{Mika} 
+Yu Yevon created.
+We will only descend into the abyss of death.
+--------------------------------------------------End--
+{Mika} 
+I don't want to see {Spira}'s end...
+...I don't want to see.
+--------------------------------------------------End--
+{Yuna} 
+I won't let it end!
+--------------------------------------------------End--
+{Tidus} 
+Say, Yu Yevon...
+--------------------------------------------------End--
+{Lulu} 
+Lord {Yunalesca} also said so.
+--------------------------------------------------End--
+{Rikku} 
+Hey, old man!
+What is Ebon-ju?!
+--------------------------------------------------End--
+{Mika} 
+Gathers dead souls 42+92.
+Changes them into 42+93. and cloaks itself in it.
+--------------------------------------------------End--
+{Mika} 
+That 42+93. is none other than 『{Sin} 』.
+--------------------------------------------------End--
+{Mika} 
+『{Sin} 』 is the 42+93. that protects Ebon-ju.
+--------------------------------------------------End--
+{Mika} 
+The ultimate summoning that breaks through that 42+93....
+You all wiped out!
+--------------------------------------------------End--
+{Mika} 
+No one can defeat it.
+--------------------------------------------------End--
+{Wakka} 
+You're kidding me!
+They spouted whatever they wanted and ran away!
+--------------------------------------------------End--
+{Shelinda} 
+What about that {Maester Mika2}?
+--------------------------------------------------End--
+{Yuna} 
+Ah... um...
+--------------------------------------------------End--
+{Auron} 
+They haven't come yet.
+How long do you intend to make me wait?
+--------------------------------------------------End--
+{Shelinda} 
+That's strange...
+I'll go search for them.
+--------------------------------------------------End--
+{Tidus} 
+You...
+--------------------------------------------------End--
+
+Come to 42+94.'s room.
+--------------------------------------------------End--
+{Yuna} 
+...Yes.
+--------------------------------------------------End--
+{Wakka} 
+Who are you talking to?
+--------------------------------------------------End--
+{Tidus} 
+Oh, it's nothing.
+--------------------------------------------------End--
+{Yuna} 
+I'm going to meet Master {fayth}.
+--------------------------------------------------End--
+{Auron} 
+……I see.
+--------------------------------------------------End--

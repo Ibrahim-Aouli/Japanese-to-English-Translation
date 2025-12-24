@@ -1,0 +1,221 @@
+{Auron} 
+How are you feeling?
+--------------------------------------------------End--
+{Tidus} 
+It's none of your business!
+--------------------------------------------------End--
+{Auron} 
+If that person dies...
+Because I'll be next too.
+--------------------------------------------------End--
+{Tidus} 
+Don't say Mise-san will die!
+--------------------------------------------------End--
+{Auron} 
+...I'm glad.
+--------------------------------------------------End--
+{Jecht} 
+Right? And then I...
+I said it clearly.
+--------------------------------------------------End--
+
+Really!?
+--------------------------------------------------End--
+{Jecht} 
+Of course!
+--------------------------------------------------End--
+
+Yes, but...
+--------------------------------------------------End--
+{Tidus} 
+Mise-san...
+--------------------------------------------------End--
+
+Wait a moment, okay?
+--------------------------------------------------End--
+{Jecht} 
+Go to her.
+She'll be sniveling again.
+--------------------------------------------------End--
+{Tidus} 
+When Dad was around, Mise-san...
+She didn't look at me.
+--------------------------------------------------End--
+{Tidus} 
+So I...
+--------------------------------------------------End--
+{Tidus} 
+That's why I... Dad...
+I guess I grew to dislike Dad.
+--------------------------------------------------End--
+{Tidus} 
+Since Dad was gone...
+--------------------------------------------------End--
+{Tidus} 
+The shop gradually
+lost its energy.
+--------------------------------------------------End--
+{Tidus} 
+The neighborhood lady said
+--------------------------------------------------End--
+{Tidus} 
+that if one of a pair of birds
+dies...
+--------------------------------------------------End--
+{Tidus} 
+the remaining bird, as if to follow,
+will die too...
+--------------------------------------------------End--
+{Tidus} 
+It really... happened that way.
+--------------------------------------------------End--
+{Tidus} 
+I increasingly grieved for Dad.
+--------------------------------------------------End--
+{Tidus} 
+But Dad, actually...
+--------------------------------------------------End--
+{Jecht} 
+What?
+--------------------------------------------------End--
+{Tidus} 
+{Jecht} hates practicing, so
+they say he'll retire soon.
+--------------------------------------------------End--
+{Jecht} 
+Let them say what they want.
+--------------------------------------------------End--
+{Jecht} 
+I'm special.
+--------------------------------------------------End--
+{Tidus} 
+{Jecht} is a heavy drinker, so
+they say he's no good anymore.
+--------------------------------------------------End--
+{Jecht} 
+I can stop drinking anytime.
+--------------------------------------------------End--
+{Tidus} 
+Then stop now.
+--------------------------------------------------End--
+{Jecht} 
+What?
+--------------------------------------------------End--
+{Tidus} 
+You can stop, right?
+--------------------------------------------------End--
+{Jecht} 
+Hmph, maybe tomorrow.
+--------------------------------------------------End--
+{Tidus} 
+Why not today?
+--------------------------------------------------End--
+{Jecht} 
+What can be done tomorrow...
+You can just do it tomorrow!
+--------------------------------------------------End--
+{Jecht} 
+Why are you crying...?
+Pathetic.
+--------------------------------------------------End--
+{Tidus} 
+{Zanarkand} ……？
+--------------------------------------------------End--
+{Tidus} 
+Ah...
+It's already no good.
+--------------------------------------------------End--
+{Tidus} 
+You're '__P0__', aren't you?
+Even if it grew bigger.
+--------------------------------------------------End--
+{Tidus} 
+I...
+もっと大きくなったって
+--------------------------------------------------End--
+{Tidus} 
+I understand.
+--------------------------------------------------End--
+{Tidus} 
+I want to end this, you know.
+--------------------------------------------------End--
+{Tidus} 
+I'll take care of it.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{fayth} 
+Long ago, there was a great war.
+--------------------------------------------------End--
+{Tidus} 
+Oh... machines'?
+--------------------------------------------------End--
+{fayth} 
+Yes, {Zanarkand} and...
+{Bevelle} fought.
+--------------------------------------------------End--
+{fayth} 
+The outcome was decided from the start.
+{Bevelle}'s army was all machines...
+--------------------------------------------------End--
+{fayth} 
+{Zanarkand}'s summoners...
+They were defeated one after another.
+--------------------------------------------------End--
+{fayth} 
+{Zanarkand} had no choice but to perish.
+...there was none.
+--------------------------------------------------End--
+{fayth} 
+So... at least their form...
+They tried to preserve it.
+--------------------------------------------------End--
+{Tidus} 
+What... did they do?
+--------------------------------------------------End--
+{fayth} 
+The surviving summoners and...
+And everyone in town...
+--------------------------------------------------End--
+{fayth} 
+became {fayth}.
+To summon them.
+--------------------------------------------------End--
+{Tidus} 
+Summon... as in '{Sin} '!?
+--------------------------------------------------End--
+{fayth} 
+No... it's here.
+--------------------------------------------------End--
+{fayth} 
+The sleepless town, {Zanarkand}.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{fayth} 
+Gathering {fayth}'s dreams.
+And summoned the town's memories.
+--------------------------------------------------End--
+{fayth} 
+Things like each individual manifestation,
+Or people who lived in town.
+--------------------------------------------------End--
+{Tidus} 
+People...?
+Is that a dream too!?
+--------------------------------------------------End--
+{Tidus} 
+Me... too?
+--------------------------------------------------End--
+{fayth} 
+You are {fayth}'s dream.
+--------------------------------------------------End--
+{fayth} 
+Your father, and the shop owner too,
+Everyone, everyone... a dream.
+--------------------------------------------------End--
+{fayth} 
+If {fayth}'s dreams disappear...
+--------------------------------------------------End--

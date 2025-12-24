@@ -1,0 +1,1754 @@
+
+This valley is... the claw marks of {Sin}.
+--------------------------------------------------End--
+
+{Sin}, cornered by the Great Summoner,
+is said to have torn the earth with its last strength.
+--------------------------------------------------End--
+
+The wounded Great Summoner and {Sin}
+killed each other at the bottom of the valley, and Nagi Shop was established.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} What training will you do? {White}
+{CHOICE:30} Wobbly Chocobo
+{CHOICE:31} Dodge Chocobo
+{CHOICE:32} More Dodge Chocobo
+{CHOICE:33} Catch Chocobo
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} What training will you do? {White}
+{CHOICE:30} Wobbly Chocobo
+{CHOICE:31} Dodge Chocobo
+{CHOICE:32} More Dodge Chocobo
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} What training will you do? {White}
+{CHOICE:30} Wobbly Chocobo
+{CHOICE:31} Dodge Chocobo
+--------------------------------------------------End--
+
+The method is simple.
+{NEWPAGE}
+
+From where you are to here,
+please come within a certain time.
+--------------------------------------------------End--
+
+But it's not a trained Chocobo.
+It will run wherever it pleases.
+{NEWPAGE}
+
+Control that with {Direcional Left} and {Direcional Right},
+then pass between me and the Chocobo.
+--------------------------------------------------End--
+
+If you can't pass between me and the Chocobo,
+or if it takes too long, it's no good.
+{NEWPAGE}
+
+Also, if it's your first time, after this,
+you should listen to {Yellow} [Instructions] {White}.
+--------------------------------------------------End--
+
+Well then, shall we begin?
+The target time is {VAR12:35}:{VAR12:34}:{VAR12:33}!
+--------------------------------------------------End--
+
+Well then, shall we begin?
+The previous record is {VAR12:35}:{VAR12:34}:{VAR12:33}!
+--------------------------------------------------End--
+
+This time, the Chocobo will run straight, but
+it's basically the same as the first training.
+--------------------------------------------------End--
+
+But! Balls will keep flying, so
+use {Direcional Left} and {Direcional Right} to dodge left and right.
+{NEWPAGE}
+
+If you collide, the Chocobo will 42+53.stop.
+Please try your best not to get hit.
+--------------------------------------------------End--
+
+Anyway, if it's your first time,
+you should listen to {Yellow} [Instructions] {White} afterwards.
+--------------------------------------------------End--
+
+Well then, shall we begin?
+The target time is {VAR12:35}:{VAR12:34}:{VAR12:33}!
+--------------------------------------------------End--
+
+Well then, shall we begin?
+The previous record is {VAR12:35}:{VAR12:34}:{VAR12:33}!
+--------------------------------------------------End--
+
+Balls and other things will be flying again.
+use {Direcional Left} and {Direcional Right} to dodge left and right.
+{NEWPAGE}
+
+If you collide, the Chocobo will 42+53.stop.
+Please try your best not to get hit.
+--------------------------------------------------End--
+
+Well then, shall we begin?
+The target time is {VAR12:35}:{VAR12:34}:{VAR12:33}!
+--------------------------------------------------End--
+
+Well then, shall we begin?
+The previous record is {VAR12:35}:{VAR12:34}:{VAR12:33}!
+--------------------------------------------------End--
+
+This is {Calm Lands}'s {Macalania Woods} side.
+It's right near the exit.
+{NEWPAGE}
+
+This is the starting point, isn't it?
+--------------------------------------------------End--
+
+And the goal, looking from here...
+The very right of the plain 42+54.……
+{NEWPAGE}
+
+Yes, over in that direction 42+55., right?
+--------------------------------------------------End--
+
+To put it simply, it's up to there.
+If you arrive faster than me, you win.
+{NEWPAGE}
+
+But just arriving quickly isn't enough, you know.
+--------------------------------------------------End--
+
+If you collect the balloon inside 42+56., your time will get...
+...a 342+57. bonus.
+{NEWPAGE}
+
+But if you hit a bird like before...
+Your Chocobo will stop, and on top of that, you'll get a 342+57. penalty, you know.
+--------------------------------------------------End--
+
+To your finishing time, the bonuses and penalties...
+The match is decided by the total result of those.
+{NEWPAGE}
+
+So, even if you reach the goal later, if you collect many balloons...
+...you might still win.
+--------------------------------------------------End--
+
+That's enough explanation for now.
+Anyway, let's have a match!
+{NEWPAGE}
+
+It's only for reference, but...
+The time to beat is about {VAR12:35}:{VAR12:34}:{VAR12:33}.
+--------------------------------------------------End--
+
+So I'm the challenger, then...
+Hmph! Just you watch!!
+{NEWPAGE}
+
+By the way, the highest record so far is
+{VAR12:35}:{VAR12:34}:{VAR12:33}!
+--------------------------------------------------End--
+
+Do your best as a challenger again.
+{NEWPAGE}
+
+The record will be kept as your record.
+I'll see to it.
+{NEWPAGE}
+
+And for now, the highest record is
+{VAR12:35}:{VAR12:34}:{VAR12:33}!
+--------------------------------------------------End--
+
+Are you ready?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} OK!
+{CHOICE:31} I want to quit after all.
+{CHOICE:32} View controls.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} OK!
+{CHOICE:31} I want to quit after all.
+{CHOICE:32} View controls.
+{CHOICE:33} Check the course.
+--------------------------------------------------End--
+
+Are you really quitting?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Don't stop.
+{CHOICE:31} Stop.
+--------------------------------------------------End--
+
+Hey!
+Make up your mind already!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Controls Clarification] {White}
+・The Chocobo runs automatically.
+・However, it runs in any direction it pleases, so...
+Using {Direcional Left} and {Direcional Right}
+please operate it to make it run straight.
+・If it looks like it will stray far from the course,
+it will run to return to the course.
+{NEWPAGE}
+{Yellow} [Viewpoint 切り42+58.え] {White}
+Every time you press {Button R1} {Button R2}, the viewpoint 切り42+58.わります.
+When you press {Button R1},
+1. Basic Viewpoint
+2. Rear Viewpoint
+3. Distant Viewpoint
+it will 切り42+58.わります in this order.
+(If it's {Button R2}, it will be in reverse order.)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Controls Clarification] {White}
+・The Chocobo runs automatically.
+You will run straight, but be careful as you will automatically return if you are about to stray too far from the course.
+Balls will fly at you one after another, so control and dodge them.
+Press __P0__ __P1__ to switch the camera view. 42+58.
+You will run straight, but be careful as you will automatically return if you are about to stray too far from the course.
+Using {Direcional Left} and {Direcional Right}
+Balls and other objects will fly at you one after another, so control and dodge them.
+{NEWPAGE}
+{Yellow} [Viewpoint 切り42+58.え] {White}
+Press {Button R1} {Button R2} to switch the camera view. 42+58.
+When you press {Button R1},
+1. Basic Viewpoint
+2. Rear Viewpoint
+3. Distant Viewpoint
+it will 切り42+58.わります in this order.
+(If it's {Button R2}, it will be in reverse order.)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Controls Clarification] {White}
+・The Chocobo runs automatically.
+You will run straight, but be careful as you will automatically return if you are about to stray too far from the course.
+You can change direction left and right with __P0__ and __P1__.
+If you hit a flying bird, it is a penalty of __P0__ 342+57.__P1__.
+If you take the Crazy Boat, it is a bonus of __P0__ 342+57.__P1__.
+Using {Direcional Left} and {Direcional Right}
+Bonus and penalty times will be totaled after reaching the goal.
+{NEWPAGE}
+{Yellow} [Viewpoint 切り42+58.え] {White}
+{Button R1} {Button R2} を押すと視点が切り42+58.わります
+When you press {Button R1},
+1. Basic Viewpoint
+2. Rear Viewpoint
+3. Distant Viewpoint
+it will 切り42+58.わります in this order.
+(If it's {Button R2}, it will be in reverse order.)
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Controls Clarification] {White}
+・The Chocobo runs automatically.
+・まっすぐ走りますが コースから
+大きく外れそうになると
+勝手に戻ってしまうので注意して下さい
+・{Direcional Left} と{Direcional Right} で左右に方向を変えられます
+・飛んでいる鳥に当たると{Red} 342+57.のペナルティ{White} です
+・瘋船を取ると{Blue} 342+57.のボーナス{White} です
+・ボーナスとペナルティのタイムは
+ゴールした後で合計されます
+Cannot switch viewpoint.
+If it takes more than 2 minutes, it will end in a time-out.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle} : Confirmation complete.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} Attempt Time {VAR12:35}:{VAR12:34}:{VAR12:33}{White}
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} Best Time {VAR12:35}:{VAR12:34}:{VAR12:33}{White}
+--------------------------------------------------End--
+{WINDOW}
+3！
+--------------------------------------------------End--
+{WINDOW}
+2！
+--------------------------------------------------End--
+{WINDOW}
+1！
+--------------------------------------------------End--
+{WINDOW}
+
+GO！！
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} GOAL！！
+--------------------------------------------------End--
+
+Well done.
+No goal.
+{NEWPAGE}
+
+Your time is
+{Blue} {VAR12:32}:{VAR12:31}:{VAR12:30}{White}!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue} TIME {VAR12:32}：{VAR12:31}：{VAR12:30}{White} 
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue} {Tidus} 
+{Blue} TIME {VAR12:32}：{VAR12:31}：{VAR12:30}
+
+{Blue} Mad Ships {VAR12:39}
+{VAR12:3A} Birds
+--------------------------------------------------End--
+
+{WINDOW}
+{Red} Chocobo Stable
+{Red} TIME {VAR12:38}：{VAR12:37}：{VAR12:36}
+
+{Red} Mad Ships {VAR12:3B}
+{VAR12:3C} Birds
+--------------------------------------------------End--
+
+The total time for Mad Ships and bird droppings is
+That's about it.
+--------------------------------------------------End--
+
+{WINDOW}
+{Red} TIME {VAR12:38}：{VAR12:37}：{VAR12:36}{White} 
+--------------------------------------------------End--
+
+That means... training successful!
+Congratulations!
+{NEWPAGE}
+
+You can ride a Chocobo anytime now.
+If you want to ride, just let me know.
+{NEWPAGE}
+
+Also, there's more advanced training available.
+If you're motivated, please give it a try.
+--------------------------------------------------End--
+
+That means... training successful!
+Congratulations!
+{NEWPAGE}
+
+Also, there's more advanced training available.
+If you're motivated, please give it a try.
+--------------------------------------------------End--
+
+And... here, this!
+It's your completion reward.
+{NEWPAGE}
+
+From now on, even if you match your best record,
+I'll give you a special reward.
+--------------------------------------------------End--
+
+Yes! You passed!
+So, the basic 【よけよけ】 is complete, then.
+{NEWPAGE}
+
+Well then, it's finally the last training!
+--------------------------------------------------End--
+
+Oh, and before that...
+Here's your completion reward!
+{NEWPAGE}
+
+From now on, even if you match your best record,
+I'll give you a special reward.
+--------------------------------------------------End--
+
+Hehehe... this makes me happy.
+To think there's someone who completes all the training.
+--------------------------------------------------End--
+
+The 【訓練】 I prepared is over, but...
+There's still something left to do.
+{NEWPAGE}
+
+That's right... it's time for a match with me!!
+--------------------------------------------------End--
+
+Let me know anytime you want to compete.
+Take {42+53}!
+--------------------------------------------------End--
+
+Oh, right...
+I have to give you the reward for the {42+62}.
+{NEWPAGE}
+
+From now on, even if you match your best record,
+I'll give you a special reward.
+--------------------------------------------------End--
+
+Phew... I lost.
+Congratulations.
+--------------------------------------------------End--
+
+I can't believe you have such skill.
+I never even imagined it.
+{NEWPAGE}
+
+I'll also try to ride more skillfully.
+I'll do my best.
+--------------------------------------------------End--
+
+Training can be done anytime.
+If you feel like it, tell me {42+64}.
+--------------------------------------------------End--
+
+So, this is your reward for beating me.
+Please take it.
+{NEWPAGE}
+
+From now on, even if you match your best record,
+I'll give you a special reward.
+--------------------------------------------------End--
+
+Amazing! A new record!
+{NEWPAGE}
+
+Congratulations!
+I'll make sure to record it.
+--------------------------------------------------End--
+
+My record is better, though...
+I'll consider it a new record.
+{NEWPAGE}
+
+I'll make sure to record it.
+Now {42+61}, please win against me too.
+--------------------------------------------------End--
+
+Here's your reward for the new record!
+--------------------------------------------------End--
+
+…That's amazing.
+This is the best time.
+--------------------------------------------------End--
+
+Ah, that's right!
+There's a reward for the best time.
+{NEWPAGE}
+
+No one can achieve a time like this.
+I almost forgot.
+{NEWPAGE}
+
+Okay, I don't know what this 42+65. is used for, but…
+It seems to be a very 42+66. 42+53. item.
+--------------------------------------------------End--
+
+Hmm, perhaps my training is still insufficient.
+I need to train a bit more.
+--------------------------------------------------End--
+
+Too bad. I win.
+I still won't lose!
+{NEWPAGE}
+
+You should hone your skills more.
+Train as much as you like.
+--------------------------------------------------End--
+
+Do your best!
+{Spira}, aim for a new record!
+--------------------------------------------------End--
+
+Do your best!
+{Spira}, aim for a new record!
+{NEWPAGE}
+
+…I'd like to say that, but…
+A record beyond this isn't possible, you know.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} ERROR！！
+--------------------------------------------------End--
+
+Ugh! The space between me and Chocobo...
+You have to pass through.
+--------------------------------------------------End--
+
+{WINDOW}
+Want to try again?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} One more time!
+{CHOICE:31} I'm done.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} One more time!
+{CHOICE:31} I'm done.
+{CHOICE:32}42+67. do training
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} HIT！！
+--------------------------------------------------End--
+
+{Red} TIME OVER{White} 
+--------------------------------------------------End--
+
+Sorry, time's up.
+I'll give you this, so please forgive me this time.
+--------------------------------------------------End--
+
+Too bad, time's up.
+I have to reach the goal faster.
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue} {Tidus}  HIT！！
+--------------------------------------------------End--
+
+{WINDOW}
+{Red} Chocobo shop HIT!!
+--------------------------------------------------End--
+{Lulu} 
+{Calm Lands} 
+--------------------------------------------------End--
+{Lulu} 
+The 42+68.th generation Great Summoner-sama
+The land where "{Sin}" fought
+--------------------------------------------------End--
+{Lulu} 
+And... where the road ends.
+--------------------------------------------------End--
+{Lulu} 
+Beyond this point, there are no more towns or villages.
+Roadless 42+69. wilderness.
+--------------------------------------------------End--
+{Auron} 
+That's exactly why people lose their way,
+And summoners get lost.
+--------------------------------------------------End--
+{Yuna} 
+I... won't get lost.
+--------------------------------------------------End--
+{Tidus} 
+I...
+--------------------------------------------------End--
+{Tidus} 
+I won't let them die.
+I'll definitely do something about it.
+--------------------------------------------------End--
+{Yuna} 
+Let's go
+--------------------------------------------------End--
+
+I'll definitely... do something about it.
+--------------------------------------------------End--
+
+If you make it 'word42+70', it will become true.
+I wanted to believe that...
+--------------------------------------------------End--
+{Lulu} 
+{{Zuke}} Sensei!
+--------------------------------------------------End--
+{Zuke} 
+What a 42+71.mannerism, isn't it?
+--------------------------------------------------End--
+{Zuke} 
+You're {{Yuna}}-san, aren't you?
+--------------------------------------------------End--
+{Zuke} 
+Hmm...
+--------------------------------------------------End--
+{Zuke} 
+You really don't look like the 42+72. person who killed {{Maester Kinoc}}.
+(Continuation of 9)
+--------------------------------------------------End--
+{Wakka} 
+What is that?!
+--------------------------------------------------End--
+{Yuna} 
+Please tell me the 42+59.circumstances.
+--------------------------------------------------End--
+{Zuke} 
+Just now, {{Maester Mika2}}
+A direct command was issued.
+--------------------------------------------------End--
+{Zuke} 
+{{Yuna}} the Summoner and the guard
+Assassinated {{Maester Kinoc}} and fled.
+--------------------------------------------------End--
+{Zuke} 
+Upon discovery, 42+73.kill them!
+...It's a 42+74.42+75.sentence.
+--------------------------------------------------End--
+{Auron} 
+Any other information on {{Bevelle}}'s 42+76.situation?
+--------------------------------------------------End--
+{Zuke} 
+On the surface, it's calm, but...
+Things are stirring beneath the surface.
+--------------------------------------------------End--
+{Zuke} 
+And on top of {Maester Kinoc} dying,
+{Master Kelk Ronso} resigned.
+--------------------------------------------------End--
+{Auron} 
+How convenient.
+--------------------------------------------------End--
+{Auron} 
+If {Yevon2} is thrown into disarray,
+It makes things that much easier to move.
+--------------------------------------------------End--
+{Zuke} 
+But be cautious.
+Now, we are {Yevon2}'s enemies.
+--------------------------------------------------End--
+{Zuke} 
+It's better not to approach the temple.
+That's wise.
+--------------------------------------------------End--
+{Yuna} 
+Thank you for the advice.
+--------------------------------------------------End--
+{Lulu} 
+Sensei, just to tell me that,
+you came all the way here?
+--------------------------------------------------End--
+{Zuke} 
+We are guarding.
+What kind of person the Summoner is...
+--------------------------------------------------End--
+{Zuke} 
+I was somewhat curious, you see.
+--------------------------------------------------End--
+{Zuke} 
+I hope you can make it to the very end this time.
+--------------------------------------------------End--
+{Zuke} 
+Above all, it's for your own sake.
+--------------------------------------------------End--
+{Lulu} 
+...Yes, Sensei.
+--------------------------------------------------End--
+{Zuke} 
+Well then, I'll take my leave.
+I pray for 無42+59.
+--------------------------------------------------End--
+{Tidus} 
+Who was that just now?
+--------------------------------------------------End--
+{Lulu} 
+The person who was a summoner until half a year ago.
+{Wakka} and I were the teacher's guards.
+--------------------------------------------------End--
+{Wakka} 
+Well, it was a 42+81. journey, though.
+--------------------------------------------------End--
+{Lulu} 
+The teacher stopped the journey in 42+56.中.
+On this plain.
+--------------------------------------------------End--
+{Lulu} 
+Now, {Bevelle Temple}.
+Is serving as a monk official.
+--------------------------------------------------End--
+{Lulu} 
+My journey as a guard...
+This is the 3rd 42+61. time.
+--------------------------------------------------End--
+{Lulu} 
+Teacher {Zuke}'s 2nd 42+61. journey.
+The first time...
+--------------------------------------------------End--
+{Lulu} 
+Both times, on this plain, 42+82.42+83.
+--------------------------------------------------End--
+{Lulu} 
+I have never 42+63.ed this place.
+--------------------------------------------------End--
+{Lulu} 
+To the north towers {Blue} 【{Mt. Gagazet} 】{White}.
+Beyond that is... {Blue} 【{Zanarkand} 】{White}.
+--------------------------------------------------End--
+{Wakka} 
+When I traveled with Teacher {Zuke}...
+--------------------------------------------------End--
+{Wakka} 
+See, I talked about it sometime, didn't I?
+--------------------------------------------------End--
+{Wakka} 
+I was concerned about Blitz.
+He said he couldn't focus on guarding.
+--------------------------------------------------End--
+{Wakka} 
+That's why the teacher said he would quit traveling.
+When he said that...
+--------------------------------------------------End--
+{Wakka} 
+Honestly, I felt relieved.
+--------------------------------------------------End--
+{Wakka} 
+Soon, {Blue} 【{Zanarkand} 】{White} ?
+Time... there isn't any, is there?
+--------------------------------------------------End--
+{Auron} 
+Don't be 42+69.-ed.
+--------------------------------------------------End--
+{Tidus} 
+What is?
+--------------------------------------------------End--
+{Auron} 
+The ri42+84. of {Mika} and {Seymour} is...
+They do not ichi42+85.
+--------------------------------------------------End--
+{Auron} 
+The {Seymour} you last met's...
+Remember the gen42+70.
+--------------------------------------------------End--
+{Auron} 
+I don't think {Mika} would approve.
+--------------------------------------------------End--
+{Auron} 
+If {Yevon2} is 42+86.-ed...
+{Spira} will also be 42+86.-ed.
+--------------------------------------------------End--
+{Rikku} 
+I wonder if it can't be stopped anymore.
+--------------------------------------------------End--
+{Tidus} 
+Because {Yuna} has already decided.
+--------------------------------------------------End--
+{Rikku} 
+But I can't just leave it.
+--------------------------------------------------End--
+{Tidus} 
+I won't leave it.
+--------------------------------------------------End--
+{Tidus} 
+Even if I use the Ultimate Summon...
+I will make sure {Yuna} is mu42+59.
+--------------------------------------------------End--
+{Rikku} 
+How?
+--------------------------------------------------End--
+{Tidus} 
+I'll think of a way.
+--------------------------------------------------End--
+{Rikku} 
+But what if nothing...
+...comes to mind?
+--------------------------------------------------End--
+{Tidus} 
+I won't talk to {Rikku} anymore.
+--------------------------------------------------End--
+{Tidus} 
+All your "but, but" is annoying.
+--------------------------------------------------End--
+{Rikku} 
+Sorry...
+--------------------------------------------------End--
+{Tidus} 
+Let's think together.
+--------------------------------------------------End--
+{Rikku} 
+Yes.
+--------------------------------------------------End--
+{Tidus} 
+And, even if nothing...
+...comes to mind...
+--------------------------------------------------End--
+{Tidus} 
+We'll figure something out.
+--------------------------------------------------End--
+{Rikku} 
+Yeah!
+--------------------------------------------------End--
+{Rikku} 
+Ugh... thinking...
+--------------------------------------------------End--
+{Kimahri} 
+{Gagazet} is {Ronso}'s land.
+It's {Kimahri}'s 42+87.42+88.
+--------------------------------------------------End--
+{Tidus} 
+I see.
+Maybe I can meet my family.
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} has no family.
+--------------------------------------------------End--
+{Tidus} 
+Oh... Kei.
+--------------------------------------------------End--
+{Kimahri} 
+But not alone.
+--------------------------------------------------End--
+{Kimahri} 
+Spirit 42+89.{Gagazet}...
+10 years, 1000 years, it won't change.
+--------------------------------------------------End--
+{Yuna} 
+Hon42+62.cally, a rebel, aren't they?
+--------------------------------------------------End--
+{Tidus} 
+Let those who want to talk, talk.
+--------------------------------------------------End--
+{Yuna} 
+It's alright.
+I don't mind.
+--------------------------------------------------End--
+{Yuna} 
+I guess it's a little... difficult.
+Getting through 42+90. is difficult, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+Don't try to forcefully get through 42+90.
+If it's tough, just complain.
+--------------------------------------------------End--
+{Yuna} 
+Complain, huh...
+--------------------------------------------------End--
+{Yuna} 
+I might end up saying it eventually.
+--------------------------------------------------End--
+{Tidus} 
+Yes.
+--------------------------------------------------End--
+{Yuna} 
+Father also, in this plain...
+...I wonder if he got lost?
+--------------------------------------------------End--
+{Tidus} 
+Could be.
+Along with my father...
+--------------------------------------------------End--
+{Yuna} 
+Shall we ask {Auron}?
+--------------------------------------------------End--
+{Tidus} 
+That guy, those kinds of things...
+...he doesn't talk about, does he?
+--------------------------------------------------End--
+{Yuna} 
+Saying something like, "Others are irrelevant"?
+--------------------------------------------------End--
+{Tidus} 
+Despite saying that, he himself...
+...gets others involved, doesn't he?
+--------------------------------------------------End--
+{Yuna} 
+Until {Blue} 【{Zanarkand} 】{White}...
+Just a little bit more, isn't it...?
+--------------------------------------------------End--
+
+Welcome.
+--------------------------------------------------End--
+
+Anything to buy?
+--------------------------------------------------End--
+
+The chocobos around here...
+Once you find them, you can ride them yourself.
+--------------------------------------------------End--
+
+But most chocobos...
+are wild, so you can't ride them.
+--------------------------------------------------End--
+
+Wild chocobos have no reins.
+You can tell them apart that way.
+--------------------------------------------------End--
+{Maechen} 
+About this plain.
+__P0__, please stop.
+--------------------------------------------------End--
+{Maechen} 
+Ahem.
+--------------------------------------------------End--
+{Maechen} 
+Indeed.
+--------------------------------------------------End--
+{Maechen} 
+As you know, this plain...
+was once a battlefield.
+--------------------------------------------------End--
+{Maechen} 
+{Bevelle} and {Zanarkand} fought.
+A so-called machine war, you see.
+--------------------------------------------------End--
+{Maechen} 
+Because of the war, there's absolutely nothing.
+It became a barren field.
+--------------------------------------------------End--
+{Maechen} 
+Eventually, time passed...
+--------------------------------------------------End--
+{Maechen} 
+Summoners, in this uninhabited land,
+took notice of it.
+--------------------------------------------------End--
+{Maechen} 
+Here, even if they fight fiercely...
+It will not spread 42+94.42+95.42+84. to its surroundings.
+--------------------------------------------------End--
+{Maechen} 
+Perfect for the final battle with 『{Sin}』.
+That's how it is, then.
+--------------------------------------------------End--
+{Maechen} 
+The summoner who acquired the Ultimate Summoning...
+They apparently waited for 『{Sin}』 here.
+--------------------------------------------------End--
+{Maechen} 
+What kind of feelings...?
+Must they have had...?
+--------------------------------------------------End--
+{Maechen} 
+Anyway, 『{Sin}』 fell in this land...
+It is at {Spira} that the Nagi Shop can be traversed, you see.
+--------------------------------------------------End--
+{Maechen} 
+Therefore, this place is {Calm Lands}.
+It's a name someone 42+96. thoughtlessly gave, you see.
+--------------------------------------------------End--
+{Maechen} 
+Roughly... that's about it, I guess.
+--------------------------------------------------End--
+{Maechen} 
+Oh, I shouldn't, I shouldn't!
+I almost forgot to mention it.
+--------------------------------------------------End--
+{Maechen} 
+In this plain, there is indeed a 42+97.i
+crack in the earth, you see.
+--------------------------------------------------End--
+{Maechen} 
+400 years ago, Lord {High Summoner Gandof}...
+It's the trace of the time they fought 『{Sin}』, you see.
+--------------------------------------------------End--
+{Maechen} 
+May I speak one more 42+61.?
+--------------------------------------------------End--
+
+Careless for a rebel.
+--------------------------------------------------End--
+
+If you carelessly speak to others,
+You might be 42+96.discovered by the temple's pursuers.
+--------------------------------------------------End--
+{Tidus} 
+If you can 42+96.do it, then 42+96.try.
+--------------------------------------------------End--
+
+If you have the 42+96.will,
+I won't give 42+98.warnings.
+--------------------------------------------------End--
+
+Rest assured. The temple's teachings...
+They no longer concern me.
+--------------------------------------------------End--
+
+Just like that guard over there.
+--------------------------------------------------End--
+{Auron} 
+Hmph.
+--------------------------------------------------End--
+{Auron} 
+Who are you?
+--------------------------------------------------End--
+
+{Belgemine}  
+A Summoner.
+--------------------------------------------------End--
+{Belgemine} 
+However, the journey to defeat 『{Sin} 』...
+I gave up on it long ago.
+--------------------------------------------------End--
+{Belgemine} 
+What I can do now is for a 42+99.Summoner's
+training, only to lend strength.
+--------------------------------------------------End--
+{Belgemine} 
+How about it, {Yuna}?
+Shall I lend you my strength for your training?
+--------------------------------------------------End--
+{Belgemine} 
+If you are willing,
+Why don't you try fighting me with your summoned beast?
+--------------------------------------------------End--
+{Belgemine} 
+Oh, it's you all.
+You're completely rebels now.
+--------------------------------------------------End--
+{Tidus} 
+What does it matter?
+--------------------------------------------------End--
+{Belgemine} 
+What? The old masters'...
+Just ignore their nonsense.
+--------------------------------------------------End--
+{Belgemine} 
+For a Summoner, defeating 『{Sin} 』 is everything.
+You are not a tool to obey the temple. Understood?
+--------------------------------------------------End--
+{Yuna} 
+...Yes.
+--------------------------------------------------End--
+{Belgemine} 
+Well? Can you defeat 『{Sin} 』?
+Have you gained confidence?
+--------------------------------------------------End--
+{Yuna} 
+You won't know.
+But... I'll do it.
+--------------------------------------------------End--
+{Belgemine} 
+That's good resolve, but with just that...
+You won't be able to defeat 『{Sin} 』.
+--------------------------------------------------End--
+{Belgemine} 
+Let me see your power.
+Let's fight with summoned beasts.
+--------------------------------------------------End--
+{Belgemine} 
+No time to fight with me?
+Well, I understand the feeling.
+--------------------------------------------------End--
+{Belgemine} 
+Well? Shall we spar?
+--------------------------------------------------End--
+{Belgemine} 
+All right.
+Then, before we spar...
+--------------------------------------------------End--
+{Belgemine} 
+I've healed your summoned beast.
+Come at me.
+--------------------------------------------------End--
+{Belgemine} 
+Impressive.
+That's skill typical of 泰42+100.
+--------------------------------------------------End--
+{Belgemine} 
+Even if you become a rebel, with 『{Sin} 』...
+You at least have the will to fight.
+--------------------------------------------------End--
+{Belgemine} 
+Take this. It is from me, 42+101.42+102.
+--------------------------------------------------End--
+{Yuna} 
+Thank you very much.
+--------------------------------------------------End--
+{Belgemine} 
+I'm sure you can do it.
+--------------------------------------------------End--
+{Belgemine} 
+But if you still think you are not strong enough,
+Seek the hidden temple, Remium.
+--------------------------------------------------End--
+{Belgemine} 
+I will wait there.
+Farewell.
+--------------------------------------------------End--
+{Belgemine} 
+What's wrong? With such skill,
+You can't defeat '{Sin}'.
+--------------------------------------------------End--
+{Belgemine} 
+You still need to polish your skills.
+It seems necessary.
+--------------------------------------------------End--
+{Belgemine} 
+The hidden temple, Remium.
+I will wait there.
+--------------------------------------------------End--
+{Belgemine} 
+If you come, I will assist your training.
+--------------------------------------------------End--
+{Yuna} 
+Oh, thank you very much!
+--------------------------------------------------End--
+{Belgemine} 
+Strive hard.
+Farewell.
+--------------------------------------------------End--
+
+This valley is... the claw marks of {Sin}.
+{NEWPAGE}
+
+{Sin}, cornered by the Great Summoner,
+is said to have torn the earth with its last strength.
+--------------------------------------------------End--
+
+The wounded Great Summoner and {Sin}
+killed each other at the bottom of the valley, and Nagi Shop was established.
+--------------------------------------------------End--
+
+In {Calm Lands}, the remains of the dead...
+...we bury in this valley.
+{NEWPAGE}
+
+Even if we wish to properly {Farplane} 42+103. them,
+Summoners rarely come here...
+--------------------------------------------------End--
+
+The unmourned dead became monsters,
+and are said to be wandering the valley floor.
+--------------------------------------------------End--
+
+It's a message from Chief {Cid}.
+{NEWPAGE}
+
+{airship} is undergoing repairs.
+Once repairs are complete, I will come for you.
+{NEWPAGE}
+
+Until then, properly protect {Yuna}.
+If you fail, I won't forgive you.
+{NEWPAGE}
+
+...he said.
+I certainly delivered the message.
+--------------------------------------------------End--
+
+After we separated from you all at {Bevelle},
+{airship} landed here.
+{NEWPAGE}
+
+And after disembarking the {summoner}s,
+we headed for repairs.
+--------------------------------------------------End--
+
+Even though {Bevelle} is near,
+there is no temple on this plain.
+{NEWPAGE}
+
+Because it is a desolate land, the Reverend
+doesn't want to come here.
+{NEWPAGE}
+
+Even though people live even in such lands...
+What a heartless thing...
+--------------------------------------------------End--
+
+But even without a temple,
+We aren't so lost.
+{NEWPAGE}
+
+In your heart, sincerely
+it's fine if you pray.
+--------------------------------------------------End--
+
+Even without temples,
+we are not lost.
+--------------------------------------------------End--
+
+In my clan, there is a custom passed down from ancient times,
+a custom.
+{NEWPAGE}
+
+No matter what happens, without moving from here,
+continue to watch... so it says.
+{NEWPAGE}
+
+However, exactly what we are watching,
+is not known.
+--------------------------------------------------End--
+
+I don't know what this watch is for, but
+a custom is a custom.
+{NEWPAGE}
+
+I have no intention of moving from here.
+{NEWPAGE}
+
+...Well, if even a rare {TAGS}incident
+happens, that's another matter.
+--------------------------------------------------End--
+
+Looking down at the valley floor for many years,
+I've certainly grown bored.
+{NEWPAGE}
+
+A little {TAGS}diversion...
+If only it were possible...
+--------------------------------------------------End--
+
+Forgetting their 42+106. duty among the 42+71.々.
+I enjoyed it.
+--------------------------------------------------End--
+
+I've broken the custom, but...
+Well, it should be fine for once.
+{NEWPAGE}
+
+Well then...
+I suppose I'll continue the 42+106..
+--------------------------------------------------End--
+
+You're quite capable!
+You actually defeated that person.
+{NEWPAGE}
+
+Because it was an amazing match,
+I couldn't help but come to watch.
+{NEWPAGE}
+
+But... that person, when they're strong...
+They're strong, but when they're weak, they're weak.
+--------------------------------------------------End--
+
+......Huh? If I'm here...
+The valley's 42+106. duty...
+{NEWPAGE}
+
+Well... I suppose it's fine.
+--------------------------------------------------End--
+
+To travel these plains on 42+107. foot...
+They're quite remarkable people.
+--------------------------------------------------End--
+
+Yes, walking isn't easy either, is it?
+If you fight monsters, you can become stronger.
+--------------------------------------------------End--
+
+Hmm... the Chocobos of these plains...
+They're mostly feral.
+{NEWPAGE}
+
+You have to catch and train them,
+or they won't run properly.
+--------------------------------------------------End--
+
+Even the chocobo I'm training now is still not accustomed to people,
+so I can't lend it to you.
+{NEWPAGE}
+
+It might be faster to give up on chocobos and walk.
+It might be faster, you know.
+--------------------------------------------------End--
+
+Come back [42+61]. By then,
+I might be able to let you ride one.
+--------------------------------------------------End--
+
+It's easy to say, but
+it's actually quite difficult.
+{NEWPAGE}
+
+Is that still alright?
+--------------------------------------------------End--
+
+What's wrong?
+Do you want to ride a chocobo?
+--------------------------------------------------End--
+
+Alright.
+Then, come over here.
+--------------------------------------------------End--
+
+Sorry, actually,
+it's still being adjusted.
+--------------------------------------------------End--
+
+It's in quite good condition, isn't it?
+Please take good care of it.
+--------------------------------------------------End--
+
+So? Want to try training?
+--------------------------------------------------End--
+
+Are the chocobos around here wild?
+They need training for people to ride them.
+--------------------------------------------------End--
+
+Right now, there's a trained chocobo available...
+...want to try riding it?
+--------------------------------------------------End--
+
+Did you get lost? If you want to go to {Bevelle}...
+...follow me!
+--------------------------------------------------End--
+
+Anyway, it's a vast plain.
+Don't push yourself and collapse.
+--------------------------------------------------End--
+
+Riding a chocobo to avoid monsters...
+...that's what a wise traveler does.
+--------------------------------------------------End--
+
+The chocobos on the plains have become wild.
+Only a small fraction of them can be ridden by people.
+--------------------------------------------------End--
+
+Chocobos that will carry people are...
+...only the ones with 手42+92. on them.
+--------------------------------------------------End--
+
+Chocobos belong to no one.
+You can ride them as much as you like.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Fight
+{CHOICE:31} Pass
+--------------------------------------------------End--
+
+Rumors of {airship} are spreading.
+The people of {Yevon2} are panicking!
+--------------------------------------------------End--
+
+More people are fleeing {Bevelle}.
+The temple is already finished.
+--------------------------------------------------End--
+
+When 『{Sin} 』 fell into {Bevelle}
+The ground rumble was heard all the way here.
+--------------------------------------------------End--
+
+This child, strangely, to me...
+keeps clinging.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+108.Contract Period: {VAR12:33} Matches
+42+108.Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+108.Contract Period: {VAR12:33} Matches
+42+108.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+108.Contract Period: {VAR12:33} Matches
+42+108.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+108.Contract Period: {VAR12:33} Matches
+42+108.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+42+108.Do you agree?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+42+108.Please decide the number of matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+42+108.Contract for 1 or more matches.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+42+108.The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+Hey now!
+You mustn't enter beyond there.
+--------------------------------------------------End--
+
+Hmm? What's wrong?
+--------------------------------------------------End--
+{WINDOW}
+Tell me how to ride {CHOICE:30}.
+{CHOICE:31}I want to train.
+{CHOICE:32}It's nothing.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [How to Ride a Chocobo] {White}
+
+{Blue} Movement {White}
+Screen 42+54.{VAR07:E8}{Direcional Up} {VAR07:54}Screen Foreground{VAR07:E8}{Direcional Down}
+Screen Left{VAR07:E8}{Direcional Left} {VAR07:54}Screen Right{VAR07:E8}{Direcional Right}
+
+{Blue} Mount/Dismount {White}
+Dismount {VAR07:E8}{Button X}
+Mount {VAR07:E8} towards the Chocobo {Button Circle}
+
+Chocobos can only be ridden at {Calm Lands}.
+While mounted, beyond {Macalania Woods} or the plains...
+...you cannot go.
+--------------------------------------------------End--
+{WINDOW}
+Your Chocobo will wait where you dismounted, but...
+・Leaving {Calm Lands}.
+・Get a new Chocobo.
+Then it will be gone.
+When you want to ride, please come to 42+109.ri again.
+--------------------------------------------------End--
+
+But even if you leave the plains, it will wait for you.
+There might be such places, too...
+--------------------------------------------------End--
+{WINDOW}
+I'll ride {CHOICE:30}.
+Not riding.
+{CHOICE:32}I want to train.
+{CHOICE:33}Tell me how to ride.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I want to ride a Chocobo.
+{CHOICE:31}Walking is good too.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I'll do the training!
+{CHOICE:31}Okay. Well then, see you.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Of course!
+Never mind.
+--------------------------------------------------End--
+{WINDOW}
+Again, now 42+61.
+Please.
+--------------------------------------------------End--
+
+The high priests of the palace are...
+They are only engaging in 42+110. power 42+93.i.
+{NEWPAGE}
+
+Forgetting their duty to guide the people.
+...It is regrettable.
+--------------------------------------------------End--
+
+Then, public order is disturbed.
+Ruffians are engaged in 42+111. acts.
+{NEWPAGE}
+
+There are also people fleeing the town.
+Not a few.
+--------------------------------------------------End--
+
+Even though we have lived by the teachings.
+...that it would come to this...
+--------------------------------------------------End--
+
+Now, whether it's a machine or {Al Bhed}...
+It doesn't matter.
+{NEWPAGE}
+
+If you defeat '{Sin} '...
+Anything is fine.
+--------------------------------------------------End--
+
+Praying for the flying ship's victory.
+I sang with all my heart!
+--------------------------------------------------End--
+
+This is {Rin}'s 42+112. Company.
+We are selling 42+65. to aid your travels.
+{NEWPAGE}
+
+Before venturing into this vast plain.
+Please do make use of it.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32}: I'll hold off.
+--------------------------------------------------End--
+
+Well then, for your journey's 42+59.
+I pray.
+--------------------------------------------------End--
+
+We, as a family, from {Bevelle}
+have fled.
+{NEWPAGE}
+
+The current {Bevelle} is very
+turbulent.
+--------------------------------------------------End--
+
+Since we fled with nothing, when we were 42+105,
+the people here helped us.
+{NEWPAGE}
+
+Relying on {Al Bhed2},
+would it be a 42+62. as a __P1__ citizen?
+--------------------------------------------------End--
+
+We have nowhere to go from now on.
+With our family of three, what should we do...?
+--------------------------------------------------End--
+
+Our 42+114. child to {Al Bhed2}
+has become attached.
+--------------------------------------------------End--
+
+Whether they will be led astray by {Al Bhed}...
+I'm worried, so very worried...
+--------------------------------------------------End--
+
+I came out of {Bevelle}'s house.
+I don't really understand, but they say it's dangerous.
+--------------------------------------------------End--
+
+If my father and O42+115.san are here...
+Anywhere is fine for me.
+--------------------------------------------------End--
+
+The mask the old man is wearing...
+I want one too...!
+{NEWPAGE}
+
+If I become {Al Bhed}'s comrade,
+they say I can get one.
+{NEWPAGE}
+
+I wonder if I should ask {Al Bhed}
+to let me in.
+--------------------------------------------------End--
+
+Together with the old man,
+we sang a prayer song!
+--------------------------------------------------End--
+
+I wonder if they'll let me ride on a flying ship
+if I become __P0__.
+--------------------------------------------------End--
+
+It won't open...
+--------------------------------------------------End--
+
+{Yellow} 【{Celestial Mirror}】{White} is 反42+116.ing...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Celestial Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+{Yellow} 【{Cloudy Mirror}】{White} is 反42+116.ing...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Cloudy Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+It seems power is insufficient...
+--------------------------------------------------End--
+
+It seems to have been here for hundreds of years.
+Soil 42+117.d by high heat is 42+118.fying.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+119., to the Save Sphere...
+The transfer 42+103. function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+120. area, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and talk to them, you might be able to make a scout 42+108. agreement.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+A 42+103. transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+From here, with your back to the valley.
+Forty-nine.
+{NEWPAGE}
+
+Seven to the right.
+--------------------------------------------------End--
+{WINDOW}
+
+With your back to me, twenty.
+Twenty to the right.
+--------------------------------------------------End--
+{WINDOW}
+
+Sixteen to the right.
+Four to the right.
+--------------------------------------------------End--
+{WINDOW}
+
+Continue straight ahead.
+Find me.
+--------------------------------------------------End--
+{WINDOW}
+
+The password is...
+Godhand
+--------------------------------------------------End--
+{WINDOW}
+
+There is something written.
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary, Volume 23!
+--------------------------------------------------End--
+{WINDOW}
+42+121. Learned {Al Bhed} language!
+{VAR07:31}『{OPurple} ザ{White} 』42+122.『{Pink} ば{White} 』
+{VAR07:31}『{OPurple} ヂ{White} 』42+122.『{Pink} び{White} 』
+{VAR07:31}『{OPurple} ズ{White} 』42+122.『{Pink} ふ{White} 』
+{VAR07:31}『{OPurple} ゼ{White} 』42+122.『{Pink} べ{White} 』
+{VAR07:31}『{OPurple} ド{White} 』42+122.『{Pink} ぼ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar language 42+70. '{Al Bhed} Language'. A {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

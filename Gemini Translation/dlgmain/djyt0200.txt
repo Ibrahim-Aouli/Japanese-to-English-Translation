@@ -1,0 +1,35 @@
+
+Oh my, customer.
+--------------------------------------------------End--
+
+The injured from {Crusader}
+Are lost on their way to {Farplane}.
+{NEWPAGE}
+
+Absolute rest.
+Leave them be.
+--------------------------------------------------End--
+
+Please keep your distance from this point.
+--------------------------------------------------End--
+
+This is the travel inn attached to 【{Djose Temple}】.
+Even the temple's lightning won't reach here; you can sleep soundly.
+--------------------------------------------------End--
+
+Will you rest?
+--------------------------------------------------End--
+
+This is the travel inn attached to 【{Djose Temple}】.
+Will you relieve your travel weariness?
+--------------------------------------------------End--
+
+This is the travel inn attached to 【{Djose Temple}】.
+Unfortunately, the beds are full...
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Take a break.
+Buy {CHOICE:31} Weapons.
+Buy {CHOICE:32} Items.
+{CHOICE:33} Refrain.
+--------------------------------------------------End--

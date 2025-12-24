@@ -1,0 +1,42 @@
+
+You cannot enter {Bevelle} now.
+Because it's a shop evacuation status.
+{NEWPAGE}
+
+Let me tell you, the people's interference is unnecessary.
+Turn back quietly, understood!
+--------------------------------------------------End--
+
+The people should silently obey the temple.
+If you interfere, you'll be apprehended.
+--------------------------------------------------End--
+
+街の人1聖なるキス後台応3
+--------------------------------------------------End--
+
+The path to {Bevelle} is sealed 42+53.in progress.
+I cannot let you pass.
+--------------------------------------------------End--
+
+Since I was ordered to 42+54.prepare this road...
+Many days have already passed, but...
+{NEWPAGE}
+
+No new orders have come at all.
+Could it be, I've been forgotten?
+--------------------------------------------------End--
+
+Until the next order 42+55.comes, by myself...
+I have no choice but to continue as a guard...
+--------------------------------------------------End--
+
+{Bevelle} is 42+56.No Entry.
+Give up on worship.
+--------------------------------------------------End--
+
+That road is closed.
+--------------------------------------------------End--
+
+I'm telling you it's closed!
+You're a stubborn kid, I'll apprehend you!
+--------------------------------------------------End--

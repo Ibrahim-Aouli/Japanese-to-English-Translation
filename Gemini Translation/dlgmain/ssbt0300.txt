@@ -1,0 +1,241 @@
+{Cid} 
+Let's go!
+--------------------------------------------------End--
+{Tidus} 
+Yeah!
+--------------------------------------------------End--
+{Tidus} 
+Just you wait, old man!
+--------------------------------------------------End--
+{Yuna} 
+{Jecht}-san... are they suffering?
+--------------------------------------------------End--
+{Tidus} 
+Let's end it quickly.
+--------------------------------------------------End--
+{Tidus} 
+{fayth} also lends strength.
+They said they would.
+--------------------------------------------------End--
+{Yuna} 
+That way of speaking bothers me.
+--------------------------------------------------End--
+{Tidus} 
+Hm?
+--------------------------------------------------End--
+{Yuna} 
+Even though they've been fighting with us all this time...
+And now, to say 'lend strength'...
+--------------------------------------------------End--
+{Tidus} 
+Well... yeah.
+--------------------------------------------------End--
+{Yuna} 
+Oh!
+--------------------------------------------------End--
+{Yuna} 
+The revival of '{Sin}' is because Ebon-Ju...
+...possesses a summoned beast... right?
+--------------------------------------------------End--
+{Yuna} 
+If I summon, surely...
+...Ebon-Ju will come and possess it.
+--------------------------------------------------End--
+{Yuna} 
+That is...
+It'll be a small '{Sin}', right?
+--------------------------------------------------End--
+{Tidus} 
+Ah!
+--------------------------------------------------End--
+{Tidus} 
+In that case, even without an Ultimate Summon...
+We might be able to defeat it!
+--------------------------------------------------End--
+{Yuna} 
+Even if we defeat it, Ebon-Ju will...
+...possess another.
+--------------------------------------------------End--
+{Tidus} 
+If that happens, we'll defeat it again!
+--------------------------------------------------End--
+{Tidus} 
+In the end, Ebon-Ju will...
+Having nowhere to go!
+--------------------------------------------------End--
+{Tidus} 
+Ah...
+--------------------------------------------------End--
+{Yuna} 
+I have to...
+It has to be done, doesn't it?
+--------------------------------------------------End--
+{Tidus} 
+Right...
+--------------------------------------------------End--
+{Tidus} 
+Look, even {fayth}...
+Said they were tired.
+--------------------------------------------------End--
+{Tidus} 
+Let's let them rest.
+--------------------------------------------------End--
+{Yuna} 
+Lord {fayth} said they would stop dreaming.
+said they would stop dreaming.
+--------------------------------------------------End--
+{Yuna} 
+Dreams disappear... they said.
+--------------------------------------------------End--
+{Yuna} 
+What does that mean?
+--------------------------------------------------End--
+{Yuna} 
+Hey, what is Ebon-Ju summoning inside '{Sin}'?
+what is Ebon-Ju summoning, I wonder?
+--------------------------------------------------End--
+{Tidus} 
+{fayth}'s... dream.
+--------------------------------------------------End--
+{Yuna} 
+You won't... disappear, right?
+--------------------------------------------------End--
+{Rikku} 
+{Yunie}! Where are you all!?
+Look at '{Sin}'!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue} TIME {VAR12:32}：{VAR12:31}：{VAR12:30}{White} 
+--------------------------------------------------End--
+{WINDOW}
+3！
+--------------------------------------------------End--
+{WINDOW}
+2！
+--------------------------------------------------End--
+{WINDOW}
+1！
+--------------------------------------------------End--
+{WINDOW}
+START！！
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE！！
+--------------------------------------------------End--
+{WINDOW}
+TIME OVER！！
+--------------------------------------------------End--
+{WINDOW}
+＝1st TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+＝2nd TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+＝3rd TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+harihari manbon
+--------------------------------------------------End--
+{WINDOW}
+harihari...
+--------------------------------------------------End--
+{WINDOW}
+...fell down.
+--------------------------------------------------End--
+{WINDOW}
+hari...
+--------------------------------------------------End--
+{WINDOW}
+
+Destination undecided.
+=Departing=
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Tome]{White}
+・Water drawing: Daily.
+・Being a slowpoke, by their companions,
+They are sometimes left behind.
+Often.
+・Slow.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Robivia]{White}
+・At their slow friend,
+Always irritated.
+・Inexperienced.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Chapa]{White}
+・Recently, they can count up to 50.
+They have become able to.
+・Friendly.
+・Attention scattered 42+53.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Alec & Aroya]{White}
+Always together, close older brother 42+54.
+・Their movements are the same.
+Because he's my close older brother 42+54.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Barchela]{White}
+Loves new things.
+Kind to others, strict with oneself.
+Impatient.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ROBEIRA]{White}
+Clumsy.
+Always wants to enter narrow places.
+Proud collection currently on display!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ISRAYA]{White}
+42+57. the number one 42+58.42+59. person.
+Today also, digging a hole alone.
+Quite cautious.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ELIO]{White}
+What lies beyond the Desert?
+With expectations in his heart, the youth departed on a journey.
+Somewhat over-the-top with actions.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [FLAYLE]{White}
+Before you know it,
+the type to join the group.
+Cunning.
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tome's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robivia's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chapa's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alec & Araya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Barchera's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeira's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Israya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+...Obtained Elio's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Fraire's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Loser's Sphere!
+--------------------------------------------------End--

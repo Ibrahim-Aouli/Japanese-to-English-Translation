@@ -1,0 +1,11 @@
+{Wakka} 
+This is Shiperph.
+--------------------------------------------------End--
+{Tidus} 
+I want to ride!
+I really want to ride this!
+--------------------------------------------------End--
+{Wakka} 
+Alright!
+When it's ready, I'll ride~!
+--------------------------------------------------End--

@@ -1,0 +1,45 @@
+{Jecht} 
+Another tiny...
+village, huh. Hey.
+--------------------------------------------------End--
+{Braska} 
+Oh, peaceful and
+a good village, isn't it?
+--------------------------------------------------End--
+{Braska} 
+Hmm...
+--------------------------------------------------End--
+{Braska} 
+{Auron} 
+--------------------------------------------------End--
+{Auron} 
+Pardon?
+--------------------------------------------------End--
+{Braska} 
+When the line is finished,
+please bring {Yuna} here.
+--------------------------------------------------End--
+{Braska} 
+As for that child...
+I want them to stay quietly in the shop.
+--------------------------------------------------End--
+{Auron} 
+…Understood.
+Please leave it to me.
+--------------------------------------------------End--
+{Braska} 
+Sorry.
+For causing you unnecessary trouble.
+--------------------------------------------------End--
+{Jecht} 
+Hey! What are you doing?!
+Let's go!
+--------------------------------------------------End--
+{Jecht} 
+I'm already so hungry, so hungry,
+I can't help it!
+--------------------------------------------------End--
+{Braska} 
+Alright, alright.
+Well then, let's go!
+--------------------------------------------------End--

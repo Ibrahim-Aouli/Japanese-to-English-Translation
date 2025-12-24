@@ -1,0 +1,309 @@
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract for 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+Leave it to me!
+I'll take you anywhere.
+--------------------------------------------------End--
+{WINDOW}
+To {CHOICE:30}{Besaid Island}.
+To {CHOICE:31}{Luca}.
+Won't ride {CHOICE:32}.
+--------------------------------------------------End--
+{Wakka} 
+Oh, you've arrived.
+--------------------------------------------------End--
+{Wakka} 
+{Besaid Aurochs}, assemble!
+--------------------------------------------------End--
+{Wakka} 
+We're going to the temple now.
+{Besaid Aurochs}, it's the Certain Victory Prayer Establishment!
+--------------------------------------------------End--
+{Wakka} 
+The temple of {Kilika} is the Great Summoner's
+...the place where Great Summoner {Ohalland}-sama was visiting.
+--------------------------------------------------End--
+{Wakka} 
+{Ohalland}-sama, in their younger days,
+...was a famous player of {blitzball}.
+--------------------------------------------------End--
+{Tidus} 
+{Wakka} 
+--------------------------------------------------End--
+{Wakka} 
+Hm?
+--------------------------------------------------End--
+{Tidus} 
+The Certain Victory Prayer Establishment is fine, but...
+Somehow... is it really okay?
+--------------------------------------------------End--
+{Wakka} 
+If we get carried away with Blitz...
+will it be bad?
+--------------------------------------------------End--
+{Tidus} 
+...especially at a time like this.
+--------------------------------------------------End--
+{Wakka} 
+Precisely because it's a time like this.
+--------------------------------------------------End--
+{Wakka} 
+Players will fight with all their might.
+Spectators will cheer for their favorite team.
+--------------------------------------------------End--
+{Wakka} 
+Unpleasant things, difficult things...
+Only during a match can they be forgotten.
+--------------------------------------------------End--
+{Wakka} 
+That's why for a long time in this {Spira},
+it's the reason Blitz hasn't disappeared.
+--------------------------------------------------End--
+{Wakka} 
+I think so.
+--------------------------------------------------End--
+{Tidus} 
+Is that so...?
+--------------------------------------------------End--
+{Wakka} 
+Let's play a good match and go all out!
+--------------------------------------------------End--
+{Wakka} 
+Right!
+--------------------------------------------------End--
+{Tidus} 
+Yeah!
+--------------------------------------------------End--
+{Wakka} 
+The temple is past the forest.
+Well then, let's go!
+--------------------------------------------------End--
+{Wakka} 
+Alright, next is finally {Blue} [Luca] {White}!
+--------------------------------------------------End--
+{Wakka} 
+The match will start immediately when we arrive.
+Rest well on the ship!
+--------------------------------------------------End--
+
+Hey!
+Don't take that without permission!
+{NEWPAGE}
+
+Oh, is it a customer...?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Board the ship.
+{CHOICE:31} Not yet.
+--------------------------------------------------End--
+
+If we {Kilika Beasts} 42+55. win,
+we can encourage everyone on the island.
+{NEWPAGE}
+
+Thinking about that, even practice
+gets me motivated.
+--------------------------------------------------End--
+
+At the tournament, I missed the 42+55. win, but
+regretting it now is a waste of time.
+{NEWPAGE}
+
+If I have time to fret,
+I'll get motivated again and practice!
+--------------------------------------------------End--
+
+Now, 42+56., the spirit inherited from {P0-sama}.
+I will show the {P0} spirit!
+--------------------------------------------------End--
+
+Everyone was looking forward to the tournament, but
+because of 'Shin'...... Damn it!
+{NEWPAGE}
+
+Even we players, practicing...
+This is not the time for it.
+--------------------------------------------------End--
+
+Even with insufficient practice,
+we'll definitely get results.
+{NEWPAGE}
+
+This year for sure, we'll bring back the 42+55. win cup,
+and encourage everyone on the island.
+--------------------------------------------------End--
+
+Once we repair just this part,
+we'll depart for Luca too.
+--------------------------------------------------End--
+
+Everyone, watch us.
+We will definitely win...
+--------------------------------------------------End--
+
+The broken ship over there...
+I tried to disassemble and move it out of the way, but...
+{NEWPAGE}
+
+It's a sturdy ship, so I can't break it.
+The shipwright{42+57.} did too good a job.
+--------------------------------------------------End--
+
+The town's restoration is almost finished.
+All that's left is to repair that road over there.
+--------------------------------------------------End--
+
+Is it because of the miasma? I can't remember anything at all.
+Not even my own name, or the house I lived in.
+{NEWPAGE}
+
+If I stay here {42+59.}, someone will notice...
+...I thought they'd help me, but...
+{NEWPAGE}
+
+Absolutely no one will pay attention to me.
+Everyone seems to be busy with their own problems.
+--------------------------------------------------End--
+
+Maybe I'm not from here.
+Came from somewhere far away... or something.
+--------------------------------------------------End--
+
+Finally, the miasma {42+60.}...
+...and I was able to remember about my family, but...
+{NEWPAGE}
+
+Everyone was done in by "{{Sin}}"...
+...and had gone to "{{Farplane}}".
+{NEWPAGE}
+
+Hmph. It would have been better if I hadn't remembered.
+It would have been better.
+--------------------------------------------------End--
+
+The next time '{Sin}' comes...
+I'd really like to go to {Farplane} too.
+--------------------------------------------------End--
+
+{Yevon2} Temple, regarding the {Kilika} reconstruction,
+is fully supporting it!
+--------------------------------------------------End--
+
+Just between us...
+The folks from {Kilika Island} are peculiar.
+{NEWPAGE}
+
+To live so close to the sea!
+It's like telling '{Sin}' to come.
+--------------------------------------------------End--
+
+Oh, if you'd like to ride,
+Just let me know.
+--------------------------------------------------End--

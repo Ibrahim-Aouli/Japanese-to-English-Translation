@@ -1,0 +1,224 @@
+
+Welcome, Summoner {Yuna}.
+--------------------------------------------------End--
+{Yuna} 
+You are...?
+--------------------------------------------------End--
+
+{Belgemine} 
+I am the one who protects this Remiam.
+--------------------------------------------------End--
+{Yuna} 
+Are you... a Summoner too?
+--------------------------------------------------End--
+{Belgemine} 
+I was, once.
+--------------------------------------------------End--
+{Auron} 
+A dead person...?
+--------------------------------------------------End--
+{Belgemine} 
+Tried to defeat 『{Sin}』 but failed.
+A dead person clinging to {Spira}.
+--------------------------------------------------End--
+{Belgemine} 
+For the training of promising summoners.
+In order to lend my strength.
+--------------------------------------------------End--
+{Belgemine} 
+If you desire the strength to defeat 『{Sin}』.
+You should challenge me with a summoned beast.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, I will do my best.
+{CHOICE:31}, I will refrain.
+--------------------------------------------------End--
+{Belgemine} 
+Welcome, {Yuna}.
+--------------------------------------------------End--
+{Yuna} 
+Where on earth is this...?
+--------------------------------------------------End--
+{Belgemine} 
+Remiam Temple.
+--------------------------------------------------End--
+{Belgemine} 
+It was once the center of {Calm Lands}, but...
+It was taken over by 『{Sin}』 and abandoned.
+--------------------------------------------------End--
+{Tidus} 
+Are you living alone in such a place?
+You... what are you?
+--------------------------------------------------End--
+{Belgemine} 
+It would be a long story...
+This should make you understand.
+--------------------------------------------------End--
+{Tidus} 
+Are you also deceased...?
+--------------------------------------------------End--
+{Belgemine} 
+Please stop leaving the Otherworld.
+--------------------------------------------------End--
+{Belgemine} 
+Even with a body like this, I...
+...still have things I can do.
+--------------------------------------------------End--
+{Belgemine} 
+For the training of promising summoners.
+I will lend my strength... that is my response.
+--------------------------------------------------End--
+{Belgemine} 
+Now, {Yuna}
+--------------------------------------------------End--
+{Belgemine} 
+If you desire the strength to defeat 『{Sin}』.
+You should challenge me with a summoned beast.
+--------------------------------------------------End--
+{Belgemine} 
+Well then, {Yuna}
+Let me see the results of your training.
+--------------------------------------------------End--
+{Belgemine} 
+The power your summoned beast has gained...
+...I will test it.
+--------------------------------------------------End--
+{Belgemine} 
+Have you gained the ability to surpass Father 42+53.?
+Prove it against me, 42+54.
+--------------------------------------------------End--
+{Belgemine} 
+If you have the power to challenge '{Sin}', someone like me...
+...you should be able to defeat easily, right?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Valefor
+{CHOICE:31} I'll just stop.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Valefor
+Ifrit
+I've changed my mind.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Valefor
+Ifrit
+Ixion
+I've changed my mind.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Valefor
+Ifrit
+Ixion
+Shiva
+I've changed my mind.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Valefor
+Ifrit
+Ixion
+Shiva
+Bahamut
+I've changed my mind.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Valefor
+Ifrit
+Ixion
+Shiva
+Bahamut
+Yojimbo
+I've changed my mind.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Valefor
+Ifrit
+Ixion
+Shiva
+Bahamut
+Yojimbo
+{CHOICE:36} Anima
+{CHOICE:37} Actually, I'll stop.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Valefor
+Ifrit
+Ixion
+Shiva
+Bahamut
+Yojimbo
+{CHOICE:36} Anima
+{CHOICE:37} Magus Sisters
+{CHOICE:38} Actually, I'll stop.
+--------------------------------------------------End--
+{Belgemine} 
+Hmm... I see.
+--------------------------------------------------End--
+{Belgemine} 
+All right.
+Then, before we spar...
+--------------------------------------------------End--
+{Belgemine} 
+Now, let us begin.
+--------------------------------------------------End--
+{Belgemine} 
+You've grown, {Yuna}.
+It is splendid for me as well.
+--------------------------------------------------End--
+{Belgemine} 
+Keep it. It will be useful.
+--------------------------------------------------End--
+{Yuna} 
+Thank you very much.
+Please look after me again.
+--------------------------------------------------End--
+{Belgemine} 
+It seems impossible.
+--------------------------------------------------End--
+{Belgemine} 
+You have already surpassed your father.
+I have nothing more to teach.
+--------------------------------------------------End--
+{Belgemine} 
+My observation concludes; it now falls to {Spira}.
+It means that the principle has also vanished...
+--------------------------------------------------End--
+{Yuna} 
+Ah...
+--------------------------------------------------End--
+{Auron} 
+Leave.
+--------------------------------------------------End--
+{WINDOW}
+Depart from the otherworld.
+Do not depart from the otherworld.
+--------------------------------------------------End--
+{Yuna} 
+...Yes.
+--------------------------------------------------End--
+{Belgemine} 
+I'm counting on you, {Yuna}.
+--------------------------------------------------End--
+{Belgemine} 
+Eliminate 『{Sin} 』42+59.
+Save {Spira}...
+--------------------------------------------------End--
+
+The door is sealed by some power.
+--------------------------------------------------End--
+
+Should I try using {Blossom Crown}?
+--------------------------------------------------End--
+{WINDOW}
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+Should I try using {Flower Scepter}?
+--------------------------------------------------End--
+
+I undid the seal.
+--------------------------------------------------End--
+
+However, it doesn't seem complete yet.
+--------------------------------------------------End--

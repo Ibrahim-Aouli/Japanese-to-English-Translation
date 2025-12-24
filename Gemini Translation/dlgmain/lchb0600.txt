@@ -1,0 +1,295 @@
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Change Spectator Model
+`{CHOICE:33} No judgment / Ignore ID`
+`{CHOICE:34} Map line control`
+`Return to {CHOICE:35} Retsuten's Place`
+--------------------------------------------------End--
+{WINDOW}
+`Model: {CHOICE:51}`
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+
+`Throwing objects or leaning over the handrails,`
+`please refrain from such dangerous acts.`
+--------------------------------------------------End--
+
+`Sphere photography is permitted, but please be especially careful`
+`not to disrupt the match.`
+--------------------------------------------------End--
+
+`As for us, the Oobi staff,`
+`we do not have the power to fight.`
+{NEWPAGE}
+
+`If monsters appear again, unfortunately,`
+`we will have no choice but to flee.`
+--------------------------------------------------End--
+
+`Because of 42+53.the people's 42+54.strength, the stadium's`
+`repairs were completed in the blink of an eye.`
+--------------------------------------------------End--
+
+`Since the monster 42+55.incident, there have been no major 42+56.incidents.`
+`Lost children appear 42+57.daily, 42+58.it's that busy.`
+--------------------------------------------------End--
+
+`To this stadium, people from all over {Spira}`
+`come.`
+{NEWPAGE}
+
+`Priest officials from {Yevon2} Temple and {Al Bhed2}`
+`{Crusader}, warrior monks, {Ronso}, and {Guado}...`
+{NEWPAGE}
+
+People, even those with differing circumstances and ways of thinking,
+are amicably enjoying Blitz.
+{NEWPAGE}
+
+Such a wonderful place,
+though {Spira} is vast, this is the only place.
+--------------------------------------------------End--
+
+Regarding the duty to protect this place,
+I hold pride in it.
+--------------------------------------------------End--
+
+Even though the Grand Master is here,
+we don't have enough help for the preparations.
+{NEWPAGE}
+
+Until last year's tournament, {Crusader}
+helped us, but...
+--------------------------------------------------End--
+
+The tournament that the people throughout {Spira} eagerly awaited...
+There likely won't be any scoundrels to interfere.
+--------------------------------------------------End--
+
+Because {Crusader} neglected the preparations,
+we ended up allowing the monsters' intrusion.
+{NEWPAGE}
+
+If there's time to work on a futile strategy,
+I wish they would help with the preparations.
+--------------------------------------------------End--
+
+{Crusader} is really something.
+That kind of strategy will never succeed.
+--------------------------------------------------End--
+
+I don't want to leave the preparations for the spectator seats to the warrior monks.
+Because they are so rigid.
+--------------------------------------------------End--
+
+The monk soldiers are gone, but {Crusader}...
+They are helping us respond.
+--------------------------------------------------End--
+
+When the flying ship flew in...
+Both the spectators and players were so excited, it was quite a scene.
+--------------------------------------------------End--
+
+Why is the player here!?
+Go support your teammates from the bench!
+--------------------------------------------------End--
+
+Player {Wakka} is quite worn out.
+It might be impossible for him to appear in the finals.
+--------------------------------------------------End--
+
+Even though such an incident just happened...
+I didn't think it would get this chaotic.
+--------------------------------------------------End--
+
+{Aurochs}'s consecutive first-round elimination record has stopped...
+It's a shame. It was a record that would remain in history.
+--------------------------------------------------End--
+
+Even if the tournament ends, there are matches every day.
+The staff has no time to rest.
+--------------------------------------------------End--
+
+It truly is a depraved city, isn't it...
+I've lost the will to return to Bevelle.
+--------------------------------------------------End--
+
+It's not a match worth watching so intently.
+This year too, {Aurochs}'s first-round elimination is a given.
+--------------------------------------------------End--
+
+{Aurochs} has given it his all.
+He probably doesn't have the strength left to fight in the finals.
+--------------------------------------------------End--
+
+Because of the monster's 42+55.movement.
+It turned into a tournament with a bad aftertaste...
+--------------------------------------------------End--
+
+I was here for {Master Seymor}'s summoned beast.
+I was watching. No, it was great 42+71.power!
+--------------------------------------------------End--
+
+Summoners who go missing during their 42+72.journey
+are many because the guards are incompetent.
+--------------------------------------------------End--
+
+I'm off-duty now.
+Let me relax.
+--------------------------------------------------End--
+
+Aren't you competing?
+You're quite confident for a {Aurochs}.
+--------------------------------------------------End--
+
+That {Aurochs} making it to the finals...
+Am I just dreaming...?
+--------------------------------------------------End--
+
+The tournament is over, but
+matches are held 42+57.days.
+--------------------------------------------------End--
+
+{Maester Mika2} has already to {Bevelle}.
+returned, I hear.
+--------------------------------------------------End--
+
+{Master Seymor} in {Operation Mi'ihen}.
+defeated '{sinspawn}', I hear.
+--------------------------------------------------End--
+
+After a long boat trip, you watch Blitz
+and forget your 42+56.work42+73. fatigue. That's the idea.
+--------------------------------------------------End--
+
+{Al Bhed}'s player moves well.
+These are the movements of one certain of victory.
+--------------------------------------------------End--
+
+I was impressed by {Aurochs}'s fighting spirit.
+They will not be outdone even by {Ronso}'s [42+75.] warriors.
+--------------------------------------------------End--
+
+The [42+75.] of {Ronso} make their horns large.
+The people of {Luca} make Blitz important.
+--------------------------------------------------End--
+
+If they are people who uphold {Yevon2}'s teachings...
+They will not develop in {Crusader}.
+--------------------------------------------------End--
+
+Only {Guado2} and the monk-soldiers are guarding the main road.
+Why do you not ask {Ronso} for cooperation?
+--------------------------------------------------End--
+
+What a lot of people...
+It's completely different from {Calm Lands}.
+--------------------------------------------------End--
+
+I decided to stay in {Luca} until Nagi [42+77.] comes.
+I want to be with many people.
+--------------------------------------------------End--
+
+Sykes and {Aurochs} alike.
+It is not {Ronso Fangs}'s enemy.
+--------------------------------------------------End--
+
+It is {Aurochs}'s victory.
+It is truly {Yevon2}'s blessing.
+--------------------------------------------------End--
+
+Many {Ronso} attacked {Luca}.
+It is to protect Spirit [42+79.] {Gagazet}.
+--------------------------------------------------End--
+
+The {Yevon2} Temple's 42+69.42+70. is long, but
+It's the first time a summoner has become a master.
+--------------------------------------------------End--
+
+The expedition members are also enjoying the match.
+I hope the pain of defeat will ease.
+--------------------------------------------------End--
+
+I've seen many things in the {Spira} sea, but
+There was a 42+80. on the flying ship at Port 1.
+--------------------------------------------------End--
+
+There's a flying ship near the port.
+I wonder what happened to the battle with '{Sin}'.
+--------------------------------------------------End--
+Announcer
+Even so, who on earth!
+--------------------------------------------------End--
+Announcer
+Who would predict this combination
+I wonder?
+--------------------------------------------------End--
+Announcer
+Against the undefeated {Luca Goers} in the final match...
+The one they will face is......
+--------------------------------------------------End--
+Announcer
+The team always eliminated in the first round.
+{Besaid Aurochs} ！！
+--------------------------------------------------End--
+Liberated One
+Indeed, this is a 42+80. extraordinary upset, isn't it?
+--------------------------------------------------End--
+
+Auracall
+--------------------------------------------------End--
+
+Wakkacall
+--------------------------------------------------End--
+
+Wakkacall
+--------------------------------------------------End--
+
+Wakkacall
+--------------------------------------------------End--
+Extra 1
+…………
+--------------------------------------------------End--
+Extra 2
+…………
+--------------------------------------------------End--
+Extra 3
+…………
+--------------------------------------------------End--
+Extra 4
+…………
+--------------------------------------------------End--
+Extra 5
+…………
+--------------------------------------------------End--
+Extra 6
+…………
+--------------------------------------------------End--
+Extra 7
+…………
+--------------------------------------------------End--
+Extra 8
+…………
+--------------------------------------------------End--
+Extra 9
+…………
+--------------------------------------------------End--
+Extra 10
+…………
+--------------------------------------------------End--
+Extra 11
+…………
+--------------------------------------------------End--
+Extra 12
+…………
+--------------------------------------------------End--
+Extra 13
+…………
+--------------------------------------------------End--
+Extra 14
+…………
+--------------------------------------------------End--

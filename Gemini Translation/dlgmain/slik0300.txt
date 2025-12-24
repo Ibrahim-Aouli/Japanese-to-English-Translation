@@ -1,0 +1,107 @@
+
+What nice weather~
+The wind must feel good.
+--------------------------------------------------End--
+
+Want to try holding the ship's helm?
+…Just kidding. It's a joke.
+--------------------------------------------------End--
+
+You're {Yuna}-sama's…
+…comrade, aren't you?
+{NEWPAGE}
+
+So that means, a guard?
+People aren't judged by their appearance, are they?
+--------------------------------------------------End--
+
+I think I'll also go talk with {Yuna}-sama later.
+For safety during the voyage, warrior monks…
+--------------------------------------------------End--
+
+…there was talk of boarding the ship.
+But the captain refused.
+{NEWPAGE}
+
+Saying they would protect themselves with their own strength.
+This ship survived even after being affected by 『__P0__』.
+--------------------------------------------------End--
+
+It's a lucky ship. You can depart by sea with peace of mind.
+Things are chaotic on land, but…
+--------------------------------------------------End--
+
+On the sea, it's irrelevant.
+Even if 『__P0__』 appears…
+--------------------------------------------------End--
+
+I'll just follow the captain.
+オレは船長についてくだけさ
+--------------------------------------------------End--
+
+Even if it's a machine that defies the teachings...
+I want to try piloting a flying ship.
+--------------------------------------------------End--
+
+I wonder what kind of person the captain of a flying ship is.
+I wonder if they're a calm and collected person like our captain.
+--------------------------------------------------End--
+
+We will reach {Kilika} by 42+53.42+54.
+Just do 42+55.42+56.
+--------------------------------------------------End--
+
+This {S.S. Liki} is under {Yevon2} Temple's
+It is being operated under sponsorship.
+--------------------------------------------------End--
+
+The weather at sea changes easily, but...
+There doesn't seem to be any sign of a storm.
+{NEWPAGE}
+
+However, we sometimes encounter something more 42+57.roshii than a storm...
+...we sometimes encounter such things, though...
+--------------------------------------------------End--
+
+I'm concerned about the 42+58.item that {Crusader} brought in.
+I hope it's not a 42+59.item that goes against the teachings.
+--------------------------------------------------End--
+
+This ship, heavily damaged by 『{Sin} 』...
+To think it can set sail again...it's a 42+60.miracle.
+{NEWPAGE}
+
+However, among the crew members...
+There are also those who bear 42+61.wounds in their hearts.
+--------------------------------------------------End--
+
+May this pure sea heal the wounds of the men of the sea...
+...I hope it will heal them.
+--------------------------------------------------End--
+
+This ship is being operated under the temple's sponsorship.
+If the temple falls into chaos, it will be bad.
+{NEWPAGE}
+
+Even so, to think the temple would be 42+62.d so much...
+Is this also the times...?
+--------------------------------------------------End--
+
+No, this ship has withstood '{Sin}'.
+We'll ride out something like the 42+63. waves of the times.
+--------------------------------------------------End--
+
+The temple can no longer be relied upon.
+We intend to continue our journey by our 42+64.selves.
+--------------------------------------------------End--
+
+We cannot lose to the flying ship people.
+That's what you call a sailor's pride.
+--------------------------------------------------End--
+{WINDOW}
+Discovered {Jecht}'s sphere!
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--

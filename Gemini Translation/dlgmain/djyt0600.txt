@@ -1,0 +1,68 @@
+
+{WINDOW}
+{Yellow} Jose's Sphere{White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one {Yellow} Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+It looks like a {Yellow} Sphere {White} can be set in the recess.
+--------------------------------------------------End--
+{WINDOW}
+Take the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+You have {Yellow} Jose's Sphere{White}.
+--------------------------------------------------End--
+{WINDOW}
+Set the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+
+{WINDOW}
+I have the {Yellow} Destruction Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} Mark{White} has appeared on the door.
+--------------------------------------------------End--
+{WINDOW}
+I'll try touching the {CHOICE:30} Mark __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+{Wakka} 
+Alright, all guards, assemble.
+--------------------------------------------------End--
+{Yuna} 
+Pleased to meet you.
+--------------------------------------------------End--
+{Wakka} 
+Well then, shall we go?
+--------------------------------------------------End--
+
+{WINDOW}
+You took {Yellow} Jose's Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+`{Yellow} I took the Sphere of Ruin.{White}`
+--------------------------------------------------End--
+
+{WINDOW}
+You set {Yellow} Jose's Sphere{White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} has been set.
+--------------------------------------------------End--

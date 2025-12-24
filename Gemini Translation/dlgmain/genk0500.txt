@@ -1,0 +1,224 @@
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+Not yet~
+Battle preparations complete! Let me on!
+--------------------------------------------------End--
+{WINDOW}
+Not yet~
+Let me on!
+--------------------------------------------------End--
+
+………… 
+Want to buy?
+--------------------------------------------------End--
+{WINDOW}
+Show me armor.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+………… 
+Please come again.
+--------------------------------------------------End--
+
+Welcome!
+If you don't buy here, you'll go to the back of the line.
+--------------------------------------------------End--
+
+Thanks!
+--------------------------------------------------End--
+
+It's dangerous if you're close to Shipah~?
+Do you want to be squashed flat~?
+--------------------------------------------------End--
+
+It's dangerous if you touch Shipah~?
+You'll get smacked with its tail~, you know?
+--------------------------------------------------End--
+
+Did you sing the prayer song~, you know?
+A mysterious, mysterious charm~?
+--------------------------------------------------End--
+
+When everyone sang together...
+Shipah got in a good mood~, you know?
+--------------------------------------------------End--
+
+In this vicinity, {Al Bhed2}'s
+There is information that a form was sighted.
+{NEWPAGE}
+
+Do not neglect vigilance at any time,
+And pay utmost attention!
+--------------------------------------------------End--
+
+{Al Bhed2}'s eyes are green and have a swirl-like
+pattern. If you find them, report!
+--------------------------------------------------End--
+
+Targeting summoners, {Al Bhed2} seems to be
+lurking around.
+--------------------------------------------------End--
+
+The Shipaafu is operating as usual.
+Please rest assured.
+--------------------------------------------------End--
+
+Now that the temple is in chaos, {Crusader} must 42+53.make an effort.
+42+53.力しなければいけません
+--------------------------------------------------End--
+
+The battle with '{Sin}' seems to be continuing.
+Those 42+54.heading north, please be careful.
+--------------------------------------------------End--
+
+Riding the Shipaafu is free.
+The temple is paying for it, you see.
+--------------------------------------------------End--
+
+The temple always 42+55.supports the lives of the people.
+It is something to be grateful for.
+--------------------------------------------------End--
+
+They say that {Master Seymor} will 42+57.take Lord {Braska}'s
+daughter as his 42+56.bride.
+--------------------------------------------------End--
+
+With the strength of the two of them, the temple will forever
+prosper.
+--------------------------------------------------End--
+
+The warrior monk stationed here suddenly disappeared,
+I'm 42+58.ing, you see.
+{NEWPAGE}
+
+As for the esteemed monastic officials of the temple,
+They probably have some 42+59. ideas, though...
+--------------------------------------------------End--
+
+I will silently obey the temple.
+Defying the temple is unthinkable!
+--------------------------------------------------End--
+
+I don't know what meaning it has, but...
+I tried singing a prayer song.
+{NEWPAGE}
+
+There's nothing else to do, you know...
+It's like a drowning person grasping at straws, isn't it?
+--------------------------------------------------End--
+
+The esteemed monastic officials and summoners,
+They will surely do something about it.
+--------------------------------------------------End--
+
+Are you saying that machine goes against the teachings?
+Don't say such unseemly things!
+--------------------------------------------------End--
+
+The machines here are permitted by the temple!
+Don't lump them together with forbidden machines!
+--------------------------------------------------End--
+
+The Master's 42+60. has been decided, it's truly 42+61.!
+Even my mood brightens, you see.
+--------------------------------------------------End--
+
+The 42+60. talk of {Master Seymor} and {Yuna}-sama...
+What has become of it?
+{NEWPAGE}
+
+The Master vanished from {Bevelle}, or Lord {Yuna} is...
+...a rebel. Nothing but unbelievable stories.
+--------------------------------------------------End--
+
+When strange rumors are flying around,
+one must listen carefully to every story.
+--------------------------------------------------End--
+
+That flying ship, I thought it was the temple's 切り42+62.
+I thought... but...
+{NEWPAGE}
+
+They say it's {Al Bhed} who are on board.
+That rumor is spreading.
+{NEWPAGE}
+
+Have the temple and {Al Bhed} joined forces?
+That is truly an unbelievable story.
+--------------------------------------------------End--
+
+I can't believe in the temple or anything anymore.
+I only pray that 『{Sin} 』 vanishes soon.
+--------------------------------------------------End--
+{Auron} 
+Ten years ago...
+--------------------------------------------------End--
+{Tidus} 
+Oh, an old story?
+--------------------------------------------------End--
+{Auron} 
+{Jecht} also, here...
+...saw a Shipāfu for the first time.
+--------------------------------------------------End--
+{Auron} 
+A surprised {Jecht} suddenly
+slashed at the Shipāfu.
+--------------------------------------------------End--
+{Tidus} 
+W-Why!
+--------------------------------------------------End--
+{Auron} 
+was 42+63.ing.
+It seems they thought it was a monster.
+--------------------------------------------------End--
+{Tidus} 
+It can't be helped, I suppose...
+--------------------------------------------------End--
+{Auron} 
+All the money we had...
+We gave it all and apologized.
+--------------------------------------------------End--
+{Auron} 
+And {Jecht}...
+Ever since, he quit drinking.
+--------------------------------------------------End--
+{Auron} 
+The Shipahfu from that time...
+It still seems to be active now.
+--------------------------------------------------End--
+{Auron} 
+Even after 10 years, {Spira}...
+...hasn't changed at all.
+--------------------------------------------------End--
+{Auron} 
+However...
+--------------------------------------------------End--
+{Auron} 
+This place, changing...
+...is a world that [resists] it.
+--------------------------------------------------End--
+{Auron} 
+So easily...
+...it likely won't change.
+--------------------------------------------------End--
+{Auron} 
+Don't be deceived by the peaceful scenery.
+Always be ready to fight.
+--------------------------------------------------End--
+Shipahfu user.
+Ride the Shipahfu?
+--------------------------------------------------End--
+Shipahfu user.
+I'm waiting...?
+--------------------------------------------------End--
+Shipahfu user.
+So, get on...?
+--------------------------------------------------End--

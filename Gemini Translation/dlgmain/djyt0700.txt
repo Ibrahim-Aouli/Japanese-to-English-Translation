@@ -1,0 +1,99 @@
+{Dona} 
+Oh, it's you two again?
+--------------------------------------------------End--
+{Dona} 
+As usual.
+You certainly have numbers.
+--------------------------------------------------End--
+{Dona} 
+What's wrong, {Barthello}?
+Do you have some business with that man?
+--------------------------------------------------End--
+{Barthello} 
+You... are {Auron}, aren't you?
+--------------------------------------------------End--
+{Auron} 
+What will you do?
+--------------------------------------------------End--
+{Barthello} 
+Could you... lend a hand?
+--------------------------------------------------End--
+{Barthello} 
+{Auron} ……
+No, {Auron}!
+--------------------------------------------------End--
+{Barthello} 
+I admired you...
+...and became a guard!
+--------------------------------------------------End--
+{Barthello} 
+Thank you very much!
+I- I'm so moved!!
+--------------------------------------------------End--
+{Wakka} 
+To refer to a guard who protected Lord {High Summoner Braska} as an 'old man'...
+There's a limit to your ignorance.
+--------------------------------------------------End--
+{Lulu} 
+Ugh...
+--------------------------------------------------End--
+{Tidus} 
+__P0__, that's enough!
+--------------------------------------------------End--
+{Dona} 
+Come back!
+You're struggling, huh?
+--------------------------------------------------End--
+{Tidus} 
+Hey, __P0__.
+--------------------------------------------------End--
+{Barthello} 
+なあ {Dona}
+I won't touch it again.
+--------------------------------------------------End--
+{Dona} 
+Stop it already.
+If you touch it with dirty hands, it will become unclean.
+--------------------------------------------------End--
+{Wakka} 
+Wait quietly.
+--------------------------------------------------End--
+{Wakka} 
+There are all sorts of summoners, aren't there?
+--------------------------------------------------End--
+{Wakka} 
+Well, it was an interesting sight, but...
+It's not good for the heart.
+--------------------------------------------------End--
+{Kimahri} 
+You've become a little stronger.
+But it's still not enough.
+--------------------------------------------------End--
+{Kimahri} 
+Choose your place.
+Wait there silently.
+--------------------------------------------------End--
+{Auron} 
+Don't wander around.
+Wait calmly.
+--------------------------------------------------End--
+{Lulu} 
+You should calm down a little more too.
+Because it's {Yuna} who will be embarrassed.
+--------------------------------------------------End--
+{Lulu} 
+We have no choice but to wait.
+This is also one of the guarding methods, 42+53., isn't it?
+--------------------------------------------------End--
+{Dona} 
+My schedule is packed over here, yet...
+I really wish you'd hurry up.
+--------------------------------------------------End--
+{Dona} 
+It's slow, isn't it?
+How long will they keep me waiting?
+--------------------------------------------------End--
+{Barthello} 
+I was able to meet {Auron}...
+I'm deeply moved...
+--------------------------------------------------End--

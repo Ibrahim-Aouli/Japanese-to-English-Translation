@@ -1,0 +1,113 @@
+
+Just as I said, against Gowars...
+...they couldn't win, could they? Heheheh!
+--------------------------------------------------End--
+
+For {Aurochs} to win the championship...
+...that's something that would never happen, even if Nagiten came a hundred times!
+--------------------------------------------------End--
+
+For *that* {Aurochs} to win the championship...
+...what kind of cheating did they do?
+--------------------------------------------------End--
+
+Well, {Aurochs}'s lot, at best...
+...they probably just had a good dream, didn't they?
+--------------------------------------------------End--
+
+{Al Bhed2} with a flying ship...
+...attacked {Bevelle}, they say.
+{NEWPAGE}
+
+As a result, {Master Seymor}'s wedding ceremony...
+...was apparently called off.
+--------------------------------------------------End--
+
+Those guys from {Al Bhed}, someone else's wedding...
+...interfering with it, what do they find fun about that, I wonder?
+--------------------------------------------------End--
+
+If the temple is gone, this ferry also...
+...might become unable to operate.
+{NEWPAGE}
+
+If I lose my job on the ship, in {Luca}...
+...maybe I'll be a stadium [42+53.] security guard.
+--------------------------------------------------End--
+
+If I do a Blitz-related job, with Gowars...
+...I might get to know them! Heheheheh!
+--------------------------------------------------End--
+
+We used to transport many of {Crusader}'s soldiers to {Operation Mi'ihen}, but...
+Very few return from the operation.
+{NEWPAGE}
+
+It seems they were severely defeated.
+Let us pray that the souls of the fallen may reach __P0__ unimpeded.
+--------------------------------------------------End--
+
+You know that {Farplane} passed away and __P1__ did `辞42+54.`, don't you?
+Even __P0__ is said to be missing.
+--------------------------------------------------End--
+
+The temple's `組42+55.` is in great disarray.
+I had expected much from __P0__, so it's regrettable.
+{NEWPAGE}
+
+That person was genuinely trying to save {Master Seymor}, yet...
+I hear __P0__ has passed away.
+--------------------------------------------------End--
+
+Even the Grand Master cannot overcome death...?
+Who will become the new Grand Master in place of Grand Master {Spira}...? It seems a `42+56.力42+57.い` is about to begin.
+--------------------------------------------------End--
+
+{Maester Mika2}: "__P1__ ラ__P2__ 42+59. __P3__ さ__P4__"
+__P0__: "__P1__ キ__P2__ 42+59. __P3__ し__P4__"
+--------------------------------------------------End--
+
+{Mika} 様に代わって 誰が新たな総老師に
+なるか……42+56.力42+57.いが始まりそうだな
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 5!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language 42+58.!
+{VAR07:31}『{OPurple} ラ{White} 』42+59.『{Pink} さ{White} 』
+{VAR07:31}『{OPurple} キ{White} 』42+59.『{Pink} し{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar word 42+60. '{Al Bhed} Language', the {Al Bhed} Language Dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

@@ -1,0 +1,385 @@
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract for 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+{Shelinda} 
+Oh, guard duties.
+Thank you for your efforts.
+--------------------------------------------------End--
+{Shelinda} 
+{Master Seymor} is on shop duty.
+It seems someone has returned to {Guadosalam}.
+--------------------------------------------------End--
+{Shelinda} 
+The Master is of 【{Macalania Temple}】's
+and is also the Chief Monk.
+--------------------------------------------------End--
+{Shelinda} 
+To manage both {Guado2} and {Macalania}...
+...even though still so young!
+--------------------------------------------------End--
+{Shelinda} 
+They're an amazing person, aren't they?
+If I could meet with __P0__...
+--------------------------------------------------End--
+{Shelinda} 
+I would be happy, though...
+If __P0__ also 応42+53.っています,
+--------------------------------------------------End--
+{Shelinda} 
+about {Shelinda} and illusion-light insects,
+Please tell {Yuna}-sama.
+--------------------------------------------------End--
+{Shelinda} 
+I'm also heading to {Macalania Temple}...
+...I intend to.
+--------------------------------------------------End--
+{Maechen} 
+may I talk about it?
+__P0__, please stop.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}__P1__, please.
+{CHOICE:31} illusion-light insects, please.
+How dull...
+--------------------------------------------------End--
+{Maechen} 
+Ahem.
+--------------------------------------------------End--
+{Maechen} 
+オッホン
+--------------------------------------------------End--
+{Maechen} 
+{Farplane} is born near {Farplane}.
+Pyreflies gather...
+--------------------------------------------------End--
+{Maechen} 
+From when the dead were alive...
+It is a place where they appear, taking on forms.
+--------------------------------------------------End--
+{Maechen} 
+It's truly a mysterious phenomenon, but...
+Its workings are not well understood.
+--------------------------------------------------End--
+{Maechen} 
+The people of {Al Bhed}...
+They say:
+--------------------------------------------------End--
+{Maechen} 
+"To the thoughts of the living who visited {Farplane},
+Pyreflies are just reacting."
+--------------------------------------------------End--
+{Maechen} 
+However, only the dead appear in {Farplane}.
+Forms of the living do not appear.
+--------------------------------------------------End--
+{Maechen} 
+This mechanism is not understood.
+--------------------------------------------------End--
+{Maechen} 
+Perhaps, in the hearts of the living...
+The thoughts of the dead reside...
+--------------------------------------------------End--
+{Maechen} 
+Those thoughts, borrowing the power of pyreflies...
+...perhaps they show their forms...?
+--------------------------------------------------End--
+{Maechen} 
+No, no, such fancies...
+...there are no such things.
+--------------------------------------------------End--
+{Maechen} 
+Well, that's about it.
+--------------------------------------------------End--
+{Maechen} 
+Even though they're called Phantomlights,
+they aren't insects.
+--------------------------------------------------End--
+{Maechen} 
+The light that appears when you defeat fiends.
+That's what they are.
+--------------------------------------------------End--
+{Maechen} 
+Phantomlights, in many ways,
+show us mysterious現42+55..
+--------------------------------------------------End--
+{Maechen} 
+過42+61. of the past, Spheres, fiends...
+All of it is the work of Phantomlights.
+--------------------------------------------------End--
+{Maechen} 
+Oh, right...
+--------------------------------------------------End--
+{Maechen} 
+Even with aeons, Phantomlights are...
+...greatly involved, it seems.
+--------------------------------------------------End--
+{Maechen} 
+Those are the dreams of the Fayth that...
+...through the summoner's spirit...
+--------------------------------------------------End--
+{Maechen} 
+Yes, something that materialized in the real 世で42+62..
+That's how I 42+63.interpret it.
+--------------------------------------------------End--
+{Maechen} 
+May I say one more 42+64.?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Never mind.
+{CHOICE:31} illusion-light insects, please.
+How dull...
+--------------------------------------------------End--
+
+{Al Bhed}Thank you for defeating those machines.
+Thank you very much.
+{NEWPAGE}
+
+I hate them too.
+I really feel much better.
+--------------------------------------------------End--
+
+From now on, if you find {Al Bhed2},
+Go ahead and defeat them all vigorously.
+--------------------------------------------------End--
+
+You came back trembling because you were scared of the thunder, didn't you?
+You're so sloppy for a guard!
+--------------------------------------------------End--
+
+{Seymour}-sama's marriage partner
+I heard it has to be a summoner.
+--------------------------------------------------End--
+
+Soon, '{Sin}' will go on a huge rampage and
+Both {Guado} and people will be defeated.
+{NEWPAGE}
+
+Even if you believe in {Yevon2}'s teachings,
+it won't amount to anything.
+--------------------------------------------------End--
+
+I'll shut myself away in {Guadosalam} and
+I don't want to go out anywhere.
+--------------------------------------------------End--
+
+{Guado2} and the warrior monks will cooperate and
+are guarding the highway.
+{NEWPAGE}
+
+Joining forces for {Spira} is
+only natural.
+--------------------------------------------------End--
+
+Eventually, if {Crusader} is rebuilt,
+We would like them to cooperate with us too.
+--------------------------------------------------End--
+
+There is a sign of {Al Bhed2} in {Thunder Plains}.
+I'm worried you might be plotting something.
+--------------------------------------------------End--
+
+If {Al Bhed} attacks...
+I will take up arms and protect my comrades.
+--------------------------------------------------End--
+
+As a fellow blitz player, I'll inform you.
+Don't approach {Guadosalam}.
+--------------------------------------------------End--
+
+The current {Guado} has lost cohesion.
+No one can predict what kind of chaos will occur.
+--------------------------------------------------End--
+
+{Guado} awaits its guests.
+Will you soothe your travel weariness?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Take a break.
+{CHOICE:31} Maybe next time.
+--------------------------------------------------End--
+
+Oh, really... you'll rest here?
+--------------------------------------------------End--
+
+Well then, in the {Guado} style...
+Let us offer our hospitality.
+--------------------------------------------------End--
+
+Oh, is that so?
+Please come anytime.
+--------------------------------------------------End--
+
+Understood. Whatever the circumstances...
+We cannot turn away guests.
+--------------------------------------------------End--
+
+So, carelessness is a great enemy, is that what you mean?
+No, it's nothing.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activation, at the Save Sphere...
+The 転42+54. function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s sacre42+76. ground, Blitz training continues.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to recruit them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+54. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

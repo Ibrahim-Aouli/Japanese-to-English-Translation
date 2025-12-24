@@ -1,0 +1,320 @@
+{Auron} 
+We'll rest here.
+--------------------------------------------------End--
+{Wakka} 
+But this is a line of {Al Bhed} people.
+--------------------------------------------------End--
+{Auron} 
+Is there a problem?
+--------------------------------------------------End--
+{Wakka} 
+{Al Bhed} doesn't follow the teachings, and...
+And look, in {Luca}...
+--------------------------------------------------End--
+{Wakka} 
+They kidnapped {Yuna}.
+--------------------------------------------------End--
+{Auron} 
+It's because the guards are sloppy.
+--------------------------------------------------End--
+{Yuna} 
+Mr./Ms. {Auron} is {Wakka}'s
+concerned about their condition...
+--------------------------------------------------End--
+{Wakka} 
+I'm fine!
+--------------------------------------------------End--
+{Auron} 
+I was able to show it.
+--------------------------------------------------End--
+{Lulu} 
+We're going to the Chocobo stable.
+--------------------------------------------------End--
+{Auron} 
+What lies ahead is daunting.
+--------------------------------------------------End--
+{Tidus} 
+It's right after waking up.
+It can't be helped.
+--------------------------------------------------End--
+{Tidus} 
+But you were there too!
+--------------------------------------------------End--
+{Auron} 
+The one who said, 'Let's defeat that,' was...
+You.
+--------------------------------------------------End--
+{Auron} 
+If waking up is difficult every time,
+Stay awake.
+--------------------------------------------------End--
+{Tidus} 
+Don't be ridiculous...
+--------------------------------------------------End--
+{Rin} 
+Since you're here,
+Everyone, would you like to ride a Chocobo?
+--------------------------------------------------End--
+{Rin} 
+As thanks for defeating the monsters, and for your first time only,
+We'll make it 無去 for you.
+--------------------------------------------------End--
+{Rin} 
+If you'd like to ride,
+Please speak to this person here.
+--------------------------------------------------End--
+
+Oh, thank you very much.
+That helped me a lot.
+--------------------------------------------------End--
+
+Hello there!
+This time it's 無去~
+--------------------------------------------------End--
+
+This time it's 無去, but...
+It seems you're already riding~
+{NEWPAGE}
+
+I'll make it 無去 for you next time~
+--------------------------------------------------End--
+
+Would you like to ride a Chocobo~?
+--------------------------------------------------End--
+
+How to ride a Chocobo...
+Would you like to know?
+--------------------------------------------------End--
+
+Please take care on your journey.
+--------------------------------------------------End--
+{Elma} 
+Just as expected of the Summoner and the Guard.
+You did great in that battle just now.
+--------------------------------------------------End--
+{Elma} 
+For travelers to leave this road,
+to have them leave is our 応42+53.
+--------------------------------------------------End--
+{Elma} 
+You all, hmm...
+There's a Summoner here too, so I guess it's fine.
+--------------------------------------------------End--
+{Elma} 
+It's a secret, but...
+This is a boring 応42+53.
+--------------------------------------------------End--
+{Elma} 
+Ah, that monster's 42+54. is...
+I took care of it, so rest assured.
+--------------------------------------------------End--
+
+Recently, towards {Al Bhed},
+the criticism is strong.
+{NEWPAGE}
+
+That the operation failed
+they say is our fault.
+--------------------------------------------------End--
+
+I'm used to being disliked, but
+it makes work difficult, which is a problem.
+--------------------------------------------------End--
+
+They're all fools; I can't put up with them.
+--------------------------------------------------End--
+
+So that {Al Bhed2} does not mislead the people,
+we are 42+55.ing them.
+--------------------------------------------------End--
+
+{Cid} ぞくちょうの めいれいで
+I got off the boat with the children.
+{NEWPAGE}
+
+The chief is probably prepared
+for it to become a severe battle.
+--------------------------------------------------End--
+
+I pray for their safety. Anymore, someone
+I don't want to see get hurt.
+--------------------------------------------------End--
+
+The children are happy.
+Everything they see seems new.
+--------------------------------------------------End--
+
+I can't take my eyes off the children.
+It would be terrible if they fell from the cliff.
+--------------------------------------------------End--
+
+That {P0} monk... to the children...
+If he does anything, I will absolutely not forgive him.
+{NEWPAGE}
+
+I want to believe that's not the case, but...
+I can't help but doubt.
+--------------------------------------------------End--
+
+When I hear the word "{P0}",
+I remember {P0}'s {P1}.
+--------------------------------------------------End--
+
+The innocence of children...
+It's the same for the people of {P0} and {P1}, isn't it?
+--------------------------------------------------End--
+
+As a monastic official, I have denounced
+those of {P0} who do not follow the teachings.
+{NEWPAGE}
+
+Among {P0}, I was sowing
+seeds of meaningless strife.
+{NEWPAGE}
+
+I keenly feel my own conduct...
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} doesn't listen.
+{CHOICE:31} listens.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [How to Ride a Chocobo] {White}
+
+{Blue} Movement {White}
+Screen {P0}{P1} {P2} Screen Foreground {P3}{P4}
+Screen Left {VAR07:E8}{Direcional Left} {VAR07:50} Screen Right {VAR07:E8}{Direcional Right}
+
+{Blue} Mount/Dismount {White}
+Dismount {VAR07:E8}{Button X}
+Mount {VAR07:E8} towards the Chocobo {Button Circle}
+
+You can only ride Chocobos at {Mi'ihen Highroad}.
+While mounted, beyond {Luca} or the highway
+...you cannot go.
+--------------------------------------------------End--
+{WINDOW}
+Chocobos will wait for you where you dismounted, but
+if you leave it there and exit from {Mi'ihen Highroad},
+If you dismount a new chocobo,
+...will disappear.
+when you want to ride, please come again to ride.
+--------------------------------------------------End--
+{WINDOW}
+I'll ride {CHOICE:30}.
+Not riding.
+Teach me how to ride.
+--------------------------------------------------End--
+{WINDOW}
+Amount: {P0} Gil
+--------------------------------------------------End--
+{WINDOW}
+Funds: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Not enough Gil.
+--------------------------------------------------End--
+
+From now on, risking my life,
+I intend to seek a path of coexistence with {P0}.
+--------------------------------------------------End--
+
+The other day, {P0} appeared, but...
+Mom took it down with a machine!
+{NEWPAGE}
+
+Mom's incredible when she gets angry.
+--------------------------------------------------End--
+
+This is our new...
+I wonder if it will become {Home}...
+--------------------------------------------------End--
+
+I wanted to ride the ship too...
+It was an amazing battle, wasn't it?
+--------------------------------------------------End--
+
+Huh? Hasn't the battle ended?
+Well then, shall we sing again?
+--------------------------------------------------End--
+
+Such a huge puddle!
+I've never seen one before!
+--------------------------------------------------End--
+
+So much unfamiliar grass!
+I wonder what it tastes like?
+--------------------------------------------------End--
+
+I'm the Chocobo caretaker.
+Please treat it kindly.
+{NEWPAGE}
+
+If you ride a Chocobo...
+Please treat it kindly.
+--------------------------------------------------End--
+
+Compared to {Bikanel}...
+The sun is gentle.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+To the Save Sphere by {Besaid Aurochs}'s 活42+64.
+The 転42+65. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s {42+66.} base, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to make a scout {42+67.} contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+65. function for the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

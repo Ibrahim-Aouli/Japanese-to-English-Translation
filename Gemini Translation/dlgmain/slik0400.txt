@@ -1,0 +1,172 @@
+
+Oh! That's an unusual line.
+--------------------------------------------------End--
+
+What, they're quite late.
+This won't be for sale, will it?
+--------------------------------------------------End--
+
+They don't look like they have money, either...
+--------------------------------------------------End--
+
+That's enough. Go away.
+--------------------------------------------------End--
+{Tidus} 
+What do you want?
+--------------------------------------------------End--
+
+I am {O'aka XXIII}.
+--------------------------------------------------End--
+{Tidus} 
+{O'aka} ？
+--------------------------------------------------End--
+{O'aka} 
+Tsk... You don't know?
+Well, nobody knows anyway.
+--------------------------------------------------End--
+{O'aka} 
+Someday, {O'aka}'s name...
+I'll make it famous throughout {Spira}.
+--------------------------------------------------End--
+{O'aka} 
+That's right, boy, won't you lend me some money?
+--------------------------------------------------End--
+{O'aka} 
+……So it pays to ask.
+Thanks, kid.
+--------------------------------------------------End--
+{O'aka} 
+For {O'aka}'s revival funds.
+I'll be making use of it.
+--------------------------------------------------End--
+{O'aka} 
+Well, I suppose so.
+--------------------------------------------------End--
+{O'aka} 
+You're lending money?
+--------------------------------------------------End--
+{O'aka} 
+Thanks, kid.
+I'll definitely repay the money!
+--------------------------------------------------End--
+{O'aka} 
+What... Don't get my hopes up.
+--------------------------------------------------End--
+{Gatta} 
+No entry.
+We're loading supplies for the operation.
+--------------------------------------------------End--
+{Gatta} 
+Why don't you go up to the deck?
+--------------------------------------------------End--
+{Gatta} 
+If you breathe in the breeze, the 『{Sin}』's...
+...ill will might also dissipate.
+--------------------------------------------------End--
+{Luzzu} 
+I can't say anything about the operation.
+--------------------------------------------------End--
+{Luzzu} 
+If you are thought to be involved with the operation
+You'll also end up being excommunicated from the temple.
+--------------------------------------------------End--
+{Luzzu} 
+So, don't try to know anything.
+Yes, that's better.
+--------------------------------------------------End--
+{WINDOW}
+Funds on hand: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+Total lent so far 42+53.: {VAR12:31} Gil
+--------------------------------------------------End--
+{WINDOW}
+Set money 42+53. with {Direcional Up} {Direcional Down} {Direcional Left} {Direcional Right}
+Confirm with {Button Circle}
+--------------------------------------------------End--
+{WINDOW}
+……How much should I lend?
+Lend {CHOICE:56} Gil to {O'aka}
+--------------------------------------------------End--
+{O'aka} 
+……Hey, boy.
+I appreciate the sentiment, but I don't have enough Gil.
+--------------------------------------------------End--
+{O'aka} 
+Oh, boy, even {VAR12:32} Gil...
+Will you lend it to me?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Wait a minute.
+{CHOICE:31} Don't worry about it.
+{CHOICE:32} I changed my mind.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Okay.
+{CHOICE:31} No.
+--------------------------------------------------End--
+{WINDOW}
+
+It says 'Power Room'.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+54., to the Save Sphere.
+The 転42+55. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training at {Spira}'s 42+56.地.
+hidden excellent players are lurking.
+If you interact and talk to {Button Square}, you may be able to Scout 42+57.約.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+55. function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

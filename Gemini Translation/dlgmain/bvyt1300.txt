@@ -1,0 +1,258 @@
+{Tidus} 
+What is it...?
+--------------------------------------------------End--
+{Auron} 
+It's a prayer child.
+--------------------------------------------------End--
+{Auron} 
+It overlaps with the summoner's heart,
+And bestows the power of the summoned beast.
+--------------------------------------------------End--
+{Auron} 
+Extracted by {Yevon2}'s secret art,
+A human soul sealed within a statue.
+--------------------------------------------------End--
+{Auron} 
+That, too, is a pitiful deceased.
+--------------------------------------------------End--
+{Tidus} 
+{Yuna} ！
+--------------------------------------------------End--
+{Rikku} 
+Wait!
+You can't come out!
+--------------------------------------------------End--
+{fayth} 
+Hey.
+--------------------------------------------------End--
+{Yuna} 
+I'm always grateful for your help.
+--------------------------------------------------End--
+{Tidus} 
+So, what is it?
+--------------------------------------------------End--
+{fayth} 
+Without reviving '{Sin}',
+Have you found a way to defeat it?
+--------------------------------------------------End--
+{Tidus} 
+Hmm...
+--------------------------------------------------End--
+{fayth} 
+What will you do?
+--------------------------------------------------End--
+{fayth} 
+Then, come back when you've figured it out.
+I have something to tell you.
+--------------------------------------------------End--
+{Tidus} 
+If you make it listen to a song of prayer,
+'{Sin}' will become docile.
+--------------------------------------------------End--
+{fayth} 
+...I wonder.
+--------------------------------------------------End--
+{Yuna} 
+Is it no good...?
+--------------------------------------------------End--
+{fayth} 
+Ever since your father became '{Sin}',
+It's been quite a while already.
+--------------------------------------------------End--
+{fayth} 
+The song might not be heard anymore.
+--------------------------------------------------End--
+{Tidus} 
+That might be true, but...
+--------------------------------------------------End--
+{Tidus} 
+But if there's a possibility,
+I want to try and follow it.
+--------------------------------------------------End--
+{fayth} 
+...You're right.
+--------------------------------------------------End--
+{fayth} 
+That part of you...
+--------------------------------------------------End--
+{fayth} 
+It truly impresses me.
+--------------------------------------------------End--
+{Tidus} 
+I'm not just a dream... am I?
+--------------------------------------------------End--
+{Yuna} 
+A dream?
+--------------------------------------------------End--
+{Tidus} 
+Ah, just my thoughts.
+--------------------------------------------------End--
+{fayth} 
+Then what will you do?
+You can't defeat it with just a song.
+--------------------------------------------------End--
+{fayth} 
+What will you do?
+--------------------------------------------------End--
+{fayth} 
+That alone isn't enough.
+--------------------------------------------------End--
+{Tidus} 
+Defeat Yevon-Ju.
+--------------------------------------------------End--
+{fayth} 
+Yes.
+--------------------------------------------------End--
+{fayth} 
+If Yevon-Ju is defeated... it will end.
+--------------------------------------------------End--
+{fayth} 
+Hey, about Ebon-Ju...
+How much do you know?
+--------------------------------------------------End--
+{Tidus} 
+The key to reviving '{Sin}'.
+--------------------------------------------------End--
+{Yuna} 
+A store called '{Sin}'.
+A being clad in.
+--------------------------------------------------End--
+{fayth} 
+Ebon-Ju, you know...
+Long ago, it was a summoner.
+--------------------------------------------------End--
+{fayth} 
+There's no summoner like it.
+--------------------------------------------------End--
+{fayth} 
+But now, it only summons...
+Just a being continuing to do so.
+--------------------------------------------------End--
+{fayth} 
+Without purpose or will, the far-off dream...
+Just a being responding.
+--------------------------------------------------End--
+{fayth} 
+A far-off (dream)... there is none, you know.
+--------------------------------------------------End--
+{Tidus} 
+Oh, we will...
+We'll end it.
+--------------------------------------------------End--
+{fayth} 
+Yes.
+--------------------------------------------------End--
+{fayth} 
+Even if we defeat '{Sin}' with the Ultimate Summon...
+Ebon-Ju cannot be defeated.
+--------------------------------------------------End--
+{fayth} 
+Ebon-Ju, into the Ultimate Aeon...
+transferring...
+--------------------------------------------------End--
+{fayth} 
+That into a new '{Sin}'.
+It will remake them.
+--------------------------------------------------End--
+{Yuna} 
+Ebon-ju will possess them...
+--------------------------------------------------End--
+{fayth} 
+And protected by a new {P0},
+Ebon-ju will continue summoning.
+--------------------------------------------------End--
+{Tidus} 
+To the Farplane...?
+--------------------------------------------------End--
+{fayth} 
+But you all will end it, so
+There will be no Farplane...
+--------------------------------------------------End--
+{Tidus} 
+Alright.
+--------------------------------------------------End--
+{fayth} 
+Ebon-ju is inside {P0}.
+--------------------------------------------------End--
+{fayth} 
+Hey, {P0}.
+--------------------------------------------------End--
+{fayth} 
+42+53.tachi will also help, so
+When you fight Ebon-ju...
+--------------------------------------------------End--
+{fayth} 
+Please be sure to summon.
+--------------------------------------------------End--
+{fayth} 
+With your swords or magic,
+I don't think you can defeat it.
+--------------------------------------------------End--
+{fayth} 
+So... 42+55.nde
+--------------------------------------------------End--
+{fayth} 
+Definitely.
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{fayth} 
+And then... you.
+--------------------------------------------------End--
+{fayth} 
+When everything is over...
+--------------------------------------------------End--
+{fayth} 
+42+53.tachi will stop dreaming.
+--------------------------------------------------End--
+{fayth} 
+42+53.'s dreams... will vanish.
+--------------------------------------------------End--
+{Tidus} 
+Yes.
+--------------------------------------------------End--
+{Tidus} 
+You all, for a long time...
+You all worked hard.
+--------------------------------------------------End--
+{fayth} 
+...Sorry.
+--------------------------------------------------End--
+{Tidus} 
+Good work!
+--------------------------------------------------End--
+{Yuna} 
+What are you talking about?
+--------------------------------------------------End--
+{Tidus} 
+It's nothing.
+--------------------------------------------------End--
+{Tidus} 
+Don't make that 42+56.!
+--------------------------------------------------End--
+{Tidus} 
+We can defeat 『{Sin} 』!
+Make a happier 42+56.!
+--------------------------------------------------End--
+{Yuna} 
+You're hiding something, aren't you?
+--------------------------------------------------End--
+{Tidus} 
+I'm not hiding anything.
+--------------------------------------------------End--
+{Yuna} 
+Really?
+--------------------------------------------------End--
+{Yuna} 
+You're bad at lying...
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} I thought I understood.
+{CHOICE:31} Still.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Song of Prayer!
+{CHOICE:31} Defeat Ebon-Ju!
+{CHOICE:32} I truly don't understand.
+--------------------------------------------------End--

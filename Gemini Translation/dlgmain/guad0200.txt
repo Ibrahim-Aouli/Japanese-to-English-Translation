@@ -1,0 +1,89 @@
+{O'aka} 
+Honesty is {O'aka}'s motto.
+Pleased to meet you!
+--------------------------------------------------End--
+{O'aka} 
+Oh...
+--------------------------------------------------End--
+{WINDOW}
+Do you have anything, {CHOICE:30}?
+I hope for a {CHOICE:31} Retten store.
+It's nothing, {CHOICE:32}.
+--------------------------------------------------End--
+{O'aka} 
+Welcome.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+{O'aka} 
+Good grief...
+Travelers from {Guado} are shrewd.
+--------------------------------------------------End--
+{O'aka} 
+Dealing with customers visiting {Farplane},
+they're conducting shady sales.
+--------------------------------------------------End--
+{O'aka} 
+Listen up.
+Don't get swindled.
+--------------------------------------------------End--
+{O'aka} 
+And so...
+--------------------------------------------------End--
+
+To protect {Guado}'s chieftain,
+I serve as a soldier.
+{NEWPAGE}
+
+Recently, I have been accompanying {Seymour}-sama.
+I am traveling all over {Spira}.
+--------------------------------------------------End--
+
+{Seymour}-sama, in the coming {Spira},
+will become the most important person.
+--------------------------------------------------End--
+
+We, the {Guado}, are originally from {Yevon2}.
+I did not believe the teachings.
+{NEWPAGE}
+
+However, ever since the previous {Jyscal} clan leader,
+our ties with the temple are only growing stronger.
+--------------------------------------------------End--
+
+{Seymour}-sama, in {Macalania},
+it is said that {Yevon2}-sama embraced the teachings of {Yevon2}.
+--------------------------------------------------End--
+
+Even if {Seymour}-sama does not appear now,
+I believe they will surely return.
+{NEWPAGE}
+
+To save us, or perhaps...
+To destroy us, I don't know...
+--------------------------------------------------End--
+
+You are one of {Yuna}-sama's guards, aren't you?
+What kind of 42+53. do you need?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Buy weapons.
+{CHOICE:31} Buy items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+We don't have much decent 42+53., but...
+If you like, please.
+--------------------------------------------------End--
+
+From now on, please continue to favor us 42+54. for a long time.
+--------------------------------------------------End--
+
+If you feel like it, please come again.
+--------------------------------------------------End--

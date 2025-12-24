@@ -1,0 +1,214 @@
+
+{WINDOW}
+{Button Circle}: Go up.
+--------------------------------------------------End--
+{Lucil} 
+I have received the communication.
+Please hurry to the Operations Command ahead.
+--------------------------------------------------End--
+{Lucil} 
+Master, with the Summoner present,
+the morale of the unit members has also risen.
+--------------------------------------------------End--
+{Lucil} 
+Of course, I am likewise.
+Thank you!
+--------------------------------------------------End--
+{Lucil} 
+Depending on the operation's development,
+many casualties will occur.
+--------------------------------------------------End--
+{Lucil} 
+At that time, Summoner,
+please, perform 'Otherworld Departure'.
+--------------------------------------------------End--
+{Lucil} 
+There is a possibility this place could also become a battlefield,
+so please be careful!
+--------------------------------------------------End--
+{Elma} 
+Oh, Summoners!
+How did you get in?
+--------------------------------------------------End--
+{Elma} 
+If the guards are with you,
+the Summoner must be safe.
+--------------------------------------------------End--
+{Elma} 
+Just because we use machines, at this point,
+no making a fuss now!
+--------------------------------------------------End--
+{Elma} 
+By earning merit in the operation,
+I'll get recognized by Captain {Lucil}!
+--------------------------------------------------End--
+
+Monster activity is increasing.
+It's just a small comfort, but please.
+--------------------------------------------------End--
+
+You are the Summoner's party, aren't you?
+Please accept this!
+--------------------------------------------------End--
+
+After the operation is over, in the town of {Luca}...
+I'll thoroughly enjoy myself with my comrades.
+{NEWPAGE}
+
+I've already reserved 42+55. too.
+So I'll definitely return alive!
+--------------------------------------------------End--
+
+If the operation succeeds, the temple too...
+I wonder if they'll lift the excommunication...?
+--------------------------------------------------End--
+{Shelinda} 
+Ultimately, my persuasion wasn't enough.
+I couldn't stop the operation.
+--------------------------------------------------End--
+{Shelinda} 
+But when I see the people of {Crusader}...
+It's painful to do nothing...
+--------------------------------------------------End--
+{Shelinda} 
+So now, with what I can do...
+I'm hoping I can be of help.
+--------------------------------------------------End--
+{Shelinda} 
+I don't have the strength to fight, but...
+I have some knowledge of 'White Magic'.
+--------------------------------------------------End--
+{Shelinda} 
+Now, I want to apply that power.
+That's what I'm thinking.
+--------------------------------------------------End--
+{Shelinda} 
+Do you have anything to respond to?
+--------------------------------------------------End--
+{Shelinda} 
+Take care!
+--------------------------------------------------End--
+{Shelinda} 
+Haa... haa...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Escape Method] {White}
+
+When pursuers get close, you will enter battle.
+By escaping a long distance, you can
+disperse the pursuers' forces.
+By the screen's flashing color, you will know the
+danger from pursuers.
+Not flashing: Safe
+{Yellow} 42+59.{White} : Pursuers are quite close.
+{Red} 42+60.{White} : They could approach at any moment.
+Even if the pursuers are out of sight,
+if they get close, they will close in, so
+don't let your guard down and keep running.
+--------------------------------------------------End--
+{WINDOW}
+One person down!
+--------------------------------------------------End--
+
+The Ebon Emblem has
+a mysterious power.
+{NEWPAGE}
+
+If you step on that emblem,
+you should understand it.
+--------------------------------------------------End--
+{WINDOW}
+It's okay!
+I want healing.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go down.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go up.
+--------------------------------------------------End--
+
+It won't open...
+--------------------------------------------------End--
+
+【{Celestial Mirror}】{White} is 反42+64.-ing...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Celestial Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+【{Cloudy Mirror}】{White} is 反42+64.-ing...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Cloudy Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+It seems power is insufficient...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s {42+65.}, to the Save Sphere.
+The transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s {42+66.} base, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to make a scout {42+67.} contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

@@ -1,0 +1,93 @@
+{Tidus} 
+That's an excuse, isn't it?
+--------------------------------------------------End--
+{Wakka} 
+That's tough, isn't it?
+--------------------------------------------------End--
+{Wakka} 
+And then, after retiring...
+You started a new job, didn't you?
+--------------------------------------------------End--
+{Wakka} 
+But if I let my guard down a little...
+I immediately end up thinking about Blitz.
+--------------------------------------------------End--
+{Tidus} 
+Ten years without a win, you know...
+--------------------------------------------------End--
+{Wakka} 
+Shop Year's first round was a chance.
+--------------------------------------------------End--
+{Wakka} 
+But something tough happened...
+I couldn't concentrate on the match.
+--------------------------------------------------End--
+{Tidus} 
+I want to win the next tournament and feel refreshed.
+Is that it?
+--------------------------------------------------End--
+{Tidus} 
+What's your goal for the tournament?
+--------------------------------------------------End--
+{Wakka} 
+Rank doesn't matter.
+If I can have a good match, that's enough.
+--------------------------------------------------End--
+{Tidus} 
+If you're asked, 'Goal?'
+Answer, 'Go Win!'
+--------------------------------------------------End--
+{Tidus} 
+If you're going to enter the match, win.
+What else is there?
+--------------------------------------------------End--
+{Wakka} 
+Go Win... seriously?
+--------------------------------------------------End--
+{Wakka} 
+If I put my all into it and feel fulfilled,
+I think I can quit cleanly.
+--------------------------------------------------End--
+
+Oh, someone from the sea?
+--------------------------------------------------End--
+
+This path has many monsters, so...
+You should be careful.
+--------------------------------------------------End--
+
+You got close to 『{Sin} 』 and still survived, didn't you?
+Don't get defeated in a place like this!
+--------------------------------------------------End--
+{Tidus} 
+Who?
+--------------------------------------------------End--
+{Wakka} 
+{Luzzu} and {Gatta} of {Crusader}.
+--------------------------------------------------End--
+{Tidus} 
+Hm?
+Punitive Force?
+--------------------------------------------------End--
+{Wakka} 
+You... even something like that...
+Have you forgotten?
+--------------------------------------------------End--
+{Wakka} 
+I'm glad.
+Don't worry, I'll take care of you.
+--------------------------------------------------End--
+{Tidus} 
+Understood.
+--------------------------------------------------End--
+{Tidus} 
+In return, during the tournament...
+I'll give it my all, and {42+53.}!
+--------------------------------------------------End--
+{Wakka} 
+Understood.
+--------------------------------------------------End--
+{Wakka} 
+Ask about {Crusader} directly.
+Should be in the village quarters.
+--------------------------------------------------End--

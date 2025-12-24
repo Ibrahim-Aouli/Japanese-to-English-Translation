@@ -1,0 +1,450 @@
+
+Master {Seymor}, take your place!
+--------------------------------------------------End--
+{Seymour} 
+Gathered from {Spira}'s territory,
+The veteran {Crusader} O42+53.
+--------------------------------------------------End--
+{Seymour} 
+Believe in your chosen path,
+Fight to your fullest!
+--------------------------------------------------End--
+{Seymour} 
+The 42+53.'s momentous battle, Master {Yevon2}.
+I, {Seymour}, will surely watch it unfold.
+--------------------------------------------------End--
+{WINDOW}
+
+Huh!
+--------------------------------------------------End--
+{Wakka} 
+What is that about?
+--------------------------------------------------End--
+{Wakka} 
+Why is {Master Seymor}
+supporting {Crusader}?
+--------------------------------------------------End--
+{Wakka} 
+It's a strategy that uses the {Al Bhed} clan's machines, you know?
+It's a strategy that goes against the teachings, you know?
+--------------------------------------------------End--
+{Yuna} 
+It does go against the teachings, but...
+I believe everyone's feelings are genuine.
+--------------------------------------------------End--
+{Yuna} 
+Master {Seymour} must have thought so too.
+Surely.
+--------------------------------------------------End--
+{Wakka} 
+Hey, Lou!
+--------------------------------------------------End--
+{Lulu} 
+...Isn't it just an inspection?
+--------------------------------------------------End--
+{Auron} 
+Ask the person directly.
+--------------------------------------------------End--
+{Seymour} 
+So it was {Auron} 42+57., after all?
+It's an honor to meet you.
+--------------------------------------------------End--
+{Seymour} 
+Please, tell me your story.
+About the past ten years...
+--------------------------------------------------End--
+{Auron} 
+I am {Yuna}'s guard.
+There is no time for that.
+--------------------------------------------------End--
+{Seymour} 
+Oh, my...
+--------------------------------------------------End--
+{Seymour} 
+{Auron} 42+57. as a guard...
+That's reassuring.
+--------------------------------------------------End--
+{Yuna} 
+H-Yes!
+--------------------------------------------------End--
+{Seymour} 
+Please, don't `42+58.42+59.` so much.
+--------------------------------------------------End--
+{Wakka} 
+Um...
+--------------------------------------------------End--
+{Wakka} 
+{Seymour}-sama...
+--------------------------------------------------End--
+{Wakka} 
+Why here?
+Might you be here?
+--------------------------------------------------End--
+{Seymour} 
+Please use your usual way of 42+60.
+--------------------------------------------------End--
+{Wakka} 
+Um, a strategy that goes against {Yevon2}'s teachings.
+Wouldn't it be bad if we don't stop it?
+--------------------------------------------------End--
+{Seymour} 
+Indeed... that's right.
+--------------------------------------------------End--
+{Seymour} 
+However...
+--------------------------------------------------End--
+{Seymour} 
+Both {Crusader} and the {Al Bhed} tribe.
+Seriously wishing for {Spira}'s peace.
+--------------------------------------------------End--
+{Seymour} 
+When their noble wishes unite.
+{Operation Mi'ihen} will be realized.
+--------------------------------------------------End--
+{Seymour} 
+Even if it goes against {Yevon2}'s teachings.
+Their aspirations are noble.
+--------------------------------------------------End--
+{Seymour} 
+Not as {Yevon2}'s master.
+But as one who lives equally for {Spira}...
+--------------------------------------------------End--
+{Seymour} 
+As {Seymor} the individual.
+I will not hold back my support.
+--------------------------------------------------End--
+{Wakka} 
+But the {Al Bhed} tribe's machines are a problem.
+--------------------------------------------------End--
+{Seymour} 
+Let's pretend we didn't see it.
+--------------------------------------------------End--
+{Wakka} 
+If Master says such a thing.
+You won't be able to set an example for everyone!
+--------------------------------------------------End--
+{Seymour} 
+Then let's pretend I didn't hear that.
+--------------------------------------------------End--
+{Wakka} 
+Seriously~!?
+--------------------------------------------------End--
+
+From the first time I saw it.
+I didn't like {Seymour}.
+--------------------------------------------------End--
+
+But this time, {Seymour} was the one who...
+I thought was saying good things.
+--------------------------------------------------End--
+{Clasko} 
+{Yuna} and the guards, correct?
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{Clasko} 
+Please head to Operations Command.
+--------------------------------------------------End--
+{Clasko} 
+{Master Seymor}...
+They specifically asked for {Yuna} too.
+--------------------------------------------------End--
+{Yuna} 
+...Yes.
+--------------------------------------------------End--
+{Clasko} 
+Command is that way, so please take that path.
+--------------------------------------------------End--
+{Clasko} 
+This way, with operation preparations...
+...it's a bit chaotic, my apologies.
+--------------------------------------------------End--
+{Clasko} 
+Not this way, but that path over there.
+My explanation was no good, huh...?
+--------------------------------------------------End--
+{Clasko} 
+Even a 道42+68.内 is a respectable 42+69.42+70.!
+--------------------------------------------------End--
+{Clasko} 
+I know...
+Anyway, all I can be is a 道42+68.内.
+--------------------------------------------------End--
+{Clasko} 
+Someone like a 42+71.ri-lofty Chocobo cavalryman...
+...that's not my style, me...
+--------------------------------------------------End--
+{Clasko} 
+And I'm always getting scolded by Captain {Lucil}...
+Anyway, someone like me...
+--------------------------------------------------End--
+{Clasko} 
+*sigh*... Anyway, someone like me...
+--------------------------------------------------End--
+{Tidus} 
+Don't say "anyway, someone like me."
+Don't give up!
+--------------------------------------------------End--
+{Clasko} 
+It's fine...
+Someone like me, anyway...
+--------------------------------------------------End--
+
+If I have this, ahead...
+Perhaps we can proceed.
+--------------------------------------------------End--
+
+It's a distribution of goods from {Crusader}.
+Keep this!
+--------------------------------------------------End--
+
+I'll give you this, so our 42+73....
+Please don't increase them.
+--------------------------------------------------End--
+
+Sufficient caution is necessary to proceed.
+I hope this can be of at least a little help.
+--------------------------------------------------End--
+
+Please be cautious on your way.
+This 42+74. might 42+76. for 42+75..
+--------------------------------------------------End--
+
+This area is sealed until the operation ends.
+Passage cannot be allowed.
+--------------------------------------------------End--
+
+You got in with {Master Seymor}'s influence, and...
+You're going to leave now?
+--------------------------------------------------End--
+
+The Temple did not forsake us...
+Now we can fight without reservation!
+--------------------------------------------------End--
+
+Since monsters also infest the operational area...
+I have my subordinates 42+78.42+79..
+--------------------------------------------------End--
+
+{Master Seymor} is also watching.
+I must make this operation succeed, even if it costs my life!
+--------------------------------------------------End--
+
+If we convey Lord {Seymour}'s message to the entire army,
+the morale of our forces will certainly rise!
+--------------------------------------------------End--
+
+The fact that Elder Master is coming means...
+The temple has approved the operation, right?
+--------------------------------------------------End--
+
+Perhaps Lord {Seymour} will also
+fight with a summoned beast!
+--------------------------------------------------End--
+{Wakka} 
+Damn it!
+--------------------------------------------------End--
+{Wakka} 
+Wh...!?
+--------------------------------------------------End--
+{Tidus} 
+They really dislike it...
+--------------------------------------------------End--
+{Lulu} 
+{Chappu}, you see...
+--------------------------------------------------End--
+{Lulu} 
+The sword {Wakka} made
+was left on the island.
+--------------------------------------------------End--
+{Lulu} 
+And {Al Bhed2} obtained
+the mechanical weapons __P0__ made.
+--------------------------------------------------End--
+{Wakka} 
+That's irrelevant!
+--------------------------------------------------End--
+{Wakka} 
+It's just that I dislike machines that defy the teachings!
+--------------------------------------------------End--
+
+With these hands of mine,
+I will deliver the finishing blow to '{Sin}'.
+--------------------------------------------------End--
+
+Controlling ancient machines,
+I will bury '{Sin}'.
+--------------------------------------------------End--
+
+To the incompetents who follow instructions.
+I'll show them the power of {Al Bhed}.
+--------------------------------------------------End--
+
+The cannon got misaligned after a test fire.
+The amount of gunpowder was apparently too much.
+--------------------------------------------------End--
+
+I have to fix it before the operation begins...
+Here we go.
+--------------------------------------------------End--
+
+When 『{Sin} 』 appears from the sea,
+We will conduct artillery fire and halt its movement.
+{NEWPAGE}
+
+Once 『{Sin} 』's movement has stopped,
+We will swiftly finish it off with {Al Bhed}'s machine.
+--------------------------------------------------End--
+
+I tried a test shot just now, but
+I was startled by the tremendous sound.
+{NEWPAGE}
+
+I almost fainted.
+That sound might have reached all the way to {Luca}.
+--------------------------------------------------End--
+
+If the target is as large as 『{Sin} 』,
+It will hit even without aiming.
+--------------------------------------------------End--
+{O'aka} 
+Welcome.
+This is the 42+86.primary 42+87.{O'aka} for the operation.
+--------------------------------------------------End--
+{O'aka} 
+Oh, young man.
+--------------------------------------------------End--
+{O'aka} 
+Hehehe, I sneaked in.
+--------------------------------------------------End--
+{O'aka} 
+At {Operation Mi'ihen} 42+88.42+89.
+I'll make a big profit!
+--------------------------------------------------End--
+{O'aka} 
+But the boy is special.
+It's fine with 42+90.people42+88.42+89., alright?
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+
+Ordinarily, the highway's 42+78.defenses...
+It's {Crusader}'s 42+69.42+70., however...
+{NEWPAGE}
+
+Now, the temple's warrior monks and {Guado2}...
+...are 42+91.jointly taking charge of the 42+78.defenses.
+{NEWPAGE}
+
+For {Maester Kinoc} and {Seymour}-sama, the people's...
+...safety is their first priority.
+--------------------------------------------------End--
+
+{Crusader}'s 42+75.shift has ended.
+From now on, the warrior monks and {Guado} will protect {Spira}.
+--------------------------------------------------End--
+
+Because {Crusader} was defeated...
+A guard in a place like this.
+{NEWPAGE}
+
+Of the stupid 42+92.fools who defied the teachings...
+...I'm being made to clean up their mess.
+--------------------------------------------------End--
+
+{Guado2} is unfriendly, but...
+Once they become an ally, they're dependable!
+--------------------------------------------------End--
+
+Monster activity is intensifying.
+On your journey, do not neglect 42+78.42+79.!
+--------------------------------------------------End--
+
+Immediately after {Operation Mi'ihen}, the warrior monks...
+They handled the 42+78. preparations for us, but...
+{NEWPAGE}
+
+Something about protecting {Bevelle}.
+They suddenly 42+93. retreated.
+{NEWPAGE}
+
+We, {Crusader}, to our original...
+It seems the time has come to return to our 42+69.42+70..
+--------------------------------------------------End--
+{WINDOW}
+Leave {CHOICE:30} alone.
+Let's encourage {CHOICE:31}!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go up.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go down.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Rusty Sword}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+It's a statue of {Mi'ihen}.
+Why in a place like this...?
+--------------------------------------------------End--
+
+Here too, a {Yellow} sword {White} is stuck in.
+A 42+94. object for {Mi'ihen}...?
+--------------------------------------------------End--
+
+It's someone's statue.
+It seems to be the same as the one in {Mi'ihen Highroad}.
+--------------------------------------------------End--
+
+Here too, a {Yellow} sword {White} is stuck in.
+What meaning could it have...?
+--------------------------------------------------End--
+
+It won't open...
+--------------------------------------------------End--
+
+{Yellow} 【{Celestial Mirror}】{White} is 反42+55.ing...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Celestial Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+{Yellow} 【{Cloudy Mirror}】{White} is 反42+55.ing...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Cloudy Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+It seems power is insufficient...
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Port Kilika
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--
+{AREA}
+Mushroom Rock Road
+--------------------------------------------------End--
+{AREA}
+Djose Yevon Temple
+--------------------------------------------------End--

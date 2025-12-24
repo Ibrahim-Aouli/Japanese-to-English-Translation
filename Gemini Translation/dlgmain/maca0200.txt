@@ -1,0 +1,256 @@
+{Auron} 
+Leave it to me.
+--------------------------------------------------End--
+{Tromell} 
+Th-thank you!
+--------------------------------------------------End--
+{Tromell} 
+Lord {Yuna}!?
+--------------------------------------------------End--
+
+{Rikku2} ！！
+--------------------------------------------------End--
+
+If you interfere...
+He's your opponent!
+--------------------------------------------------End--
+
+Both {magic} and {aeons}...
+I'll seal you both away!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+Whaat!?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Procession!
+--------------------------------------------------End--
+{Rikku} 
+Magic and summoned beasts...
+They're saying they'll seal them away!
+--------------------------------------------------End--
+
+Do it!
+--------------------------------------------------End--
+{Tromell} 
+Lord {Yuna}!
+--------------------------------------------------End--
+
+I'll tell Dad!
+--------------------------------------------------End--
+{Rikku} 
+I'm {Yuna}'s.
+I became {guardian}, so!
+--------------------------------------------------End--
+{Rikku} 
+{Yuna} will be fine!
+Everyone will protect him, so he'll be fine!
+--------------------------------------------------End--
+
+No matter what happens...
+...I won't care, so!
+--------------------------------------------------End--
+{Rikku} 
+Ahahahaha...
+--------------------------------------------------End--
+{Rikku} 
+That I became a Guard.
+I said it.
+--------------------------------------------------End--
+{Rikku} 
+Hmm... it can't be helped, I guess.
+--------------------------------------------------End--
+{Wakka} 
+Why {Al Bhed2}'s...
+...info shop do you know?
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Hey?
+--------------------------------------------------End--
+{Rikku} 
+Because I'm {Al Bhed2}.
+Oh, my older brother...
+--------------------------------------------------End--
+{Wakka} 
+...You knew?
+--------------------------------------------------End--
+{Wakka} 
+Why did you keep quiet?
+--------------------------------------------------End--
+{Lulu} 
+You'd get angry, right?
+--------------------------------------------------End--
+{Wakka} 
+You're the most favored, I tell you...
+--------------------------------------------------End--
+{Wakka} 
+With Anti-{Yevon2}'s {Al Bhed2}...
+...that you're together, you know.
+--------------------------------------------------End--
+{Rikku} 
+We, to {Yevon2}...
+...aren't opposing them at all, you know.
+--------------------------------------------------End--
+{Wakka} 
+You all, forbidden machines...
+...are using them without a care!
+--------------------------------------------------End--
+{Wakka} 
+Do you understand?
+--------------------------------------------------End--
+{Wakka} 
+That '{Sin}' was born...
+...it's because humans went too far with machines, isn't it!
+--------------------------------------------------End--
+{Rikku} 
+Where's Shouko?
+Show me Shouko!
+--------------------------------------------------End--
+{Wakka} 
+It's {Yevon2}'s teaching!
+There are many lessons too!
+--------------------------------------------------End--
+{Rikku} 
+It's not getting clear!
+--------------------------------------------------End--
+{Rikku} 
+"Teaching, teaching," you say!
+--------------------------------------------------End--
+{Rikku} 
+Think for yourself more!
+--------------------------------------------------End--
+{Wakka} 
+Then tell me!
+--------------------------------------------------End--
+{Wakka} 
+So, why...
+...did 『{Sin} 』 come into being?
+--------------------------------------------------End--
+{Rikku} 
+That... I don't know.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Tch!
+--------------------------------------------------End--
+{Wakka} 
+Making light of {Yevon2}'s teachings...
+Is that all, in the end?
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+But!
+--------------------------------------------------End--
+{Rikku} 
+Just because it's a teaching, if you don't think at all,
+...it will stay this way!
+--------------------------------------------------End--
+{Rikku} 
+No matter how much time passes,
+...nothing will change!
+--------------------------------------------------End--
+{Wakka} 
+It's okay if it doesn't change!
+--------------------------------------------------End--
+{Rikku} 
+Is it okay if 『{Sin} 』 keeps resurrecting?
+--------------------------------------------------End--
+{Rikku} 
+Maybe that...
+It might be stopped.
+--------------------------------------------------End--
+{Wakka} 
+If we can fully atone for our sins,
+{Sin} won't revive.
+--------------------------------------------------End--
+{Rikku} 
+How are we supposed to atone?!
+--------------------------------------------------End--
+{Wakka} 
+If we continue to act according to the teachings,
+Someday, we'll be able to atone!
+--------------------------------------------------End--
+{Rikku} 
+Somehow...
+This is pointless.
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+{Rikku} ！
+--------------------------------------------------End--
+{Auron} 
+Does this move?
+--------------------------------------------------End--
+{Wakka} 
+You mean we should ride that?
+--------------------------------------------------End--
+{Wakka} 
+Surely not you too, {Auron}?
+It's not {Al Bhed}, is it?
+--------------------------------------------------End--
+{Tidus} 
+You're strange, {Wakka}.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+What is?
+--------------------------------------------------End--
+{Tidus} 
+That {Rikku} is {Al Bhed2}...
+...and then you suddenly got angry.
+--------------------------------------------------End--
+{Tidus} 
+We were getting along so well until now, weren't we?!
+--------------------------------------------------End--
+{Wakka} 
+Well, you...
+--------------------------------------------------End--
+{Tidus} 
+I don't know much about {Spira},
+but...
+--------------------------------------------------End--
+{Tidus} 
+What kind of people {Al Bhed2} are.
+I don't know anything about them, but...
+--------------------------------------------------End--
+{Tidus} 
+I think {Rikku} is a good person.
+--------------------------------------------------End--
+{Tidus} 
+{Rikku} is {Rikku}.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Ruu...
+--------------------------------------------------End--
+{Lulu} 
+A good opportunity to get to know {Al Bhed2}.
+Why don't you try thinking that way?
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Tch!
+--------------------------------------------------End--
+{Auron} 
+Leave it alone.
+--------------------------------------------------End--
+{Auron} 
+42+53.It won't simply be accepted.
+--------------------------------------------------End--
+{Rikku} 
+...Sorry.
+--------------------------------------------------End--
+{Lulu} 
+You don't need to apologize.
+--------------------------------------------------End--
+{Tidus} 
+Alright, let's go!
+--------------------------------------------------End--
+{Rikku} 
+Can you drive~?
+--------------------------------------------------End--
+{Tidus} 
+I can't lose to {Kimahri}!
+--------------------------------------------------End--

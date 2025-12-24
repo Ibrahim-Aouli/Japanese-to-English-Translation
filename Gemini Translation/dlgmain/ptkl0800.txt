@@ -1,0 +1,246 @@
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract for 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+I opened the shop, but there's no business at all...
+There's nothing to be done.
+--------------------------------------------------End--
+
+All the food and alcohol are at the bottom of the sea.
+It was taken by 『{Sin} 』.
+--------------------------------------------------End--
+
+The one who saved my sister was...
+It was you, wasn't it?
+{NEWPAGE}
+
+That reward is just a small thank you.
+Don't hesitate to accept it.
+--------------------------------------------------End--
+
+That person, since {Operation Mi'ihen}...
+Ever since returning, they've been like that.
+--------------------------------------------------End--
+
+I want to practice in preparation for the next tournament, but...
+I'm busy and have no free time.
+--------------------------------------------------End--
+
+Those warrior monks, after eating and drinking on credit...
+and promptly returned to {Bevelle}.
+{NEWPAGE}
+
+That's just like dining and dashing.
+I don't want to be underestimated.
+--------------------------------------------------End--
+
+The warrior monks' food bill...
+I'll have the temple pay.
+--------------------------------------------------End--
+
+It's fine even if no excuses are given.
+I want to stay here.
+{NEWPAGE}
+
+I'm so scared to see 42+57....
+I feel like I can see his shadow.
+--------------------------------------------------End--
+
+What? Are you going to... me again?
+...make me out to be 42+58.?
+{NEWPAGE}
+
+Ah, yes, that's right. We {Crusader}...
+...were all complete fools!
+{NEWPAGE}
+
+To try and defeat '{Sin}' by disregarding the Summoner...
+...was the height of 42+59.!
+{NEWPAGE}
+
+That's why everyone died.
+Damn it...
+--------------------------------------------------End--
+
+Leave me alone!
+Isn't that enough already...?
+--------------------------------------------------End--
+
+No, I'm not slacking off.
+I'm recuperating my strength in preparation for 42+60.42+61.
+--------------------------------------------------End--
+
+If '{Sin}' is destroyed,
+...I'll be the first to give 42+63.42+64.
+{NEWPAGE}
+
+Hm? Is it too soon?
+--------------------------------------------------End--
+
+Thank you for helping me.
+My home got broken, but...
+{NEWPAGE}
+
+...Big Sister is here.
+I am fine!
+--------------------------------------------------End--
+
+Big brother, are you a Blitz player?
+I'll support you! Do your best~!
+--------------------------------------------------End--
+
+My big sister is amazing!
+She plays Blitz while working.
+--------------------------------------------------End--
+
+I, too, like my big sister,
+I will become a player!
+--------------------------------------------------End--
+{WINDOW}
+{Al Bhed} Obtained Word Dictionary Volume 4!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31} 『{OPurple} ル{White} 』 means 『{Pink} く{White} 』
+{VAR07:31} 『{OPurple} テ{White} 』 means 『{Pink} け{White} 』
+{VAR07:31} 『{OPurple} ヨ{White} 』 means 『{Pink} こ{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar word 『{Al Bhed} language』: {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

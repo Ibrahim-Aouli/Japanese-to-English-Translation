@@ -1,0 +1,76 @@
+{Jecht} 
+The summoned beast at {Besaid}...
+If we manage to get it...
+--------------------------------------------------End--
+{Jecht} 
+...then what do we do?
+--------------------------------------------------End--
+{Auron} 
+We'll return along the road we came.
+--------------------------------------------------End--
+{Auron} 
+From {Bevelle}, we'll head north.
+And aim for the northern Spirit Rows {Gagazet}.
+--------------------------------------------------End--
+{Braska} 
+Beyond that is... {Zanarkand}.
+--------------------------------------------------End--
+{Jecht} 
+Is it {Zanarkand}...?
+--------------------------------------------------End--
+{Jecht} 
+It's ruins, isn't it? From 1000 years ago.
+--------------------------------------------------End--
+{Auron} 
+Legend says so, but...
+The reality is unknown.
+--------------------------------------------------End--
+{Auron} 
+Your true place...
+...might exist.
+--------------------------------------------------End--
+{Jecht} 
+Stop the empty reassurances.
+--------------------------------------------------End--
+
+
+--------------------------------------------------End--
+{Jecht} 
+If I followed you all...
+...I thought I could go home, but...
+--------------------------------------------------End--
+{Jecht} 
+...it seems that's not the case.
+--------------------------------------------------End--
+{Braska} 
+……Sorry.
+--------------------------------------------------End--
+{Jecht} 
+Well, it can't be helped!
+It's not your fault.
+--------------------------------------------------End--
+{Jecht} 
+Before we complain...
+First, we must defeat 『{Sin}』.
+--------------------------------------------------End--
+{Jecht} 
+Returning to {Zanarkand} is...
+It will be after that.
+--------------------------------------------------End--
+{Jecht} 
+Well, I'll definitely return!
+--------------------------------------------------End--
+{Braska} 
+Don't die, {Jecht}.
+--------------------------------------------------End--
+{Jecht} 
+Don't say such unlucky things!
+--------------------------------------------------End--
+{Jecht} 
+Instead, you yourself don't die.
+Don't make {Yuna} sad.
+--------------------------------------------------End--
+{Braska} 
+That child will be fine.
+Died 42+55. to 42+56. and... She's a strong child.
+--------------------------------------------------End--

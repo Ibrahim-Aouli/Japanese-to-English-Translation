@@ -1,0 +1,253 @@
+{WINDOW}
+{Tidus} 
+{Yuna} 
+--------------------------------------------------End--
+{Yuna} 
+This wasn't how it was supposed to...
+...be, though.
+--------------------------------------------------End--
+{Yuna} 
+With everyone's support...
+--------------------------------------------------End--
+{Yuna} 
+I thought I could make it to the shop.
+--------------------------------------------------End--
+{Yuna} 
+I was trying so hard, though...
+--------------------------------------------------End--
+{Tidus} 
+Stop...
+Stop trying so hard.
+--------------------------------------------------End--
+{Tidus} 
+I heard... everything.
+--------------------------------------------------End--
+{Yuna} 
+Everything?
+--------------------------------------------------End--
+{Yuna} 
+Oh, I see... you know.
+--------------------------------------------------End--
+{Tidus} 
+...Sorry.
+--------------------------------------------------End--
+{Tidus} 
+Look... well, I...
+...said a lot, didn't I?
+--------------------------------------------------End--
+{Tidus} 
+Like, "Let's defeat {Sin} quickly," or...
+...or "Let's go to {Zanarkand}," or...
+--------------------------------------------------End--
+{Tidus} 
+...even how {Yuna} would turn out...
+...without knowing.
+--------------------------------------------------End--
+{Tidus} 
+How should I put it...
+...I might have made you feel bad.
+--------------------------------------------------End--
+{Tidus} 
+I'm glad.
+--------------------------------------------------End--
+{Yuna} 
+That's not true.
+--------------------------------------------------End--
+{Yuna} 
+It was fun.
+--------------------------------------------------End--
+{Tidus} 
+Hey.
+--------------------------------------------------End--
+{Tidus} 
+Let's just quit.
+--------------------------------------------------End--
+{Yuna} 
+Trying hard?
+--------------------------------------------------End--
+{Tidus} 
+Journey.
+--------------------------------------------------End--
+{Tidus} 
+Things like '{Sin}' or Summoners.
+Let's forget about all that.
+--------------------------------------------------End--
+{Tidus} 
+Yeah, normal, or rather...
+Living a plain life isn't good either.
+--------------------------------------------------End--
+{Yuna} 
+...Maybe that's good.
+--------------------------------------------------End--
+{Yuna} 
+But everyone will be surprised, won't they?
+--------------------------------------------------End--
+{Tidus} 
+Yes.
+--------------------------------------------------End--
+{Tidus} 
+It's alright.
+{Rikku} will agree.
+--------------------------------------------------End--
+{Tidus} 
+{Lulu} and {Wakka} too.
+It'll work out somehow!
+--------------------------------------------------End--
+{Yuna} 
+I think {Kimahri} will understand too.
+{Auron}-san is...
+--------------------------------------------------End--
+{Tidus} 
+Leave it to me.
+I'll settle things!
+--------------------------------------------------End--
+{Yuna} 
+No, I'll say it.
+I need to do it properly.
+--------------------------------------------------End--
+{Yuna} 
+If I quit the journey,
+What should I do...?
+--------------------------------------------------End--
+{Tidus} 
+{Zanarkand} ！
+{Zanarkand} Let's go!!
+--------------------------------------------------End--
+{Tidus} 
+Ah, not {Spira}'s...
+My place!
+--------------------------------------------------End--
+{Tidus} 
+Hey, we'll get on that airship and...
+And bring everyone along.
+--------------------------------------------------End--
+{Tidus} 
+Then at my place...
+We'll have a big party.
+--------------------------------------------------End--
+{Yuna} 
+I want to see Blitz!
+--------------------------------------------------End--
+{Yuna} 
+It's your {Zanarkand Abes}!
+--------------------------------------------------End--
+{Yuna} 
+At the stadium at midnight...
+Everyone will cheer together.
+--------------------------------------------------End--
+{Yuna} 
+Shouting until our throats are hoarse...
+And really want to 42+53.
+--------------------------------------------------End--
+{Tidus} 
+Got it!
+--------------------------------------------------End--
+{Yuna} 
+Hey, after the game is over?
+--------------------------------------------------End--
+{Tidus} 
+Of course, we'll go 42+54.!
+--------------------------------------------------End--
+{Yuna} 
+At midnight?
+--------------------------------------------------End--
+{Tidus} 
+It's alright!
+{Zanarkand} never sleeps.
+--------------------------------------------------End--
+{Tidus} 
+Let's go see the ocean before dawn.
+--------------------------------------------------End--
+{Tidus} 
+The town's 42+55. disappearing one by one...
+The stars also disappear...
+--------------------------------------------------End--
+{Tidus} 
+Instead, the horizon
+lights up brightly.
+--------------------------------------------------End--
+{Tidus} 
+Rose-colored... I guess that's what it's called.
+The sea, the sky, and the town too... all 42+56.まる.
+--------------------------------------------------End--
+{Tidus} 
+It's very beautiful.
+--------------------------------------------------End--
+{Tidus} 
+I want to show it to {Yuna} too.
+--------------------------------------------------End--
+{Yuna} 
+Hmm...
+--------------------------------------------------End--
+{Yuna} 
+I want to go... see it.
+--------------------------------------------------End--
+{Tidus} 
+I'll take you!
+Let's go together.
+--------------------------------------------------End--
+{Tidus} 
+Yu...
+--------------------------------------------------End--
+{Yuna} 
+I can't...
+I just can't...
+--------------------------------------------------End--
+{Yuna} 
+I can't go...
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Ah...
+--------------------------------------------------End--
+{Yuna} 
+My journey... I'll continue.
+--------------------------------------------------End--
+{Tidus} 
+Yes.
+--------------------------------------------------End--
+{Yuna} 
+If I give up...
+--------------------------------------------------End--
+{Yuna} 
+No matter where I am or what I'm doing...
+It will surely be painful.
+--------------------------------------------------End--
+{Yuna} 
+Even if I'm with you...
+I definitely can't show it.
+--------------------------------------------------End--
+{Tidus} 
+...Right.
+--------------------------------------------------End--
+{Tidus} 
+I'll go too.
+--------------------------------------------------End--
+{Tidus} 
+It's because I'm a guard.
+--------------------------------------------------End--
+{Tidus} 
+Fired, by any chance?
+--------------------------------------------------End--
+{Yuna} 
+Until the end.
+Please...
+--------------------------------------------------End--
+{Tidus} 
+Not the end...
+--------------------------------------------------End--
+{Tidus} 
+Always.
+--------------------------------------------------End--
+{Yuna} 
+...Thanks.
+--------------------------------------------------End--
+{Yuna} 
+Hey, should we go back to everyone first?
+--------------------------------------------------End--
+{Tidus} 
+Okay!
+--------------------------------------------------End--
+{Yuna} 
+I'll go with you after all.
+--------------------------------------------------End--

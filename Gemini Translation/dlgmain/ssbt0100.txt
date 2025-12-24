@@ -1,0 +1,60 @@
+{Tidus} 
+We did it!
+--------------------------------------------------End--
+{Cid} 
+You guys did a good job too!
+--------------------------------------------------End--
+{Cid} 
+Alright!
+--------------------------------------------------End--
+{Cid} 
+With this momentum, let's get the other side done too!
+--------------------------------------------------End--
+{Rikku} 
+Don't decide that on your own!
+--------------------------------------------------End--
+{Rikku} 
+They say the shop cannon is broken...
+--------------------------------------------------End--
+{Cid} 
+It can't be helped. You all, go back!
+Time to rework the strategy!
+--------------------------------------------------End--
+{Tidus} 
+No, I'm going!
+--------------------------------------------------End--
+{Tidus} 
+When there's momentum, you ride it!
+These are Blitz's railroad tracks!
+--------------------------------------------------End--
+{Yuna} 
+Let's do our best!
+--------------------------------------------------End--
+{Rikku} 
+I'll go ahead!
+--------------------------------------------------End--
+{Lulu} 
+I never get bored when I'm with you.
+--------------------------------------------------End--
+{Wakka} 
+Let's do this!
+--------------------------------------------------End--
+{Auron} 
+It's quite unconventional, but...
+It's an exhilarating strategy.
+--------------------------------------------------End--
+{Kimahri} 
+Behold the Ronzo's spirit!
+--------------------------------------------------End--
+{Tidus} 
+Wait!
+I'm the ace!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Yuna
+{CHOICE:31}Lulu
+Rikku
+Wakka
+Auron
+Kimahri
+--------------------------------------------------End--

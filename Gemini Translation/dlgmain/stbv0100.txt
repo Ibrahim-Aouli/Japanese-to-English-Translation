@@ -1,0 +1,472 @@
+{Rikku} 
+{Yunie} 〜！
+--------------------------------------------------End--
+{Rikku} 
+I'm so glad!
+--------------------------------------------------End--
+{Rikku} 
+That's truly good.
+I was worried!
+--------------------------------------------------End--
+{Yuna} 
+Yeah... thanks.
+--------------------------------------------------End--
+{Tidus} 
+Ah...
+Hey...
+--------------------------------------------------End--
+{Auron} 
+{Kinoc} ……！
+--------------------------------------------------End--
+{Tidus} 
+You bastard!
+--------------------------------------------------End--
+{Seymour} 
+I saved the line.
+--------------------------------------------------End--
+{Seymour} 
+This man was a glutton for shop power.
+--------------------------------------------------End--
+{Seymour} 
+Just because he gained great shop power...
+He feared losing it...
+--------------------------------------------------End--
+{Seymour} 
+Trembling before unseen enemies...
+Days spent devising trivial schemes.
+--------------------------------------------------End--
+{Seymour} 
+Never knowing a moment's peace.
+He must have been cornered.
+--------------------------------------------------End--
+{Seymour} 
+But...
+--------------------------------------------------End--
+{Seymour} 
+No longer needing to worry.
+42+53. He has obtained eternal peace.
+--------------------------------------------------End--
+{Seymour} 
+Death is 42+54. eternal sleep.
+--------------------------------------------------End--
+{Seymour} 
+All kinds of suffering...
+42+55. thoroughly wipes away 42+56. ...and heals.
+--------------------------------------------------End--
+{Seymour} 
+Then...
+--------------------------------------------------End--
+{Seymour} 
+If all life perishes...
+All pain will also... be healed.
+--------------------------------------------------End--
+{Seymour} 
+You'd think so, wouldn't you?
+--------------------------------------------------End--
+{Seymour} 
+That is precisely why you are needed.
+--------------------------------------------------End--
+{Seymour} 
+Now, {Yuna} 42+57.
+--------------------------------------------------End--
+{Seymour} 
+To {Zanarkand} together.
+To the farthest city of the dead.
+--------------------------------------------------End--
+{Seymour} 
+To save {Spira} with the power of death.
+For that purpose.
+--------------------------------------------------End--
+{Seymour} 
+Taking your power and life 42+58.
+I will become a new "{Sin}" ...
+--------------------------------------------------End--
+{Seymour} 
+Destroy {Spira} and save it.
+--------------------------------------------------End--
+{Tidus} 
+What is that...?
+--------------------------------------------------End--
+{Seymour} 
+Obstructive...
+--------------------------------------------------End--
+{Seymour} 
+Very well.
+--------------------------------------------------End--
+{Seymour} 
+Then, to you too.
+I'll grant you peace!
+--------------------------------------------------End--
+{Kimahri} 
+Run!
+Protect {Yuna}!!
+--------------------------------------------------End--
+{Auron} 
+Go!
+--------------------------------------------------End--
+{Tidus} 
+Old man, don't mess around...
+--------------------------------------------------End--
+{Auron} 
+I said go!
+--------------------------------------------------End--
+{Tidus} 
+Damn it!
+--------------------------------------------------End--
+{Yuna} 
+I cannot leave {Kimahri} behind!
+--------------------------------------------------End--
+{Auron} 
+42+59. is a guard.
+Protecting you is everything.
+--------------------------------------------------End--
+{Yuna} 
+But!
+--------------------------------------------------End--
+{Tidus} 
+That's right!
+I'm a guard!
+--------------------------------------------------End--
+{Tidus} 
+Oh, I'm a guard!
+--------------------------------------------------End--
+{Tidus} 
+So wherever {Yuna} goes,
+I'll follow!
+--------------------------------------------------End--
+{Yuna} 
+Anywhere?
+--------------------------------------------------End--
+{Tidus} 
+And protect!
+--------------------------------------------------End--
+{Yuna} 
+Well then...
+--------------------------------------------------End--
+{Tidus} ＆{Yuna} 
+Let's go!
+--------------------------------------------------End--
+{Tidus} 
+{Kimahri} 〜！
+Don't try to be cool on your own!
+--------------------------------------------------End--
+{Wakka} 
+Alright!
+Let me join too!
+--------------------------------------------------End--
+{Rikku} 
+Me too!
+--------------------------------------------------End--
+{Lulu} 
+I'll run too.
+--------------------------------------------------End--
+{Tidus} 
+Run!!!
+--------------------------------------------------End--
+{Wakka} 
+Tsk! It looks like this will become troublesome!
+(Included in 16)
+--------------------------------------------------End--
+
+Rebel, {Yuna}!
+--------------------------------------------------End--
+
+How dare you show your face so shamelessly!
+I'll punish you in {Yevon2}'s name!
+--------------------------------------------------End--
+{Tidus} 
+But still...
+What will you do?
+--------------------------------------------------End--
+{Rikku} 
+I'll accept any fight that's picked!
+--------------------------------------------------End--
+
+Prepare to charge!
+--------------------------------------------------End--
+{Shelinda} 
+Wait!
+--------------------------------------------------End--
+
+42+60.42+61.官42+57....?
+--------------------------------------------------End--
+{Shelinda} 
+You all... to Lord {Yuna}...
+What are you doing?!
+--------------------------------------------------End--
+{Shelinda} 
+The claim that Lord {Yuna} is a rebel is...
+misinformation spread by {Al Bhed2}.
+--------------------------------------------------End--
+{Rikku} 
+What is that?!
+--------------------------------------------------End--
+{Shelinda} 
+Lord {Mika} said.
+--------------------------------------------------End--
+
+Then what should we do?
+--------------------------------------------------End--
+{Rikku} 
+Step back!
+--------------------------------------------------End--
+{Shelinda} 
+Do so.
+--------------------------------------------------End--
+{Rikku} 
+What was that talk about earlier?!
+--------------------------------------------------End--
+{Shelinda} 
+Um, actually, even I...
+I don't really understand.
+--------------------------------------------------End--
+{Shelinda} 
+The entire temple is in a commotion.
+It is confused...
+--------------------------------------------------End--
+{Shelinda} 
+I also 42+62.日突42+63.42+64. was found out.
+I was ordered concerning 門42+65.の42+60.42+61.
+--------------------------------------------------End--
+{Auron} 
+It seems they're short-handed.
+--------------------------------------------------End--
+{Shelinda} 
+Yes, to be frank.
+The temple is quite a mess.
+--------------------------------------------------End--
+{Shelinda} 
+It's awful!
+--------------------------------------------------End--
+{Shelinda} 
+The monks are all together, 42+66.42+67.
+are pushing onto each other!
+--------------------------------------------------End--
+{Shelinda} 
+Oh dear, what will become of {Yevon2}?
+...what will end up...?
+--------------------------------------------------End--
+{Shelinda} 
+But!
+--------------------------------------------------End--
+{Shelinda} 
+If others are flustered, then I
+must be steadfast, right!
+--------------------------------------------------End--
+{Shelinda} 
+{Yuna}-sama is also doing their best.
+I can't voice my weakness either.
+--------------------------------------------------End--
+{Tidus} 
+Instead, to {Maester Mika2}
+I want to meet... Is that possible?
+--------------------------------------------------End--
+{Shelinda} 
+Oh, yes!
+I think it will be fine.
+--------------------------------------------------End--
+{Shelinda} 
+Please wait in the courtroom~!
+--------------------------------------------------End--
+{Rikku} 
+Ah, wait a minute~!
+What's that rumor {Al Bhed} spread~!
+--------------------------------------------------End--
+{Auron} 
+Don't worry about it.
+--------------------------------------------------End--
+{Auron} 
+Even {Mika}, to {Yuna}
+has no choice but to rely.
+--------------------------------------------------End--
+{Rikku} 
+Ah… So that's how it is.
+--------------------------------------------------End--
+{Lulu} 
+That's incredibly presumptuous.
+--------------------------------------------------End--
+{Tidus} 
+Then I'll make you abandon your teachings!
+--------------------------------------------------End--
+{Yuna} 
+Yes, let's go.
+--------------------------------------------------End--
+{Maroda} 
+Wait.
+This path is closed.
+--------------------------------------------------End--
+{Maroda} 
+Absolutely no one to {Bevelle}
+is the temple's command.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Pacce} 
+Because {Maester Mika} passed away.
+They are in mourning.
+--------------------------------------------------End--
+{Pacce} 
+Big brother, what's 'Mo'?
+--------------------------------------------------End--
+{Maroda} 
+Don't worry about it.
+--------------------------------------------------End--
+{Maroda} 
+Well, that's the official reason.
+--------------------------------------------------End--
+{Maroda} 
+With all Four Masters gone,
+the temple is unstable.
+--------------------------------------------------End--
+{Maroda} 
+A rebellion has broken out, and they're expelling outsiders.
+Thanks to that, Big Brother is also in a lot of trouble.
+--------------------------------------------------End--
+{Tidus} 
+What is {Isaaru} doing?
+--------------------------------------------------End--
+{Maroda} 
+To remain in {Bevelle} for the temple's defense,
+he was tearfully begged to cooperate.
+--------------------------------------------------End--
+{Maroda} 
+Big Brother is like that too, you know.
+I couldn't quite refuse it...
+--------------------------------------------------End--
+{Pacce} 
+We're not continuing our journey,
+Is that okay...?
+--------------------------------------------------End--
+{Maroda} 
+There's no way it's good, but...
+It can't be helped.
+--------------------------------------------------End--
+{Maroda} 
+Well, that's how it is.
+--------------------------------------------------End--
+{Maroda} 
+Since {Bevelle} is quite chaotic,
+it's better not to go near, for your own good.
+--------------------------------------------------End--
+{Maroda} 
+The rumor that {Yuna}-sama is a rebel...
+...seems to be a false rumor from {Al Bhed2}, but...
+--------------------------------------------------End--
+{Maroda} 
+I can't really believe it, can I?
+And we were indebted to {Al Bhed}, after all.
+--------------------------------------------------End--
+{Maroda} 
+No matter how long you wait,
+{Bevelle}'s gate won't open.
+--------------------------------------------------End--
+{Pacce} 
+Big Brother {Isaaru} said
+to give his regards to {Yuna}-sama.
+--------------------------------------------------End--
+{Pacce} 
+And then...
+He said "I'm sorry."
+--------------------------------------------------End--
+{Pacce} 
+I heard a strange story, you know.
+--------------------------------------------------End--
+{Pacce} 
+If the flying ship sings,
+they say you sing along with it.
+--------------------------------------------------End--
+{Pacce} 
+Then, 『{Sin} 』
+they say you can defeat!
+--------------------------------------------------End--
+{Tidus} 
+It's better not to approach the temple, right?
+--------------------------------------------------End--
+{Tidus} 
+Is there any point in praying now?
+--------------------------------------------------End--
+{O'aka} 
+You're being chased, aren't you!?
+--------------------------------------------------End--
+{O'aka} 
+If there's anything you need,
+stock up now while you can!
+--------------------------------------------------End--
+{O'aka} 
+Even if they are rebels,
+I'm on Lord {Yuna}'s side!
+--------------------------------------------------End--
+{O'aka} 
+What are you doing!
+Hurry and escape!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Please.
+{CHOICE:31} I don't need it now.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Please, one more time.
+{CHOICE:31} I'll pass.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+73., to the Save Sphere
+The 転42+74. function to the {blitzball} Stadium
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s 42+75.地, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to 42+76.約 a scout.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+74. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

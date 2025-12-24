@@ -1,0 +1,143 @@
+{Yuna} 
+Let's go quickly!
+--------------------------------------------------End--
+
+This is {Luca Goers}'s waiting room.
+Unauthorized persons cannot enter.
+--------------------------------------------------End--
+
+What is the player doing?!
+The opening has already begun!
+--------------------------------------------------End--
+
+{Aurochs}'s waiting room is on the opposite side, you know!
+Or what? Is it that 'retten' thing?
+--------------------------------------------------End--
+
+{Aurochs}'s helper is audacious, aren't they?
+The opening ceremony is about to start!
+--------------------------------------------------End--
+
+{Aurochs}'s player!
+You should experience {Ronso}'s technique.
+--------------------------------------------------End--
+
+Nice! Right before the opening...
+This tense 応42+53.feeling!!
+{NEWPAGE}
+
+A feeling like the calm before the storm?
+It's getting 42+54.lively!
+--------------------------------------------------End--
+
+The players' fighting spirit...
+I can really feel it, can't I!
+--------------------------------------------------End--
+
+Lord Graab... something like an injury...
+...I hope he isn't injured...
+--------------------------------------------------End--
+
+This 42+55.guard is being rude!
+{NEWPAGE}
+
+To my Lord Graab!
+You won't let me see him!
+--------------------------------------------------End--
+
+Until Lord Gurav comes out.
+I'll wait for any number of hours!
+--------------------------------------------------End--
+
+I'll practice Blitz a lot.
+I will become a player like Biksun!
+--------------------------------------------------End--
+
+The other day, I had Biksun 42+56. for me.
+I received it! Isn't that great~?
+--------------------------------------------------End--
+
+Gowarz couldn't 42+57.win, but
+continuing 42+58.support is what a true supporter does, isn't it?
+--------------------------------------------------End--
+
+Because of the monster 42+59.activity, Gowarz's
+42+57.victory parade is cancelled, they say.
+--------------------------------------------------End--
+
+I brought refreshments for Gowarz, but
+the 42+55.guard won't let me in!
+--------------------------------------------------End--
+
+Your 42+57.win was a fluke, a fluke!
+Next year, Gowarz will win again!
+--------------------------------------------------End--
+
+Thanks to your 42+60.struggle,
+Gowarz's strength 42+61.stood out!
+--------------------------------------------------End--
+
+Since I was in small 42+62. school,
+I've been a Gowarz fan!
+{NEWPAGE}
+
+Compared to the 42+63.day, new fans from today...
+Year 42+64. is 42+65., that's how it is.
+--------------------------------------------------End--
+
+If you 42+66. a little more...
+The players should appear.
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} model change
+{CHOICE:33} Control Map Lines
+Return to {CHOICE:34}42+67.42+68.'s place.
+--------------------------------------------------End--
+{WINDOW}
+`Model: {CHOICE:51}`
+--------------------------------------------------End--
+{WINDOW}
+Obtained the {Al Bhed} Language Dictionary, Volume 6!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31}『{OPurple} Nu {White} 』42+70.『{Pink} Su {White} 』
+{VAR07:31}『{OPurple} He {White} 』42+70.『{Pink} Se {White} 』
+{VAR07:31}『{OPurple} Ho {White} 』42+70.『{Pink} So {White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+The unfamiliar word 42+71. '{Al Bhed} language', the {Al Bhed} language dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

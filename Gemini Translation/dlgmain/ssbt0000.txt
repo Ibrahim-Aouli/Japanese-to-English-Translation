@@ -1,0 +1,28 @@
+{Tidus} 
+Damn old man...
+--------------------------------------------------End--
+{Cid} 
+Hey! On {Sin}'s arm...
+Did you see it light up?
+--------------------------------------------------End--
+{Cid} 
+There's definitely something there!
+--------------------------------------------------End--
+{Brother} 
+This is bad!
+--------------------------------------------------End--
+{Cid} 
+What's wrong?!
+--------------------------------------------------End--
+{Brother} 
+We're being pulled towards {Sin}!
+--------------------------------------------------End--
+{Rikku} 
+We're being pulled towards {Sin}, I said!
+--------------------------------------------------End--
+{Cid} 
+All of you, get back inside!
+--------------------------------------------------End--
+{Brother} 
+This is bad! It's coming!!
+--------------------------------------------------End--

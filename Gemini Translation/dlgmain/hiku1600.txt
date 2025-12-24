@@ -1,0 +1,102 @@
+{Cid} 
+No time!
+Launch immediately!
+--------------------------------------------------End--
+{Brother} 
+Only {Three minute} left!
+--------------------------------------------------End--
+{Cid} 
+Don't dawdle!
+Do it with {one minute}!
+--------------------------------------------------End--
+{Tidus} 
+Where is {Yuna}?!
+--------------------------------------------------End--
+{Cid} 
+Have all companions boarded?
+--------------------------------------------------End--
+
+All survivors!
+--------------------------------------------------End--
+{Tidus} 
+I'm asking where it is!
+--------------------------------------------------End--
+{Tidus} 
+Line up!
+Where is {Yuna}?!
+--------------------------------------------------End--
+{Cid} 
+Find {Yuna}
+What are you going to do?
+--------------------------------------------------End--
+{Tidus} 
+I... didn't know anything, and...
+I just said selfish things.
+--------------------------------------------------End--
+{Tidus} 
+I cornered them...
+...made them feel sad...
+--------------------------------------------------End--
+{Tidus} 
+I'll apologize.
+I have to apologize.
+--------------------------------------------------End--
+{Cid} 
+What?! Apologize!
+Is that all?
+--------------------------------------------------End--
+{Cid} 
+And then drag them back into a journey again...
+And make them fight 'Sin'?
+--------------------------------------------------End--
+{Cid} 
+You'll dump everything onto the summoner...
+You intend to let them die alone!
+--------------------------------------------------End--
+{Tidus} 
+Shop!!
+--------------------------------------------------End--
+{Tidus} 
+{Yuna}...
+I absolutely won't let them die!
+--------------------------------------------------End--
+{Cid} 
+Heh! If it's just talk...
+You can say anything!
+--------------------------------------------------End--
+{Tidus} 
+I won't let them die,
+I'm telling you!!
+--------------------------------------------------End--
+{Cid} 
+Kid, those words...
+There's no lie in them, is there?
+--------------------------------------------------End--
+{Cid} 
+That you're not just an all-talk kid,
+Prove it!
+--------------------------------------------------End--
+{Tidus} 
+Yeah!
+--------------------------------------------------End--
+{Tidus} 
+Do you know their whereabouts!?
+--------------------------------------------------End--
+{Cid} 
+I don't know!
+That's why I'll search for them.
+--------------------------------------------------End--
+{Cid} 
+With this airship!
+--------------------------------------------------End--
+{Wakka} 
+A... Airship!?
+--------------------------------------------------End--
+{Brother} 
+Old man!
+Launch preparations complete!
+--------------------------------------------------End--
+{Cid} 
+Alright!!
+{1000 years} This is a real flight!
+--------------------------------------------------End--

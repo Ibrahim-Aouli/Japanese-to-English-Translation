@@ -1,0 +1,88 @@
+{WINDOW}
+{CHOICE:30} Go forward.
+{CHOICE:31} Wait here.
+--------------------------------------------------End--
+{Wakka} 
+{fayth} is below here.
+Come on, let's go!
+--------------------------------------------------End--
+{Tidus} 
+Inorigo?
+--------------------------------------------------End--
+{Lulu} 
+Before that, the 'Chamber of Trials'.
+Are you ready, {Kimahri} {Wakka}?
+--------------------------------------------------End--
+{Yuna} 
+I'll be in your care.
+--------------------------------------------------End--
+{Tidus} 
+Why!
+--------------------------------------------------End--
+{Lulu} 
+Because I'm not a guard.
+--------------------------------------------------End--
+{Yuna} 
+I'll be back as soon as possible.
+Wait for me.
+--------------------------------------------------End--
+{Tidus} 
+It might take another full day...
+Aren't you going to~?
+--------------------------------------------------End--
+{Dona} 
+Yuuna?
+--------------------------------------------------End--
+{Dona} 
+What are you doing?
+--------------------------------------------------End--
+{Tidus} 
+I'm not a guard, you know.
+I can't go in, right?
+--------------------------------------------------End--
+{Dona} 
+Hmm, you're not a guard?
+--------------------------------------------------End--
+{Tidus} 
+Wh-What is it!
+--------------------------------------------------End--
+{Tidus} 
+Ah! Let go, I'm telling you!
+--------------------------------------------------End--
+{Tidus} 
+Ugh, ow, ow! What are you doing?!
+--------------------------------------------------End--
+{Dona} 
+Payback.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+This is probably not good.
+--------------------------------------------------End--
+{Tidus} 
+Shop entry is forbidden for anyone but guards, you know.
+--------------------------------------------------End--
+{Tidus} 
+Why won't it move...?
+--------------------------------------------------End--
+{Tidus} 
+Now that we've come this far...
+The same?
+--------------------------------------------------End--
+
+One who is not a Guard...
+They had wandered into the 'Chamber of Trials'.
+--------------------------------------------------End--
+
+If you find anything suspicious, inform me!
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go down.
+--------------------------------------------------End--
+
+{WINDOW}
+{Button Circle}: Go up.
+--------------------------------------------------End--

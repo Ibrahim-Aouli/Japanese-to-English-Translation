@@ -1,0 +1,522 @@
+{Tidus} 
+How can I sleep?
+--------------------------------------------------End--
+{Lulu} 
+Being able to relax like this
+It might be the last time.
+--------------------------------------------------End--
+{Maechen} 
+This {Rin}-san's chain is in various places throughout {Spira}.
+They are located, and are very useful during travels.
+--------------------------------------------------End--
+{Shelinda} 
+A chain operated by {Al Bhed} people,
+I've heard, but...
+--------------------------------------------------End--
+{Shelinda} 
+Apparently, things that go against the teachings
+do not seem to be stocked, so I'm relieved.
+--------------------------------------------------End--
+
+{OPurple} Sorry.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+
+Oh, this is inexcusable.
+--------------------------------------------------End--
+
+I intended to say 'Sorry,' but
+it seems my {Al Bhed} language just slipped out.
+--------------------------------------------------End--
+{Tidus} 
+Are you a {Al Bhed} person?
+--------------------------------------------------End--
+
+I am {Rin}.
+I am the owner of this chain.
+--------------------------------------------------End--
+{Rin} 
+{OPurple} Nice to meet you.
+--------------------------------------------------End--
+{Rin} 
+It means 'Nice to meet you,' doesn't it?
+--------------------------------------------------End--
+{Tidus} 
+Oh, then I'll say '.{OPurple} マギレヤキセ{White} ' too.
+--------------------------------------------------End--
+{Rin} 
+If you're interested...
+--------------------------------------------------End--
+{Rin} 
+Books for learning {P0} language are
+placed here and there.
+--------------------------------------------------End--
+{Rin} 
+It's also fun to find them and master the
+{P0} language.
+--------------------------------------------------End--
+{Rin} 
+As a token of our acquaintance,
+let's [42+53.進42+54.].
+--------------------------------------------------End--
+{Rin} 
+But if you speak too boastfully,
+you might be disliked.
+--------------------------------------------------End--
+{Tidus} 
+Oh... {P0} people...
+seem to be disliked, you know... Ah
+--------------------------------------------------End--
+{Rin} 
+How regrettable, {P0}.
+--------------------------------------------------End--
+
+S-Someone, help!
+Ch-Chocobo is...!
+--------------------------------------------------End--
+{Auron} 
+Hey, it's your turn.
+You're going to defeat the monster, aren't you?
+--------------------------------------------------End--
+{Rin} 
+Oh, that's appreciated!
+Please use this!
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Rin} 
+It is an extremely [42+55.42+56.] monster.
+Please make thorough preparations
+--------------------------------------------------End--
+{Rin} 
+with everyone's [42+57.] power.
+I defeated the monster.
+--------------------------------------------------End--
+{Rin} 
+Thank you.
+--------------------------------------------------End--
+{Rin} 
+That means "Thank you," doesn't it?
+--------------------------------------------------End--
+{Rin} 
+Our travel company throughout all of {Spira}...
+...is established.
+--------------------------------------------------End--
+{Rin} 
+Please continue to patronize us.
+--------------------------------------------------End--
+
+You all...
+You've already reserved a room, haven't you?
+--------------------------------------------------End--
+
+Wanting this and that...
+My eyes just keep shifting around, you know...
+--------------------------------------------------End--
+
+Hey, won't you buy it for me?
+--------------------------------------------------End--
+
+42+58.42+59. Don't take me seriously.
+--------------------------------------------------End--
+
+Yes, 42+58.42+59.
+--------------------------------------------------End--
+
+You should buy what you want yourself.
+42+60. You mustn't.
+--------------------------------------------------End--
+
+Phew, I'm exhausted...
+Waking up early was a waste.
+--------------------------------------------------End--
+
+Even though I woke up early and departed,
+The end of the road was closed off.
+{NEWPAGE}
+
+So, we had no choice but to turn back.
+I made a wasted trip.
+--------------------------------------------------End--
+
+Huh? You didn't know?
+{Crusader} is blocking the road.
+--------------------------------------------------End--
+
+Is it true that monsters appeared!?
+If I stay here, it'll be a-alright, won't it!?
+--------------------------------------------------End--
+
+Why are you spacing out?
+Hurry up and defeat them!?
+--------------------------------------------------End--
+
+Welcome.
+This is the {Rin} Travel Company Inn.
+--------------------------------------------------End--
+
+Would you like to rest?
+--------------------------------------------------End--
+
+Welcome.
+This is the {Rin} Travel Company Shop.
+--------------------------------------------------End--
+
+Would you like to shop?
+--------------------------------------------------End--
+
+I have a promise with {Crusader}'s warrior 42+61..
+He said we would meet again at this line for 42+62. after the operation.
+--------------------------------------------------End--
+
+He's not the kind of man who breaks promises.
+I'll wait for him for as many days as it takes.
+--------------------------------------------------End--
+
+What happened to his warrior 42+61. and his comrades...
+I know, but... I can't say.
+--------------------------------------------------End--
+
+If I wait here, the Subjugation Squad's...
+comrades should gather.
+{NEWPAGE}
+
+The temple isn't reliable, and...
+We have no choice but to be strong.
+--------------------------------------------------End--
+
+We've been greatly indebted to {Al Bhed2}.
+I wish to return the favor someday.
+--------------------------------------------------End--
+
+Our allies are gathering one after another.
+Now we can restore {Crusader}!
+--------------------------------------------------End--
+
+Once our numbers are complete, we'll defeat monsters as we go.
+We plan to head north.
+{NEWPAGE}
+
+Once we reach {Bevelle}...
+We'll challenge '{Sin}' to battle again.
+--------------------------------------------------End--
+{WINDOW}
+I'll buy {CHOICE:30} for you.
+{CHOICE:31} isn't something to buy.
+I'll have {CHOICE:32} buy it for me.
+--------------------------------------------------End--
+
+I once left {Crusader}, but then the prayer song...
+While singing, I changed my mind.
+{NEWPAGE}
+
+Even though the people on the flying ship are fighting desperately...
+How can I stay idle?
+--------------------------------------------------End--
+
+Even if my family tries to stop me, I am part of {Crusader}...
+...I choose to fight as a member.
+--------------------------------------------------End--
+
+Even though I can fight too...
+I was taken off the ship.
+{NEWPAGE}
+
+To treat me as an old man...
+{Cid} has also become quite important.
+--------------------------------------------------End--
+
+Because {Rin} is with {Cid}.
+They probably won't run wild.
+--------------------------------------------------End--
+
+To the people of {Yevon2}, the words of {Al Bhed}...
+...to end up teaching...
+{NEWPAGE}
+
+It has become a strange era.
+--------------------------------------------------End--
+
+You're a guard, right?
+I think this is 42+68 units in 42+67.
+--------------------------------------------------End--
+
+You can learn how to use it on the Sphere Monitor.
+Have you seen it yet?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Saw it.
+{CHOICE:31} Haven't seen it.
+--------------------------------------------------End--
+
+Then it's alright.
+--------------------------------------------------End--
+
+If that's the case, on the Sphere Monitor over there...
+I think you should check it there.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Rest.
+{CHOICE:31} Pass
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+69.Contract Period: {VAR12:33} matches
+42+69.Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+69.Contract Period: {VAR12:33} matches
+42+69.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+69.Contract Period: {VAR12:33} matches
+42+69.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+69.Contract Period: {VAR12:33} matches
+42+69.Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Will you make a 42+69. contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of 42+69. contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A 42+69. contract for one match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The 42+69. contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--
+
+There are various books.
+Many are also written in {Al Bhed} language.
+--------------------------------------------------End--
+
+Weapons, armor, food, and more.
+It is being sold.
+{NEWPAGE}
+
+Shopping is at the counter.
+It seems to be done.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s actions, for the Save Sphere.
+The teleport function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s headquarters, continue Blitz training.
+hidden excellent players are lurking.
+When you press {Button Square} and speak to them, you can sometimes Scout42+69.contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+Teleport function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {P0} Language Dictionary, Volume 8!
+--------------------------------------------------End--
+{WINDOW}
+Mastered {P0} language!
+{P0} "{P1} Se {P2}" 42+73. "{P3} Te {P4}"
+{P0} "{P1} So {P2}" 42+73. "{P3} To {P4}"
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar word 42+74. "{P0} word" from {P1} Language Dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--
+{WINDOW}
+`{Yellow} 【{Al Bhed} Dictionary Synthesis Sphere】{White}`
+--------------------------------------------------End--
+{WINDOW}
+Embedding {P0} Language Dictionary data 42+75.
+`You can synthesize {Al Bhed} dictionaries!`
+{NEWPAGE}
+`Please select the save data to synthesize the Al Bhed dictionary.`
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+`Do you want to synthesize other save data?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+Failed to embed {P0} Language Dictionary 42+75.!
+--------------------------------------------------End--
+{WINDOW}
+`There is no {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+Successfully embedded {P0} Language Dictionary 42+75.!
+--------------------------------------------------End--
+{WINDOW}
+`Synthesize {Al Bhed} dictionary?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--

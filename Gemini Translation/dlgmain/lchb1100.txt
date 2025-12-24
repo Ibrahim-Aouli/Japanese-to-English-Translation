@@ -1,0 +1,254 @@
+
+The images from when everyone sang together,
+I had it sphere-ified right away.
+--------------------------------------------------End--
+
+When you come to Luca, as a souvenir for your family,
+you must definitely buy a sphere.
+--------------------------------------------------End--
+
+Exclusive to this venue,
+how about the {Blue} [Music Sphere]{White}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I want it! I want it!
+{CHOICE:31}Music... what's that?
+{CHOICE:32}I don't need it.
+--------------------------------------------------End--
+
+We look forward to your next visit.
+--------------------------------------------------End--
+
+It was created by the musicians of the Yevon Music Troupe.
+It is literally a sphere that plays sounds.
+--------------------------------------------------End--
+
+One piece is recorded in each sphere.
+--------------------------------------------------End--
+
+To play it, the
+{Blue} [Control Panel]{White} in this main hall is required.
+--------------------------------------------------End--
+
+One for your travel memories.
+How is it?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I want it! I want it!
+{CHOICE:31}I don't need it.
+--------------------------------------------------End--
+
+You already possess all pieces.
+--------------------------------------------------End--
+{WINDOW}
+Funds on hand: {VAR12:30} Gil
+--------------------------------------------------End--
+{WINDOW}
+Music Sphere owned: {VAR12:31}/{VAR12:32}
+--------------------------------------------------End--
+
+Exclusively for customers who have made an applicable purchase.
+We have a special music sphere available.
+--------------------------------------------------End--
+
+As it is special, purchases are limited to the set.
+…Would you like to purchase it?
+--------------------------------------------------End--
+
+{Yellow} Special Sphere Set: 40000 Gil {White}
+ 
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Of course!
+{CHOICE:31}I don't need it.
+--------------------------------------------------End--
+
+We are truly sorry.
+Limited to one per person.
+--------------------------------------------------End--
+{WINDOW}
+Number of Music Spheres Available for Purchase: {VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+
+Music Sphere {Blue} [{VAR12:37}]{White} x 2000 Gil
+{Yellow} Purchase Total {White}: {VAR12:38} Gil
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Specify Quantity
+{CHOICE:31} Convert All to Spheres
+{CHOICE:32} Cancel
+--------------------------------------------------End--
+{WINDOW}
+Input quantity with {Direcional Up} {Direcional Down} {Direcional Left} {Direcional Right}.
+Confirm with {Button Circle}
+--------------------------------------------------End--
+{WINDOW}
+Music Sphere: {CHOICE:51}
+{Yellow} to cancel
+--------------------------------------------------End--
+{WINDOW}
+There are no specified spheres.
+--------------------------------------------------End--
+
+Customer, you don't have enough money.
+--------------------------------------------------End--
+
+…Is this acceptable?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}That's okay!
+{CHOICE:31}Wait a moment.
+{CHOICE:32} Cancel
+--------------------------------------------------End--
+{WINDOW}
+Registered the Music Sphere.
+--------------------------------------------------End--
+{WINDOW}
+
+Music Sphere: {Yellow} 1{White}
+You can now view!
+--------------------------------------------------End--
+{WINDOW}
+
+Music Sphere: {Yellow} 1 - {VAR12:31}{White}
+You can now view up to!
+--------------------------------------------------End--
+
+The memories of your journey so far,
+{Blue}would you like to save them in the Image Sphere {White}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}I want to save them.
+{CHOICE:31}Image series... what is that?
+{CHOICE:32}I'll put it off.
+--------------------------------------------------End--
+
+Well then, customer.
+Please close your eyes and concentrate your mind.
+--------------------------------------------------End--
+
+Hmm, any more that can be sphered...
+...it seems there are no Image Series...
+--------------------------------------------------End--
+
+...for now.
+There are no Image Series that can be sphered.
+--------------------------------------------------End--
+
+...Image Series that can be sphered...
+currently there are {Yellow} {VAR12:36}{White}, but...
+--------------------------------------------------End--
+{WINDOW}
+Image Spheres held: {VAR12:33} / {VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+Number of images that can be sphered: {VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+
+Image Sphere {Blue} 【{VAR12:37}】{White} × 5000 Gil
+{Yellow} Purchase Total {White}: {VAR12:38} Gil
+--------------------------------------------------End--
+{WINDOW}
+Image Sphere : {CHOICE:51}
+{Yellow} to cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained Image Sphere 42+54.
+--------------------------------------------------End--
+{WINDOW}
+
+Image Sphere : {Yellow} 1{White}
+You can now view!
+--------------------------------------------------End--
+{WINDOW}
+
+Image Sphere : {Yellow} 1 - {VAR12:33}{White}
+You can now view up to!
+--------------------------------------------------End--
+
+The customer strongly imagined
+That which recorded the image of {Blue} 【Past42+60.】{White} into a sphere.
+--------------------------------------------------End--
+
+That is {Blue} 【Image Sphere】{White}.
+Even so...
+--------------------------------------------------End--
+
+Compared to conventional sphere cameras, monitors, and so on...
+The principle is no different.
+--------------------------------------------------End--
+
+However, what is generally used...
+...is mostly a record of that moment.
+--------------------------------------------------End--
+
+The point that it traces back to {Blue} 【Past42+60.】{White}...
+...is a greatly 42+61. different usage from before.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Try to preserve.
+{CHOICE:31} Keep 42+59. at a distance.
+--------------------------------------------------End--
+
+Welcome to this venue, customer.
+Will you go to {Blue} {Main Hall} {White}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Go
+{CHOICE:31} Don't Go
+--------------------------------------------------End--
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Initialize Theater Variable
+{CHOICE:33} Control Map Lines
+Return to {CHOICE:34} 42+62.42+63. base.
+--------------------------------------------------End--
+{WINDOW}
+Initialize Theater Variable
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Word Dictionary Volume 7!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} Language 42+64.!
+{VAR07:31} '{OPurple} Sa {White}' 42+65. '{Pink} Ta {White}'
+{VAR07:31} '{OPurple} Hi {White}' 42+65. '{Pink} Chi {White}'
+{VAR07:31} '{OPurple} Yu {White}' 42+65. '{Pink} Tsu {White}'
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar word 42+66. '{Al Bhed} Language' {Al Bhed} Word Dictionary
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

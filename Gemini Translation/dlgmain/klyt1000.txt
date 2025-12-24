@@ -1,0 +1,132 @@
+
+The Kilika Sphere's rows don't align!
+--------------------------------------------------End--
+
+A Sphere looks like it will fit here.
+--------------------------------------------------End--
+
+The flame went out!
+--------------------------------------------------End--
+
+The flame is already lit!
+--------------------------------------------------End--
+
+{WINDOW}
+You can only hold one {Yellow} Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow} mark {White} appeared on the wall.
+--------------------------------------------------End--
+
+Repelled by the mark of the seal!
+--------------------------------------------------End--
+
+{WINDOW}
+It looks like a {Yellow} Sphere {White} can be set in the recess.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow}: The Kilika Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} is set.
+--------------------------------------------------End--
+
+{WINDOW}
+You have {Yellow} Kilika's Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+I have the {Yellow} Seal Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+I have the {Yellow} Destruction Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+You cannot hold two {Yellow} Spheres {White} at once.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} set the Kilika Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Destruction Sphere {White} has been set.
+--------------------------------------------------End--
+
+{WINDOW}
+{Yellow} took the Kilika Sphere {White}.
+--------------------------------------------------End--
+
+{WINDOW}
+The {Yellow} Seal Sphere {White} has been taken.
+--------------------------------------------------End--
+
+{WINDOW}
+`{Yellow} I took the Sphere of Ruin.{White}`
+--------------------------------------------------End--
+
+{WINDOW}
+A {Yellow} Mark {White} has appeared on the wall.
+--------------------------------------------------End--
+
+{WINDOW}
+`The door is tightly sealed.`
+--------------------------------------------------End--
+
+{WINDOW}
+Cable-like objects are spread across the entire wall.
+--------------------------------------------------End--
+
+{WINDOW}
+The cable's flickering stopped.
+--------------------------------------------------End--
+
+{WINDOW}
+It sounds like a noise came from somewhere.
+--------------------------------------------------End--
+
+{WINDOW}
+There is no reaction.
+--------------------------------------------------End--
+
+{WINDOW}
+Obtained a magnificent treasure.
+--------------------------------------------------End--
+
+{WINDOW}
+Apparently, this {Yellow} pillar-like object __P1__ can be pushed.
+{WINDOW}
+{Yellow} ({Blue} X button {Yellow}) + directional buttons
+--------------------------------------------------End--
+
+{WINDOW}
+You cannot cross the {Yellow} step __P1__ by pushing the pillar.
+--------------------------------------------------End--
+{WINDOW}
+Set the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+{WINDOW}
+Take the {CHOICE:30} Sphere __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--
+{WINDOW}
+I'll try touching the {CHOICE:30} Mark __P1__.
+{WINDOW}
+Do nothing.
+--------------------------------------------------End--

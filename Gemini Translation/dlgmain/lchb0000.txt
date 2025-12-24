@@ -1,0 +1,488 @@
+{WINDOW}
+Map Debug Menu
+{CHOICE:30} Never mind.
+{CHOICE:31} Update Map Data
+{CHOICE:32} Change Spectator Model
+{CHOICE:33} Control Map Lines
+{CHOICE:34} Return to Retten-san's place.
+--------------------------------------------------End--
+{WINDOW}
+Spectator: {CHOICE:50}
+--------------------------------------------------End--
+{WINDOW}
+Shop Call
+--------------------------------------------------End--
+
+Entrance is currently restricted!
+--------------------------------------------------End--
+
+Even players are no exception!
+Passage is not permitted!
+--------------------------------------------------End--
+
+The first match has already begun.
+Please hurry to your own seats.
+--------------------------------------------------End--
+
+The monster's 42+53.42+54. is currently undergoing 調42+55..
+42+56. entry is not permitted for the general public.
+--------------------------------------------------End--
+
+The admission restriction has been lifted.
+Please pass through 42+57. freely.
+--------------------------------------------------End--
+
+The stadium is open.
+Please come through 42+57. freely.
+--------------------------------------------------End--
+
+Even if you are a rebel.
+Luca 42+58. The people are always on the players' side.
+--------------------------------------------------End--
+
+The prayer song that everyone in the stadium sang...
+...is still echoing in my ears.
+--------------------------------------------------End--
+
+Did you leave something behind when you ran away?
+You'd better give up.
+--------------------------------------------------End--
+
+Even though there's a match happening right nearby...
+...not being able to watch is tough.
+--------------------------------------------------End--
+
+The spectator seats that the monsters destroyed...
+...we struggled to repair them.
+--------------------------------------------------End--
+
+Even after the tournament ends, the stadium is full.
+After all, Luca is the city of Blitz!
+--------------------------------------------------End--
+
+Most of the warrior monks retreated to Bevelle 42+60., but...
+...some stayed because they liked Luca's free 42+57. atmosphere.
+--------------------------------------------------End--
+
+The next Grand Maester hasn't been decided yet, right? For next year's tournament...
+...I wonder who I should ask to preside 42+61. over the opening ceremony...
+--------------------------------------------------End--
+
+This stadium is integrated with the port,
+and has a composite 42+62.42+63. structure.
+{NEWPAGE}
+
+Therefore, there's no need to worry about getting lost!
+If you go this 42+64. way, you will reach {Blue} [Port {VAR12:30}] {White}.
+--------------------------------------------------End--
+
+The opening ceremony will begin shortly, so...
+Contestants, please wait in the waiting room.
+--------------------------------------------------End--
+
+A contestant... that can't be right.
+The match has already started.
+--------------------------------------------------End--
+
+Where the monster appeared from...
+It's still under inves42+55.tigation.
+{NEWPAGE}
+
+I cannot provide a direct answer, but...
+Please wait for the official announcement.
+--------------------------------------------------End--
+
+This is the Blitz42+65. technique reception.
+--------------------------------------------------End--
+{WINDOW}
+{{CHOICE:30}} Participate in Blitz42+65. technique
+{CHOICE:31} I'll pass.
+--------------------------------------------------End--
+
+Welcome!
+This is the [Ruca Item SHOP].
+--------------------------------------------------End--
+{WINDOW}
+{{CHOICE:30}} Show items.
+{CHOICE:31} I'll pass.
+--------------------------------------------------End--
+
+Welcome!
+This is the [Ruca Weapon/Armor SHOP].
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31} I'll pass.
+--------------------------------------------------End--
+
+We look forward to your next visit.
+--------------------------------------------------End--
+
+Once this tournament ends, the operation will begin.
+Fun will have to wait for a while.
+--------------------------------------------------End--
+
+Also, in order to enjoy Blitz again...
+I hope to ac42+66.complish the operation and sur42+67.vive.
+--------------------------------------------------End--
+
+By Master Kinoc's order, Ruca...
+I'll protect you. Be grateful!
+--------------------------------------------------End--
+
+Even with hardships, enjoy Blitz.
+To let it go... The people of Luca are truly strong.
+--------------------------------------------------End--
+
+Until the 42+68. year's tournament, the expeditionary force...
+was in charge of 42+69. preparations, but...
+--------------------------------------------------End--
+
+Currently, the expeditionary force is on an operation, so...
+This year's tournament, the 42+58. people are making 42+69. preparations.
+--------------------------------------------------End--
+
+I'm relieved the Grand Maester is safe.
+{Master Seymor}'s 42+66.42+72., isn't it?
+--------------------------------------------------End--
+
+Even though many expeditionary force members just died...
+The stadium is full...? What an appalling town.
+--------------------------------------------------End--
+
+Luca's 42+73. people are donating 42+74. money.
+are supporting the expeditionary force.
+--------------------------------------------------End--
+
+The 42+76. championship is definitely the Goers', right?
+The other teams... they're just 42+77. defeated ones.
+--------------------------------------------------End--
+
+For the tournament to end because of such a 42+71. incident!
+Somehow, it just doesn't feel right.
+--------------------------------------------------End--
+
+'Sin' was apparently defeated by machines and returned to the sea.
+With this, it might become a little more 42+78. peaceful.
+--------------------------------------------------End--
+
+I decided to join the expeditionary force.
+It's uncool to just be idly protected, isn't it?
+--------------------------------------------------End--
+
+I heard! 'Sin' fell on Bevelle!
+That means Nagi42+79. is coming soon~!!
+--------------------------------------------------End--
+
+42+80.round 42+69.security is currently in progress.
+If you see any un42+81.persons, please report them.
+--------------------------------------------------End--
+
+Because the temple's warrior monks will 42+82.assist with the 42+69.security.
+Our 42+71.work is quite a lot easier, too.
+--------------------------------------------------End--
+
+The extermination squad will 42+82.assist with the 42+69.security.
+We can't be outdone either!
+--------------------------------------------------End--
+
+I couldn't get tickets this year...
+Oh well. I'll watch it at the cafe while having a 42+83.drink.
+--------------------------------------------------End--
+
+{Maester Mika2}, after the tournament,
+Apparently, {Bevelle} returned immediately to {Bevelle}.
+--------------------------------------------------End--
+
+I heard there's a plan for the warrior monks to 42+69.guard the liaison ship.
+I don't know if it's 42+84.kindness or meddling.
+--------------------------------------------------End--
+
+After all, for the city of Luca, more than warrior monks,
+The extermination squad is more 42+85.fitting.
+--------------------------------------------------End--
+
+I hope this 42+86.Nagi42+79. will last a long time.
+Three years... no, at least one year...
+--------------------------------------------------End--
+
+I got to watch the recent 42+87.broadcast.
+Heh... Do your best.
+--------------------------------------------------End--
+
+You were quite active, weren't you?
+You certainly lived up to your big talk.
+--------------------------------------------------End--
+
+I liked your play.
+Please participate in many matches from now on.
+--------------------------------------------------End--
+
+Hey, when is your next appearance?
+I'm looking forward to your turn.
+--------------------------------------------------End--
+
+When 'Shin' is gone, participate in matches every day, won't you?
+Then I'll just end up coming to watch.
+--------------------------------------------------End--
+
+The opening ceremony will begin soon.
+Contestants, please wait in the waiting room.
+--------------------------------------------------End--
+
+When a monster appeared, if {Master Seymor}
+wasn't there... even imagining it is scary.
+--------------------------------------------------End--
+
+Ultimately, who released the monster in the stadium,
+is still unknown... it seems to be an unsolved mystery.
+--------------------------------------------------End--
+
+Did you know? You are being treated as a rebel,
+but because of that, you're actually gaining popularity.
+--------------------------------------------------End--
+
+This year, we will support Albedo Sykes.
+The subjugation squad is indebted to the Albedo tribe.
+--------------------------------------------------End--
+
+We will depart for the operation soon.
+It's farewell to {Luca}'s town, isn't it?
+--------------------------------------------------End--
+
+My captain is pushing tasks onto me...
+...while they're watching Blitz.
+--------------------------------------------------End--
+
+After the operation, I quit the extermination squad, but I rejoined.
+Fighting in the extermination squad suits me.
+--------------------------------------------------End--
+
+Until monsters are gone from Spira,
+I intend to fight in the extermination squad.
+--------------------------------------------------End--
+
+During the tournament, even ships won't move.
+I'll rest my bones on land until the next 42+91.!
+--------------------------------------------------End--
+
+{Sin} is lurking in the nearby sea.
+The ferry will be out of 42+92.42+91. for a while!
+--------------------------------------------------End--
+
+The ferry has resumed 42+91.s.
+It suddenly got 42+93., and it's tough.
+--------------------------------------------------End--
+
+The flying ship at Port 1 is a legendary airship.
+I thought it was a fairy tale, but to think it actually existed...
+--------------------------------------------------End--
+
+Actually, I already have to go to the operation site, but...
+At least I want to watch the opening ceremony.
+--------------------------------------------------End--
+
+So that people won't have to fear monsters,
+{Crusader} will carry out a major operation.
+--------------------------------------------------End--
+
+If you see anyone suspicious,
+Please report them immediately!
+--------------------------------------------------End--
+
+Once preparations are made at Luca, the extermination squad will advance to the Mi'ihen Highroad.
+Advance and exterminate the monsters all at once is the plan!
+--------------------------------------------------End--
+
+You're a player, aren't you? Don't just stand around.
+Check the tournament rules now.
+--------------------------------------------------End--
+
+The tournament ended, and I should have been able to relax, but...
+I'm extremely busy with the investigation of monster incidents.
+--------------------------------------------------End--
+
+The temple went out of its way to protect the stadium, specifically...
+They kindly sent monk soldiers. That was a great help.
+--------------------------------------------------End--
+
+The monk soldiers are gone, but the extermination squad...
+returned to guard duty. It's Yevon's blessing.
+--------------------------------------------------End--
+
+When the Calm comes, we must hold a commemorative tournament!
+Actually, we have already started preparations.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract period: {VAR12:33} matches
+Contract fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract period: {VAR12:33} matches
+Contract fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract period: {VAR12:33} matches
+Contract fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract period: {VAR12:33} matches
+Contract fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+A contract for one match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s activity, to the Save Sphere.
+The transfer function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s home ground, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to sign a scout contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+HP/MP recovered!
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--

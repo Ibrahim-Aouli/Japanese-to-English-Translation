@@ -1,0 +1,109 @@
+{Lulu} 
+Did you hurt them?
+--------------------------------------------------End--
+{Yuna} 
+Just a little.
+--------------------------------------------------End--
+{Yuna} 
+What's wrong?
+--------------------------------------------------End--
+{Tidus} 
+As soon as I came to Spira,
+I was helped by the Al Bhed.
+--------------------------------------------------End--
+{Tidus} 
+They gave me a ride on their ship,
+and they also fed me.
+--------------------------------------------------End--
+{Tidus} 
+I thought it might be that ship from back then, but...
+...it doesn't seem to be.
+--------------------------------------------------End--
+{Tidus} 
+I wonder if everyone was... wiped out...
+--------------------------------------------------End--
+{Yuna} 
+Did something happen?
+--------------------------------------------------End--
+{Tidus} 
+'Sin' appeared near the ship.
+--------------------------------------------------End--
+{Tidus} 
+I survived, but...
+I don't know what happened to the ship.
+--------------------------------------------------End--
+{Yuna} 
+Um... on that ship,
+wasn't there a person named Cid?
+--------------------------------------------------End--
+{Tidus} 
+I really don't know...
+We couldn't even understand each other's language.
+--------------------------------------------------End--
+{Yuna} 
+I see...
+--------------------------------------------------End--
+{Tidus} 
+Is that person someone you know?
+--------------------------------------------------End--
+{Yuna} 
+He's my uncle.
+I haven't met them, but...
+--------------------------------------------------End--
+{Tidus} 
+Hmm.
+--------------------------------------------------End--
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Tidus} 
+So that means Yuna is Al Bhed too?
+--------------------------------------------------End--
+{Yuna} 
+The shop owner, that's right.
+--------------------------------------------------End--
+{Yuna} 
+Cid is the shop owner's older brother.
+--------------------------------------------------End--
+{Yuna} 
+When the shop owner got wed...
+...they say they cut ties.
+--------------------------------------------------End--
+{Yuna} 
+But when they met...
+..."Love them," the shop owner said...
+--------------------------------------------------End--
+{Tidus} 
+Well, that's worrisome...
+--------------------------------------------------End--
+{Lulu} 
+About Yuna's origin...
+Don't tell Wakka.
+--------------------------------------------------End--
+{Lulu} 
+He, just for being Al Bhed...
+...he dislikes them.
+--------------------------------------------------End--
+{Tidus} 
+Oh!
+--------------------------------------------------End--
+{Tidus} 
+I have to tell Wakka!
+--------------------------------------------------End--
+{Lulu} 
+"Keep it a secret from Wakka,"...
+...you said!
+--------------------------------------------------End--
+{Yuna} 
+The match!!
+--------------------------------------------------End--
+{Lulu} 
+Huh!?
+--------------------------------------------------End--
+ルールーユウナ頭なでなで
+--------------------------------------------------End--
+Incantation
+--------------------------------------------------End--
+Effect
+42+56. Line shot, pop!
+--------------------------------------------------End--

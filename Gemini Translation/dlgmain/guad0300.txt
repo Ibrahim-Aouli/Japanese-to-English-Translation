@@ -1,0 +1,319 @@
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+Contract Duration: {VAR12:33} Matches
+Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Sign contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract matches.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+Contract for 1 match or more.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+
+You have come from a distant land.
+You must be quite tired.
+{NEWPAGE}
+
+Oh, my words...
+...seem unfamiliar, don't they?
+{NEWPAGE}
+
+This is {Guado2}'s ancient language.
+You will rarely hear it in your land.
+--------------------------------------------------End--
+
+Now, those who pass down the ancient language...
+...have become only a handful of elders.
+{NEWPAGE}
+
+Even {Guado}'s traditional language...
+...will probably die out eventually.
+--------------------------------------------------End--
+
+Many {Guado} are ashamed of their ancient language...
+...and speak like other peoples.
+--------------------------------------------------End--
+
+In the past, {Guado} did not favor interaction with Humans...
+...and did not prefer it.
+{NEWPAGE}
+
+However, thanks to the {42+53.る} {改42+54.} by {Jyscal}-sama...
+...{Guado} have turned their eyes to the outside world...
+{NEWPAGE}
+
+...and have come to keep up with the flow of the times...
+...It has become so, [42+55].
+--------------------------------------------------End--
+
+The {42+56.子} of {Jyscal}-sama and {Seymour}-sama...
+...changed {Guado2}'s traditions.
+--------------------------------------------------End--
+
+The young ones who bore {Guado2}'s future have died.
+Only the elderly remain.
+{NEWPAGE}
+
+{Guado2} should have stayed inside
+and protected __P1__.
+--------------------------------------------------End--
+
+Having lost Lord {Seymour}, {Tromell} is
+completely disheartened.
+{NEWPAGE}
+
+Eventually, they will follow after them,
+and journey to {Farplane}, I wonder?
+--------------------------------------------------End--
+
+Before long, 'The {Sin} ' will come
+and destroy {Guado2}.
+--------------------------------------------------End--
+
+O Traveler, we are old people left behind by the times.
+Please forgive our rudeness for speaking in an old tongue.
+--------------------------------------------------End--
+
+The {Guado2} of old used
+such an old tongue.
+{NEWPAGE}
+
+However, when the deceased Patriarch {Jyscal} became a venerable teacher,
+and {Yevon2}'s teachings spread throughout {Guado}...
+{NEWPAGE}
+
+The old tongue gradually faded,
+and is now on the verge of extinction.
+--------------------------------------------------End--
+
+The young ones regard our language
+as old-fashioned and mock it.
+--------------------------------------------------End--
+
+Lord/Lady {Seymour}'s 42+69.42+61. was human.
+Following that 42+70., some individuals...
+{NEWPAGE}
+
+Lord/Lady {Seymour} leading {Guado}
+did not wish to accept.
+{NEWPAGE}
+
+No 42+71. Nowadays, such opinions
+are voiced by no one.
+--------------------------------------------------End--
+
+Many of {Guado}'s 42+58. people
+have 42+72. their hearts to Lord/Lady {Seymour}.
+{NEWPAGE}
+
+If it is Lord/Lady {Seymour}'s command,
+they would 42+73.ly go to their deaths.
+--------------------------------------------------End--
+
+Lord/Lady {Seymour} dislikes archaic words 42+64.
+We are the revered 42+55. who 42+75. with our 42+74. selves.
+--------------------------------------------------End--
+
+Lord/Lady {Seymour} many individuals
+led to their deaths.
+{NEWPAGE}
+
+Towards both {Guado} and humans,
+it might be 42+77. as well.
+--------------------------------------------------End--
+
+The 42+78. between Lord/Lady {Jyscal} and a human woman
+was contrary to {Guado2}'s tradition.
+{NEWPAGE}
+
+After that 42+70., when Lord/Lady {Seymour} was born,
+some individuals instigated a 42+79. commotion...
+{NEWPAGE}
+
+"Expel those with human blood," they said.
+They made that request.
+{NEWPAGE}
+
+As the clan head, {Jyscal}...
+Reluctantly, {Baaj Island} expelled their 42+80.child to {Baaj Island}.
+--------------------------------------------------End--
+
+A few years later, only {Seymour} returned.
+The story is that 42+69.42+61. passed away.
+{NEWPAGE}
+
+The 婦42+81. {Seymour}...
+...had acquired the power of a summoner.
+{NEWPAGE}
+
+The 42+62.position of {Seymour}, who had been driven out with stones, reversed...
+...and came to be 42+82.42+83.ed as a summoner.
+--------------------------------------------------End--
+
+{Seymour}, as soon as they came of age...
+...the story is that they awakened to their summoner abilities.
+--------------------------------------------------End--
+
+Chieftain {Seymour} teaches {Guado}'s 42+58.people...
+...many different 42+84.lessons.
+{NEWPAGE}
+
+42+85. {Yevon2}'s teachings and {Spira}'s 42+86.42+87.
+I 42+88.studied a lot.
+--------------------------------------------------End--
+
+Chieftain {Seymour} is skilled at teaching.
+They explain everything in an easy-to-understand way.
+--------------------------------------------------End--
+
+There are rumors about {Yuna}.
+She is the daughter of that {High Summoner Braska}...
+{NEWPAGE}
+
+You fought together with Chieftain {Seymour} at the time of {Operation Mi'ihen}, didn't you?
+If __P0__-sama comes to O[42+89], everyone in __P0__ will [42+90][42+65].
+--------------------------------------------------End--
+
+Um... did something happen to Chieftain {Yuna}?
+I heard a bit of a rumor, but I couldn't believe it...
+--------------------------------------------------End--
+
+Chieftain {Seymour}... __P1__-sama... No, I don't want to believe it...
+The elders do not try to abandon __P0__'s old language.
+{NEWPAGE}
+
+I'm saying that using language difficult for guests to understand is rude, but...
+Since it is something the [42+59]-aged do, please overlook it.
+--------------------------------------------------End--
+
+There seems to be an opinion that {Seymour}'s confusion was due to {Jyscal}'s [42+91][42+92].
+It's frustrating that I can't [42+71], isn't it...
+--------------------------------------------------End--
+
+There was contact from {Guado}. As for __P1__...
+捨てようとしないのです
+{NEWPAGE}
+
+お客人にわかりにくい言度を使っては
+失礼だと 言っているのですが……
+--------------------------------------------------End--
+
+年42+59.りのすることですので
+どうかお見逃しください
+--------------------------------------------------End--
+
+{Spira} が混乱したのは {Guado2} の
+42+91.42+92.だという意見があるようです
+{NEWPAGE}
+
+反42+71.できないのが くやしいですね……
+--------------------------------------------------End--
+
+{Luca} から連絡がありました {Guado2} は
+They say we can participate in the tournament as usual.
+{NEWPAGE}
+
+{Luca} 42+93. I was saved by the people's generosity.
+--------------------------------------------------End--
+
+Play a great match.
+I want to give back to the people of {Luca} 42+94.
+--------------------------------------------------End--

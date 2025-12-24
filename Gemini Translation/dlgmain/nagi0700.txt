@@ -1,0 +1,783 @@
+
+You defeated him!?
+Oh... what strength!
+{NEWPAGE}
+
+Very well! From now on, you
+shall bear the title of "The One Who Surpasses All"!
+--------------------------------------------------End--
+
+Even the strongest monster I created
+you've defeated, after all.
+--------------------------------------------------End--
+
+Indeed! It's nothing short of splendid!
+I can't find any other words.
+{NEWPAGE}
+
+All that's left is to defeat "Shin"!
+I'm looking forward to it.
+--------------------------------------------------End--
+
+No new monsters will appear anymore, but...
+you can battle anytime, though.
+{NEWPAGE}
+
+If you want to fight, anytime
+come here.
+--------------------------------------------------End--
+
+Of course, you'll have to pay the fee!
+Hoh ho ho...
+--------------------------------------------------End--
+
+This is where the hero of old, Lord {Mi'ihen}
+established this training ground for {Crusader}.
+{NEWPAGE}
+
+By battling monsters gathered from all over {Spira}
+you can hone your skills!
+--------------------------------------------------End--
+
+But... because I made a mistake,
+all the monsters ran away.
+--------------------------------------------------End--
+
+I no longer have the power to gather monsters.
+My powers are completely depleted...
+--------------------------------------------------End--
+
+So, young man! As a favor, in my place,
+won't you gather the monsters for me?
+{NEWPAGE}
+
+Of course, I wouldn't ask you to do it for free.
+If you gather the monsters, I'll be very generous with the reward!
+{NEWPAGE}
+
+Furthermore! With the monsters you gather, you can
+battle anytime! In other words, it's practical training!
+--------------------------------------------------End--
+
+And what's more! Any items obtained from monsters during training,
+all those items are yours!
+{NEWPAGE}
+
+However! The training {42+53} fee will be as usual,
+{42+54} I will receive it, though.
+--------------------------------------------------End--
+
+How about that! Isn't it a good offer?
+If you accept, you won't lose out, hmm?
+--------------------------------------------------End--
+
+Hmm... with the many items I possess,
+I was thinking of giving you a reward...
+--------------------------------------------------End--
+
+I thought you'd say that! Well then, right away,
+go and capture those monsters!
+--------------------------------------------------End--
+
+...I want to say that, but first, a warning!
+--------------------------------------------------End--
+
+To capture monsters, not ordinary weapons,
+{Yellow} you must use special weapons to deliver the finishing blow{White}!
+{NEWPAGE}
+
+Oh, rest assured! That weapon is
+I will sell it to you for a bargain 42+55.42+56.!
+--------------------------------------------------End--
+
+And another thing! At my place, I can keep
+monsters, up to 10 per type!
+{NEWPAGE}
+
+Even if you gather more than that, nothing at all
+will come of it, so take heed!
+--------------------------------------------------End--
+
+This is a training ground where you can battle monsters, but
+because the monsters escaped, it is now 42+57.empty.
+--------------------------------------------------End--
+
+Therefore, on my behalf, {Spira} from within
+I need you to gather monsters.
+{NEWPAGE}
+
+If you bring monsters, I'll be generous with the reward.
+Rare items too, I'll be generous with!
+{NEWPAGE}
+
+Furthermore, you can battle the gathered monsters and train as well.
+Items obtained during training are also yours.
+--------------------------------------------------End--
+
+Well, the training 42+53.fee is as usual.
+{42+54} I will receive it, though.
+--------------------------------------------------End--
+
+How about that? Isn't it a good deal?
+Won't you accept?
+--------------------------------------------------End--
+
+How about it? In my stead,
+could you gather monsters for me?
+--------------------------------------------------End--
+
+For now, I want you to gather
+all types of monsters from __P0__.
+{NEWPAGE}
+
+If the monster types aren't complete,
+I can't reopen the training ground.
+--------------------------------------------------End--
+
+By the way, there are a total of {Yellow} 9 types{White} of monsters in {Calm Lands}.
+If you gather them all, I'll give you something good.
+{NEWPAGE}
+
+Oh, for catching monsters,
+you mustn't forget a special weapon!
+{NEWPAGE}
+
+I'll specially sell it to you {42+55.42+56.}.
+Be grateful!
+--------------------------------------------------End--
+
+The monsters of {Calm Lands} you've gathered so far are {VAR12:30} types, aren't they?
+Only {VAR12:31} types remain.
+{NEWPAGE}
+
+Weak monsters are all over the place, but for big ones,
+if you're aiming for them, search around the northern plains!
+--------------------------------------------------End--
+
+Oh! Now the monsters of {Calm Lands} are all gathered!
+Hmm! I can finally reopen the training ground!
+--------------------------------------------------End--
+
+Oh, I almost forgot.
+This is a token of my gratitude.
+--------------------------------------------------End--
+
+Well, can you open it?
+I don't know, though.
+--------------------------------------------------End--
+42+58.Shop
+--------------------------------------------------End--
+
+Interesting story (42+58.)
+--------------------------------------------------End--
+
+Battle.
+--------------------------------------------------End--
+
+Oh! A total of 10 monster species and regions...
+You 42+59.conquered them, did you! You're quite something...
+{NEWPAGE}
+
+Hmm... If it's you all...
+I can give this to you.
+{NEWPAGE}
+
+It seems to be an extremely grand thing, but...
+It's useless to me, you see.
+--------------------------------------------------End--
+
+The monsters of {Besaid Island} that you collected...
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monsters of {Mi'ihen Highroad} that you collected...
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monsters of {Djose} Highway that you collected...
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monsters of {Macalania} that you collected...
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monsters of {Calm Lands} that you collected...
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monster from {Mushroom Rock Road} you gathered.
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monster from {Thunder Plains} you gathered.
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monster from Valley Floor Cave you gathered.
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monster from {Bikanel Island} you gathered.
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monster from {Mt. Gagazet} you gathered.
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monster from {Kilika Island} you gathered.
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monster from inside 『{Sin} 』 you gathered.
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+The monster from Omega Ruins you gathered.
+By 42+60.researching, you were 42+61.creating amazing monsters!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I had been `42+61.` the monster with the hard shell!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I had been `42+61.` the mischievous imp!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I had been `42+61.` the strongest wolf!
+--------------------------------------------------End--
+
+Kneading together the puddings you gathered.
+I created a dubious pudding!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I had been `42+61.` the strongest lizard!
+--------------------------------------------------End--
+
+Taming `42+62.` the birds you gathered.
+I had been `42+61.` the new species of bird!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I 42+61.te tan ja! a formidable winged insect!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I 42+61.te tan ja! the 42+63.ruべき eyeball!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I 42+61.te tan ja! a mighty magical beast with amazing horns!
+--------------------------------------------------End--
+
+42+62.inarashite the dragons you gathered.
+I 42+61.te tan ja! a massive dragon!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I created a 42+64.42+65.na elemental!
+--------------------------------------------------End--
+
+42+60.kyū shite the iron giants you gathered.
+I also tried making an iron giant!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I created a terrifying Bomb!
+--------------------------------------------------End--
+
+Researching `42+60.` the monster you gathered.
+I 42+61.te tan ja! a mysterious mushroom!
+--------------------------------------------------End--
+
+Shall we try fighting?
+The first time is free!
+--------------------------------------------------End--
+{WINDOW}
+【Will you fight?】
+
+{CHOICE:30} I'll fight!
+{CHOICE:31} Pass
+--------------------------------------------------End--
+
+To defeat that one... you have skill, boy!
+But you must not be satisfied with this extent 42+66.!
+{NEWPAGE}
+
+I will make it so you can fight that one anytime.
+Train so you can defeat them more splendidly next time!
+--------------------------------------------------End--
+
+Oh, you lost?
+Your training is still insufficient.
+--------------------------------------------------End--
+
+Huh? Not fighting?
+I see, I see. Well, that's fine.
+{NEWPAGE}
+
+I'll keep it so you can fight anytime.
+When you feel like it, you should fight.
+{NEWPAGE}
+
+However! It won't be for free!
+42+53. You'll pay me properly!
+--------------------------------------------------End--
+
+Even I must say, I've created...
+...quite a monster, haven't I?
+{NEWPAGE}
+
+What a great feeling! I'll share...
+...my joy with you.
+--------------------------------------------------End--
+
+New items have 42+67. arrived!
+How about it? Won't you buy some?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} I don't have time for that.
+{CHOICE:31} I'll accept.
+{CHOICE:32} Explain it one 42+66. more time.
+--------------------------------------------------End--
+
+It won't open...
+--------------------------------------------------End--
+
+{Yellow} 【{Celestial Mirror}】{White} is 42+68. reacting...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Celestial Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+{Yellow} 【{Cloudy Mirror}】{White} is 42+68. reacting...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Cloudy Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+It seems power is insufficient...
+--------------------------------------------------End--
+
+It's moving...
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} I want a weapon.
+{CHOICE:31} I want items.
+{CHOICE:32} Show me the monsters you've collected so far.
+{CHOICE:33} I'm done.
+--------------------------------------------------End--
+{WINDOW}
+【What do you need?】
+
+{CHOICE:30} I want to talk.
+{CHOICE:31} I want to battle.
+{CHOICE:32} I want to buy weapons.
+{CHOICE:33} I want to buy items.
+{CHOICE:34} I'm done.
+--------------------------------------------------End--
+
+All the monsters of Spira have gathered!
+It was right to rely on you.
+{NEWPAGE}
+
+Hmph... even my judgment of people...
+...hasn't clouded yet...
+--------------------------------------------------End--
+
+How about gathering monsters from {Besaid Island}?
+There are few kinds of monsters over there, so it'll be an easy victory!
+--------------------------------------------------End--
+
+So close! Just one more type for {Besaid Island}'s...
+...monsters will be complete! Do your best to gather them!
+--------------------------------------------------End--
+
+Oh, you're gathering monsters from {Besaid Island}?
+You're energetic, going all the way out there!
+--------------------------------------------------End--
+
+How about gathering monsters from {Mi'ihen Highroad}?
+Gathering them while taking a walk along the highway is quite pleasant!
+--------------------------------------------------End--
+
+Oh! Just one more type for {Mi'ihen Highroad}'s...
+The monsters will be complete! Hurry and gather them!
+--------------------------------------------------End--
+
+Oh, are you gathering {Mi'ihen Highroad}'s monsters?
+Yes! Search the highway thoroughly!
+--------------------------------------------------End--
+
+How about it, will you gather the monsters of {Djose} highway?
+It's not that big an area, so you'll gather them quickly!
+--------------------------------------------------End--
+
+Oh! Just one more type for {Djose} highway's...
+The monsters will be complete! Gather them quickly!
+--------------------------------------------------End--
+
+Oh, are you gathering the monsters of {Djose} highway?
+The types are gradually coming together!
+--------------------------------------------------End--
+
+How about it, will you gather {Macalania}'s monsters?
+If you 42+70.gaze at the 42+69.beautiful forests and lakes, your heart will be healed!
+--------------------------------------------------End--
+
+Oh! Just one more type for {Macalania}'s...
+The monsters will be complete! Do your best to gather them!
+--------------------------------------------------End--
+
+Oh, are you gathering {Macalania}'s monsters?
+You should search every corner of the forest!
+--------------------------------------------------End--
+
+How about it, will you gather {Calm Lands}'s monsters?
+First, you should 42+59.conquer from nearby places!
+--------------------------------------------------End--
+
+Oh! Just one more type for {Calm Lands}'s...
+The monsters will be complete! Gather them quickly!
+--------------------------------------------------End--
+
+So, you're collecting the monsters of {Calm Lands}?
+The path ahead seems long, but don't give up!
+--------------------------------------------------End--
+
+How about it, would you collect the monsters of {Mushroom Rock Road} for me?
+There seem to be rare monsters behind the Mushroom Rock!
+--------------------------------------------------End--
+
+Whoa! Just one more type for {Mushroom Rock Road}'s
+The monsters will be complete! Collect them eagerly!
+--------------------------------------------------End--
+
+So, you're collecting the monsters of {Mushroom Rock Road}?
+Make sure to search even the very back of the Mushroom Rock!
+--------------------------------------------------End--
+
+How about it, would you collect the monsters of {Thunder Plains} for me?
+Collecting them while dodging lightning is thrilling!
+--------------------------------------------------End--
+
+Hmph! Just one more type for {Thunder Plains}'s
+...monsters will be complete! Do your best to gather them!
+--------------------------------------------------End--
+
+So, you're collecting the monsters of {Thunder Plains}?
+Watch out for lightning strikes and collect them!
+--------------------------------------------------End--
+
+North of {Calm Lands} there's a valley, and a cave at the bottom of the valley
+It's there, but could you collect the monsters from there for me?
+--------------------------------------------------End--
+
+Ugh! Just one more type for the cave at the bottom of the valley's
+...monsters will be complete! Do your best to gather them!
+--------------------------------------------------End--
+
+Oh, you're collecting the monsters of the cave at the bottom of the valley?
+It's not a very big cave, so search it more thoroughly!
+--------------------------------------------------End--
+
+How about it, would you collect the monsters of {Bikanel Island} for me?
+There seem to be various monsters in the vast desert!
+--------------------------------------------------End--
+
+What! Just one more type of {Bikanel Island}...
+The monsters will be complete! Collect them eagerly!
+--------------------------------------------------End--
+
+Oh, so you're collecting {Bikanel Island}'s monsters?
+Be careful not to collapse in the desert!
+--------------------------------------------------End--
+
+How about it? Will you collect the monsters of {Mt. Gagazet}?
+By mountain climbing, you can strengthen your legs {42+71}, and it's two benefits for one {42+72}!
+--------------------------------------------------End--
+
+Oh! Just one more type of {Mt. Gagazet}...
+The monsters will be complete! Hurry and gather them!
+--------------------------------------------------End--
+
+Oh, so you're collecting {Mt. Gagazet}'s monsters?
+Do your best not to lose to the cold!
+--------------------------------------------------End--
+
+How about it? Will you collect the monsters of {Kilika Island}?
+If you go around that forest once, they'll gather quickly!
+--------------------------------------------------End--
+
+Hmm! Just one more type of {Kilika Island}...
+The monsters will be complete! Do your best to gather them!
+--------------------------------------------------End--
+
+Oh, so you're collecting {Kilika Island}'s monsters?
+But it still seems to be lacking!
+--------------------------------------------------End--
+
+Inside '{Sin}', formidable monsters are swarming.
+They reportedly live there... If it's you, you should be able to collect them!
+--------------------------------------------------End--
+
+That's it! Just one more type of the monsters inside '{Sin}'...
+The monsters will be complete! Collect them with care!
+--------------------------------------------------End--
+
+Oh, are you collecting the monsters living inside '{Sin}'?
+It seems like a long way to go, but persevere and collect them!
+--------------------------------------------------End--
+
+In the ruins of Omega the Rebel, peculiar monsters...
+See here, you understand what I mean, don't you?
+--------------------------------------------------End--
+
+What! Just one more kind from the Omega Ruins...
+All the monsters will be gathered! Put your spirit into collecting them!
+--------------------------------------------------End--
+
+Oh, you're gathering the monsters from the Omega Ruins.
+Consider this training and keep gathering them!
+--------------------------------------------------End--
+
+There are monsters that protect themselves with hard shells, aren't there?
+Gather all of them. I want to [42+73.] the hardness of their shells.
+--------------------------------------------------End--
+
+Can you gather just a few more of the shell monsters?
+Thoroughly [42+74.] the places you can think of!
+--------------------------------------------------End--
+
+Hmm, you're gathering the shell monsters.
+Just smash their shells [42+75.]!
+--------------------------------------------------End--
+
+The goblins that fly in the sky and wield lightning magic...
+Gather many of them! I want to [42+60.] their magic power!
+--------------------------------------------------End--
+
+Can you gather just a few more of the goblins?
+Come on, hurry and catch them!
+--------------------------------------------------End--
+
+Hmm, you're gathering the goblins.
+They rely on magic, so exploit that weakness!
+--------------------------------------------------End--
+
+In {Spira}, various kinds of wolves...
+Are living there. Can you gather many of them for me?
+--------------------------------------------------End--
+
+Can you gather just a few more of the wolves?
+Once enough are gathered, my 42+60.research will progress!
+--------------------------------------------------End--
+
+Hmm, are you gathering wolves?
+They're quick ones, but don't let them escape!
+--------------------------------------------------End--
+
+If I gather the puddings with 42+76.attributes and mix them together...
+...what will happen... I'm itching to know.
+--------------------------------------------------End--
+
+Could you gather just a few more puddings for me?
+I want to mix them together quickly!
+--------------------------------------------------End--
+
+Hmm, are you gathering puddings?
+Don't use magic, but deliver the finishing blow with a weapon!
+--------------------------------------------------End--
+
+In {Spira}, various kinds of lizards...
+...live. How about gathering them?
+--------------------------------------------------End--
+
+Could you gather just a few more lizards for me?
+Just a little more! Do your best!
+--------------------------------------------------End--
+
+Hmm, are you gathering lizards?
+They're quick ones, but you can do it!
+--------------------------------------------------End--
+
+There are small birds fluttering around.
+Catch them!
+--------------------------------------------------End--
+
+Could you gather just a few more birds for me?
+I will prepare a sturdy birdcage and wait!
+--------------------------------------------------End--
+
+Hmm, are you gathering small birds?
+They're plump and look tasty, but you mustn't eat them!
+--------------------------------------------------End--
+
+I am gathering winged insects that carry poison...
+I want to try doing 42+60.research on poison.
+--------------------------------------------------End--
+
+Could you gather a few more winged insects for me?
+Alright! Head off bug-42+77.hunting right away!
+--------------------------------------------------End--
+
+Mmm, are you gathering winged insects?
+Be very careful of the poison!
+--------------------------------------------------End--
+
+There are eyeball creatures flapping around with 42+78.wings.
+I want you to gather a lot of them.
+--------------------------------------------------End--
+
+Could you gather a few more eyeball creatures for me?
+I want to gather a lot and advance the 42+60.research as well!
+--------------------------------------------------End--
+
+Mmm, are you gathering flying eyeball creatures?
+Catch as many as you can!
+--------------------------------------------------End--
+
+There are four-legged beasts that wield huge horns.
+Could you capture and bring them back for me?
+--------------------------------------------------End--
+
+Could you gather a few more horned beasts for me?
+I'm looking forward to it!
+--------------------------------------------------End--
+
+Mmm, are you gathering horned beasts?
+Since they are strong, dodge their attacks skillfully!
+--------------------------------------------------End--
+
+Do you know any sturdy dragons that breathe attacks?
+If I gather all types of them, it will be quite a 42+79.sight...
+--------------------------------------------------End--
+
+Could you gather a few more dragons for me?
+Once I have enough, it seems like it would be worth 42+60.research!
+--------------------------------------------------End--
+
+Hmm, are you gathering dragons?
+Are the weapons that value scales ready, I wonder?
+--------------------------------------------------End--
+
+What are the elementals thinking?
+I don't know... I want to gather them and 42+60.research them.
+--------------------------------------------------End--
+
+Could you gather a few more elementals for me?
+Get the numbers ready, for 42+60.research into elemental magic!
+--------------------------------------------------End--
+
+Hmm, are you gathering elementals?
+Attacking with magic of the weak attribute is the trick!
+--------------------------------------------------End--
+
+How are the Iron Giants moving, I wonder?
+I want to gather many and thoroughly 42+60.research them!
+--------------------------------------------------End--
+
+Could you gather a few more Iron Giants for me?
+They are formidable foes. Carelessness is forbidden!
+--------------------------------------------------End--
+
+Hmm, are you gathering Iron Giants?
+You must not take their attacks head-on!
+--------------------------------------------------End--
+
+If you hit them hard, they swell up and self-destruct.
+I want to gather Bombs and 42+60.research them!
+--------------------------------------------------End--
+
+Could you gather a few more Bombs for me?
+It would be a waste to let it self-destruct!
+--------------------------------------------------End--
+
+Hmm, are you gathering the bombs?
+Catch them before they self-destruct!!
+--------------------------------------------------End--
+
+I want you to gather the good mushrooms!
+Oh, you mustn't eat them even if you get hungry!
+--------------------------------------------------End--
+
+Can you gather a few more mushrooms?
+I know I'm being repetitive, but you mustn't eat them!
+--------------------------------------------------End--
+
+Hmm, are you gathering the mushrooms?
+You mustn't eat them, even if you catch them!
+--------------------------------------------------End--
+
+Thanks to you, the number of monsters...
+Is steadily increasing. I thank you.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Through {Besaid Aurochs}'s 42+80. action, to the Save Sphere.
+{blitzball} the 42+81. transfer function to the stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+82. land, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and talk to them, and you may be able to scout and 42+83. them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+Airship transfer 42+81. function has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

@@ -1,0 +1,433 @@
+{Yuna} 
+Both of you, hurry!
+--------------------------------------------------End--
+{Tidus} 
+You're really eager...
+--------------------------------------------------End--
+{Kimahri} 
+The tougher it gets, the harder you try.
+You act cheerful.
+--------------------------------------------------End--
+{Kimahri} 
+It's the same now.
+You're pushing yourself.
+--------------------------------------------------End--
+{Tidus} 
+Is it okay to leave him be?
+--------------------------------------------------End--
+{Kimahri} 
+If Guard worries,
+{Yuna} will push himself even harder.
+--------------------------------------------------End--
+{Kimahri} 
+You be careful too.
+--------------------------------------------------End--
+{Tidus} 
+Rather than worrying, Tendo?
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} is practicing too.
+--------------------------------------------------End--
+{Tidus} 
+Just try it.
+--------------------------------------------------End--
+{Tidus} 
+Hey, up to {Zanarkand}...
+How far?
+--------------------------------------------------End--
+{Wakka} 
+Still a long way to go.
+--------------------------------------------------End--
+{Lulu} 
+Go down {Moonflow}.
+{Guado2}'s {Guadosalam}
+--------------------------------------------------End--
+{Lulu} 
+And then, passing {Thunder Plains}...
+{Macalania}'s temple...
+--------------------------------------------------End--
+{Tidus} 
+Whoa...
+--------------------------------------------------End--
+{Yuna} 
+Before that, at {Blue} Temple of {Djose} {White}.
+It's prayer.
+--------------------------------------------------End--
+{Tidus} 
+Straight to {Zanarkand}!
+…Is that no good?
+--------------------------------------------------End--
+{Yuna} 
+Visit as many temples as possible.
+Must greet {fayth}-sama.
+--------------------------------------------------End--
+{Wakka} 
+That is a Summoner's training.
+--------------------------------------------------End--
+{Wakka} 
+So that one can withstand the Ultimate Summoning.
+To train the mind and body.
+--------------------------------------------------End--
+{Tidus} 
+That's a lot of work, {Yuna}.
+--------------------------------------------------End--
+{Yuna} 
+Because I'm with everyone.
+It's okay.
+--------------------------------------------------End--
+{Auron} 
+Hey, newcomer.
+--------------------------------------------------End--
+{Tidus} 
+Me?
+--------------------------------------------------End--
+{Auron} 
+Who else?
+--------------------------------------------------End--
+{Tidus} 
+What is it, Sen'ou?
+--------------------------------------------------End--
+{Auron} 
+The relationship between {Jecht} and '{Sin}'.
+Keep it hidden from {Yuna}.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Huh?
+--------------------------------------------------End--
+{Auron} 
+That is 性42+53.
+--------------------------------------------------End--
+{Auron} 
+If they know, to you and {Jecht}...
+遠42+54. is born.
+--------------------------------------------------End--
+{Auron} 
+Such a thing is in the way.
+--------------------------------------------------End--
+{Tidus} 
+Well... I suppose so.
+--------------------------------------------------End--
+{Tidus} 
+But still, even if I talk...
+Nobody will believe it, normally.
+--------------------------------------------------End--
+{Auron} 
+{Yuna} will believe.
+--------------------------------------------------End--
+{Tidus} 
+Oh... perhaps.
+--------------------------------------------------End--
+{Auron} 
+When it really matters, you start crying...
+Because 42+55.42+56.tazudewa 42+57.ru, you see.
+--------------------------------------------------End--
+{Tidus} 
+I said I won't cry!
+--------------------------------------------------End--
+{Auron} 
+I heard you were a crybaby, though.
+--------------------------------------------------End--
+
+When {Font Italic} was a child... that was how it was.
+--------------------------------------------------End--
+
+{Font Italic}, even now... is that still true?
+--------------------------------------------------End--
+{Tidus} 
+Oh!
+--------------------------------------------------End--
+{Tidus} 
+It's not that I believed...
+...because!
+--------------------------------------------------End--
+{Tidus} 
+Next, where was it again?
+--------------------------------------------------End--
+{Lulu} 
+{Blue}, we cross the 【{Moonflow} 】{White}.
+--------------------------------------------------End--
+{Tidus} 
+Understood!
+--------------------------------------------------End--
+{Tidus} 
+Headed for {Blue} 【ゲンコーガ】{White}.
+Let's go!
+--------------------------------------------------End--
+{Tidus} 
+Hey, even to me...
+You didn't have to tell me, did you?
+--------------------------------------------------End--
+{Tidus} 
+What about my feelings?
+--------------------------------------------------End--
+
+We've decided to rest at the temple, but...
+…We are excommunicated.
+{NEWPAGE}
+
+It's doubtful if they'll let us rest.
+We might be thrown out.
+--------------------------------------------------End--
+
+Oh, that's right…
+{NEWPAGE}
+
+Monsters that turn humans to stone will appear.
+Equip this and endure.
+--------------------------------------------------End--
+
+Our squadmates are missing.
+I want to believe they remain 無42+59..
+--------------------------------------------------End--
+
+The reason all our comrades died is...
+…because we went against the teachings…right?
+{NEWPAGE}
+
+To rely on forbidden machines...
+It was an irreversible 間42+60.i.
+--------------------------------------------------End--
+
+This is proof of my atonement.
+I want the Summoner to use it.
+--------------------------------------------------End--
+
+Now that it's come to this, we must appeal to the High Priest.
+We have no choice but to もう一42+61. return to the path of the teachings.
+--------------------------------------------------End--
+
+The {Djose} coastal defense operation this year also
+There were many casualties, but...
+{NEWPAGE}
+
+It won't be any consolation this time.
+......They must have broken the teachings.
+--------------------------------------------------End--
+
+I found this on the battlefield.
+Please use it.
+--------------------------------------------------End--
+
+To pray even for the souls of the fallen warriors...
+That is the duty of the survivors.
+--------------------------------------------------End--
+
+Monsters are becoming active due to the influence of {Sin}'s invasion.
+It is better to stop heading towards {Luca}.
+--------------------------------------------------End--
+
+{Crusader} retreated to {Djose Temple},
+and it was decided to reorganize their posture.
+{NEWPAGE}
+
+Enough to reorganize their posture...
+But there aren't enough survivors left...
+--------------------------------------------------End--
+
+Damn it! My subordinates, whom I fought alongside,
+I allowed them to die in vain!
+--------------------------------------------------End--
+
+These are my subordinates' mementos... please use them.
+--------------------------------------------------End--
+
+From now on, warrior monks and {Guado2} will
+apparently guard the main road.
+{NEWPAGE}
+
+It seems {Crusader}'s turn will rapidly diminish...
+--------------------------------------------------End--
+
+Even if {Crusader}'s companions are gone.
+I will continue to guard the highway.
+--------------------------------------------------End--
+
+The monk-soldiers surrendered to {Bevelle}.
+In short, they ran away.
+--------------------------------------------------End--
+
+That '{Sin}' will rule this land again,
+A rumor is circulating.
+--------------------------------------------------End--
+
+A flying ship sings, something like that...
+I was surprised when the ship flew here.
+{NEWPAGE}
+
+Many people came to this highway too!
+Everyone crossed their arms and sang in chorus.
+--------------------------------------------------End--
+
+I'm getting fired up! If we defeat '{Sin}',
+People's sins will be forgiven, right!
+{NEWPAGE}
+
+Everything will be erased, right?
+It was worth living!
+--------------------------------------------------End--
+
+Saving the injured is {Yevon2}'s teachings.
+As one who believes, it is the natural thing.
+{NEWPAGE}
+
+Even {Crusader}'s excommunicated followers.
+The temple will protect them.
+{NEWPAGE}
+
+They have received sufficient punishment.
+It should be fine to lift the excommunication now.
+--------------------------------------------------End--
+
+Even for you, the 42+81.mi of {Yevon2}...
+(No separate translation; combined with line 4)
+--------------------------------------------------End--
+
+It was a tragic defeat... That we survived was...
+It must be {Yevon2}'s blessing, I suppose.
+--------------------------------------------------End--
+
+There are suspicious {Al Bhed2}
+reported to be lurking throughout the entire road.
+{NEWPAGE}
+
+Well, there aren't any non-suspicious {Al Bhed2}
+anywhere, after all.
+--------------------------------------------------End--
+
+If you spot a {Al Bhed2},
+report it immediately.
+--------------------------------------------------End--
+
+In a place like this, what are you...
+...doing?
+{NEWPAGE}
+
+Lord {Seymour} is at {Macalania},
+waiting!
+--------------------------------------------------End--
+
+The story of 42+82.rei must be spread throughout the entire land of {Spira}.
+広めねばなりませんな
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By means of {Besaid Aurochs}'s 42+83.katsu, the Save Sphere now has...
+...a 42+84.ten function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training in {Spira}'s 42+85.Location.
+hidden excellent players are lurking.
+By pressing {Button Square} and speaking to them, you may sometimes be able to 42+86.yaku a scout.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+A 42+84.ten function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+Luca
+{VAR07:52} Port=Kilika
+
+
+
+{VAR07:4A}Besaid
+--------------------------------------------------End--
+{AREA}
+{VAR07:48} Djose Road
+--------------------------------------------------End--
+{AREA}
+Djose Yevon Temple
+--------------------------------------------------End--
+{AREA}
+Illusory Light River
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Volume 11 {Al Bhed} language dictionary!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language 42+87.!
+{VAR07:31} 『{OPurple} Ma{White} 』42+88.『{Pink} Wa{White} 』
+{VAR07:31} 『{OPurple} Ri{White} 』42+88.『{Pink} Hi{White} 』
+{VAR07:31} 『{OPurple} Ku{White} 』42+88.『{Pink} Fu{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Concerning the unfamiliar word 42+89. '{Al Bhed} language', the {Al Bhed} language dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

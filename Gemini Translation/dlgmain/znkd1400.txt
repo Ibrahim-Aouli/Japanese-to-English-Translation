@@ -1,0 +1,189 @@
+
+It can't start without you.
+Hurry, hurry!
+--------------------------------------------------End--
+
+I'm looking forward to an intense game.
+--------------------------------------------------End--
+
+Show me by facing the old man.
+--------------------------------------------------End--
+
+If you win, I'll treat you as much as you like.
+I already made a reservation for the place, too.
+--------------------------------------------------End--
+
+That's strange, I'm starting to feel unwell.
+Like when going down in an elevator...
+--------------------------------------------------End--
+
+Me, maybe I got too excited...
+I wonder if I started to feel sick.
+--------------------------------------------------End--
+
+If we don't hurry...
+The match will start.
+--------------------------------------------------End--
+
+I'm counting on you, Ace!
+--------------------------------------------------End--
+
+For some reason, I'm shivering...
+I wonder if I've caught a cold.
+--------------------------------------------------End--
+
+Isn't it a bit cold? Or is it just my imagination?
+Sorry for saying strange things.
+--------------------------------------------------End--
+
+Tonight's tickets are incredibly...
+...they have a huge premium on them.
+--------------------------------------------------End--
+
+I couldn't get tickets.
+I wonder if anyone has a spare...
+--------------------------------------------------End--
+
+If I say "an acquaintance of {Tidus}"
+We can get in with a free pass, right?
+--------------------------------------------------End--
+
+I won't tell anyone about this.
+It's just our secret, okay?
+--------------------------------------------------End--
+
+Oh, at the stadium...
+I wanted to cheer...
+--------------------------------------------------End--
+
+It's fine! Stingy?
+I don't think so... just a little bit, you know.
+--------------------------------------------------End--
+
+Are you really sure!?
+Thank you so much!!
+{NEWPAGE}
+
+What should I do? I have to give thanks...
+Then, is this okay?
+--------------------------------------------------End--
+
+Is it still no good?
+That's right, isn't it? It's only natural...
+--------------------------------------------------End--
+
+Alright! Second-generation {Jecht}!
+--------------------------------------------------End--
+
+You're already acting like you've won.
+42+53.42+54. Is that how it is?
+--------------------------------------------------End--
+
+All of {Zanarkand} is watching.
+If you play a half-hearted match, you'll be a 42+55. one.
+--------------------------------------------------End--
+
+Show them the real {blitzball}!
+見せてやんな！
+--------------------------------------------------End--
+
+It looks like it'll be an intense game.
+I'm getting thrilled.
+--------------------------------------------------End--
+
+Tonight will be a memorable match.
+I have such a feeling.
+--------------------------------------------------End--
+
+Since you're bearing the {Zanarkand Abes},
+give it your all!
+--------------------------------------------------End--
+
+Go quickly! Or are you intentionally falling behind in the match
+to make it more exciting?
+--------------------------------------------------End--
+
+This year's top scorer is you, I suppose.
+--------------------------------------------------End--
+
+As expected of {Jecht}'s son.
+--------------------------------------------------End--
+
+Alright, Ace! Tonight,
+you can go wild as much as you want!
+--------------------------------------------------End--
+
+Their defense?
+Just easily rout them.
+--------------------------------------------------End--
+
+The opponent seems intense.
+Be careful!
+--------------------------------------------------End--
+
+It seems like {Zanarkand Duggles}
+is only dangerous people.
+--------------------------------------------------End--
+
+Defeat those guys with a shot, {Jecht}!
+Your dad, __P0__, was amazing, wasn't he? Swap him for my dad!
+--------------------------------------------------End--
+
+Do your best, {Tidus}!
+Hey, we'll be late! Hurry, hurry!
+--------------------------------------------------End--
+
+{Tidus} is invincible, after all!
+--------------------------------------------------End--
+
+My mom is a fan of __P0__, too! Now 42+64. She said to come eat dinner!
+If you lose, it's a punch!
+--------------------------------------------------End--
+
+You absolutely have to win!
+When I become an adult, I'll join __P0__'s team!
+--------------------------------------------------End--
+
+I want to watch only tonight's match live. With connections, can't you secure 42+65. tickets?
+__P0__, give up.
+--------------------------------------------------End--
+
+負けたらパンチだぞ！
+ぜったい勝てよな！
+--------------------------------------------------End--
+
+おれもオトナになったら
+{Tidus} のチームに入るからな！
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+今夜の試合だけはナマで観たいのよ
+コネで チケット確42+65.できない？
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}It's fine.
+{CHOICE:31}あきらめて
+--------------------------------------------------End--

@@ -1,0 +1,404 @@
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31} Installing game data.
+{VAR07:31} Remaining: {VAR12:31}:0{VAR12:32}
+--------------------------------------------------End--
+
+Was there a person like that?
+--------------------------------------------------End--
+
+Hmm, was there...?
+--------------------------------------------------End--
+
+A child from {Home}'s burned-out ruins
+hasn't returned.
+--------------------------------------------------End--
+
+Would someone together with me
+please search?
+--------------------------------------------------End--
+
+Please search the cliff area a bit more.
+--------------------------------------------------End--
+{Auron} 
+Well... let's go.
+--------------------------------------------------End--
+
+I'll search this way.
+--------------------------------------------------End--
+{Tidus} 
+Whoa!
+--------------------------------------------------End--
+
+I wonder where they went.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+
+Even if you go over there, there's nothing.
+{Home} was completely destroyed...
+--------------------------------------------------End--
+
+But, Big Brother...
+We have {blitz}!
+--------------------------------------------------End--
+
+Ball...
+I left it inside.
+--------------------------------------------------End--
+{Rikku} 
+Huh...?
+Which one was it...?
+--------------------------------------------------End--
+{Rikku} 
+Um... it's this way.
+--------------------------------------------------End--
+{Rikku} 
+This way! This way!
+--------------------------------------------------End--
+{Rikku} 
+It's that way!
+--------------------------------------------------End--
+{Rikku} 
+Aaaaaah!?
+--------------------------------------------------End--
+{Tidus} 
+Rikku!?
+--------------------------------------------------End--
+{Wakka} 
+Yuna's over there, you say!?
+--------------------------------------------------End--
+{Lulu} 
+If our comrades go... right?
+--------------------------------------------------End--
+{WINDOW}
+3！
+--------------------------------------------------End--
+{WINDOW}
+2！
+--------------------------------------------------End--
+{WINDOW}
+1！
+--------------------------------------------------End--
+{WINDOW}
+＝1st TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+＝2nd TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+＝3rd TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+START！！
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE！！
+--------------------------------------------------End--
+{WINDOW}
+TIME OVER！！
+--------------------------------------------------End--
+{WINDOW}
+harihari manbon
+--------------------------------------------------End--
+{WINDOW}
+harihari...
+--------------------------------------------------End--
+{WINDOW}
+...fell down.
+--------------------------------------------------End--
+{WINDOW}
+hari...
+--------------------------------------------------End--
+{WINDOW}
+20！
+--------------------------------------------------End--
+{WINDOW}
+
+There is something written.
+--------------------------------------------------End--
+{WINDOW}
+
+Only a little more until {Home}.
+--------------------------------------------------End--
+{WINDOW}
+
+Danger!
+Beware of sandstorms.
+--------------------------------------------------End--
+{WINDOW}
+
+Caution!
+Strong {fiend} will appear.
+--------------------------------------------------End--
+{WINDOW}
+
+Fading letters are visible below it.
+--------------------------------------------------End--
+{WINDOW}
+
+Travel Company All Routes 20% Off!
+--------------------------------------------------End--
+{WINDOW}
+
+It looks like an old advertisement.
+--------------------------------------------------End--
+{WINDOW}
+
+Letters are visible on the stone.
+--------------------------------------------------End--
+{WINDOW}
+I can't go any further because of the fierce sandstorm!
+--------------------------------------------------End--
+{WINDOW}
+
+Beyond the fierce sandstorm, I can see land.
+--------------------------------------------------End--
+{WINDOW}
+
+On the stone directly ahead...
+{fiend}'s answer is written as 42+53.
+--------------------------------------------------End--
+{WINDOW}
+
+Easygoing Tome is off to fetch water.
+--------------------------------------------------End--
+{WINDOW}
+
+Robivia is 42+54. on the journey.
+--------------------------------------------------End--
+{WINDOW}
+
+Small Chapa likes big numbers.
+--------------------------------------------------End--
+{WINDOW}
+
+Alec and Aroya are playing tag in the ruins.
+--------------------------------------------------End--
+{WINDOW}
+
+Barchela is seeking blue light.
+--------------------------------------------------End--
+{WINDOW}
+
+Robeira was inadvertently 42+55.trapped.
+--------------------------------------------------End--
+{WINDOW}
+
+Heat Haze Shop, 42+56. of the hole is 42+57.ri.
+Israya will 42+58.42+59.
+--------------------------------------------------End--
+{WINDOW}
+
+Inquisitive Erio departed on a journey.
+--------------------------------------------------End--
+{WINDOW}
+
+Fraile is always behind.
+--------------------------------------------------End--
+{WINDOW}
+
+＝Gatekeeper's 42+62.＝
+--------------------------------------------------End--
+{WINDOW}
+
+10 Gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+9 Gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+8 Gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+7 Gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+6 Gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+Five gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+Four gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+Three gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+Two gatekeepers
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+One gatekeeper
+Manipulate sand.
+--------------------------------------------------End--
+{WINDOW}
+
+Still not back.
+--------------------------------------------------End--
+{WINDOW}
+
+Won't return anymore.
+--------------------------------------------------End--
+{WINDOW}
+
+No one was left, and
+Even the protective sand {42+57.}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Tome]{White}
+・Daily water drawing {42+63.}.
+・Being a slowpoke, by their companions,
+They are sometimes left behind.
+Often.
+・Slow.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Robivia]{White}
+・At their slow friend,
+Always irritated.
+・Inexperienced.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Chapa]{White}
+・Recently, they can count up to 50.
+They have become able to.
+・Friendly.
+・Attention scattered {42+64.}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Alec & Aroya]{White}
+・Always together, friendly older {42+65.}.
+・Their movements are the same.
+After all, they're friendly older {42+65.}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Barchela]{White}
+Loves new things.
+・{42+66.} to others, {42+67.} to oneself.
+Impatient.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ROBEIRA]{White}
+Clumsy.
+Always wants to enter narrow places.
+Proud collection currently on display!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ISRAYA]{White}
+・The number one {42+58.42+59.} in {42+68.}.
+Digging holes today too.
+Quite cautious.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ELIO]{White}
+What lies beyond the Desert?
+With {42+72.} expectations, the young man {42+61.} on a journey.
+Somewhat over-the-top with actions.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [FLAYLE]{White}
+Before you know it,
+the type to join the group.
+Cunning.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Sabotender's {42+68.}]{White}
+Controlling sand with the Sphere's power,
+Sabotenders who protect the clan's {42+68.}
+...are {42+73.} called 'Gatekeepers'.
+・The 10 spheres {42+74.} possess.
+When everything is dedicated to Ishisari...
+The way to 42+68. will be opened.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道1】{White}
+Even if they appear to be only 42+75.ing.
+The Gatekeepers are 42+76. and noble warriors of the clan.
+Basically, I don't like 42+77., but their backs...
+They will confront that opponent with 42+78..
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道2】{White}
+If you fail to get behind them successfully,
+the Gatekeepers will be disappointed in you,
+Will quickly 42+57. that spot.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道3】{White}
+While the Cactuars have their backs turned,
+Move to their location and battle...
+and challenge them to a battle.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【スフィア】{White}
+・If you couldn't get behind the gatekeepers
+You obtain the Loser's Sphere.
+・When you could get behind the gatekeepers
+The spheres with 42+74.'s name...
+you receive.
+・If you collect many named spheres,
+When collected, at 42+68. a reward...
+--------------------------------------------------End--
+{WINDOW}
+
+When you fit spheres into Ishisari...
+New characters emerged!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tome's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robivia's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chapa's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alec & Araya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Barchera's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeira's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Israya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+...Obtained Elio's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Fraire's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Loser's Sphere!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue} TIME {VAR12:32}：{VAR12:31}：{VAR12:30}{White} 
+--------------------------------------------------End--

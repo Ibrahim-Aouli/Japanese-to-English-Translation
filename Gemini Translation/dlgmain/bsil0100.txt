@@ -1,0 +1,268 @@
+{Yuna} 
+...Goodbye.
+--------------------------------------------------End--
+
+Lord {Yuna}, about me...
+Don't forget me!
+--------------------------------------------------End--
+
+I'll be a good boy!
+I promise!
+--------------------------------------------------End--
+
+Take this with you!
+Dad said it's a farewell gift.
+--------------------------------------------------End--
+
+I'm keeping a lookout every day to see if 『{Sin} 』 will come!
+(part of line 8)
+--------------------------------------------------End--
+
+Everyone from {Aurochs}...
+Has everyone from __P0__ still not returned?
+--------------------------------------------------End--
+
+I want to join the Tōbatsutai, but...
+They won't let me in.
+--------------------------------------------------End--
+
+If we defeat 『{Sin} 』...
+Will the monsters disappear too, I wonder?
+--------------------------------------------------End--
+
+Have a good trip!
+I'll be waiting for souvenirs!
+--------------------------------------------------End--
+
+Hey, hey! On the boat...
+Where are you going~?
+--------------------------------------------------End--
+
+Lord {Yuna}'s Nagi Shop, still not yet~?
+--------------------------------------------------End--
+
+Hehe, playing {Yuna}-sama!
+I'm going to become a Summoner too.
+--------------------------------------------------End--
+
+A boat is flying in the sky.
+I really saw it!
+--------------------------------------------------End--
+
+Because I sang well, as a reward...
+{Yuna}-sama's Nagi shop is coming, isn't it?
+--------------------------------------------------End--
+
+They say guys speaking strange words...
+...are wandering around. Be careful.
+--------------------------------------------------End--
+
+The Summoner-sama who came to the island the other day had...
+...a Guard about my age.
+{NEWPAGE}
+
+Was the Guard's name {Pacce}, I wonder?
+--------------------------------------------------End--
+
+The Monk-soldiers came looking for {Yuna}-sama.
+Everyone kept quiet, though.
+--------------------------------------------------End--
+
+With just songs, can we defeat '{Sin}', I wonder...?
+...can we defeat '__P0__', I wonder...?
+--------------------------------------------------End--
+
+That a day like this would come someday...
+...I knew it, though...
+--------------------------------------------------End--
+
+Regarding {Yuna}-sama...
+I'm entrusting them to you, truly.
+--------------------------------------------------End--
+
+Here, bring it.
+When you're in trouble, you're supposed to leave.
+--------------------------------------------------End--
+
+Just recently, the Summoner's...
+...party arrived.
+{NEWPAGE}
+
+But then they suddenly disappeared.
+I wonder where they went?
+--------------------------------------------------End--
+
+If I recall, Master P0...
+...was that their name?
+--------------------------------------------------End--
+
+I heard rumors from the sailors.
+Is it true that Master P0 is 42+53.ing?
+--------------------------------------------------End--
+
+Master P0 would never 42+53. and give up their journey...
+...I don't think so...
+--------------------------------------------------End--
+
+The people of P0 are allies of Master P1.
+Whenever 42+54. occurs, come back anytime.
+--------------------------------------------------End--
+
+That flying ship is P0's...
+...a gift, perhaps...
+--------------------------------------------------End--
+
+On the battlefield, with P0 and P1...
+...I got separated.
+{NEWPAGE}
+
+When will both of them...
+...return...?
+--------------------------------------------------End--
+
+That operation was definitely not in vain.
+I mean, {Sin} hasn't shown itself recently, right?
+--------------------------------------------------End--
+
+I'm currently 42+55.42+56. in preparation for {Sin}.
+It's not like I'm slacking off.
+--------------------------------------------------End--
+
+{Sin} is still alive, right?
+It looks like {Crusader}'s turn might be coming.
+--------------------------------------------------End--
+
+{Sin} has been quiet lately.
+Were you able to repel {Crusader} and 42+57.?
+--------------------------------------------------End--
+
+I'll tell you some special news.
+{NEWPAGE}
+
+{High Summoner Braska}-sama's daughter and...
+I heard that {Guado2}'s master will 結42+53..
+--------------------------------------------------End--
+
+What? You already knew?
+You should have told me earlier.
+--------------------------------------------------End--
+
+Perhaps it's because the temple is in chaos...
+The number of passengers has decreased too.
+--------------------------------------------------End--
+
+Just for one 42+58., on that flying ship...
+I'd like to try riding it.
+--------------------------------------------------End--
+
+Ahhh! What I wanted to say...
+Even though there's so much.
+{NEWPAGE}
+
+When I see {Yuna}-chan's 42+59....
+I can't say anything at all...
+--------------------------------------------------End--
+
+Ughhh! The sea is full of monsters!
+Please give this to {Yuna}-chan.
+--------------------------------------------------End--
+
+I won't cry...
+Oh, I won't cry!
+--------------------------------------------------End--
+
+Are you really leaving...?
+--------------------------------------------------End--
+
+This is a parting gift for your journey.
+It's the villagers' feelings.
+--------------------------------------------------End--
+
+Everyone for seeing 42+60 off...
+I understand why they didn't come.
+{NEWPAGE}
+
+If we stay here, saying goodbye...
+It's even harder.
+--------------------------------------------------End--
+
+To the departing summoner,
+May {Yevon2}'s 42+61. be.
+--------------------------------------------------End--
+
+To 42+62 the summoner's departure,
+Let us 42+64 the 42+63 passed down in the temple.
+--------------------------------------------------End--
+
+It will likely be a long journey.
+Believe in the teachings and proceed with resolve.
+--------------------------------------------------End--
+
+It's going to {Blue} 【{Kilika Island} 】{White}.
+Will you ride?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} will board.
+{CHOICE:31} Hold on.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s {42+65.}, to the Save Sphere.
+the transfer function to {blitzball} Stadium
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s {42+66.} base, continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to make a scout {42+67.} contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+the transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

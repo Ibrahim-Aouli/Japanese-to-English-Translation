@@ -1,0 +1,82 @@
+{Yuna} 
+Shipaf, this line.
+--------------------------------------------------End--
+{Tidus} 
+Oh, I've ridden it before.
+--------------------------------------------------End--
+{Yuna} 
+Yeah, just once.
+10 years ago, with {Kimahri}.
+--------------------------------------------------End--
+{Yuna} 
+Do you remember?
+--------------------------------------------------End--
+{Kimahri} 
+Shipaf appeared.
+{Yuna} fell into the river.
+--------------------------------------------------End--
+{Kimahri} 
+Shipaf, with great effort,
+rescued {Yuna}.
+--------------------------------------------------End--
+{Kimahri} 
+{Yuna} left, and...
+3 times, intentionally jumped into the river.
+--------------------------------------------------End--
+{Yuna} 
+Ah...
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} worried.
+--------------------------------------------------End--
+{Yuna} 
+...Sorry.
+--------------------------------------------------End--
+{Kimahri} 
+{Yuna} seemed to enjoy it.
+So, it was good.
+--------------------------------------------------End--
+{Yuna} 
+I, until 10 years ago...
+...was living in {Bevelle}.
+--------------------------------------------------End--
+{Yuna} 
+After my father defeated '{{Sin}}'...
+...we moved to {Besaid}.
+--------------------------------------------------End--
+{Yuna} 
+{Kimahri} together...
+...traveled with me.
+--------------------------------------------------End--
+{Tidus} 
+{Bevelle} ？
+--------------------------------------------------End--
+{Yuna} 
+In the central area of {Yevon2} Temple.
+It's the biggest city in {Spira}.
+--------------------------------------------------End--
+{Yuna} 
+Let's ride Shipaafu quickly.
+--------------------------------------------------End--
+{Kimahri} 
+{Biran} is a Chaos Responder.
+But because it's {Ronso}, they don't lie.
+--------------------------------------------------End--
+{Kimahri} 
+So, the story about the Summoner disappearing...
+It's not a lie.
+--------------------------------------------------End--
+{Tidus} 
+Mm-hm, I'll be careful.
+--------------------------------------------------End--
+{Kimahri} 
+...I smell oil.
+--------------------------------------------------End--
+{O'aka} 
+{O'aka}, please!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}, show me your weapons.
+{CHOICE:31}, show me your items.
+{CHOICE:32} I'll pass.
+--------------------------------------------------End--

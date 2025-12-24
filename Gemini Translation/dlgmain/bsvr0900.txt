@@ -1,0 +1,33 @@
+{Wakka} 
+Go greet {Yellow} [Temple Summoner-sama]{White} before your meal.
+If you pray at the temple, your ill will might even be removed.
+--------------------------------------------------End--
+{Wakka} 
+Oh dear, the meal isn't ready yet.
+Go stand in line or something.
+--------------------------------------------------End--
+{Wakka} 
+You're capable, aren't you?
+--------------------------------------------------End--
+{Wakka} 
+__P0__ is well.
+Wouldn't it be better to go check on them?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Yeah.
+Hmm...
+--------------------------------------------------End--
+
+I think it's alright...
+But it's already been quite a while...
+--------------------------------------------------End--
+{Wakka} 
+うーん……
+だいじょうふだと思うんですが……
+--------------------------------------------------End--
+
+しかし もう かれこれ……
+--------------------------------------------------End--
+{Tidus} 
+{Wakka} ？
+--------------------------------------------------End--

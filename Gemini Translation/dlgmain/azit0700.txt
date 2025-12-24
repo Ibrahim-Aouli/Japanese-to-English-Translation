@@ -1,0 +1,115 @@
+{Rikku} 
+Not that way!
+--------------------------------------------------End--
+
+Treasure {Al Bhed} Check!
+--------------------------------------------------End--
+
+Are you {Al Bhed}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Position
+{CHOICE:31} No
+{CHOICE:32} Yes
+{CHOICE:33} Y-yes.
+--------------------------------------------------End--
+
+Who is the son of {Al Bhed}'s leader?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Al Bhed Psyches} 
+{CHOICE:31}{Cid} 
+{CHOICE:32}{Rin Travel Agency} 
+{CHOICE:33}{Brother} 
+--------------------------------------------------End--
+
+Which island does {Al Bhed} live on?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}{Yevon2} 
+{CHOICE:31}{Bikanel Island} 
+{CHOICE:32}{O'aka XXIII} 
+{CHOICE:33}{blitzball} 
+--------------------------------------------------End--
+
+How do you pronounce {Al Bhed} in {Al Bhed3}?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Albedo
+{CHOICE:31} Belaad
+{CHOICE:32} Ruabedo
+{CHOICE:33} Aldobe
+--------------------------------------------------End--
+{WINDOW}
+
+The ones digit is 2 plus 1.
+The tens digit is 3 times 1.
+The hundreds digit is 7 minus 1.
+The thousands digit is 4 plus 1.
+--------------------------------------------------End--
+{WINDOW}
+Password: {CHOICE:53}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar string '{Al Bhed} Language', a {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+`{Yellow} 【{Al Bhed} Dictionary Synthesis Sphere】{White}`
+--------------------------------------------------End--
+{WINDOW}
+`Incorporate {Al Bhed} dictionary data.`
+`You can synthesize {Al Bhed} dictionaries!`
+{NEWPAGE}
+`Please select the save data to synthesize the Al Bhed dictionary.`
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+`Do you want to synthesize other save data?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+`Failed to incorporate {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+`There is no {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+`Successfully incorporated {Al Bhed} dictionary data!`
+--------------------------------------------------End--
+{WINDOW}
+`Synthesize {Al Bhed} dictionary?`
+`{VAR07:31}{CHOICE:30}Yes{VAR07:E6}`
+`{VAR07:31}{CHOICE:31}No`
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

@@ -1,0 +1,453 @@
+{WINDOW}
+{Yellow} 【{Al Bhed} Lifesaving Box】{White}
+{Al Bhed2} installed it to prevent stores from lining up in the desert.
+Lifesaving Box
+--------------------------------------------------End--
+{Kimahri} 
+Yuna... isn't here!
+--------------------------------------------------End--
+{Tidus} 
+It's not Kimahri's fault!
+--------------------------------------------------End--
+{Rikku} 
+Ah!
+--------------------------------------------------End--
+{Rikku} 
+Everyone~!!
+--------------------------------------------------End--
+{Rikku} 
+Huh?
+--------------------------------------------------End--
+{Rikku} 
+Kimahri, too~!
+--------------------------------------------------End--
+{Rikku} 
+{Yunie}?
+--------------------------------------------------End--
+{Tidus} 
+Not here.
+--------------------------------------------------End--
+{Lulu} 
+Most favored.
+It's a guard loss degree.
+--------------------------------------------------End--
+{Rikku} 
+Umm...
+--------------------------------------------------End--
+{Rikku} 
+I have a departure I want to talk about, but...
+Will you listen without saying anything?
+--------------------------------------------------End--
+{Rikku} 
+No glaring allowed!
+--------------------------------------------------End--
+{Rikku} 
+This desert is called Bikanel...
+It's on an island, you know.
+--------------------------------------------------End--
+{Rikku} 
+And nearby, the Al Bhed's...
+There's a Home.
+--------------------------------------------------End--
+{Rikku} 
+{Yunie} is probably there!
+--------------------------------------------------End--
+{Rikku} 
+Our comrades, before us...
+...found and saved her!
+--------------------------------------------------End--
+{Wakka} 
+We didn't save her,
+...didn't you kidnap her?
+--------------------------------------------------End--
+{Tidus} 
+If Yuna is safe,
+...either way is fine, right!
+--------------------------------------------------End--
+{Rikku} 
+That's right!
+--------------------------------------------------End--
+{Rikku} 
+So, everyone, to the Home...
+...I want to show you all to the Home, but...
+--------------------------------------------------End--
+{Rikku} 
+About the Home,
+...I want you to keep it a secret.
+--------------------------------------------------End--
+{Rikku} 
+Especially from the Yevon people.
+It's a secret!
+--------------------------------------------------End--
+{Rikku} 
+The Al Bhed are, from the Temples,
+...disliked, you see.
+--------------------------------------------------End--
+{Rikku} 
+If it's found out, what might be done...
+...we don't know.
+--------------------------------------------------End--
+{Wakka} 
+What would the Temples do?
+Don't say things that sound bad.
+--------------------------------------------------End--
+{Rikku} 
+In the past, such things...
+It really happened...
+--------------------------------------------------End--
+{Wakka} 
+That's because the Al Bhed are fortunate!
+--------------------------------------------------End--
+{Tidus} 
+Come on, now!
+Either is fine, right?
+--------------------------------------------------End--
+{Rikku} 
+I won't tell anyone about this island.
+Will you promise?
+--------------------------------------------------End--
+{Tidus} 
+Hey, Wakka!
+--------------------------------------------------End--
+{Wakka} 
+Alright, I get it.
+Onai, I'm counting on you.
+--------------------------------------------------End--
+{Rikku} 
+Leave it to me!
+--------------------------------------------------End--
+{Rikku} 
+Huh...?
+Which one was it...?
+--------------------------------------------------End--
+{Rikku} 
+Um... it's this way.
+--------------------------------------------------End--
+{Rikku} 
+Sorry, I seem to be lost.
+--------------------------------------------------End--
+{Rikku} 
+This way! This way!
+--------------------------------------------------End--
+{Rikku} 
+It's that way!
+--------------------------------------------------End--
+{Rikku} 
+Wait up!
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 5!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31}『{OPurple} ラ{White} 』42+54.『{Pink} さ{White} 』
+{VAR07:31}『{OPurple} キ{White} 』42+54.『{Pink} し{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+Unfamiliar words 42+55. '[P0] Language' require a {Al Bhed} language dictionary.
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 14!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31}『{OPurple} Tsu{White} 』42+54.『{Pink} Mu{White} 』
+{VAR07:31}『{OPurple} Re{White} 』42+54.『{Pink} Me{White} 』
+{VAR07:31}『{OPurple} Ko{White} 』42+54.『{Pink} Mo{White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By means of {Besaid Aurochs}'s act 42+56., to the Save Sphere.
+The transfer 42+57. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s base 42+58., continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak, you may be able to make a scout 42+59. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer 42+57. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:55} Macalania Lake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{VAR07:65} Besaid
+--------------------------------------------------End--
+{AREA}
+Bikanel
+--------------------------------------------------End--
+{AREA}
+Home
+--------------------------------------------------End--
+{WINDOW}
+3！
+--------------------------------------------------End--
+{WINDOW}
+2！
+--------------------------------------------------End--
+{WINDOW}
+1！
+--------------------------------------------------End--
+{WINDOW}
+＝1st TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+＝2nd TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+＝3rd TRIAL＝
+--------------------------------------------------End--
+{WINDOW}
+START！！
+--------------------------------------------------End--
+{WINDOW}
+YOU LOSE！！
+--------------------------------------------------End--
+{WINDOW}
+TIME OVER！！
+--------------------------------------------------End--
+{WINDOW}
+harihari manbon
+--------------------------------------------------End--
+{WINDOW}
+harihari...
+--------------------------------------------------End--
+{WINDOW}
+...fell down.
+--------------------------------------------------End--
+{WINDOW}
+hari...
+--------------------------------------------------End--
+{WINDOW}
+
+There is something written.
+--------------------------------------------------End--
+{WINDOW}
+
+Oasis ahead.
+--------------------------------------------------End--
+{WINDOW}
+
+{Home} is this way.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Tome]{White}
+・Water fetching day 42+60.
+・Being a slowpoke, by their companions,
+They are sometimes left behind.
+Often.
+・Slow.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Robivia]{White}
+・At their slow friend,
+Always irritated.
+・Inexperienced.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Chapa]{White}
+・Recently, they can count up to 50.
+They have become able to.
+・Friendly.
+・Attentiveness scatt42+61.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Alec & Aroya]{White}
+・Always together, close older brother 42+62.
+・Their movements are the same.
+That's because of the close older brother 42+62.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Barchela]{White}
+Loves new things.
+・To others 42+63.shiku, to oneself 42+64.i.
+Impatient.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ROBEIRA]{White}
+Clumsy.
+Always wants to enter narrow places.
+Proud collection currently on display!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ISRAYA]{White}
+・42+65. The number one 42+66. 42+53. person.
+Today, too, 42+67.ri de, digs a hole 42+68.ru.
+・Quite vigilant 42+69.i.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ELIO]{White}
+What lies beyond the Desert?
+With expectations 42+70.ni, the young man departed 42+71.tta on a journey.
+Somewhat over-the-top with actions.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [FLAYLE]{White}
+Before you know it,
+the type to join the group.
+Cunning.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Cactuar's 42+65.]{White}
+Controlling sand with the Sphere's power,
+The Cactuars protecting the clan's 42+65.
+They are called "Gatekeepers."
+The 10 spheres 42+73. possess
+When all are offered to the stone 42+74.
+The path to 42+65. will be opened.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道1】{White}
+Even if they appear to be only 42+75.ing.
+The Gatekeepers are 42+76. and noble warriors of the clan.
+Basically, they do not prefer 42+77., but if someone gets behind 42+73.
+They will confront that opponent with 42+78..
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道2】{White}
+If you fail to get behind them successfully,
+the Gatekeepers will be disappointed in you,
+You will swiftly 42+79. that spot.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【門番道3】{White}
+While the Cactuars have their backs turned,
+Move to 42+73. for battle.
+and challenge them to a battle.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【スフィア】{White}
+・If you couldn't get behind the gatekeepers
+You obtain the Loser's Sphere.
+・When you could get behind the gatekeepers
+The spheres named after 42+73.
+you receive.
+・If you collect many named spheres,
+If you collect them, a reward will be waiting at 42+65. ...
+--------------------------------------------------End--
+{WINDOW}
+Obtained Tome's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robivia's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Chapa's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Alec & Araya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Barchera's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Robeira's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Israya's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+...Obtained Elio's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained Fraire's Sphere!
+--------------------------------------------------End--
+{WINDOW}
+Obtained the Loser's Sphere!
+--------------------------------------------------End--
+
+{WINDOW}
+{Blue} TIME {VAR12:32}：{VAR12:31}：{VAR12:30}{White} 
+--------------------------------------------------End--

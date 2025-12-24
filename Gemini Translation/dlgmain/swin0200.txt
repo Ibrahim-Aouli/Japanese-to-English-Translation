@@ -1,0 +1,675 @@
+{Tidus} 
+What are you talking about?
+--------------------------------------------------End--
+Bixson
+What an overly familiar fellow.
+--------------------------------------------------End--
+Graab
+Oh, this guy... it's that...
+You met him at {Kilika}, didn't you?
+--------------------------------------------------End--
+Bixson
+Huh?
+--------------------------------------------------End--
+Graab
+See? The guy from {Besaid Aurochs}.
+He was spouting about defeating the shop.
+--------------------------------------------------End--
+Bixson
+Ah...
+That naive guy?
+--------------------------------------------------End--
+{Yuna} 
+What a terrible thing to say.
+--------------------------------------------------End--
+Bixson
+Well, it can't be helped.
+--------------------------------------------------End--
+Bixson
+Naturally, {Aurochs} should get stronger.
+But there's no way, you know.
+--------------------------------------------------End--
+{Tidus} 
+If I join, it'll get stronger!
+--------------------------------------------------End--
+{Yuna} 
+Yes, it will get stronger!
+--------------------------------------------------End--
+{Yuna} 
+He's from {Zanarkand}'s team...
+He was the ace, after all!
+--------------------------------------------------End--
+Bixson
+Hah! Well, that's quite something.
+He came from quite a place.
+--------------------------------------------------End--
+Graab
+To think there are even teams in the ruins...
+I didn't know that, you know.
+--------------------------------------------------End--
+{Yuna} 
+Not ruins, but a proper...
+There's a large capital city!
+--------------------------------------------------End--
+{Tidus} 
+Oh, umm, I... because of {Sin}'s venom...
+--------------------------------------------------End--
+{Yuna} 
+It truly exists.
+--------------------------------------------------End--
+Bixson
+Speaking of the Summoner...
+I don't understand.
+--------------------------------------------------End--
+{Tidus} 
+What's wrong?
+Weren't they getting a little worked up?
+--------------------------------------------------End--
+{Yuna} 
+Those people are rude, and...
+Besides...
+--------------------------------------------------End--
+{Yuna} 
+Your {Zanarkand} is...
+I'm sure it's somewhere.
+--------------------------------------------------End--
+{Tidus} 
+Why?
+--------------------------------------------------End--
+{Yuna} 
+After asking {Jecht}...
+I've longed for it all this time.
+--------------------------------------------------End--
+{Yuna} 
+Someday I want to go...
+...I was thinking.
+--------------------------------------------------End--
+{Yuna} 
+I hope you can return, right?
+--------------------------------------------------End--
+{Tidus} 
+Yes.
+--------------------------------------------------End--
+
+I wanted to say something like, "Want to come to my place?"
+--------------------------------------------------End--
+
+When I think about the reason I can't say that...
+I became sad.
+--------------------------------------------------End--
+{Lulu} 
+Say something.
+--------------------------------------------------End--
+{Lulu} 
+You'd think it's pointless, right?
+--------------------------------------------------End--
+{Wakka} 
+It's fine, I'm telling you.
+There's someone he knows in {Luca}.
+--------------------------------------------------End--
+{Lulu} 
+What if there isn't?
+--------------------------------------------------End--
+{Wakka} 
+Then, to some team...
+...join or something...
+--------------------------------------------------End--
+{Wakka} 
+Anyway, rather than staying in {Besaid}...
+It's many times better, isn't it?
+--------------------------------------------------End--
+{Lulu} 
+In short...
+So, the rest is up to me?
+--------------------------------------------------End--
+{Wakka} 
+What am I supposed to do?
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} wants him to be a guard.
+--------------------------------------------------End--
+{Wakka} 
+Ah... that's it!
+This has become troublesome, hasn't it?
+--------------------------------------------------End--
+{Lulu} 
+Who made Original 42+56.?
+--------------------------------------------------End--
+{Wakka} 
+Are you saying it was me?!
+--------------------------------------------------End--
+{Wakka} 
+It was me, wasn't it...?
+--------------------------------------------------End--
+{Wakka} 
+Hey, why is {Yuna}
+so eager to make him a guard?
+--------------------------------------------------End--
+{Lulu} 
+Because he's Lord {Jecht}'s son.
+--------------------------------------------------End--
+{Wakka} 
+Ah, I see.
+--------------------------------------------------End--
+{Wakka} 
+But is that true?
+Is he truly Lord {Jecht}'s son?
+--------------------------------------------------End--
+{Lulu} 
+Regardless of the truth,
+{Yuna} believes it to be so.
+--------------------------------------------------End--
+{Wakka} 
+I see.
+--------------------------------------------------End--
+{Lulu} 
+"I see, I see."
+Are you thinking properly?
+--------------------------------------------------End--
+{Wakka} 
+I am thinking, but...
+--------------------------------------------------End--
+{Wakka} 
+In the end, it's his decision.
+It's his and {Yuna}'s decision, isn't it?
+--------------------------------------------------End--
+{Lulu} 
+You're saying something sensible.
+--------------------------------------------------End--
+{Wakka} 
+Hmph!
+--------------------------------------------------End--
+{Lulu} 
+What would be...
+...the best, I wonder...?
+--------------------------------------------------End--
+{Lulu} 
+Why don't you suggest it?
+--------------------------------------------------End--
+{Wakka} 
+What?
+--------------------------------------------------End--
+{Lulu} 
+Becoming {Yuna}'s guard.
+--------------------------------------------------End--
+{Wakka} 
+Why me?
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} can't say it, can she?
+--------------------------------------------------End--
+{Wakka} 
+Why?
+--------------------------------------------------End--
+{Lulu} 
+She dislikes Father42+57. and his shadow...
+...and doesn't want it cast upon her.
+--------------------------------------------------End--
+{Lulu} 
+To someone who says such things...
+Do you think you can say it?
+--------------------------------------------------End--
+{Lulu} 
+Because you are Lord {Jecht}'s son.
+That I want you to be my guard.
+--------------------------------------------------End--
+{Wakka} 
+Aren't you worrying too much?
+--------------------------------------------------End--
+{Wakka} 
+I understand.
+--------------------------------------------------End--
+{Wakka} 
+After the tournament ends and things settle down.
+I'll try talking to him.
+--------------------------------------------------End--
+{Lulu} 
+You mustn't force him.
+--------------------------------------------------End--
+{Wakka} 
+I know.
+He's the one who decides.
+--------------------------------------------------End--
+{Wakka} 
+Does he hate his father {42+57.}?
+--------------------------------------------------End--
+{Lulu} 
+It seems so.
+I heard it from {Yuna}.
+--------------------------------------------------End--
+{Wakka} 
+Hates his dad, huh...
+That's quite a luxury, isn't it.
+--------------------------------------------------End--
+{Wakka} 
+As for me, about my parents {42+57.}...
+I don't even remember them...
+--------------------------------------------------End--
+{Wakka} 
+There's no liking or hating either...
+--------------------------------------------------End--
+{Lulu} 
+I was... {542+58.}, so...
+I remember a little.
+--------------------------------------------------End--
+{Wakka} 
+Damn it!
+--------------------------------------------------End--
+{Wakka} 
+"{Sin}" everything and anything...
+They're taking it...
+--------------------------------------------------End--
+{Lulu} 
+I'm thinking a bit, so...
+It's Megumi.
+--------------------------------------------------End--
+{Wakka} 
+It's about time to 42+59.toke.
+It's the match right after we get to {Luca}.
+--------------------------------------------------End--
+{Wakka} 
+I hope I find someone I know.
+During the match, stand 42+60.te out with all your might!
+--------------------------------------------------End--
+{WINDOW}
+Development Test Mode
+Pressing {Button Circle} will, in order...
+Display messages.
+--------------------------------------------------End--
+{WINDOW}
+
+That's because I'm special.
+--------------------------------------------------End--
+{WINDOW}
+
+That's impossible, isn't it?
+--------------------------------------------------End--
+{WINDOW}
+
+No one but me can do it.
+--------------------------------------------------End--
+{WINDOW}
+
+Gwahahaha!
+--------------------------------------------------End--
+{WINDOW}
+
+You can't do it.
+--------------------------------------------------End--
+{WINDOW}
+
+That's because I'm special.
+--------------------------------------------------End--
+{WINDOW}
+
+You can't do it.
+--------------------------------------------------End--
+{WINDOW}
+
+No one but me can do it.
+--------------------------------------------------End--
+{WINDOW}
+
+That's impossible, isn't it?
+--------------------------------------------------End--
+{WINDOW}
+Test Mode Ended
+We will start a minigame that is guaranteed to 成42+61.suru.
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}{Yellow} [Jecht Shot Challenge] {White}
+As {Tidus} attempts to fire the Jecht Shot...
+'Memories of That Day' will cling to you and interfere.
+By the time {Tidus} fires the Jecht Shot...
+Shake 42+62. off as many 'Memories of That Day' as possible.
+Please make the Ject Shoot 成42+61.sase.
+--------------------------------------------------End--
+{WINDOW}
+42+63.eba, when 'Memories of That Day' appears in the top left...
+Shake 42+62. them off with {Direcional Up+Left} + {Button Circle}.
+{NEWPAGE}
+Similarly, when they appear on the top,
+With `{Direcional Up} + {Button Circle}`.
+{NEWPAGE}
+When they appear on the lower left,
+It is `{Direcional Left+Down} + {Button Circle}`.
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up+Left} ＋{Button Circle} 
+Please press simultaneously.
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up} ＋{Button Circle} 
+Please press simultaneously.
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Left+Down} ＋{Button Circle} 
+Please press simultaneously.
+--------------------------------------------------End--
+{WINDOW}
+{Button Circle} 
+Please press.
+--------------------------------------------------End--
+{WINDOW}
+Also, when they appear in the center, the directional buttons or left stick...
+You can shake 42+62. them off with {Button Circle} without any other controls.
+--------------------------------------------------End--
+{WINDOW}
+Let's try a little practice.
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Up+Right} ＋{Button Circle} 
+Please press simultaneously.
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Left} ＋{Button Circle} 
+Please press simultaneously.
+--------------------------------------------------End--
+{WINDOW}
+{Direcional Down+Right} ＋{Button Circle} 
+Please press simultaneously.
+--------------------------------------------------End--
+{WINDOW}
+Did you get a feel for it?
+Next is the real thing.
+{NEWPAGE}
+Try not to lose to Ject.
+Please do your best.
+--------------------------------------------------End--
+{Jecht} 
+See? You can't do it!
+--------------------------------------------------End--
+{Wakka} 
+Amazing!
+What kind of technique is that?
+--------------------------------------------------End--
+{Tidus} 
+There's no name for it.
+Anyone can do it if they practice.
+--------------------------------------------------End--
+{Wakka} 
+Could you do that one more time?
+--------------------------------------------------End--
+{Wakka} 
+You're no ordinary person, after all.
+--------------------------------------------------End--
+{Yuna} 
+That was the {Jecht} Shot just now, wasn't it?
+--------------------------------------------------End--
+{Yuna} 
+You tried to do the {Jecht} Shot, didn't you?
+--------------------------------------------------End--
+{Tidus} 
+Why do you know?
+--------------------------------------------------End--
+{Yuna} 
+When I was a child, {Jecht}-san...
+...showed it to me.
+--------------------------------------------------End--
+{Yuna} 
+The official name is...
+"‘{Jecht}-sama Shot Number 3’"... right?
+--------------------------------------------------End--
+{Tidus} 
+That's a silly name, isn't it?
+--------------------------------------------------End--
+{Tidus} 
+And besides, there aren't actually Numbers 1 or 2.
+There aren't any, you know.
+--------------------------------------------------End--
+{Tidus} 
+If you say "Number 3", both Number 1 and Number 2...
+...customers expect there to be.
+--------------------------------------------------End--
+{Tidus} 
+He said those customers would come to the stadium, thinking they might finally see it tonight...
+42+65.42+66. ...
+--------------------------------------------------End--
+{Tidus} 
+And then it really turned out that way...
+--------------------------------------------------End--
+{Tidus} 
+I got really angry.
+--------------------------------------------------End--
+{Tidus} 
+Is Dad alive?
+--------------------------------------------------End--
+{Yuna} 
+I don't know.
+--------------------------------------------------End--
+{Yuna} 
+But you know, {Jecht}...
+because he was my father's guard...
+--------------------------------------------------End--
+{Tidus} 
+Is he famous here too?
+--------------------------------------------------End--
+{Yuna} 
+Yes.
+--------------------------------------------------End--
+{Yuna} 
+So if he died...
+I think that news would have reached us.
+--------------------------------------------------End--
+{Tidus} 
+Hmm.
+--------------------------------------------------End--
+{Yuna} 
+Hey, if you could meet him... what would you do?
+--------------------------------------------------End--
+{Tidus} 
+It's the guy you thought was dead 10 years ago, you know?
+At this late stage...
+--------------------------------------------------End--
+{Tidus} 
+Hmm...
+--------------------------------------------------End--
+{Tidus} 
+I'd punch him first.
+--------------------------------------------------End--
+{Tidus} 
+Because of that guy, I also...
+And 42+67. also struggled...
+--------------------------------------------------End--
+{Tidus} 
+Because that guy is famous...
+I'm always...
+--------------------------------------------------End--
+{Tidus} 
+{Yuna}, you'd understand, right?
+--------------------------------------------------End--
+{Tidus} 
+{Yuna}'s father is famous too, right?
+Everyone in this world knows him, right?
+--------------------------------------------------End--
+{Tidus} 
+Don't you dislike it?
+--------------------------------------------------End--
+{Yuna} 
+Sometimes, my father's name...
+I do feel it's a burden sometimes...
+--------------------------------------------------End--
+{Tidus} 
+Well, {Yuna}'s dad and
+my dad are different.
+--------------------------------------------------End--
+{Yuna} 
+Poor {Jecht}.
+--------------------------------------------------End--
+{Tidus} 
+W-What about me?
+--------------------------------------------------End--
+{Yuna} 
+You're even more pitiful, aren't you.
+--------------------------------------------------End--
+{Wakka} 
+Do that again!
+--------------------------------------------------End--
+{Wakka} 
+What are you two doing?!
+It's about time to 42+59.re~!
+--------------------------------------------------End--
+
+That Dad would come to {Luca}...
+I couldn't imagine.
+--------------------------------------------------End--
+
+That guy, watching other people's 42+69....
+...he hated it, you see.
+--------------------------------------------------End--
+
+But something would definitely happen.
+I had such a 42+70.42+71.gi feeling that I couldn't sleep.
+--------------------------------------------------End--
+
+"I'll perform at the tournament, ssu!" -- what I was saying was...
+...it was feigned cheerfulness to distract from my anxiety, you see.
+--------------------------------------------------End--
+
+This year's {Aurochs}...
+...might be able to make it?
+{NEWPAGE}
+
+A player who came from {Zanarkand}...
+...is in, I heard.
+--------------------------------------------------End--
+
+I'm astonished.
+You believe a rumor like that?
+--------------------------------------------------End--
+
+Of course I don't believe it.
+I mean it'll be a good show.
+--------------------------------------------------End--
+{Tidus} 
+What do you mean, "special"?
+--------------------------------------------------End--
+{Tidus} 
+Right?
+--------------------------------------------------End--
+{Yuna} 
+More than that, he's admired by all of Spira...
+I wonder if I'm proud of Father.
+--------------------------------------------------End--
+Datto.
+It seems you still have some venom.
+Don't push yourself. Get it done early.
+--------------------------------------------------End--
+Datto.
+I wanted to do my last practice at {Kilika}, but...
+With the town in that state, it's impossible, isn't it...?
+--------------------------------------------------End--
+Datto.
+When {Yuna} is watching me...
+For some reason, I get nervous.
+--------------------------------------------------End--
+Datto.
+Ow, ow, ow... my back...
+--------------------------------------------------End--
+Reti!
+It seems {Wakka} is busy.
+Wouldn't it be better not to disturb them?
+--------------------------------------------------End--
+Reti!
+In the tournament pairings, with Gowers...
+Let's pray we don't get matched!
+--------------------------------------------------End--
+Reti!
+Is Datt okay?
+Just don't get hurt...
+--------------------------------------------------End--
+Reti!
+Making a shot like that, that's incredible.
+Is that what an ace is like, as expected?
+--------------------------------------------------End--
+Jash
+Since the Gowaz guys went down into the cabin,
+I can finally relax.
+--------------------------------------------------End--
+Jash
+Don't mind it even if {Kimahri} ignores you.
+They're just that kind of person.
+--------------------------------------------------End--
+Jash
+Later, I'll tell Bots and Kippa too.
+I'll talk to them.
+{NEWPAGE}
+Jash
+That they missed out on it,
+They'll regret it terribly.
+--------------------------------------------------End--
+Jash
+Gowaz didn't see us, right?
+Let's keep it hidden until the main event!
+--------------------------------------------------End--
+
+The {Aurochs} crowd
+They're pushing themselves too hard before the main event.
+--------------------------------------------------End--
+
+It's their choice to practice in the sea, but
+The ship won't wait for them anymore.
+--------------------------------------------------End--
+
+They really are an unreasonable bunch.
+Do you want to 遠42+76 to {Luca}?
+--------------------------------------------------End--
+
+I wish they'd consider our position too.
+{NEWPAGE}
+
+If the ship gets 42+77.ed, the crew's
+You'll be held responsible.
+--------------------------------------------------End--
+
+By {Luca}'s Gowers fans.
+We'll be 42+78.thrashed.
+--------------------------------------------------End--
+
+All the residents of {Luca} are Gowers fans.
+For you, it's like enemy territory.
+--------------------------------------------------End--
+
+I liked {Aurochs}'s level of foolishness.
+Do your best in the tournament.
+--------------------------------------------------End--
+
+You're a player from {Zanarkand}, aren't you?
+Stir things up as much as you can.
+--------------------------------------------------End--
+
+You've been scurrying around for a while.
+They're recording Lord {Yuna} on a Sphere.
+--------------------------------------------------End--
+
+More 42+59....? You say it's a 42+59.shortage?
+You'll drown during the match.
+--------------------------------------------------End--
+
+Since there's a Summoner-sama here too.
+Don't get in the way of the ship's 42+79.navigation.
+--------------------------------------------------End--
+
+The current 42+80.sea has many troublesome guests.
+There's also the excommunicated {Crusader}...
+--------------------------------------------------End--
+
+{Zanarkand}, huh...
+{NEWPAGE}
+
+If you're going to 42+81.boast...
+Make it a more decent tall tale.
+--------------------------------------------------End--
+
+You can say you came from {Zanarkand} so easily.
+If I were to `42+82.` strengthen and revise {Yevon2}'s teachings from scratch...
+--------------------------------------------------End--
+{AREA}
+Port Kilika
+--------------------------------------------------End--
+{AREA}
+Besaid
+--------------------------------------------------End--
+{AREA}
+Luca
+--------------------------------------------------End--

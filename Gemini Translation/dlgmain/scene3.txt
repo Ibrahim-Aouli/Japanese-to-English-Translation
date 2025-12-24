@@ -1,0 +1,143 @@
+Wakka
+Hey!
+--------------------------------------------------End--
+Yuna
+Oh? A customer?
+--------------------------------------------------End--
+Wakka
+No.
+Just a moment to talk.
+--------------------------------------------------End--
+Wakka
+You see-- the village elders, they...
+...are talking about the procession again--
+--------------------------------------------------End--
+Yuna
+Who's at the shop now?
+--------------------------------------------------End--
+Wakka
+Apparently, he's the son of the New Yevon Order's Leader.
+--------------------------------------------------End--
+Yuna
+Absolutely not.
+--------------------------------------------------End--
+Yuna
+--I'm sure that person will take advantage of me.
+--------------------------------------------------End--
+Wakka
+Ah!
+--------------------------------------------------End--
+Wakka
+That's good, Yuna.
+--------------------------------------------------End--
+Yuna
+I'll refuse on your behalf.
+--------------------------------------------------End--
+Wakka
+It's fine-- leave it to me.
+--------------------------------------------------End--
+Wakka
+To see the 42+53. that the elders appear to be responding to.
+Yuna, it's tough, isn't it?
+--------------------------------------------------End--
+Yuna
+--Yeah.
+--------------------------------------------------End--
+
+Lady Yuna!
+--------------------------------------------------End--
+
+Lady Yuna!
+--------------------------------------------------End--
+
+I am Yaibal of the Youth Group 42+54.
+--------------------------------------------------End--
+
+Today, to Lady Yuna, from Nooj of our 42+54.42+55....
+I have come to deliver a message!
+--------------------------------------------------End--
+Wakka
+I refuse to participate in the same 42+54.
+--------------------------------------------------End--
+Yaibal
+Huh?
+--------------------------------------------------End--
+Yuna
+Is that what this is about?
+--------------------------------------------------End--
+Yaibal
+That is correct.
+--------------------------------------------------End--
+Yuna
+I won't join any group.
+--------------------------------------------------End--
+Yaibal
+Could it be you're making your own group?
+--------------------------------------------------End--
+Yuna
+Please wipe it.
+--------------------------------------------------End--
+Ruck
+Yuna! Wakka!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By means of {Besaid Aurochs}'s act 42+56., to the Save Sphere.
+The transfer 42+57. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s base 42+58., continue Blitz training.
+hidden excellent players are lurking.
+If you press {Button Square} and speak, you may be able to make a scout 42+59. contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer 42+57. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

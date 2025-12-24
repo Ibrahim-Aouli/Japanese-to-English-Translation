@@ -1,0 +1,566 @@
+{Rikku} 
+Please!
+Let's rest!
+--------------------------------------------------End--
+{Yuna} 
+I'm a little... tired...
+--------------------------------------------------End--
+{Yuna} 
+Do you have rooms?
+--------------------------------------------------End--
+Attendant
+Oh, you're the Summoner.
+Please use that one over there.
+--------------------------------------------------End--
+{Yuna} 
+Thank you very much.
+--------------------------------------------------End--
+{Wakka} 
+Hey, {Yuna}?
+--------------------------------------------------End--
+{Lulu} 
+That's not like you.
+--------------------------------------------------End--
+{Auron} 
+The Summoner is at the shop.
+Guarding is also difficult.
+--------------------------------------------------End--
+{Auron} 
+This looks like it will be a troublesome journey.
+--------------------------------------------------End--
+{Wakka} 
+{Yuna}... What could have happened to them?
+--------------------------------------------------End--
+{Wakka} 
+Well, we can't force them to talk.
+--------------------------------------------------End--
+{Kimahri} 
+{Yuna} is resting.
+Do not disturb them.
+--------------------------------------------------End--
+{Kimahri} 
+I said not to disturb them.
+--------------------------------------------------End--
+{Lulu} 
+{Yuna} is completely absent-minded.
+--------------------------------------------------End--
+{Lulu} 
+The matter concerning Lord {Jyscal}... I wonder.
+--------------------------------------------------End--
+{Lulu} 
+It's fortunate for {Rikku}, but...
+We'll depart once {Yuna} has settled.
+--------------------------------------------------End--
+{Tidus} 
+Are you that scared?
+--------------------------------------------------End--
+{Rikku} 
+When I was little, I was playing in the sea...
+I was 42+53.ed by a monster.
+--------------------------------------------------End--
+{Rikku} 
+My older brother who was with me...
+Tried to defeat it with magic, but...
+--------------------------------------------------End--
+{Rikku} 
+Kyaaaah!?
+--------------------------------------------------End--
+{Rikku} 
+My older brother, in a panic,
+Cast magic on me!
+--------------------------------------------------End--
+{Rikku} 
+With Thunder magic,
+It went 'bzzzt, bzzzt, bzzzt'!
+--------------------------------------------------End--
+{Tidus} 
+Whoa...
+--------------------------------------------------End--
+{Rikku} 
+Ever since then, lightning... is no good...
+--------------------------------------------------End--
+{Lulu} 
+But it is an effective tactic.
+--------------------------------------------------End--
+{Lulu} 
+Monsters that appear underwater...
+Are weak to magic attacks.
+--------------------------------------------------End--
+{Rikku} 
+Oh! My older brother said that too!
+--------------------------------------------------End--
+{Lulu} 
+Why don't you all learn it?
+--------------------------------------------------End--
+{Rikku} 
+Kyaaaaah!?
+--------------------------------------------------End--
+{Lulu} 
+It seems impossible.
+--------------------------------------------------End--
+{Rin} 
+Well, well, everyone.
+Welcome to our travel company.
+--------------------------------------------------End--
+{Rin} 
+Oh.
+--------------------------------------------------End--
+{Rikku} 
+Shhh!
+--------------------------------------------------End--
+{Rin} 
+Hmm.
+--------------------------------------------------End--
+{Rin} 
+That seems 泰42+54..
+--------------------------------------------------End--
+{Rin} 
+Well then, for further progress.
+I shall give you this book.
+--------------------------------------------------End--
+{Rin} 
+Is that so...?
+--------------------------------------------------End--
+{Rin} 
+Well, even if you don't understand...
+There's no 不自42+55., you see.
+--------------------------------------------------End--
+{Rin} 
+By the way...
+--------------------------------------------------End--
+{Rin} 
+So it is, after all.
+--------------------------------------------------End--
+{Rin} 
+Ever since I saw {Mi'ihen Highroad} in line...
+You've been on my mind.
+--------------------------------------------------End--
+{Rin} 
+Is that so?
+I often 42+56. you, but...
+--------------------------------------------------End--
+{Rin} 
+{Auron}!
+--------------------------------------------------End--
+{Rin} 
+Do you not recall?
+--------------------------------------------------End--
+{Rin} 
+That was 10 years ago...
+It was the start of {Braska}-sama's ナギ42+57..
+--------------------------------------------------End--
+{Auron} 
+Ah, I was in your care.
+--------------------------------------------------End--
+{Rin} 
+Not at all.
+--------------------------------------------------End--
+{Rin} 
+We cannot abandon someone who sustained serious injuries.
+We cannot abandon them.
+--------------------------------------------------End--
+{Rin} 
+Even so... 42+58.42+59. Your figure...
+I was surprised when it disappeared.
+--------------------------------------------------End--
+{Rin} 
+Despite being an injury so severe
+an ordinary person couldn't walk.
+--------------------------------------------------End--
+{Auron} 
+Keii...
+Stop that talk.
+--------------------------------------------------End--
+{Rin} 
+Understood.
+--------------------------------------------------End--
+{Rin} 
+A little while ago, {Master Seymor}'s
+party was spotted.
+--------------------------------------------------End--
+{Rin} 
+Apparently, the Master
+is getting 42+60. married, I hear...
+--------------------------------------------------End--
+{Tidus} 
+How do you know that?
+--------------------------------------------------End--
+{Rin} 
+{Guado2} is spreading it.
+--------------------------------------------------End--
+{Tidus} 
+What a selfish bunch.
+--------------------------------------------------End--
+{Rin} 
+Welcome.
+--------------------------------------------------End--
+{Wakka} 
+Well then, as usual.
+Let's continue our journey.
+--------------------------------------------------End--
+{Wakka} 
+Well, my feelings...
+I get it, but...
+--------------------------------------------------End--
+{Wakka} 
+Slap {Rikku}'s butt
+Let's depart!
+--------------------------------------------------End--
+{Lulu} 
+Since {Thunder Plains} still continues,
+Don't forget your travel preparations.
+--------------------------------------------------End--
+{Lulu} 
+Did you fight with {Yuna}?
+--------------------------------------------------End--
+{Auron} 
+If you leave them be,
+they'll stay like that forever.
+--------------------------------------------------End--
+{Yuna} 
+If {Rikku} is alright,
+Shall we depart?
+--------------------------------------------------End--
+{Rikku} 
+The thunder won't stop, will it...
+--------------------------------------------------End--
+{Auron} 
+It's not as if it was expected.
+--------------------------------------------------End--
+{Rikku} 
+Kyaa!
+--------------------------------------------------End--
+{Auron} 
+Do that forever.
+--------------------------------------------------End--
+{Rikku} 
+I understand...
+--------------------------------------------------End--
+{Rikku} 
+But!
+--------------------------------------------------End--
+{Rikku} 
+You don't have to say it like that!
+It's not fair!
+--------------------------------------------------End--
+{Rikku} 
+More... gently,
+like encouraging me!
+--------------------------------------------------End--
+{Rikku} 
+Then even I would feel like it!
+You just don't understand at all... Ugh!
+--------------------------------------------------End--
+{Rikku} 
+Hey! Are you listening?
+I won't lose!
+--------------------------------------------------End--
+{Rikku} 
+Hmph...
+--------------------------------------------------End--
+{Rikku} 
+No matter what trouble arises,
+--------------------------------------------------End--
+{Rikku} 
+We are __P0__'s guards.
+--------------------------------------------------End--
+{Wakka} 
+But __P0__...
+Like I'd lose!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} I know.
+How is the {CHOICE:31} language's 42+61.Strength?
+--------------------------------------------------End--
+{Rikku} 
+__P0__So-so.
+--------------------------------------------------End--
+{Rin} 
+{Al Bhed}No good.
+--------------------------------------------------End--
+{WINDOW}
+That person... could it be...
+...Mr./Ms. {CHOICE:31}?
+--------------------------------------------------End--
+{Rin} 
+__P0__That's right.
+{Auron}No, it's not.
+--------------------------------------------------End--
+{WINDOW}
+Travel Company Birigan Memorial 42+62.Committee・42+63.
+"All About Lightning" is placed here.
+--------------------------------------------------End--
+
+旅行公司ビリガン記念42+62.員会・42+63.
+『落雷のすべて』が置いてある
+--------------------------------------------------End--
+{WINDOW}
+Have a look at {CHOICE:30}.
+Do not look at {CHOICE:31}.
+--------------------------------------------------End--
+{WINDOW}
+{VAR07:31}"Record of {Tidus}"
+{NEWPAGE}
+To date, targeting {Tidus},
+there have been as many as {VAR12:30} lightning strikes.
+{NEWPAGE}
+42+64. avoided {VAR12:31} of those,
+and achieved {VAR12:32} consecutive evasions.
+{NEWPAGE}
+In honor of {Tidus}'s record,
+this 42+62.committee is currently considering the creation of a commemorative item.
+--------------------------------------------------End--
+
+"`The Summoner's Record: Thunder Plains 42+63.` is located here."
+--------------------------------------------------End--
+{WINDOW}
+Long, long ago, in {Djose Continent}, monsters called Cactuar?...
+...were rampant.
+Cactuar?s acted possessively towards travelers,
+causing mischief and rampaging as if they owned the place.
+{NEWPAGE}
+Then, {Gandof} appeared.
+The one who later became a Great Summoner.
+{Gandof} traveled across the continent, and to this plain,
+cornered the Cactuar?s.
+{NEWPAGE}
+When the Cactuar?s were successfully rounded up,
+Gandof formed a seal of {Button Square}.
+Then the Cactuar?s turned into 42+75.,
+and were sucked into the stones.
+{NEWPAGE}
+And so, Cactuar? was sealed in stone,
+destined to be exposed to lightning 42+76. and night.
+Until someone again forms the sign of {Button Square} and breaks the seal.
+Inside the stone, it will receive 惠42+77.'s recompense.
+{NEWPAGE}
+In this way, Lord {Gandof} in the 42+78. land of {Spira},
+saved the 42+79.ing people.
+Lord {Gandof} believed, "A summoner's mission is against 'Sin', and
+not only to fight."
+--------------------------------------------------End--
+
+Welcome to the {Rin Travel Agency} {Thunder Plains} row!
+--------------------------------------------------End--
+
+I will attend to your needs.
+Please instruct me on anything!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} rest
+Buy {CHOICE:31} Weapons.
+Buy {CHOICE:32} Items.
+{CHOICE:33} Refrain.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV1] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+81. Contract Period: {VAR12:33} matches
+42+81. Contract Fee: {VAR12:34} Gil
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV2] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+81. Contract Period: {VAR12:33} matches
+42+81. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LV3] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+81. Contract Period: {VAR12:33} matches
+42+81. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}
+{VAR12:3F}
+{VAR12:40}
+{VAR12:41}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Scout LVMAX] {White}
+Name: {VAR12:30}
+Lv：{VAR12:31}
+Affiliated Team: {VAR12:32}
+42+81. Contract Period: {VAR12:33} matches
+42+81. Contract Fee: {VAR12:34} Gil
+HP：{VAR12:35}{VAR07:60}SPD：{VAR12:36}
+PHY：{VAR12:37}{VAR07:60}ATK：{VAR12:38}
+PAS：{VAR12:39}{VAR07:60}CUT：{VAR12:3A}
+SHT：{VAR12:3B}{VAR07:60}CAT：{VAR12:3C}
+{VAR12:3D}
+{VAR12:3E}{VAR07:68}{OCyan} [Key Ability] {White}
+{VAR12:3F}{VAR07:68}{VAR12:42}
+{VAR12:40}{VAR07:68}{VAR12:43}
+{VAR12:41}{VAR07:68}{VAR12:44}
+--------------------------------------------------End--
+{WINDOW}
+{VAR12:31}{VAR07:64}{VAR12:3B}{VAR07:88}{VAR12:45}
+{VAR12:32}{VAR07:64}{VAR12:3C}{VAR07:88}{VAR12:46}
+{VAR12:33}{VAR07:64}{VAR12:3D}{VAR07:88}{VAR12:47}
+{VAR12:34}{VAR07:64}{VAR12:3E}{VAR07:88}{VAR12:48}
+{VAR12:35}{VAR07:64}{VAR12:3F}{VAR07:88}{VAR12:49}
+{VAR12:36}{VAR07:64}{VAR12:40}{VAR07:88}{VAR12:4A}
+{VAR12:37}{VAR07:64}{VAR12:41}{VAR07:88}{VAR12:4B}
+{VAR12:38}{VAR07:64}{VAR12:42}{VAR07:88}{VAR12:4C}
+{VAR12:39}{VAR07:64}{VAR12:43}{VAR07:88}{VAR12:4D}
+{VAR12:3A}{VAR07:64}{VAR12:44}{VAR07:88}{VAR12:4E}{VAR07:A4}
+--------------------------------------------------End--
+{WINDOW}
+Contract?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Please decide the number of contract games.
+{CHOICE:51}
+--------------------------------------------------End--
+{WINDOW}
+A contract of one or more games.
+Please make one.
+--------------------------------------------------End--
+{WINDOW}
+The contract fee is {VAR12:30} Gil.
+Is this correct?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+You don't have enough Gil.
+--------------------------------------------------End--
+{WINDOW}
+The Besaid Aurochs team is
+full with 8 registered members.
+Remove someone from the team?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+Who will you remove?
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+This player cannot be dropped.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activation, at the Save Sphere...
+A transfer function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s home base, continue Blitz training.
+hidden excellent players are lurking.
+Press {Button Square} and speak to them, and you may be able to scout and contract them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+A transfer function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+Obtained {Al Bhed} Language Dictionary Volume 14!
+--------------------------------------------------End--
+{WINDOW}
+Learned {Al Bhed} language!
+{VAR07:31} 『{OPurple} Tsu {White} 』 Meaning 『{Pink} Mu {White} 』
+{VAR07:31} 『{OPurple} Re {White} 』 Meaning 『{Pink} Me {White} 』
+{VAR07:31} 『{OPurple} Ko {White} 』 Meaning 『{Pink} Mo {White} 』
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `{Al Bhed} Language Introduction` `{White}`
+The unfamiliar language '{Al Bhed} language', the {Al Bhed} language dictionary...
+(Merged with 2)
+{OPurple} Rebahe! {Al Bhed} Language Yanusaa! Tensofumu Miou!{White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Shufukonkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Kyokinkya`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Asayosoo {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Sanchinyufudaru`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Nyufuhyofuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Ponapona`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Denhiginhai`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `Yaazenanuha {Al Bhed} Language`! {White}
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} became {Blue} `{Al Bhed} Language Yanusaa`! {White}
+--------------------------------------------------End--

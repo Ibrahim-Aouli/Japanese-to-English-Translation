@@ -1,0 +1,240 @@
+{WINDOW}
+{Wakka} 
+What's wrong?
+--------------------------------------------------End--
+{Lulu} 
+{Yuna}, you see...
+They said you should come along too.
+--------------------------------------------------End--
+{Yuna} 
+Hey...
+Is it okay if I don't act as a guard?
+--------------------------------------------------End--
+{Wakka} 
+What's that?
+Stop joking, {Yuna}.
+--------------------------------------------------End--
+{Wakka} 
+This one can handle blitz, but...
+They're a novice when it comes to fighting monsters.
+--------------------------------------------------End--
+{Yuna} 
+Is it okay even if I'm not a guard?
+As long as you're by my side...
+--------------------------------------------------End--
+{Tidus} 
+What's that? What do you mean?
+--------------------------------------------------End--
+{Yuna} 
+That's... um...
+--------------------------------------------------End--
+{Lulu} 
+Everyone's going to the temple anyway, so...
+We can talk about it later, right?
+--------------------------------------------------End--
+{Yuna} 
+Sorry, that was sudden.
+--------------------------------------------------End--
+{Tidus} 
+Even if you say "sorry"...
+What is it? I don't understand.
+--------------------------------------------------End--
+{Yuna} 
+...I'm sorry.
+--------------------------------------------------End--
+{Gatta} 
+See? I told you.
+It's impossible to defeat them, I'm telling you.
+--------------------------------------------------End--
+{Luzzu} 
+Finishing the battle and going back to sleep, that is...
+That is why it is suitable for the forest.
+--------------------------------------------------End--
+{Luzzu} 
+Don't do that.
+No matter what 42+53. you do, you can't win.
+--------------------------------------------------End--
+{Gatta} 
+Amazing!
+--------------------------------------------------End--
+{Luzzu} 
+You're capable... all of you.
+As expected of a Summoner and a Guard.
+--------------------------------------------------End--
+{Gatta} 
+Go 42+54. ahead!
+We cannot afford to lose, can we?
+--------------------------------------------------End--
+{Luzzu} 
+Of course, we won't lose.
+--------------------------------------------------End--
+{Gatta} 
+Come forth~42+55. people~{Crusader}~42+56.
+--------------------------------------------------End--
+{Gatta} 
+Defeat 'Sin'~
+Even that cute person will turn around~42+56.
+--------------------------------------------------End--
+
+42+57. Training! 42+57. Training!
+--------------------------------------------------End--
+
+*Pant*... *pant*...
+42+57. Training! 42+57. Training!
+--------------------------------------------------End--
+{Luzzu} 
+Ochu's strength is
+on a completely different level from other monsters.
+--------------------------------------------------End--
+{Luzzu} 
+Even if a bunch of {Crusader} team up,
+it's doubtful if it can be defeated.
+--------------------------------------------------End--
+{Luzzu} 
+If you get hit by Ochu's poison,
+you'll be {Farplane} in an instant.
+--------------------------------------------------End--
+{Luzzu} 
+That monster is the Lord Ochu of this forest.
+--------------------------------------------------End--
+{Luzzu} 
+It's an unmanageable one, 42+58.42+59. even for {Crusader}.
+Avoid a futile 42+60. fight here.
+--------------------------------------------------End--
+{Luzzu} 
+Please let {Wakka} have a good time.
+I'm counting on you.
+--------------------------------------------------End--
+{Gatta} 
+42+61.42+62.Caution! 42+61.42+62.Caution!
+--------------------------------------------------End--
+{Gatta} 
+All stop!
+--------------------------------------------------End--
+{Gatta} 
+Don't even think about testing your strength.
+Don't think of it.
+--------------------------------------------------End--
+{Gatta} 
+When the tournament ends, you should join {Crusader}.
+Join us! 42+63.42+64. I'll make it happen.
+--------------------------------------------------End--
+
+I saw it! You managed to defeat the Ochu!
+I'd like to scout you for {Crusader}.
+--------------------------------------------------End--
+
+In celebration of your victory, let me present this 42+65. to you.
+--------------------------------------------------End--
+
+Be careful of the Lord Ochu of the forest.
+It's a powerful monster. We {Crusader} are also 42+61.42+62. on alert.
+--------------------------------------------------End--
+
+Are you visiting {Blue} 【{Kilika Temple} 】{White}?
+To the temple, go through that animal path.
+--------------------------------------------------End--
+
+Poisonous monsters also appear in the forest.
+Carelessness is forbidden!
+--------------------------------------------------End--
+
+{Crusader} is training for the upcoming major operation.
+If you witness '{sinspawn}', please report it.
+--------------------------------------------------End--
+
+Are you alright? Don't waste your life!
+Sometimes a detour is necessary.
+--------------------------------------------------End--
+
+Monsters are everywhere.
+Please don't forget your vigilance.
+--------------------------------------------------End--
+
+The subjugation of stray monsters...
+...is one of {Crusader}'s important missions.
+{NEWPAGE}
+
+At least let the souls of the dead rest peacefully.
+I want to pray for {Farplane}.
+--------------------------------------------------End--
+
+To all the guards, thank you for your hard work!
+{NEWPAGE}
+
+In areas attacked by '{Sin}',
+the number of monsters seems to increase.
+{NEWPAGE}
+
+Please be careful on your way.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+By {Besaid Aurochs}'s activation, at the Save Sphere...
+The transfer42+72. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+At {Spira}'s sacre42+76. ground, Blitz training continues.
+hidden excellent players are lurking.
+If you press {Button Square} and speak to them, you may be able to scout/contr42+77. them.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The transfer42+72. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+
+Powered
+Bitoa
+--------------------------------------------------End--
+{WINDOW}
+
+There is something written.
+--------------------------------------------------End--

@@ -1,0 +1,79 @@
+{Rikku} 
+Oh! The line completely fills the shop!
+--------------------------------------------------End--
+{Tidus} 
+Are you okay?
+--------------------------------------------------End--
+{Yuna} 
+……I was forced into a resolution.
+--------------------------------------------------End--
+{Tidus} 
+Really?
+--------------------------------------------------End--
+{Auron} 
+{Yuna}'s mission...
+You should know it.
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+{WINDOW}
+Of course.
+--------------------------------------------------End--
+{Seymour} 
+{Yuna} Oh's... no, a Summoner's mission is...
+To bring peace and stability to {Spira}.
+--------------------------------------------------End--
+{Seymour} 
+However, merely defeating '{Sin}'
+Is not everything.
+--------------------------------------------------End--
+{Seymour} 
+To make the hearts of the people suffering from '{Sin}'
+Even a little lighter...
+--------------------------------------------------End--
+{Seymour} 
+That, too, is the duty of one who guides the people.
+--------------------------------------------------End--
+{Seymour} 
+As {Yevon2}'s Elder,
+I imposed a resolution on {Yuna}.
+--------------------------------------------------End--
+{Auron} 
+{Spira} is not a stage.
+--------------------------------------------------End--
+{Auron} 
+Even if you captivate the audience with a momentary dream,
+Reality will not change.
+--------------------------------------------------End--
+{Seymour} 
+Even so, to stand on the stage is an actor's duty.
+--------------------------------------------------End--
+{Seymour} 
+There is no need to answer immediately.
+Please think carefully.
+--------------------------------------------------End--
+{Auron} 
+I will do so.
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+{WINDOW}
+We're going.
+--------------------------------------------------End--
+{Seymour} 
+{Yuna} Understood.
+We await your good response.
+--------------------------------------------------End--
+{Seymour} 
+For what purpose?
+Are you remaining?
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+{WINDOW}
+My apologies.
+--------------------------------------------------End--
+{Seymour} 
+We {Guado} to {Farplane}'s question.
+Because it is a sensitive matter.
+--------------------------------------------------End--

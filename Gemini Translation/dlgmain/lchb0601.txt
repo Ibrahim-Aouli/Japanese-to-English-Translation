@@ -1,0 +1,33 @@
+{WINDOW}
+Save up to this point?
+{VAR07:49}{CHOICE:30}Yes
+{VAR07:49}{CHOICE:31}No
+--------------------------------------------------End--
+Announcer
+They lost the match, but this year's {Aurochs}
+displayed a formidable fight!
+--------------------------------------------------End--
+Announcer
+An unbelievable victory! {blitzball}'s
+This is the moment a new legend was born!!
+--------------------------------------------------End--
+Announcer
+Even so,
+Just who!
+--------------------------------------------------End--
+Announcer
+Who would predict this combination
+I wonder?
+--------------------------------------------------End--
+Announcer
+the ever-victorious {Luca Goers} and
+will face off in the final match is...
+--------------------------------------------------End--
+Announcer
+The team always eliminated in the first round.
+{Besaid Aurochs} ！！
+--------------------------------------------------End--
+Liberated One
+truly an astonishing
+major upset, isn't it.
+--------------------------------------------------End--

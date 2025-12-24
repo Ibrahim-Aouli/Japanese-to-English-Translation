@@ -1,0 +1,289 @@
+{WINDOW}
+{Auron} 
+{Yuna} ！
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+Ah, yes!
+--------------------------------------------------End--
+{Yuna} 
+(Thank you)
+--------------------------------------------------End--
+Shipahfu user.
+Shipaafu, let's go!
+--------------------------------------------------End--
+{Wakka} 
+Hey.
+--------------------------------------------------End--
+{Tidus} 
+Hm?
+--------------------------------------------------End--
+{Wakka} 
+Look.
+--------------------------------------------------End--
+{Tidus} 
+What?
+--------------------------------------------------End--
+{Tidus} 
+Ah!
+--------------------------------------------------End--
+{Tidus} 
+The town is sinking!
+--------------------------------------------------End--
+{Wakka} 
+It's a mechanical town from over 1000 years ago.
+--------------------------------------------------End--
+{Wakka} 
+They built many bridges over the river,
+and apparently built a town on top of them.
+--------------------------------------------------End--
+{Lulu} 
+The bridges collapsed due to the town's weight,
+and it sank to the bottom of the river, I hear.
+--------------------------------------------------End--
+{Wakka} 
+Well, that's a good lesson.
+--------------------------------------------------End--
+{Tidus} 
+A lesson?
+--------------------------------------------------End--
+{Wakka} 
+Why were you silent!?
+--------------------------------------------------End--
+{Wakka} 
+Building a town over a river...
+What's the point?
+--------------------------------------------------End--
+{Tidus} 
+Hmm... there's a lot of water, so...
+it's beneficial, or something.
+--------------------------------------------------End--
+{Wakka} 
+Nope, that's not it.
+--------------------------------------------------End--
+{Wakka} 
+It's just that their technology...
+they just wanted to test their power.
+--------------------------------------------------End--
+{Tidus} 
+Is that so?
+--------------------------------------------------End--
+{Wakka} 
+It's {Yevon2}'s teaching.
+--------------------------------------------------End--
+{Wakka} 
+When people gain power,
+they can't help but use it.
+--------------------------------------------------End--
+{Wakka} 
+I have to forbid it.
+So it's endless.
+--------------------------------------------------End--
+{Tidus} 
+But still, quite a lot of machines...
+...they're using, right?
+--------------------------------------------------End--
+{Tidus} 
+Like the stadium... right?
+--------------------------------------------------End--
+{Lulu} 
+The temples, you see, decide.
+--------------------------------------------------End--
+{Lulu} 
+This machine is permissible.
+That machine is not allowed... and so forth.
+--------------------------------------------------End--
+{Tidus} 
+What kind of machines aren't allowed?
+--------------------------------------------------End--
+{Wakka} 
+You saw it at {Operation Mi'ihen}, right?
+Machines like that.
+--------------------------------------------------End--
+{Lulu} 
+Because the Senten will begin again, you see.
+--------------------------------------------------End--
+{Tidus} 
+Senten...?
+--------------------------------------------------End--
+{Yuna} 
+More than 1000 years ago, you see,
+--------------------------------------------------End--
+{Yuna} 
+they used many mechanical weapons.
+Apparently, there was a Senten.
+--------------------------------------------------End--
+{Wakka} 
+Even during the war, weapons steadily
+grew more powerful.
+--------------------------------------------------End--
+{Lulu} 
+Not just cities,
+but {Spira} itself...
+--------------------------------------------------End--
+{Lulu} 
+...weapons possessing the power to utterly destroy the world
+were also created.
+--------------------------------------------------End--
+{Yuna} 
+At this rate, {Spira} might
+disappear completely.
+--------------------------------------------------End--
+{Wakka} 
+Even so, the war did not end.
+--------------------------------------------------End--
+{Tidus} 
+Wh- What happened!?
+--------------------------------------------------End--
+{Yuna} 
+Suddenly, 『{Sin} 』 appeared and
+destroyed cities and weapons...
+--------------------------------------------------End--
+{Lulu} 
+The war ended.
+--------------------------------------------------End--
+{Lulu} 
+But as its price,
+『{Sin} 』 remained.
+--------------------------------------------------End--
+{Wakka} 
+Right? 『{Sin} 』 went too far.
+So it's retribution against humanity.
+--------------------------------------------------End--
+{Tidus} 
+That's a harsh story.
+--------------------------------------------------End--
+{Wakka} 
+Ah, it's harsh.
+--------------------------------------------------End--
+{Tidus} 
+But it's not as if the machines are blessed.
+There isn't, is there?
+--------------------------------------------------End--
+{Lulu} 
+Yes.
+It's a problem on the user's side.
+--------------------------------------------------End--
+{Wakka} 
+Because there are people like {Al Bhed}.
+It's no good, you know.
+--------------------------------------------------End--
+Shipahfu user.
+Something's strange here, I think.
+--------------------------------------------------End--
+{Auron} 
+Stay 42+53.!
+--------------------------------------------------End--
+{Yuna} 
+Y-Yes.
+--------------------------------------------------End--
+{Wakka} 
+It's {Al Bhed}!!
+--------------------------------------------------End--
+{Lulu} 
+Are you hurt...?
+--------------------------------------------------End--
+{Yuna} 
+Yeah, I'm fine.
+--------------------------------------------------End--
+{Tidus} 
+Whew...
+--------------------------------------------------End--
+{Wakka} 
+Honestly... those {Al Bhed}!
+--------------------------------------------------End--
+Shipahfu user.
+Are you alright~?
+--------------------------------------------------End--
+{Yuna} 
+I apologize!
+I'm fine now!
+--------------------------------------------------End--
+Shipahfu user.
+Shipuff, full speed ahead~~!
+--------------------------------------------------End--
+{Wakka} 
+Tsk! That {Al Bhed}!
+--------------------------------------------------End--
+{Wakka} 
+What are you talking about?
+--------------------------------------------------End--
+{Wakka} 
+Is it related to what happened in Luca?
+--------------------------------------------------End--
+{Wakka} 
+Those guys, {Yuna}... 42+54.tte...
+What do you plan to do!?
+--------------------------------------------------End--
+{Wakka} 
+Oh!
+Are you taking out your frustration from losing the match!?
+--------------------------------------------------End--
+{Wakka} 
+Ah!?
+Is this {Operation Mi'ihen} taking out frustration from a failure!?
+--------------------------------------------------End--
+{Lulu} 
+I wonder.
+--------------------------------------------------End--
+{Lulu} 
+{Kimahri}'s acquaintance
+Didn't they say?
+--------------------------------------------------End--
+{Lulu} 
+That summoners have been disappearing recently.
+--------------------------------------------------End--
+{Wakka} 
+Ahh!
+Is that the doing of the {Al Bhed} clan!?
+--------------------------------------------------End--
+{Wakka} 
+Damn it... {Al Bhed}...
+What are they thinking!?
+--------------------------------------------------End--
+{Tidus} 
+Forget about it.
+--------------------------------------------------End--
+{Tidus} 
+About the {Al Bhed} clan,
+There's no point talking about it here, is there?
+--------------------------------------------------End--
+{Tidus} 
+No matter who the opponent is, I will protect {Yuna}.
+--------------------------------------------------End--
+{Tidus} 
+Just thinking about that.
+I'll do it!
+--------------------------------------------------End--
+{Wakka} 
+That's true...
+--------------------------------------------------End--
+{Wakka} 
+...but...
+--------------------------------------------------End--
+{Lulu} 
+...You're right.
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:55} Djosé-Ebon Temple
+
+
+
+
+
+
+
+Luca
+{VAR07:53}Port Kilika
+
+
+
+{VAR07:4A}Besaid
+--------------------------------------------------End--
+{AREA}
+Phantom Light River South Bank
+--------------------------------------------------End--
+{AREA}
+Phantom Light River North Bank
+--------------------------------------------------End--

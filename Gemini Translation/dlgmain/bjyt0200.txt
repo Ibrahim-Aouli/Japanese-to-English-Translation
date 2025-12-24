@@ -1,0 +1,118 @@
+{Wakka} 
+What's wrong?
+Is something there?
+--------------------------------------------------End--
+{Tidus} 
+Before, around here, a huge monster...
+...I was almost eaten.
+--------------------------------------------------End--
+{Tidus} 
+Revenge!
+--------------------------------------------------End--
+
+It won't open...
+--------------------------------------------------End--
+
+{Yellow} 【{Celestial Mirror}】{White} is misaligned...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Celestial Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+{Yellow} 【{Cloudy Mirror}】{White} is misaligned...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【{Cloudy Mirror}】{White}...
+Use {CHOICE:30}
+Don't use {CHOICE:31}
+--------------------------------------------------End--
+
+It seems power is insufficient...
+--------------------------------------------------End--
+{Tidus} 
+This is bad!
+--------------------------------------------------End--
+{Wakka} 
+Well, can't be helped...
+Alright! I'll help you out!
+--------------------------------------------------End--
+Effect
+The shop moves with a thumping sound.
+--------------------------------------------------End--
+Effect
+Water splashes off.
+--------------------------------------------------End--
+Effect
+A pillar crashes down.
+--------------------------------------------------End--
+Battle.
+Okei Boss Monster Battle 42+53. Enter.
+--------------------------------------------------End--
+{WINDOW}
+
+{White} {Button Square}: Return to the surface.
+{Button X}: Dive {White}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to {Besaid Aurochs}'s 活42+54., to the Save Sphere.
+The 転42+55. function to {blitzball} Stadium.
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+Continue Blitz training at {Spira}'s 42+56.地.
+hidden excellent players are lurking.
+If you interact and talk to {Button Square}, you may be able to Scout 42+57.約.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+55. function to the Airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--

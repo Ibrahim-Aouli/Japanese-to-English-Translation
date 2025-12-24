@@ -1,0 +1,241 @@
+{Tromell} 
+I'll go line up for {Seymour}.
+Please wait a moment.
+--------------------------------------------------End--
+{Yuna} 
+...My heart's pounding, already.
+--------------------------------------------------End--
+{Yuna} 
+Something to get scolded for,
+I haven't done, right...?
+--------------------------------------------------End--
+{Wakka} 
+To feed us,
+He didn't make us line up, did he?
+--------------------------------------------------End--
+{Wakka} 
+I'm grateful to Master {Seymour}, but
+I wish it would end soon.
+--------------------------------------------------End--
+{Lulu} 
+In this {Guadosalam},
+There's no temple, is there?
+--------------------------------------------------End--
+{Lulu} 
+So normally, summoners
+Just pass by.
+--------------------------------------------------End--
+{Tidus} 
+Hehehe...
+--------------------------------------------------End--
+{Lulu} 
+What?
+--------------------------------------------------End--
+{Tidus} 
+No, even without asking,
+Because you'll explain it.
+--------------------------------------------------End--
+{Lulu} 
+Unnecessary meddling... is that it?
+--------------------------------------------------End--
+{Tidus} 
+No, no!
+--------------------------------------------------End--
+{Tidus} 
+That I don't know anything,
+I was thinking you understood.
+--------------------------------------------------End--
+{Tidus} 
+That you came from {Zanarkand}.
+I wonder if you believed it.
+--------------------------------------------------End--
+{Lulu} 
+...Well, yeah.
+--------------------------------------------------End--
+{Lulu} 
+There are things I don't know.
+There are many...
+--------------------------------------------------End--
+{Lulu} 
+One of those things is...
+Your {Zanarkand}.
+--------------------------------------------------End--
+{Lulu} 
+If I think about it that way...
+It's not an unreasonable story.
+--------------------------------------------------End--
+{Lulu} 
+But be careful.
+--------------------------------------------------End--
+{Lulu} 
+To anyone but us...
+It's better not to say anything.
+--------------------------------------------------End--
+{Tidus} 
+Yeah, I understand.
+--------------------------------------------------End--
+{Lulu} 
+Why don't you eat something too?
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} is {Master Seymor} is
+Doesn't like it.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+Shhh!
+--------------------------------------------------End--
+{Kimahri} 
+{Kimahri} won't say anything anymore.
+--------------------------------------------------End--
+{Rikku} 
+This is tasty!
+--------------------------------------------------End--
+{Rikku} 
+{Guado2}... good things...
+...you eat, don't you?
+--------------------------------------------------End--
+{Rikku} 
+Hey, I wonder what's going to start?
+It's exciting, isn't it?
+--------------------------------------------------End--
+{Auron} 
+...Don't neglect your courage.
+--------------------------------------------------End--
+{Tidus} 
+Why?
+It's the house of an important person from {Yevon2}, isn't it?
+--------------------------------------------------End--
+{Auron} 
+When one has power, they can't help but...
+...use it.
+--------------------------------------------------End--
+{Auron} 
+...Perhaps that's the way it is.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+You...
+--------------------------------------------------End--
+{Tidus} 
+Don't you believe in {Yevon2}'s teachings or anything?
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+Heh...
+--------------------------------------------------End--
+{Auron} 
+I, too, have had a {Zanarkand} 42+53.らし, but...
+...because it was long.
+--------------------------------------------------End--
+{Tidus} 
+Why were you silent!?
+--------------------------------------------------End--
+{Auron} 
+What are you making a fuss about,
+I wonder...?
+--------------------------------------------------End--
+{Tromell} 
+Heh heh heh...
+--------------------------------------------------End--
+{Tromell} 
+Welcoming guests is
+a pleasure.
+--------------------------------------------------End--
+{Tromell} 
+Since Lord {Jyscal} passed away,
+this mansion has been too quiet...
+--------------------------------------------------End--
+{Yuna} 
+The death of Master {Jyscal} is
+a great loss for {Spira}.
+--------------------------------------------------End--
+{Tidus} 
+Master {Jyscal}?
+Is it that great?
+--------------------------------------------------End--
+{Wakka} 
+To {Guado2}, {Yevon2}'s
+Teachings were spread.
+--------------------------------------------------End--
+{Wakka} 
+Honestly...
+We lost someone precious.
+--------------------------------------------------End--
+{Tromell} 
+Yes, it is truly regrettable.
+--------------------------------------------------End--
+{Tromell} 
+However, we have a new leader.
+Lord {Seymour} is present.
+--------------------------------------------------End--
+{Tromell} 
+Lord {Seymour} is between {Guado} and humans.
+A person who was born.
+--------------------------------------------------End--
+{Tromell} 
+Surely, the two races...
+...will become a unifier.
+--------------------------------------------------End--
+{Tromell} 
+No, it's not just that.
+...does not exist.
+--------------------------------------------------End--
+{Tromell} 
+Lord {Seymour} is...
+--------------------------------------------------End--
+{Tromell} 
+Of all those living in this {Spira},
+...will become a light that illuminates the future.
+--------------------------------------------------End--
+{Seymour} 
+That's enough, {Tromell}.
+--------------------------------------------------End--
+{Seymour} 
+If I'm praised too much...
+...I feel uncomfortable.
+--------------------------------------------------End--
+{Seymour} 
+Welcome, everyone.
+--------------------------------------------------End--
+{Yuna} 
+Um... about the talk...?
+--------------------------------------------------End--
+{Seymour} 
+Yes, don't rush to a conclusion. Take your time.
+--------------------------------------------------End--
+{Auron} 
+{Yuna} is in a hurry.
+I'd like this finished quickly.
+--------------------------------------------------End--
+{Seymour} 
+My apologies.
+--------------------------------------------------End--
+{Seymour} 
+Since I have a guest after a long time...
+I just...
+--------------------------------------------------End--
+{Seymour} 
+{Yuna}, this way, please.
+--------------------------------------------------End--
+{Seymour} 
+This is of the dead drifting through {Farplane}...
+...a valuable sphere recreated from their thoughts.
+--------------------------------------------------End--
+{Tidus} 
+{Zanarkand} ！！
+--------------------------------------------------End--
+{Seymour} 
+Yes, {Zanarkand}.
+It's its form from about 1000 years ago.
+--------------------------------------------------End--
+{Seymour} 
+A mechanical city that reached the height of prosperity.
+{Zanarkand} 
+--------------------------------------------------End--
+{Seymour} 
+She lived here.
+--------------------------------------------------End--
+{Yuna} 
+She?
+--------------------------------------------------End--

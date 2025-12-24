@@ -1,0 +1,36 @@
+{Braska} 
+{Auron} Line up a little more.
+--------------------------------------------------End--
+{Jecht} 
+Don't be so unwilling, stiff.
+--------------------------------------------------End--
+{Auron} 
+Quiet!
+--------------------------------------------------End--
+{Braska} 
+Alright, that's good.
+--------------------------------------------------End--
+{Jecht} 
+{Braska} You get in the shot too.
+It'll be a good souvenir for {P0} chan.
+--------------------------------------------------End--
+{Braska} 
+......I suppose so.
+--------------------------------------------------End--
+{Auron} 
+Lord {Braska}...
+--------------------------------------------------End--
+{Auron} 
+If we keep doing things like this...
+No matter how much time we have, it won't be enough!
+--------------------------------------------------End--
+{Jecht} 
+What's the hurry?
+--------------------------------------------------End--
+{Auron} 
+What kind of journey this is...
+I'll tell you!
+--------------------------------------------------End--
+{Braska} 
+{Auron} ！
+--------------------------------------------------End--

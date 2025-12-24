@@ -1,0 +1,296 @@
+{WINDOW}
+{Yellow} [Movement Mode]{White}
+{CHOICE:30}Auto
+{CHOICE:31}Manual A
+{CHOICE:32}Manual B
+{CHOICE:33}Give Up
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Movement Mode]{White}
+{CHOICE:30}Auto
+{CHOICE:31}Manual A
+{CHOICE:32}Manual B
+--------------------------------------------------End--
+{WINDOW}
+Give up the match?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Formation]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Formation]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Formation]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Formation]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Formation]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Formation]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Formation]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Formation]{White}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+{CHOICE:34}{VAR12:34}
+{CHOICE:35}{VAR12:35}
+{CHOICE:36}{VAR12:36}
+{CHOICE:37}{VAR12:37}
+{CHOICE:38}{VAR12:38}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR12:30}{VAR12:31}
+{VAR12:32}{VAR12:33}
+{VAR12:34}{VAR12:35}
+{VAR12:36}{VAR12:37}
+{VAR12:38}{VAR12:39}
+--------------------------------------------------End--
+{WINDOW}
+
+{VAR07:40}{VAR12:30}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+Break through to {CHOICE:32}{VAR12:32}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+Break through to {CHOICE:32}{VAR12:32}.
+Break through to {CHOICE:33}{VAR12:33}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+Break through to {CHOICE:32}{VAR12:32}.
+Break through to {CHOICE:33}{VAR12:33}.
+Break through to {CHOICE:34}{VAR12:34}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Breakthrough Command]{White}
+{CHOICE:30}Do not breakthrough
+Break through to {CHOICE:31}{VAR12:31}.
+Break through to {CHOICE:32}{VAR12:32}.
+Break through to {CHOICE:33}{VAR12:33}.
+Break through to {CHOICE:34}{VAR12:34}.
+Break through to {CHOICE:35}{VAR12:35}.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30} Pass {VAR07:53}{VAR12:30} HP
+{CHOICE:31} Shoot {VAR07:53}{VAR12:31} HP
+{CHOICE:32} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30}{Blue} Pass{VAR07:53}{VAR12:30}HP
+{CHOICE:31}{White} Shoot{VAR07:53}{VAR12:31}HP
+{CHOICE:32} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30} Pass {VAR07:53}{VAR12:30} HP
+{Blue} {CHOICE:31}Shoot{VAR07:53}{VAR12:31}HP
+{CHOICE:32}{White} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30}{Blue} Pass{VAR07:53}{VAR12:30}HP
+{CHOICE:31} Shoot {VAR07:53}{VAR12:31} HP
+{CHOICE:32}{White} Dribble
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30} Pass {VAR07:53}{VAR12:30} HP
+{CHOICE:31} Shoot {VAR07:53}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30}{Blue} Pass{VAR07:53}{VAR12:30}HP
+{CHOICE:31}{White} Shoot{VAR07:53}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30} Pass {VAR07:53}{VAR12:30} HP
+{CHOICE:31}{Blue} Shoot{VAR07:53}{VAR12:31}HP
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ACTION COMMAND] {White}
+{CHOICE:30}{Blue} Pass{VAR07:53}{VAR12:30}HP
+{CHOICE:31} Shoot {VAR07:53}{VAR12:31} HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}Back
+--------------------------------------------------End--
+{WINDOW}
+Action: Pass
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B}HP
+{CHOICE:33}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C}HP
+{CHOICE:34}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:62}{VAR12:3D}HP
+{CHOICE:35}Back
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:62}{VAR12:3D}HP
+{CHOICE:35}{VAR12:34}{VAR07:62}{VAR12:3E}HP
+{P0} returns.
+--------------------------------------------------End--
+{WINDOW}
+Special Move: {P0}
+--------------------------------------------------End--
+{WINDOW}
+Action: Shoot
+--------------------------------------------------End--
+{WINDOW}
+Do not break through.
+--------------------------------------------------End--
+{WINDOW}
+Break through {P0} people.
+--------------------------------------------------End--
+{WINDOW}
+Action: Dribble
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:62}{VAR12:3D}HP
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30}Normal
+{CHOICE:31}{VAR12:30}{VAR07:62}{VAR12:3A}HP
+{CHOICE:32}{VAR12:31}{VAR07:62}{VAR12:3B}HP
+{CHOICE:33}{VAR12:32}{VAR07:62}{VAR12:3C}HP
+{CHOICE:34}{VAR12:33}{VAR07:62}{VAR12:3D}HP
+{CHOICE:35}{VAR12:34}{VAR07:62}{VAR12:3E}HP
+--------------------------------------------------End--
+{WINDOW}
+{P0} [PASS COMMAND] {P1}
+{CHOICE:30}{VAR12:30}
+{CHOICE:31}{VAR12:31}
+{CHOICE:32}{VAR12:32}
+{CHOICE:33}{VAR12:33}
+--------------------------------------------------End--
+Announcer
+Goal! Goal! Goal!
+Oh, amazing!! The trail marks...
+What is about to happen?
+--------------------------------------------------End--
+Announcer
+The supporters are also getting excited!!
+--------------------------------------------------End--
+Announcer
+The first half ends here!
+--------------------------------------------------End--
+Liberated One
+Wow, Gowers are strong!
+Absolutely strong!
+--------------------------------------------------End--
+Announcer
+Oh!!
+As expected, the first score goes to Gowaz!
+--------------------------------------------------End--
+Announcer
+They are no match at all.
+Besaid Aurochs.
+They're a wreck.
+--------------------------------------------------End--
+Announcer
+Now, from the stands, spontaneously...
+Aurochs chants well up.
+It's suddenly gotten very lively.
+--------------------------------------------------End--

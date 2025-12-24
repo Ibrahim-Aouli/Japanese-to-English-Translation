@@ -1,0 +1,51 @@
+{WINDOW}
+{CHOICE:30}         {CHOICE:FF}
+{CHOICE:31}         {CHOICE:FF}
+
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Sphere Grid Selection]
+--------------------------------------------------End--
+{WINDOW}
+Please select a Sphere Grid!
+(Cannot be changed during play)
+{VAR07:46}{CHOICE:30}Standard Sphere Grid
+{VAR07:46}{CHOICE:31}Advanced Sphere Grid
+--------------------------------------------------End--
+{WINDOW}
+{Blue} [Standard Sphere Grid]{White}
+{VAR07:31}Are you sure?
+{VAR07:44}{CHOICE:30}Yes
+{VAR07:44}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Blue} [Advanced Sphere Grid]{White}
+{VAR07:31}Are you sure?
+{VAR07:47}{CHOICE:30}Yes
+{VAR07:47}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Background Music Selection]
+--------------------------------------------------End--
+{WINDOW}
+Please select BGM!
+{VAR07:45}{CHOICE:30} Arranged
+{VAR07:45}{CHOICE:31} Original
+--------------------------------------------------End--
+{WINDOW}
+{Blue} {VAR07:31}[Arranged]{White}
+Is this correct?
+{VAR07:44}{CHOICE:30}Yes
+{VAR07:44}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+{Blue} {VAR07:31}[Original]{White}
+Is this correct?
+{VAR07:44}{CHOICE:30}Yes
+{VAR07:44}{CHOICE:31}No
+--------------------------------------------------End--
+{WINDOW}
+Will you use the hard disk drive?
+{CHOICE:30} Yes.
+{CHOICE:31} No
+--------------------------------------------------End--

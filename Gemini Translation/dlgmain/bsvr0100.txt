@@ -1,0 +1,201 @@
+Datto.
+If you would join us...
+I was thinking, you know.
+--------------------------------------------------End--
+Datto.
+I'm getting fired up!
+--------------------------------------------------End--
+Reti!
+For the tournament, from all over Spira...
+Six teams will participate.
+--------------------------------------------------End--
+Reti!
+If you lose even one match, it's over.
+That's a tournament system.
+--------------------------------------------------End--
+Reti!
+Our strongest opponent is the Goers.
+It's Luca's team, which has a stadium.
+--------------------------------------------------End--
+Jash
+Everyone's so eager, huh.
+Though I can't really talk.
+--------------------------------------------------End--
+Jash
+It's better to get an early start.
+Don't you think~?
+--------------------------------------------------End--
+Bots
+Uh, the finals...?
+--------------------------------------------------End--
+Bots
+A burden to you...
+I'll make sure not to be.
+--------------------------------------------------End--
+KIPPA
+Attack relentlessly,
+And make it easy for the keeper.
+--------------------------------------------------End--
+KIPPA
+Tomorrow, we too...
+Depart on the same boat.
+--------------------------------------------------End--
+{Wakka} 
+It's for everyone on the team.
+--------------------------------------------------End--
+{Wakka} 
+They really want to participate in this upcoming tournament, so...
+they ended up joining the team.
+--------------------------------------------------End--
+{Wakka} 
+My memory is a little twisted, so...
+I might say strange things, but don't worry about it.
+--------------------------------------------------End--
+{Wakka} 
+Go on, a greeting.
+--------------------------------------------------End--
+{Tidus} 
+Nice to meet you, everyone.
+--------------------------------------------------End--
+{Tidus} 
+So, what's the goal of the tournament?
+--------------------------------------------------End--
+{Aurochs} Everyone:
+We'll do our very best!
+--------------------------------------------------End--
+{Wakka} 
+Our goal has changed!
+--------------------------------------------------End--
+{Wakka} 
+Our goal is Kyosho!
+--------------------------------------------------End--
+{Wakka} 
+The Crystal Kyosho Cup...
+we'll bring back to this island!
+--------------------------------------------------End--
+{Wakka} 
+We'll win all the matches we enter!
+We'll defeat all the other teams!
+--------------------------------------------------End--
+{Wakka} 
+If we do that, we can achieve Kyosho!
+It's simple!
+--------------------------------------------------End--
+
+......Kyosho?
+--------------------------------------------------End--
+
+......Kyosho, huh.
+--------------------------------------------------End--
+{Aurochs} Everyone:
+It's a victory! It's a victory! It's a victory, victory, victory!
+--------------------------------------------------End--
+
+42+56.Yafurime!
+--------------------------------------------------End--
+
+Do not approach the Summoner!
+--------------------------------------------------End--
+
+This is no good~!
+--------------------------------------------------End--
+
+{Yuna}-sama, that's not good!
+--------------------------------------------------End--
+
+But, to begin with...
+It's my fault.
+--------------------------------------------------End--
+
+I am {Yuna}.
+--------------------------------------------------End--
+{Yuna} 
+Thank you for earlier.
+--------------------------------------------------End--
+{Tidus} 
+Oh, you mean about me going to help?
+--------------------------------------------------End--
+{Tidus} 
+But, that was bad, right?
+I ended up doing something unnecessary, didn't I?
+--------------------------------------------------End--
+{Yuna} 
+It's fine.
+Because I was the last.
+--------------------------------------------------End--
+{Tidus} 
+Oh, hey, I saw a summoned beast!
+It was amazing.
+--------------------------------------------------End--
+{Yuna} 
+Really?
+--------------------------------------------------End--
+{Yuna} 
+Me, a Grand Summoner...
+Do you think I can become one?
+--------------------------------------------------End--
+
+{Yuna}-sama, let's talk more~!
+--------------------------------------------------End--
+{Yuna} 
+See you tomorrow then.
+--------------------------------------------------End--
+{Tidus} 
+Tomorrow?
+--------------------------------------------------End--
+{Yuna} 
+Tomorrow, we're departing on the same ship, aren't we?
+--------------------------------------------------End--
+{Tidus} 
+Oh, is that so?
+--------------------------------------------------End--
+{Yuna} 
+We can talk, can't we?
+--------------------------------------------------End--
+{Yuna} 
+Tell me about {Zanarkand}.
+--------------------------------------------------End--
+{Wakka} 
+It's cute, isn't it?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Yeah.
+{CHOICE:31} Not my type.
+--------------------------------------------------End--
+{Wakka} 
+Don't fall for them.
+--------------------------------------------------End--
+{Tidus} 
+I can't promise that.
+--------------------------------------------------End--
+{Wakka} 
+In that case, fine.
+--------------------------------------------------End--
+{Tidus} 
+What if they fall for me?
+What will you do?
+--------------------------------------------------End--
+{Wakka} 
+That won't happen.
+--------------------------------------------------End--
+{Wakka} 
+If you get sleepy, tell me.
+I'll prepare 42+58 degrees for you.
+--------------------------------------------------End--
+{Wakka} 
+There's nothing, but please enjoy yourself.
+--------------------------------------------------End--
+{Wakka} 
+Hmm? Want to rest?
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Yeah.
+{CHOICE:31} Still awake.
+--------------------------------------------------End--
+{Wakka} 
+Hmm, that's good.
+--------------------------------------------------End--
+{Wakka} 
+Tomorrow's an early day.
+Finish up reasonably.
+--------------------------------------------------End--

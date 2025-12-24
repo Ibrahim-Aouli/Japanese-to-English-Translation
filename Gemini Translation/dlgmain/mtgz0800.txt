@@ -1,0 +1,168 @@
+{Auron} 
+It's coming!!
+--------------------------------------------------End--
+{Rikku} 
+Hey!
+Why don't we take a little break?
+--------------------------------------------------End--
+{Auron} 
+There's no need to rest.
+The summit is just one more push away.
+--------------------------------------------------End--
+{Rikku} 
+It's just a little more.
+I want to rest, I tell you!
+--------------------------------------------------End--
+{Rikku} 
+Time to think.
+We only have a little.
+--------------------------------------------------End--
+{Yuna} 
+{Rikku} ……
+--------------------------------------------------End--
+{Rikku} 
+It's fine, while walking.
+I'll think.
+--------------------------------------------------End--
+{Wakka} 
+Hey, what's wrong?
+Let's go.
+--------------------------------------------------End--
+{Tidus} 
+Truly...
+It's almost here, isn't it?
+--------------------------------------------------End--
+{Wakka} 
+We've finally come this far.
+We ended up here, huh...
+--------------------------------------------------End--
+{Tidus} 
+What's so funny?
+--------------------------------------------------End--
+{Auron} 
+Just like my old self.
+--------------------------------------------------End--
+{Auron} 
+At that time... toward {Zanarkand}.
+The closer we got, the more afraid I became.
+--------------------------------------------------End--
+{Auron} 
+Once we arrived at {Braska}, then...
+Having obtained the ultimate summoning...
+--------------------------------------------------End--
+{Auron} 
+To fight 『{Sin} 』 and die.
+--------------------------------------------------End--
+{Auron} 
+I was prepared for it from the start of my journey.
+I thought I was, but...
+--------------------------------------------------End--
+{Auron} 
+When that moment actually drew near...
+I got scared.
+--------------------------------------------------End--
+{Wakka} 
+How should I put it... That's unexpected.
+--------------------------------------------------End--
+{Wakka} 
+Even a Dendatsu Guard...
+...to hesitate like that...
+--------------------------------------------------End--
+{Auron} 
+What kind of Dendatsu was I?
+Back then, I was just a Dozou.
+--------------------------------------------------End--
+{Auron} 
+Exactly about your...
+...age, back then.
+--------------------------------------------------End--
+{Auron} 
+I wanted to change something.
+I was trying to respond, but...
+--------------------------------------------------End--
+{Auron} 
+In the end, I couldn't do anything.
+--------------------------------------------------End--
+{Auron} 
+That is... my story.
+--------------------------------------------------End--
+
+The capital that perished 1000 years ago 42+53.
+--------------------------------------------------End--
+
+The city I had wanted to see with my own eyes.
+--------------------------------------------------End--
+
+The destination of {Yuna}'s journey
+--------------------------------------------------End--
+
+Perhaps it's the final 42+54. of my story...
+--------------------------------------------------End--
+
+Various thoughts... emerged and then faded away.
+--------------------------------------------------End--
+
+Unspoken... it passed by.
+--------------------------------------------------End--
+{Yuna} 
+If you think about it...
+Because you might hesitate.
+--------------------------------------------------End--
+{Rikku} 
+{Yunie} ……
+--------------------------------------------------End--
+{Yuna} 
+Thank you, {Rikku}.
+I love you.
+--------------------------------------------------End--
+{Rikku} 
+No, {Yunie}.
+Don't say that...
+--------------------------------------------------End--
+{Yuna} 
+Say hello to {Cid}.
+--------------------------------------------------End--
+{Rikku} 
+No.
+Say it yourself.
+--------------------------------------------------End--
+{Yuna} 
+...Please.
+--------------------------------------------------End--
+{Yuna} 
+Let's go, {Kimahri}.
+--------------------------------------------------End--
+{Rikku} 
+Is everyone really okay!?
+--------------------------------------------------End--
+{Rikku} 
+Once we get there.
+{Yunie} is...
+--------------------------------------------------End--
+{Yuna} 
+{Rikku}'s feelings are...
+I'm very happy.
+--------------------------------------------------End--
+{Yuna} 
+But...
+--------------------------------------------------End--
+{Yuna} 
+I won't turn back.
+--------------------------------------------------End--
+{Rikku} 
+I won't tell you to turn back.
+--------------------------------------------------End--
+{Rikku} 
+But let's think!
+--------------------------------------------------End--
+{Rikku} 
+{Yunie} How to survive.
+Let's think!
+--------------------------------------------------End--
+{Rikku} 
+Don't say that...
+--------------------------------------------------End--
+{Rikku} 
+It feels like we won't be able to meet anymore...
+I don't want that!
+--------------------------------------------------End--

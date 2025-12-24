@@ -1,0 +1,131 @@
+{Jecht} 
+Who are you?
+--------------------------------------------------End--
+{Braska} 
+The man who came from {Zanarkand}...
+{Jecht}, do you mean Retsu?
+--------------------------------------------------End--
+{Jecht} 
+What will you do?
+--------------------------------------------------End--
+{Auron} 
+You...
+What is that attitude?!
+--------------------------------------------------End--
+{Braska} 
+Oh, my apologies.
+I am a {Braska} Summoner.
+--------------------------------------------------End--
+{Braska} 
+I came to take Retsu from here.
+--------------------------------------------------End--
+{Jecht} 
+Oh, that's a tempting offer.
+Seems like there's a catch.
+--------------------------------------------------End--
+{Braska} 
+Hahaha... Have I been seen through?
+--------------------------------------------------End--
+{Braska} 
+I will soon...
+...set off on a journey, aiming for __P0__.
+--------------------------------------------------End--
+{Jecht} 
+Really?!
+--------------------------------------------------End--
+{Braska} 
+I would definitely like Retsu to come along as well.
+It's a dangerous journey, though.
+--------------------------------------------------End--
+{Braska} 
+But, if we can successfully...
+...reach __P0__...
+--------------------------------------------------End--
+{Braska} 
+My wish will come true, and Retsu will 42+53.42+54.
+I might be defeated...
+--------------------------------------------------End--
+{Braska} 
+Well, what will you do?
+--------------------------------------------------End--
+{Jecht} 
+Alright, I'm in!
+--------------------------------------------------End--
+{Braska} 
+Oh, that's a quick decision.
+--------------------------------------------------End--
+{Jecht} 
+There's no point in thinking about it.
+--------------------------------------------------End--
+{Braska} 
+It's decided then.
+--------------------------------------------------End--
+{Auron}, contact the jailer.
+(DELETED)
+--------------------------------------------------End--
+{Auron} 
+(DELETED)
+--------------------------------------------------End--
+{Auron} 
+But... I object.
+To make someone like this 42+56. a guard!
+--------------------------------------------------End--
+{Jecht} 
+Hey!
+--------------------------------------------------End--
+{Jecht} 
+This 'such a 42+56.'...
+What does that mean!
+--------------------------------------------------End--
+{Braska} 
+I don't mind.
+--------------------------------------------------End--
+{Braska} 
+{Braska}, who made a 42+57. with {Al Bhed2}...
+A failed summoner...
+--------------------------------------------------End--
+{Braska} 
+There's no way they can defeat '{Sin}' ...
+42+58. is saying that.
+--------------------------------------------------End--
+{Braska} 
+No one expects anything from us.
+--------------------------------------------------End--
+{Auron} 
+Lord {Braska}...
+--------------------------------------------------End--
+{Braska} 
+Let's show them, shall we?
+--------------------------------------------------End--
+{Braska} 
+An outcast Summoner and
+A man from {Zanarkand}
+--------------------------------------------------End--
+{Braska} 
+Rejecting their superior's recommendation for 42+59.42+60.
+a monk soldier who strayed from the path of promotion
+--------------------------------------------------End--
+{Braska} 
+If such a group defeats 『{Sin}』,
+It will certainly be thrilling!
+--------------------------------------------------End--
+{Jecht} 
+Just get it out quickly!
+--------------------------------------------------End--
+{Jecht} 
+Finally I'm out...
+--------------------------------------------------End--
+{Braska} 
+Well then, {Jecht}.
+--------------------------------------------------End--
+{Braska} 
+Until we reach {Zanarkand},
+I'm counting on you!
+--------------------------------------------------End--
+{Jecht} 
+Alright!
+--------------------------------------------------End--
+{Jecht} 
+Let's go!
+A Summoner... what is that?
+--------------------------------------------------End--

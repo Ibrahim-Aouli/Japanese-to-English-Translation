@@ -1,0 +1,106 @@
+
+You who walk a long journey.
+State your name.
+--------------------------------------------------End--
+{Yuna} 
+I am Summoner {Yuna}.
+I have come from {Besaid}.
+--------------------------------------------------End--
+
+The sequence... the path you have walked.
+Show me your path.
+--------------------------------------------------End--
+
+All right.
+--------------------------------------------------End--
+
+It seems you have strived greatly.
+--------------------------------------------------End--
+
+Unsurpassed training...
+It seems you have undergone.
+--------------------------------------------------End--
+
+Summoner {Yuna}.
+It was truly a magnificent journey.
+--------------------------------------------------End--
+
+{Yunalesca} as well.
+__P0__ will grant you passage.
+--------------------------------------------------End--
+
+Along with Guard Ou, to Lord {Yunalesca}'s
+You should head to their presence.
+--------------------------------------------------End--
+{Yuna} 
+...Yes.
+--------------------------------------------------End--
+
+{WINDOW}
+{VAR07:E4}{Direcional Up}: Dome Corridor{VAR07:60}{VAR07:E4}{Direcional Down}: Ruins Vicinity
+{VAR07:E4}{Button Circle} : Confirm
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To Blitz Stadium {White}
+{CHOICE:31} Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+To Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+{Gray} To the airship {White}
+To {CHOICE:31} Blitz Stadium
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{CHOICE:30} Save
+To Airship
+{Gray} To Blitz Stadium {White}
+Cancel
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv1` {White}
+You can save your journey's records in the sphere!
+With the automatic recovery function that relieves travel fatigue,
+HP/MP will fully recover!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} `Traveler's Save Sphere Lv2` {White}
+Due to the 活42+53. of {Besaid Aurochs}, to the Save Sphere.
+The 転42+54. function to {blitzball} Stadium...
+has been added!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Blitz Scout System] {White}
+In {Spira}'s 42+55. ground, continue Blitz training.
+hidden excellent players are lurking.
+By pressing {Button Square} and speaking, there are times you can scout and 42+56. a contract.
+Scout promising players and lead {Besaid Aurochs}
+to the top team!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Traveler's Save Sphere Lv3] {White}
+Thanks to {Al Bhed2} and {Rin}'s kindness, to the Save Sphere
+The 転42+54. function to the airship has been added!
+--------------------------------------------------End--
+{WINDOW}
+HP/MP recovered!
+--------------------------------------------------End--
+{WINDOW}
+{Besaid Aurochs} does not have enough members,
+so it cannot participate in the match.
+--------------------------------------------------End--

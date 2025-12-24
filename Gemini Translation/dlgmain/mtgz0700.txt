@@ -1,0 +1,31 @@
+
+{WINDOW}
+{Button Circle}: Throw the ball.
+{Button X}: Back.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}: 【{Gagazet} The First Trial】{White}
+Aim for the central switch with {Wakka}'s ball!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}: 【{Gagazet} The Second Trial】{White}
+Simultaneously deactivate the switches hidden in the three holes!
+Pay attention to the size of the holes and choose who enters each one!
+--------------------------------------------------End--
+
+{WINDOW}
+{Direcional Left} {Direcional Up} {Direcional Down} {Direcional Right}: Choose a hole.
+{Button Circle}: Confirm.
+{Button X}: Back.
+--------------------------------------------------End--
+{WINDOW}
+Hit.
+--------------------------------------------------End--
+{WINDOW}
+In development.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow}: 【The Summoner's Trial】{White}
+If you summon me, conquer the trial!
+Aim for the central switch with {Wakka}'s ball!
+--------------------------------------------------End--

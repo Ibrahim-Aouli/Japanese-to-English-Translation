@@ -1,0 +1,38 @@
+Announcer
+Oh!
+Already a skirmish!
+--------------------------------------------------End--
+Announcer
+{Aurochs} is being completely underestimated!
+--------------------------------------------------End--
+Announcer
+The calls from the impatient supporters
+are getting louder and louder.
+--------------------------------------------------End--
+Announcer
+The players of {Aurochs} seem to be losing their will to fight.
+Will they disappear from the tournament like this~?
+--------------------------------------------------End--
+Announcer
+The entire stadium
+is bursting with {Wakka} calls!
+--------------------------------------------------End--
+Announcer
+Oh no!?
+What happened to that player?
+--------------------------------------------------End--
+Announcer
+Did they abandon the match?
+They're leaving the Sphere Pool!
+--------------------------------------------------End--
+Announcer
+Hm? What's going on?
+The venue is buzzing!
+--------------------------------------------------End--
+Announcer
+Oh no!? It's Player {Wakka}!!
+They've returned energetically!!
+--------------------------------------------------End--
+Announcer
+Teammates are warmly welcoming them!
+--------------------------------------------------End--

@@ -1,0 +1,6 @@
+
+{Font Italic} This might be the last time, right?{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic} So, I want to talk about everything.{Font Normal}
+--------------------------------------------------End--

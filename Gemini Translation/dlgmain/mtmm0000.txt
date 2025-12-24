@@ -1,0 +1,61 @@
+{Braska} 
+Hey, {Yuna}
+Are you well?
+--------------------------------------------------End--
+{Braska} 
+When you look at this sphere,
+I wonder how old you'll be.
+--------------------------------------------------End--
+{Braska} 
+Surely, you've presented yourself well to Retsu-san,
+and become beautiful.
+--------------------------------------------------End--
+{Braska} 
+At least, even for a glimpse...
+--------------------------------------------------End--
+{Braska} 
+Oh, by the way,
+--------------------------------------------------End--
+{Braska} 
+{Jecht} and {Auron} too,
+everyone is well.
+--------------------------------------------------End--
+{Braska} 
+We are very pleasantly
+traveling.
+--------------------------------------------------End--
+{Braska} 
+Of course, it's not an easy path, but
+I have no regrets.
+--------------------------------------------------End--
+{Braska} 
+Because this is exactly
+my path.
+--------------------------------------------------End--
+{Braska} 
+So, {Yuna}, when you grow up,
+and find your own path...
+--------------------------------------------------End--
+{Braska} 
+Do what you should, as you wish,
+and try your best.
+--------------------------------------------------End--
+{Braska} 
+Then, anything at all
+will surely go well.
+--------------------------------------------------End--
+{Braska} 
+Listen, {Yuna}.
+--------------------------------------------------End--
+{Braska} 
+It's {Yuna} who makes {Yuna}'s future.
+Live your life as you wish.
+--------------------------------------------------End--
+{Braska} 
+No matter what path it is.
+I, your father, will support you.
+--------------------------------------------------End--
+{Braska} 
+I, your father, will always
+...be with you.
+--------------------------------------------------End--

@@ -1,0 +1,12 @@
+
+{Font Italic} I feel like I had a dream.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic} A dream of being alone.{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic} I want anyone to be by my side...{Font Normal}
+--------------------------------------------------End--
+
+{Font Italic} It was a dream that made me feel that way...{Font Normal}
+--------------------------------------------------End--
