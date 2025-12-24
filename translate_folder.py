@@ -11,7 +11,7 @@ CACHE_FILE = "translation_cache.json"
 PROGRESS_FILE = "progress.json"
 
 DEBUG = True
-BATCH_SIZE = 5
+BATCH_SIZE = 30
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -73,31 +73,53 @@ def restore(line: str, placeholders: dict):
 
 # ================= SAFE WRAPPER =================
 def safe_batch_translate(batch):
+    """
+    Batch is a list of protected JP strings.
+    Returns list of translated EN strings in same order.
+    """
     while True:
         try:
-            return batch_translate(batch)
+            numbered_input = "\n".join(
+                f"{i+1}. {line}" for i, line in enumerate(batch)
+            )
+
+            prompt = (
+                "Translate the following Japanese lines into natural but faithful English.\n"
+                "Preserve tone, ellipses, and intent.\n"
+                "Return ONLY numbered translations matching the input numbers.\n\n"
+                f"{numbered_input}"
+            )
+
+            response = batch_translate([prompt])[0]
+
+            # Parse numbered output
+            results = {}
+            for line in response.splitlines():
+                if "." in line:
+                    num, text = line.split(".", 1)
+                    if num.strip().isdigit():
+                        results[int(num.strip())] = text.strip()
+
+            translations = [
+                results.get(i+1, batch[i]) for i in range(len(batch))
+            ]
+
+            return translations
 
         except Exception as e:
-            # Try to detect Gemini quota error heuristically
             msg = str(e)
             wait_seconds = 60
 
             if "RESOURCE_EXHAUSTED" in msg or "429" in msg:
-                # Try to extract retryDelay if present
                 if "retryDelay" in msg:
-                    try:
-                        part = msg.split("retryDelay")[1]
-                        digits = "".join(c for c in part if c.isdigit())
-                        if digits:
-                            wait_seconds = int(digits) + 1
-                    except Exception:
-                        pass
+                    digits = "".join(c for c in msg if c.isdigit())
+                    if digits:
+                        wait_seconds = int(digits) + 1
 
-                debug(f"⏳ Quota / rate-limit hit — waiting {wait_seconds}s and retrying…")
+                debug(f"⏳ Rate-limited — waiting {wait_seconds}s")
                 time.sleep(wait_seconds)
                 continue
 
-            # Unknown error → real crash
             raise
 
 # ================= MAIN LOOP =================

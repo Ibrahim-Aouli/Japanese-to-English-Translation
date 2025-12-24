@@ -1,0 +1,29 @@
+{WINDOW}
+{Tidus} 
+--------------------------------------------------End--
+{WINDOW}
+--------------------------------------------------End--
+{WINDOW}
+--------------------------------------------------End--
+{WINDOW}
+An ally!? I'm saved!
+{Yellow} [How to Use Hand Grenades]
+Among the items, there are those like {Yellow} [Hand Grenade]{White}
+that have special effects during battle.
+These items are a type of {Yellow} [Special]{White}, which are {Yellow} [Use]{White}.
+--------------------------------------------------End--
+Message 4
+--------------------------------------------------End--
+Message 5
+--------------------------------------------------End--
+Message 6
+--------------------------------------------------End--
+Message 7
+--------------------------------------------------End--
+Message 8
+--------------------------------------------------End--
+Message 9
+--------------------------------------------------End--
+Message 10
+--------------------------------------------------End--
+It can only be used during battle using an Ability.
