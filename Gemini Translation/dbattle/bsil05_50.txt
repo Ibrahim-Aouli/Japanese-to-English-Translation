@@ -1,0 +1,51 @@
+{Tidus} 
+The one flying is...
+That's {Wakka}'s [40+48?], right?
+--------------------------------------------------End--
+{Wakka} 
+Well, you're not wrong, but...
+--------------------------------------------------End--
+{Wakka} 
+Since we're here! To the Summoner,
+Let's have them show us something impressive!
+--------------------------------------------------End--
+{Wakka} 
+It's their first real battle.
+Go for it!
+--------------------------------------------------End--
+{Lulu} 
+Show us the results of your training, please.
+Do your best!
+--------------------------------------------------End--
+{Yuna} 
+Yes!
+--------------------------------------------------End--
+{Tidus} 
+Whoa...
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [About Switching During Battle]
+--------------------------------------------------End--
+{WINDOW}
+{White} By pressing {u0B:20} during battle,
+you can switch with characters who are not participating.
+Characters who switch in to battle can act immediately.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [About Summoning]
+--------------------------------------------------End--
+{WINDOW}
+{White} By using the {Yellow} [Summon] {White} command during battle,
+you can summon summoned beasts that lend power to {Yuna} into battle.
+The [Summon] command is a special ability that only {Yuna} possesses.
+It can be used anytime.
+--------------------------------------------------End--
+{WINDOW}
+Summoned beasts lose HP when they take damage.
+If HP reaches 0, it will disappear from battle.
+For a while, you will not be able to [40+49?] out.
+A Summon's HP recovers at a Save Sphere.
+--------------------------------------------------End--
+Test
+Test message
+--------------------------------------------------End--

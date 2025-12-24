@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow} [MALBORO]
+--------------------------------------------------End--
+{WINDOW}
+{White} Be careful of 'Bad Breath', which simultaneously causes 'Poison', 'Darkness', 'Silence', 'Confusion', 'Slow'.
+Be careful of 'Bad Breath', which simultaneously causes 'Poison', 'Darkness', 'Silence', 'Confusion', 'Slow'.
+When it takes a certain amount[40+48?] of damage, it will exhale 'Foul Breath', so...
+So we can defeat it before then, a strategy to make the enemy's actions [40+49?].
+[40+50?]ing, or equip armor that prevents status ailments.
+--------------------------------------------------End--

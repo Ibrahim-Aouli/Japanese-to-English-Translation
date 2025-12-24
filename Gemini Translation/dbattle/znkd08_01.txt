@@ -1,0 +1,15 @@
+{WINDOW}
+{Yellow} About Overdrive
+--------------------------------------------------End--
+{WINDOW}
+{White} The {Yellow} Overdrive Gauge {White} below the HP/MP display
+Characters whose gauge is full have their own unique special move,
+can use {Yellow} Overdrive {White} once, whenever they like.
+Please press {Direcional Left} in the command window.
+--------------------------------------------------End--
+{Auron} 
+I'll take care of them all at once.
+--------------------------------------------------End--
+{Tidus} 
+Running wild as you please!
+--------------------------------------------------End--

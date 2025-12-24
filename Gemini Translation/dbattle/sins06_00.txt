@@ -1,0 +1,71 @@
+{WINDOW}
+The {Ju-Pagoda} on the left stopped moving!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the right stopped moving!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the left started moving!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the right started moving!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the left is gathering power!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the right is gathering power!
+--------------------------------------------------End--
+{WINDOW}
+Both {Ju-Pagoda} stopped moving!
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+Break state was cancelled.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+I definitely won't lose!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+I won't lose to you anymore!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+(Talking Voice 3)
+--------------------------------------------------End--
+{WINDOW}
+
+My voice won't reach anymore...
+--------------------------------------------------End--
+{WINDOW}
+Jecht is surprised by {Tidus}'s voice!
+--------------------------------------------------End--
+{WINDOW}
+Jecht is confused!
+--------------------------------------------------End--
+{WINDOW}
+Jecht is hesitating!
+--------------------------------------------------End--
+{WINDOW}
+Jecht Overdrive!
+--------------------------------------------------End--
+{WINDOW}
+There is no 反[40+48?]...
+--------------------------------------------------End--
+{WINDOW}
+Jecht's power decreased.
+--------------------------------------------------End--
+{WINDOW}
+My voice won't reach anymore...
+--------------------------------------------------End--
+2
+--------------------------------------------------End--
+3
+--------------------------------------------------End--

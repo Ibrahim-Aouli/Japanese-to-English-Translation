@@ -1,0 +1,28 @@
+Silence Ball
+--------------------------------------------------End--
+Darkness Ball
+--------------------------------------------------End--
+Sleep Ball
+--------------------------------------------------End--
+The crane seems to have reacted a little[40+48?].
+--------------------------------------------------End--
+{Tidus} 
+We might be able to use this crane!
+--------------------------------------------------End--
+{Tidus} 
+Come on, move!
+--------------------------------------------------End--
+{Lulu} 
+Isn't the power off?
+--------------------------------------------------End--
+{Tidus} 
+Oh! {Lulu} It's lightning magic!
+If we run electricity through it, it might move!
+--------------------------------------------------End--
+{Tidus} 
+Is the power off?
+--------------------------------------------------End--
+{Tidus} 
+Power... that means...
+That's it! Lightning magic!
+--------------------------------------------------End--

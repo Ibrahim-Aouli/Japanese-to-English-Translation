@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow} [BASILISK]
+--------------------------------------------------End--
+{WINDOW}
+{White} You should equip armor to prevent 'Petrify' from its 'Gaze Attack'.
+Summoned beasts prevent status ailments like 'Petrify,' so...
+You may leave the battle to your summoned creatures.
+--------------------------------------------------End--

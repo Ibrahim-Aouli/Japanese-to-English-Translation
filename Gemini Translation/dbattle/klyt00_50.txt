@@ -1,0 +1,28 @@
+{Lulu} 
+I can't. I'll defeat that with magic.
+--------------------------------------------------End--
+{Wakka} 
+Ugh! Even if I hit it,
+it won't work, huh!?
+--------------------------------------------------End--
+{Lulu} 
+{Kimahri} ！
+How about trying 'Dragon Sword'?
+--------------------------------------------------End--
+{Tidus} 
+What's 'Dragon Sword'?
+--------------------------------------------------End--
+{Lulu} 
+Normally, it weakens enemies
+and restores yourself.
+--------------------------------------------------End--
+{Lulu} 
+But if a Ronzo uses it, a monster's skill
+can sometimes be made their own.
+--------------------------------------------------End--
+{Tidus} 
+Oh, that sounds great!
+--------------------------------------------------End--
+{Lulu} 
+！
+--------------------------------------------------End--

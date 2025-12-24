@@ -1,0 +1,8 @@
+{WINDOW}
+`{Yellow} [Ashura]`
+--------------------------------------------------End--
+{WINDOW}
+{White} When it takes damage to a certain [40+48?] degree, it becomes powerful against attacks.
+`'Sleep Buster' and 'Blind Buster' are effective.`
+`__P0__ [Ghost]`
+--------------------------------------------------End--

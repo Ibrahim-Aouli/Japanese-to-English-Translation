@@ -21,7 +21,7 @@
 {WINDOW}
 このイフリートはHPも攻撃力も高いので
 ふつうに戦っていては負けてしまいます
-招喚獣のコマンド{Yellow} 【まもる】{White} と{Yellow} 【ためる】{White} を
+招喚獣のコマンド{Yellow} Guard{White} と{Yellow} Charge{White} を
 利用して戦いましょう
 --------------------------------------------------End--
 {WINDOW}

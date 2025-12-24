@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow} [Chimera]
+--------------------------------------------------End--
+{WINDOW}
+{White} has high HP, so it will be a long battle.
+With 'Power Break' and 'Magic Break'
+a strategy to reduce ally damage is effective.
+With Kimari's 'Dragon Sword', the enemy's 'Aqua Breath' technique.
+can be obtained.
+--------------------------------------------------End--

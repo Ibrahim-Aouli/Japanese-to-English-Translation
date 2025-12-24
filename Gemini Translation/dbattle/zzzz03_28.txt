@@ -1,0 +1,8 @@
+{WINDOW}
+{Yellow} [CACTUAR]
+--------------------------------------------------End--
+{WINDOW}
+{White} When its HP gets low, it immediately tries to escape.
+'Sleep' is not effective, so by a different method,
+a strategy to deprive it of its chance to escape is effective.
+--------------------------------------------------End--

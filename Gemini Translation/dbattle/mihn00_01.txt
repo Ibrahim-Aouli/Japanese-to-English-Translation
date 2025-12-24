@@ -1,0 +1,22 @@
+{Auron} 
+Don't be stubborn.
+Leave it to me.
+--------------------------------------------------End--
+{Lulu} 
+Leave it to {Auron}.
+--------------------------------------------------End--
+{Wakka} 
+A tough one like that...
+Let's ask {Auron}!
+--------------------------------------------------End--
+{Auron} 
+Magic won't work on it.
+--------------------------------------------------End--
+{Wakka} 
+Don't do that.
+It's a waste of magic.
+--------------------------------------------------End--
+{Lulu} 
+This monster, magic...
+...doesn't seem very effective.
+--------------------------------------------------End--

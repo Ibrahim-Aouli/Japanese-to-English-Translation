@@ -1,0 +1,119 @@
+{Wakka} 
+A slightly troublesome one...
+...has appeared.
+--------------------------------------------------End--
+{Tidus} 
+Heh! That's nothing!
+--------------------------------------------------End--
+{Wakka} 
+See? That one should be defeated
+with magic.
+--------------------------------------------------End--
+{Wakka} 
+Monsters that can't be hurt by physical attacks
+should be defeated with magic of their weak attribute.
+--------------------------------------------------End--
+{Tidus} 
+Magic? Attributes?
+--------------------------------------------------End--
+{Wakka} 
+Well then, shall the Black Mage
+show us an example?
+--------------------------------------------------End--
+{Wakka} 
+Lou! Please!
+--------------------------------------------------End--
+{Lulu} 
+You don't know anything at all, do you...
+I'm worried about what lies ahead.
+--------------------------------------------------End--
+{Lulu} 
+An attribute is...
+...the nature of magic and monsters.
+--------------------------------------------------End--
+{Lulu} 
+Fire and Ice, Lightning and Water...
+There are 4 types in total.
+--------------------------------------------------End--
+{Lulu} 
+Among these, Fire attribute and Ice attribute...
+...are in opposition.
+--------------------------------------------------End--
+{Lulu} 
+For Fire attribute monsters,
+Ice-attribute magic is effective...
+--------------------------------------------------End--
+{Lulu} 
+Conversely, Ice-attribute enemies...
+...Fire-attribute magic is their weakness.
+--------------------------------------------------End--
+{Lulu} 
+Fire and Ice... these two attributes have...
+...a [40+50?] and opposing relationship.
+--------------------------------------------------End--
+{Lulu} 
+Understood?
+--------------------------------------------------End--
+{Lulu} 
+There are four types of attributes.
+Fire and Ice, Thunder and Water.
+--------------------------------------------------End--
+{Lulu} 
+Fire-attribute monsters' weakness is Ice.
+Ice-attribute monsters' weakness is Fire.
+--------------------------------------------------End--
+{Lulu} 
+You should understand by now, right?
+--------------------------------------------------End--
+{Tidus} 
+Fire and Ice are fine, but...
+What about Thunder and Water?
+--------------------------------------------------End--
+{Lulu} 
+The relationship between Thunder and Water attributes is also...
+...the same as Fire and Ice.
+--------------------------------------------------End--
+{Lulu} 
+That one is a Water-attribute monster, so...
+Its weakness is... you understand, right?
+--------------------------------------------------End--
+{Lulu} 
+If you attack a Water-attribute monster with Thunder-attribute magic...
+...it's a one-hit kill.
+--------------------------------------------------End--
+{Lulu} 
+That was a good example.
+--------------------------------------------------End--
+{Lulu} 
+He's water attribute, so
+Fire and ice won't be very effective.
+--------------------------------------------------End--
+{Wakka} 
+Whoa, whoa, whoa!?
+What are you doing healing the enemy!?
+--------------------------------------------------End--
+{Lulu} 
+If you choose the wrong attribute,
+This kind of thing happens too.
+--------------------------------------------------End--
+{Wakka} 
+That's enough, Lou.
+--------------------------------------------------End--
+{Wakka} 
+Let's defeat it cleanly.
+--------------------------------------------------End--
+{Wakka} 
+What are you {40+51.40+52.} doing?
+--------------------------------------------------End--
+{Wakka} 
+This is frustrating.
+It's Thunder for him, isn't it?
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [About Attributes]
+--------------------------------------------------End--
+{WINDOW}
+{White} The nature [40+48?] of magic and monsters is called {Yellow} [Attribute] {White}.
+There are four types of attributes in this world: Fire, Ice, Lightning, and Water.
+Among these, Fire and Ice, and Lightning and Water are opposing [40+49?].
+--------------------------------------------------End--

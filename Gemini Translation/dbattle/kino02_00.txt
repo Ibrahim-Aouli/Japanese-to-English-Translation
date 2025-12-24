@@ -1,0 +1,45 @@
+{WINDOW}
+{Tidus} 
+That arm is a nuisance!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Stopped my shot!?
+You've got good skill!
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+So the arm's [40+48?] eye is for defense.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Leave that spot to me!
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+I'll strike the head with magic!
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+Don't attack...
+Attack the head and stop it!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Something looks dangerous!
+Let's hit the head!
+--------------------------------------------------End--
+Message 7
+--------------------------------------------------End--
+{WINDOW}
+The arm regenerated!
+--------------------------------------------------End--
+{WINDOW}
+The head is making suspicious movements!
+--------------------------------------------------End--
+{WINDOW}
+The suspicious movements stopped!
+--------------------------------------------------End--
+{WINDOW}
+The head stopped moving.
+--------------------------------------------------End--

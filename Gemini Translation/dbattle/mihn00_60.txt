@@ -1,0 +1,39 @@
+Belgemine
+Summon Valefor.
+--------------------------------------------------End--
+Belgemine
+How much you've connected with your summoned beast.
+Let me see.
+--------------------------------------------------End--
+Belgemine
+It's the final [40+48?], isn't it?
+--------------------------------------------------End--
+Belgemine
+That's enough. That will do.
+--------------------------------------------------End--
+{WINDOW}
+A summoned beast's parameters are the summoner's...
+...improve along with their growth.
+Even if it's the same Ifrit,
+...depending on the ability of the summoner who [40+49?] summons them,
+Their true power differs.
+--------------------------------------------------End--
+{WINDOW}
+This Ifrit has high HP and attack power, so...
+You will lose if you fight normally.
+The summoned beast's commands {Yellow} Guard{White} and {Yellow} Charge{White}...
+Let's fight by using them.
+--------------------------------------------------End--
+{WINDOW}
+If you choose "Guard," the Overdrive Gauge...
+...won't increase, but the damage you take will decrease.
+If you choose "Charge," the damage you take will increase, but...
+...the gauge will become easier to fill.
+--------------------------------------------------End--
+{WINDOW}
+When the enemy seems likely to use a high-damage attack,
+"Guard" is effective.
+This Ifrit has "Fight" and "Meteor Strike"...
+It will repeat sequentially. Next, 'Meteor Strike'...
+Since it will unleash it, let's defend with 'Guard'.
+--------------------------------------------------End--

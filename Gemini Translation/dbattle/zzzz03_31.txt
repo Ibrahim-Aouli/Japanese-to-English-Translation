@@ -1,0 +1,7 @@
+{WINDOW}
+`{Yellow} When the battle begins, it will cast 'Death Sentence'.`
+--------------------------------------------------End--
+{WINDOW}
+{White} When the battle starts, it casts “Doom.”
+`'Magic Break' and 'Silence Buster' are effective.`
+--------------------------------------------------End--

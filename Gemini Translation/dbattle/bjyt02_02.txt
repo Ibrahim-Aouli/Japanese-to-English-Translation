@@ -1,0 +1,69 @@
+Message 0
+--------------------------------------------------End--
+{WINDOW}
+Copied {Tidus}'s status!
+--------------------------------------------------End--
+{WINDOW}
+Copied {Wakka}'s status!
+--------------------------------------------------End--
+{WINDOW}
+Copied {Rikku}'s status!
+--------------------------------------------------End--
+{WINDOW}
+{WINDOW}
+Geosgeino became {Red} Zombie {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Poison {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Power Break {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Magic Break {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Armor Break {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Mental Break {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Sleep {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Silence {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became {Red} Darkness {White} state.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino received {Yellow} Shell {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino received {Yellow} Protect {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino received {Yellow} Reflect {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino received {Yellow} Barwater {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino received {Yellow} Barfire {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino received {Yellow} Barthunder {White}.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino received {Yellow} Barcold {White}.
+--------------------------------------------------End--
+{WINDOW}
+Regen was applied to Geosgeino.
+--------------------------------------------------End--
+{WINDOW}
+Haste was applied to Geosgeino.
+--------------------------------------------------End--
+{WINDOW}
+Geosgeino became Slowed.
+--------------------------------------------------End--

@@ -1,0 +1,29 @@
+{WINDOW}
+{Tidus} 
+An ally!? That helps!
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [How to Use Grenades]
+--------------------------------------------------End--
+{WINDOW}
+Among items, there are those like {Yellow} [Hand Grenade]{White}.
+They have special effects during battle.
+--------------------------------------------------End--
+{WINDOW}
+These items are the {Yellow} [Use]{White} ability, a type of {Yellow} [Special]{White}.
+They can only be used during battle with this ability.
+--------------------------------------------------End--
+Message 4
+--------------------------------------------------End--
+Message 5
+--------------------------------------------------End--
+Message 6
+--------------------------------------------------End--
+Message 7
+--------------------------------------------------End--
+Message 8
+--------------------------------------------------End--
+Message 9
+--------------------------------------------------End--
+Message 10
+--------------------------------------------------End--

@@ -1,0 +1,54 @@
+Message 0
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+I see.
+Do you also want death's rest?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Stop rambling, you're noisy!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+I'd like to say, "Welcome back," but...
+It seems you don't intend to come with me.
+--------------------------------------------------End--
+{WINDOW}
+Yuna
+You alone will go.
+We [40+48?] to the Otherworld!
+--------------------------------------------------End--
+{WINDOW}
+Aaron.
+The Kinock you killed like vermin...
+(This line is a continuation of 9. No separate translation needed if combined.)
+--------------------------------------------------End--
+{WINDOW}
+Aaron.
+Even he was a [40+49?] from the past, you know.
+I will take my revenge.
+--------------------------------------------------End--
+Message 7
+--------------------------------------------------End--
+Message 8
+--------------------------------------------------End--
+{WINDOW}
+Seymour is silent!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+Vanish!
+--------------------------------------------------End--
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}'s {Yellow} Attack Power {White} Up!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}'s {Yellow} Magic Defense {White} Up!
+--------------------------------------------------End--
+{WINDOW}
+{Auron}'s {Yellow} Attack Power {White} Up!
+--------------------------------------------------End--

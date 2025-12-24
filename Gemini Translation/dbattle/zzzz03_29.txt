@@ -1,0 +1,7 @@
+{WINDOW}
+{Yellow} [ZOO]
+--------------------------------------------------End--
+{WINDOW}
+{White} With 'Blind Buster', it can reliably be inflicted with 'Darkness'.
+If it falls to the ground after taking a certain amount of damage, it can be easily defeated.
+--------------------------------------------------End--

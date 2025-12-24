@@ -1,0 +1,9 @@
+{WINDOW}
+{Yellow} [FUNGONGO]
+--------------------------------------------------End--
+{WINDOW}
+{White} 's Fire isn't that strong, but if you attack it...
+...it will counterattack with 'Flower[40+48?],' which has a 'Sleep' effect.
+To prevent 'Flower[40+48?]', 'Sleep Attack' is effective.
+Since it is a plant, it is weak to Fire-element weapons and magic.
+--------------------------------------------------End--

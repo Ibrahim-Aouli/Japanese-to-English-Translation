@@ -1,0 +1,7 @@
+{WINDOW}
+Coerl
+--------------------------------------------------End--
+{WINDOW}
+{White} It uses many magic attacks, so 'Silence Buster' or
+attack with weapons that have 'Silence' as an additional effect.
+--------------------------------------------------End--

@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow} [Iron Giant]
+--------------------------------------------------End--
+{WINDOW}
+{White} Sometimes, 'Nagi[40+48?]i' deals great damage to all allies.
+so before that, inflict 'Darkness' status with 'Blind Buster'.
+(Combined with line 13)
+Since 'Sleep Attack' rarely works,
+if it falls into 'Sleep' status, attack with magic.
+--------------------------------------------------End--

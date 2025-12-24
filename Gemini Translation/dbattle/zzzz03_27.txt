@@ -1,0 +1,7 @@
+{WINDOW}
+{Yellow} [Kooshpos]
+--------------------------------------------------End--
+{WINDOW}
+{White} Since its attack power is high, 'Power Break' is effective.
+You can reliably inflict 'Darkness' status with 'Blind Buster'.
+--------------------------------------------------End--

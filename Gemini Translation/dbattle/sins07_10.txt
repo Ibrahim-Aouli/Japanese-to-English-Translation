@@ -1,0 +1,33 @@
+{WINDOW}
+The {Ju-Pagoda} on the left stopped moving!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the right stopped moving!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the left started moving!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the right started moving!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the left is gathering power!
+--------------------------------------------------End--
+{WINDOW}
+The {Ju-Pagoda} on the right is gathering power!
+--------------------------------------------------End--
+{WINDOW}
+Both {Ju-Pagoda} stopped moving!
+--------------------------------------------------End--
+{WINDOW}
+{Ebon-Ju} appeared!
+--------------------------------------------------End--
+{WINDOW}
+{Ebon-Ju} is searching for summoned beasts.
+--------------------------------------------------End--
+{WINDOW}
+{Ebon-Ju} is trying to escape.
+--------------------------------------------------End--
+{WINDOW}
+{Ebon-Ju} can do nothing.
+--------------------------------------------------End--

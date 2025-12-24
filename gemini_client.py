@@ -1,14 +1,20 @@
 import os
 import time
+import random
+import re
 from google import genai
 from google.genai.errors import ClientError
 
-MODEL = "models/gemini-flash-latest"
-BASE_SLEEP = 2
+# ================= CONFIG =================
+MODEL = "models/gemini-2.5-flash"
+BASE_SLEEP = 1.5
+MAX_SLEEP = 4.0
 
 PROMPT_FILE = "system_prompt.txt"
 
-# ---------- LOAD SYSTEM PROMPT ----------
+LINE_RE = re.compile(r"^\s*(\d+)[\.\)\-:]\s*(.+)$")
+
+# ================= LOAD SYSTEM PROMPT =================
 if not os.path.exists(PROMPT_FILE):
     raise FileNotFoundError(
         f"Missing {PROMPT_FILE}. Create it to define translation behavior."
@@ -20,43 +26,43 @@ with open(PROMPT_FILE, "r", encoding="utf-8") as f:
 if not SYSTEM_PROMPT:
     raise ValueError("system_prompt.txt is empty.")
 
-# ---------- GEMINI CLIENT ----------
+# ================= GEMINI CLIENT =================
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 
-def extract_retry_seconds(error: ClientError) -> int:
+# ================= UTIL =================
+def _sleep_jitter():
+    time.sleep(random.uniform(BASE_SLEEP, MAX_SLEEP))
+
+
+def _extract_retry_seconds(error: ClientError) -> int:
     try:
-        error_dict = error.error or {}
-        details = error_dict.get("details", [])
-        for d in details:
-            if isinstance(d, dict) and "retryDelay" in d:
-                delay = d["retryDelay"]
+        error_data = getattr(error, "error", {}) or {}
+        for detail in error_data.get("details", []):
+            if isinstance(detail, dict) and "retryDelay" in detail:
+                delay = detail["retryDelay"]
                 if delay.endswith("s"):
-                    return int(float(delay[:-1])) + 1
+                    return max(5, min(int(float(delay[:-1])) + 1, 300))
     except Exception:
         pass
     return 60
 
 
-def is_quota_error(error: ClientError) -> bool:
-    try:
-        return error.error.get("status") == "RESOURCE_EXHAUSTED"
-    except Exception:
-        return False
-
-
+# ================= MAIN =================
 def batch_translate(lines: list[str]) -> list[str]:
     """
     Translate a batch of lines.
-    This function NEVER raises on quota exhaustion.
-    It will wait and retry indefinitely.
+    NEVER raises on quota exhaustion.
+    Guarantees output length == input length.
     """
+    assert lines, "batch_translate called with empty list"
+
     while True:
         try:
             prompt = SYSTEM_PROMPT + "\n\nJapanese lines:\n"
             for i, line in enumerate(lines, 1):
                 prompt += f"{i}. {line}\n"
-            prompt += "\nReturn the English lines in the same numbered order."
+            prompt += "\nReturn ONLY the numbered English translations."
 
             response = client.models.generate_content(
                 model=MODEL,
@@ -64,35 +70,35 @@ def batch_translate(lines: list[str]) -> list[str]:
             )
 
             text = (response.text or "").strip()
-            results = []
 
-            for line in text.splitlines():
-                if "." in line:
-                    results.append(line.split(".", 1)[1].strip())
+            results = {}
+            for raw in text.splitlines():
+                m = LINE_RE.match(raw)
+                if m:
+                    idx = int(m.group(1))
+                    results[idx] = m.group(2).strip()
 
-            while len(results) < len(lines):
-                results.append(lines[len(results)])
+            # Build output safely
+            output = []
+            for i in range(1, len(lines) + 1):
+                if i in results and results[i]:
+                    output.append(results[i])
+                else:
+                    # Fallback: preserve original JP to avoid corruption
+                    output.append(lines[i - 1])
 
-            time.sleep(BASE_SLEEP)
-            return results
+            _sleep_jitter()
+            return output
 
         except ClientError as e:
-            # Safely inspect Gemini error payload
             error_data = getattr(e, "error", {}) or {}
             status = error_data.get("status")
 
             if status == "RESOURCE_EXHAUSTED":
-                # Try to extract retryDelay
-                retry_seconds = 60
-                for detail in error_data.get("details", []):
-                    if isinstance(detail, dict) and "retryDelay" in detail:
-                        delay = detail["retryDelay"]
-                        if delay.endswith("s"):
-                            retry_seconds = int(float(delay[:-1])) + 1
-
-                print(f"⏳ Gemini quota exhausted — waiting {retry_seconds}s and retrying…")
-                time.sleep(retry_seconds)
+                wait = _extract_retry_seconds(e)
+                print(f"⏳ Gemini quota exhausted — waiting {wait}s…")
+                time.sleep(wait)
                 continue
 
-            # Any other ClientError is real and should stop execution
+            # Any other error is real
             raise

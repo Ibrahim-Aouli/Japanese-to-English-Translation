@@ -1,0 +1,65 @@
+Message 0
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Spira's sorrow
+Don't you wish to soothe it?
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+If you surrender yourself to the power of destruction,
+You can sleep peacefully.
+--------------------------------------------------End--
+{WINDOW}
+Yuna
+You are just running away!
+--------------------------------------------------End--
+{WINDOW}
+Kimahri
+Kimahri will not forgive you!
+--------------------------------------------------End--
+{WINDOW}
+Kimahri
+With the [40+48?] imbued with Ronso anger...
+Destroy utterly!!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+…………
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Be destroyed!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Mercy[40+49?] death!
+--------------------------------------------------End--
+{WINDOW}
+Seymour is silent!
+--------------------------------------------------End--
+{WINDOW}
+Seymour
+Vanish!
+--------------------------------------------------End--
+{WINDOW}
+Nothing happens.
+--------------------------------------------------End--
+{WINDOW}
+Could not reflect.
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}'s {Yellow} Magic Defense {White} Up!
+--------------------------------------------------End--
+{WINDOW}
+{P0}'s {P1} Attack Power {P2} Up!
+--------------------------------------------------End--
+{WINDOW}
+Genkōkiki Ultimate Magic Ready.
+--------------------------------------------------End--
+{WINDOW}
+Seymour is observing.
+--------------------------------------------------End--
+{WINDOW}
+Genkōkiki Automatic Attack Mode!
+--------------------------------------------------End--

@@ -1,0 +1,14 @@
+{Rikku} 
+Oh, leave the machine to me!
+--------------------------------------------------End--
+{Rikku} 
+I'll pull out the parts,
+and quickly deal with it.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Help Form]
+--------------------------------------------------End--
+{WINDOW}
+{White} Help Sample
+Title, composition of ambiguous content
+--------------------------------------------------End--

@@ -1,0 +1,27 @@
+{Tidus} 
+Heh! Looks slow!
+--------------------------------------------------End--
+{Auron} 
+But you're that much tougher.
+You stay out of this.
+--------------------------------------------------End--
+{Tidus} 
+Don't underestimate me.
+This is just one hit!
+--------------------------------------------------End--
+{Tidus} 
+Tough!?
+--------------------------------------------------End--
+{Auron} 
+Hmph.
+--------------------------------------------------End--
+{Wakka} 
+As expected, {Auron}-san...
+Amazing!
+--------------------------------------------------End--
+{Lulu} 
+Indeed, the Dendatsu Guard.
+--------------------------------------------------End--
+{Tidus} 
+Tch. Just showing off?
+--------------------------------------------------End--

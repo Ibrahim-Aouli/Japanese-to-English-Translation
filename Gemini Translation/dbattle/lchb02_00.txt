@@ -1,0 +1,13 @@
+{WINDOW}
+{Tidus} 
+What!? What are these things!?
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+The Al Bhed tribe created[40+48?]
+Ancient machines.
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+It's fine. We can defeat them with lightning magic.
+--------------------------------------------------End--

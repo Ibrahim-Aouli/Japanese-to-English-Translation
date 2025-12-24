@@ -1,0 +1,31 @@
+{WINDOW}
+Ixion is defending.
+--------------------------------------------------End--
+{WINDOW}
+Ixion is evading.
+--------------------------------------------------End--
+Belgemine
+Choose your preferred aeon.
+--------------------------------------------------End--
+Belgemine
+How great your power is...
+Let's carefully verify it.
+--------------------------------------------------End--
+Belgemine
+Formidable...
+--------------------------------------------------End--
+Belgemine
+That's enough. That will do.
+--------------------------------------------------End--
+{WINDOW}
+This Ixion used 'Haste'.
+Please pay attention to that.
+Cannot be used by {Yuna}'s {Ixion}.
+Why can it use such magic?
+--------------------------------------------------End--
+{WINDOW}
+If you use the command {Yellow} 【Learn】{White} in the menu, for a summoned beast...
+...you can make it learn new abilities.
+For example, if you make {Valefor} learn 'Cure'...
+...you can fight while recovering HP.
+--------------------------------------------------End--

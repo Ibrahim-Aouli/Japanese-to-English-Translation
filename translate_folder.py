@@ -1,17 +1,18 @@
 import os
 import re
 import json
-import time
 from gemini_client import batch_translate
 
 # ================= CONFIG =================
 INPUT_DIR = "input_jp"
 OUTPUT_DIR = "output_en"
+
 CACHE_FILE = "translation_cache.json"
+TEMPLATE_CACHE_FILE = "template_cache.json"
 PROGRESS_FILE = "progress.json"
 
 DEBUG = True
-BATCH_SIZE = 30
+BATCH_SIZE = 20
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -21,28 +22,29 @@ PURE_TAG = re.compile(r"^\{[^}]+\}$")
 SEPARATOR = re.compile(r"^-{5,}End--$")
 INLINE_TAG = re.compile(r"\{[^}]+\}")
 MISSING_KANJI = re.compile(r"\[[^\]]+\]")
-MATH_ONLY = re.compile(r"^\d+\s*[\+\-\*/]\s*\d+$")
+MATH_ONLY = re.compile(r"^\d+\s*[\+\-\*/]\s*$")
 
-# ================= CACHE =================
-if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        CACHE = json.load(f)
-else:
-    CACHE = {}
+TAG_ANY = re.compile(r"\{[^}]+\}")
+MISS_ANY = re.compile(r"\[[^\]]+\]")
+WS_ANY = re.compile(r"\s+")
 
-# ================= PROGRESS =================
-if os.path.exists(PROGRESS_FILE):
-    with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
-        PROGRESS = json.load(f)
-else:
-    PROGRESS = {"file_index": 0}
+# ================= LOAD JSON =================
+def load_json(path, default):
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return default
+
+CACHE = load_json(CACHE_FILE, {})
+TEMPLATE_CACHE = load_json(TEMPLATE_CACHE_FILE, {})
+PROGRESS = load_json(PROGRESS_FILE, {"file_index": 0})
 
 # ================= DEBUG =================
 def debug(msg):
     if DEBUG:
         print(msg)
 
-# ================= HELPERS =================
+# ================= FILTER =================
 def should_translate(line: str) -> bool:
     if not line.strip():
         return False
@@ -54,6 +56,7 @@ def should_translate(line: str) -> bool:
         return False
     return bool(JAPANESE.search(line))
 
+# ================= PLACEHOLDERS =================
 def protect(line: str):
     placeholders = {}
 
@@ -71,66 +74,14 @@ def restore(line: str, placeholders: dict):
         line = line.replace(k, v)
     return line
 
-# ================= SAFE WRAPPER =================
-def safe_batch_translate(batch):
-    """
-    Batch is a list of protected JP strings.
-    Returns list of translated EN strings in same order.
-    """
-    while True:
-        try:
-            numbered_input = "\n".join(
-                f"{i+1}. {line}" for i, line in enumerate(batch)
-            )
-
-            prompt = (
-                "Translate the following Japanese lines into natural but faithful English.\n"
-                "Preserve tone, ellipses, and intent.\n"
-                "Return ONLY numbered translations matching the input numbers.\n\n"
-                f"{numbered_input}"
-            )
-
-            response = batch_translate([prompt])[0]
-
-            # Parse numbered output
-            results = {}
-            for line in response.splitlines():
-                if "." in line:
-                    num, text = line.split(".", 1)
-                    if num.strip().isdigit():
-                        results[int(num.strip())] = text.strip()
-
-            translations = [
-                results.get(i+1, batch[i]) for i in range(len(batch))
-            ]
-
-            return translations
-
-        except Exception as e:
-            msg = str(e)
-            wait_seconds = 60
-
-            if "RESOURCE_EXHAUSTED" in msg or "429" in msg:
-                if "retryDelay" in msg:
-                    digits = "".join(c for c in msg if c.isdigit())
-                    if digits:
-                        wait_seconds = int(digits) + 1
-
-                debug(f"⏳ Rate-limited — waiting {wait_seconds}s")
-                time.sleep(wait_seconds)
-                continue
-
-            raise
-
-# ================= MAIN LOOP =================
-files = sorted([f for f in os.listdir(INPUT_DIR) if f.endswith(".txt")])
+# ================= MAIN =================
+files = sorted(f for f in os.listdir(INPUT_DIR) if f.endswith(".txt"))
 total_files = len(files)
-
 start_index = PROGRESS.get("file_index", 0)
 
 for file_idx in range(start_index, total_files):
     fname = files[file_idx]
-    debug(f"\n📄 Processing file {file_idx+1}/{total_files}: {fname}")
+    debug(f"\n📄 Processing {file_idx + 1}/{total_files}: {fname}")
 
     in_path = os.path.join(INPUT_DIR, fname)
     out_path = os.path.join(OUTPUT_DIR, fname)
@@ -138,47 +89,46 @@ for file_idx in range(start_index, total_files):
     with open(in_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    out_lines = []
+    out_lines = list(lines)  # <-- preserve structure
     batch = []
     batch_meta = []
 
-    for idx, line in enumerate(lines, start=1):
+    for ln, line in enumerate(lines):
         stripped = line.strip()
 
         if stripped in CACHE:
-            out_lines.append(CACHE[stripped] + "\n")
+            out_lines[ln] = CACHE[stripped] + "\n"
             continue
 
         if not should_translate(stripped):
-            out_lines.append(line)
             continue
 
         safe, placeholders = protect(stripped)
         batch.append(safe)
-        batch_meta.append((idx, stripped, placeholders))
+        batch_meta.append((ln, stripped, placeholders))
 
         if len(batch) == BATCH_SIZE:
-            translations = safe_batch_translate(batch)
+            translations = batch_translate(batch)
 
-            for (ln, original, ph), translated in zip(batch_meta, translations):
-                restored = restore(translated, ph)
-                CACHE[original] = restored
-                out_lines.append(restored + "\n")
-                debug(f"  [L{ln}] 🤖 {original} → {restored}")
+            for (idx, orig, ph), trans in zip(batch_meta, translations):
+                restored = restore(trans, ph)
+                CACHE[orig] = restored
+                out_lines[idx] = restored + "\n"
+                debug(f"  [L{idx+1}] 🤖 {orig} → {restored}")
 
             batch.clear()
             batch_meta.clear()
 
     # Flush remainder
     if batch:
-        translations = safe_batch_translate(batch)
-        for (ln, original, ph), translated in zip(batch_meta, translations):
-            restored = restore(translated, ph)
-            CACHE[original] = restored
-            out_lines.append(restored + "\n")
-            debug(f"  [L{ln}] 🤖 {original} → {restored}")
+        translations = batch_translate(batch)
+        for (idx, orig, ph), trans in zip(batch_meta, translations):
+            restored = restore(trans, ph)
+            CACHE[orig] = restored
+            out_lines[idx] = restored + "\n"
+            debug(f"  [L{idx+1}] 🤖 {orig} → {restored}")
 
-    # Write outputs
+    # Write output
     with open(out_path, "w", encoding="utf-8") as f:
         f.writelines(out_lines)
 
@@ -189,6 +139,6 @@ for file_idx in range(start_index, total_files):
     with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
         json.dump(PROGRESS, f, indent=2)
 
-    debug(f"✅ Finished file {file_idx+1}/{total_files}")
+    debug(f"✅ Finished {fname}")
 
-print("\n🔥 All files processed (or safely paused).")
+print("\n🔥 All files processed (layout preserved).")

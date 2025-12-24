@@ -1,0 +1,13 @@
+{WINDOW}
+{Yellow} [Bomb]
+--------------------------------------------------End--
+{WINDOW}
+{White} It swells up each time it takes damage.
+After taking damage 3 times, it 'self-destructs', and the attacker
+takes heavy damage.
+--------------------------------------------------End--
+{WINDOW}
+{White} You want to defeat it within 3 attacks, but if you can't,
+use 'Bafire' to prevent the 'self-destruct' fire damage.
+It's weak to ice, so 'Blizzard' is effective.
+--------------------------------------------------End--

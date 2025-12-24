@@ -1,0 +1,27 @@
+{Wakka} 
+The big one is reappearing again?
+--------------------------------------------------End--
+{Lulu} 
+Be careful!
+{Yuna} can't be summoned for a while!
+--------------------------------------------------End--
+{Yuna} 
+Sorry!
+Still can't summon!
+--------------------------------------------------End--
+{Wakka} 
+Alright!
+Now it's my turn to deal with [40+48?].
+--------------------------------------------------End--
+{Wakka} 
+I'll use my technique to make it 'Darkness'!
+--------------------------------------------------End--
+{Tidus} 
+This one again?!
+--------------------------------------------------End--
+{Yuna} 
+What should I do... I still can't summon!
+--------------------------------------------------End--
+{Lulu} 
+{Wakka}, it's your turn!
+--------------------------------------------------End--

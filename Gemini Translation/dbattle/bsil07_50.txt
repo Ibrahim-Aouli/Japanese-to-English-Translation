@@ -1,0 +1,20 @@
+{Wakka} 
+So you've appeared...
+--------------------------------------------------End--
+{Wakka} 
+A good training dummy.
+Try out that sword.
+--------------------------------------------------End--
+{Tidus} 
+It's an easy win, isn't it?
+--------------------------------------------------End--
+{Wakka} 
+Oh! You're good.
+I'll keep up with that guy's speed!
+--------------------------------------------------End--
+{Wakka} 
+You could become a guard!
+--------------------------------------------------End--
+{Wakka} 
+Leave the flying ones to me.
+--------------------------------------------------End--

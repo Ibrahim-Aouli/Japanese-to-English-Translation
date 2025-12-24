@@ -1,0 +1,34 @@
+{Tidus} 
+How many are coming out?!
+--------------------------------------------------End--
+{Wakka} 
+It's the dorsal fin! Of {Sin}
+Attack the dorsal fin!
+--------------------------------------------------End--
+{Lulu} 
+The dorsal fin! We have to cut off the source!
+--------------------------------------------------End--
+{Tidus} 
+Ah! Is destroying the dorsal fin first?!
+--------------------------------------------------End--
+{Yuna} 
+This is endless...
+--------------------------------------------------End--
+{Wakka} 
+How many are coming out?!
+--------------------------------------------------End--
+{Yuna} 
+We must stop the dorsal fin first!
+--------------------------------------------------End--
+Monsters will appear endlessly.
+Please attack the dorsal fin.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Distance from enemy]
+--------------------------------------------------End--
+{WINDOW}
+For enemies far away, like the dorsal fin of {White}『{Sin}』,
+Attacks like swords will not reach.
+Enemies like these, with magic or {Wakka}'s ball (fight),
+You can attack them.
+--------------------------------------------------End--

@@ -1,0 +1,136 @@
+{WINDOW}
+{Yellow} [Bomb]
+--------------------------------------------------End--
+{WINDOW}
+{White} swells up with each attack.
+If attacked 3 times, it self-destructs, and the attacker...
+takes heavy damage.
+You'll want to defeat it within 3 attacks, but if you can't...
+use 'Bafire' to prevent the 'self-destruct' fire damage.
+It's weak to ice, so 'Blizzard' is effective.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [DUAL HORN]
+--------------------------------------------------End--
+{WINDOW}
+{White} has high HP, so it will be a long battle.
+Since its attack power is high, use 'Blind Attack' to...
+...inflict 'Blind' status.
+'Sleep Attack' is also effective, but when it is in 'Sleep' status...
+...unless you attack with magic, it will wake up immediately.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [VULTURE]
+--------------------------------------------------End--
+{WINDOW}
+{White} has high attack power, so use 'Blind Attack' to...
+...inflict 'Blind' status.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [FUNGONGO]
+--------------------------------------------------End--
+{WINDOW}
+{White} 's Fire isn't that strong, but if you attack it...
+...it will counterattack with 'Flower[40+48?],' which has a 'Sleep' effect.
+To prevent 'Flower[40+48?]', 'Sleep Attack' is effective.
+Since it is a plant, it is weak to Fire-element weapons and magic.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [BASILISK]
+--------------------------------------------------End--
+{WINDOW}
+{White} You should equip armor to prevent 'Petrify' from its 'Gaze Attack'.
+Summoned beasts prevent status ailments like 'Petrify,' so...
+You may leave the battle to your summoned creatures.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Ochu]
+--------------------------------------------------End--
+{WINDOW}
+{White} You'll want to equip armor that prevents status ailments such as 'Darkness' from 'Ochu Dance' and 'Poison' from 'Poison Claw'.
+(Combined with line 3)
+Since its HP is high, attack it with Fire-elemental weapons or magic, which are weaknesses for plants,
+or put it to sleep with 'Sleep Attack'.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Larva]
+--------------------------------------------------End--
+{WINDOW}
+{White} When its HP is halved, it casts 'Thundara' on itself to recover
+and also raises its magic power, so before that,
+inflict 'Silence' status with 'Silence Attack'.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Iron Giant]
+--------------------------------------------------End--
+{WINDOW}
+{White} It sometimes deals heavy damage to all allies with 'Nagi[40+49?]i',
+so before that, inflict 'Darkness' status with 'Blind Buster'.
+(Combined with line 13)
+Since 'Sleep Attack' rarely works,
+if it falls into 'Sleep' status, attack with magic.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Kooshpos]
+--------------------------------------------------End--
+{WINDOW}
+{White} Since its attack power is high, 'Power Break' is effective.
+You can reliably inflict 'Darkness' status with 'Blind Buster'.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Chimera]
+--------------------------------------------------End--
+{WINDOW}
+{White} has high HP, so it will be a long battle.
+With 'Power Break' and 'Magic Break'
+a strategy to reduce ally damage is effective.
+{Kimahri} With 'Dragon Sword', the enemy's skill 'Aqua Breath'
+can be obtained.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [ZOO]
+--------------------------------------------------End--
+{WINDOW}
+{White} With 'Blind Buster', it can reliably be inflicted with 'Darkness'.
+If it falls to the ground after taking a certain amount of damage, it can be easily defeated.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [CACTUAR]
+--------------------------------------------------End--
+{WINDOW}
+{White} When its HP gets low, it immediately tries to escape.
+'Sleep' is not effective, so by a different method,
+a strategy to deprive it of its chance to escape is effective.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [COEURL]
+--------------------------------------------------End--
+{WINDOW}
+{White} It uses many magic attacks, so 'Silence Buster' or
+attack with weapons that have 'Silence' as an additional effect.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [MALBORO]
+--------------------------------------------------End--
+{WINDOW}
+{White} Be careful of 'Bad Breath', which simultaneously causes 'Poison', 'Darkness', 'Silence', 'Confusion', 'Slow'.
+Be careful of 'Bad Breath', which simultaneously causes 'Poison', 'Darkness', 'Silence', 'Confusion', 'Slow'.
+Once it takes a certain[40+50?]amount of damage, it uses 'Bad Breath', so
+either 40+52. a strategy to make the enemy's actions 40+51. so it can be defeated before that,
+or equip armor that prevents status ailments.
+--------------------------------------------------End--
+{WINDOW}
+`{Yellow} [Ashura]`
+--------------------------------------------------End--
+{WINDOW}
+`{White} Once it takes a certain amount of damage, [40+50?] it will launch a powerful counterattack against attacks, but if attacked with magic, it will not counterattack.`
+`'Sleep Buster' and 'Blind Buster' are effective.`
+`__P0__ [Ghost]`
+--------------------------------------------------End--
+{WINDOW}
+`{Yellow} When the battle begins, it will cast 'Death Sentence'.`
+--------------------------------------------------End--
+{WINDOW}
+`'Magic Break' and 'Silence Buster' are effective.`
+『マジックブレイク』や『サイレスバスター』が有効
+--------------------------------------------------End--

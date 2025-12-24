@@ -1,0 +1,38 @@
+
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+Are you trying to throw me off the cliff...?
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+What do we do? A cliff is behind us!?
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+This is bad! There's a cliff behind us!
+--------------------------------------------------End--
+{WINDOW}
+{Auron} 
+Now!
+Attack vigorously and push them back!
+--------------------------------------------------End--
+{WINDOW}
+{Lulu} 
+Attack while we have the chance
+Push them back!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Gang up on them while we can!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Finish them off now!
+--------------------------------------------------End--
+Message 8
+--------------------------------------------------End--
+Message 9
+--------------------------------------------------End--
+Message 10
+--------------------------------------------------End--

@@ -1,0 +1,16 @@
+Belgemine
+Choose your preferred aeon.
+--------------------------------------------------End--
+Belgemine
+Formidable...
+--------------------------------------------------End--
+Belgemine
+That's enough. That will do.
+--------------------------------------------------End--
+{WINDOW}
+If you use the menu command {Yellow} [Develop]{White},
+you can raise your Summoned Beast's parameters.
+You can strengthen the HP of a {Shiva} weak to physical attacks,
+or increase {Bahamut}'s speed, for example.
+You can compensate for your Summoned Beast's [40+50?] points and extend its strong points.
+--------------------------------------------------End--

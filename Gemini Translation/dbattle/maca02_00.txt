@@ -1,0 +1,39 @@
+{WINDOW}
+Magic Beam in 5 turns.
+--------------------------------------------------End--
+{WINDOW}
+Magic Beam in 4 turns.
+--------------------------------------------------End--
+{WINDOW}
+Magic Beam in 3 turns.
+--------------------------------------------------End--
+{WINDOW}
+Magic Beam in 2 turns.
+--------------------------------------------------End--
+{WINDOW}
+Magic Beam in 1 turn.
+--------------------------------------------------End--
+{WINDOW}
+The Magic Beam misfired.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Can't use the other magic either...?
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+The other magic is sealed too, then?
+Machines are foolish.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Albedo Sealer]{White}
+seals magic and summoning!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Lou! We can use magic now!
+--------------------------------------------------End--
+{WINDOW}
+{Rikku} 
+{Yuna} Now we can use both magic and summoning!
+--------------------------------------------------End--

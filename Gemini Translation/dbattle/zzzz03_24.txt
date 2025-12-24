@@ -1,0 +1,10 @@
+{WINDOW}
+{Yellow} [Larva]
+--------------------------------------------------End--
+{WINDOW}
+{White} When its HP is halved, it casts 'Thundara' on itself to recover
+and also raises its magic power, so before that,
+inflict 'Silence' status with 'Silence Attack'.
+--------------------------------------------------End--
+Larva's magic power has been strengthened!
+--------------------------------------------------End--

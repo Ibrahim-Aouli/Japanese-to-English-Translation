@@ -1,0 +1,73 @@
+{Rikku} 
+Ah~! It's treasure [40+48?]~!
+--------------------------------------------------End--
+{Rikku} 
+I wonder what's inside~?
+--------------------------------------------------End--
+{Rikku} 
+When I get angry,
+I'm scary, you know~!
+--------------------------------------------------End--
+{Rikku} 
+Watch me~! With the item I just got,
+I'll just hit it hard!
+--------------------------------------------------End--
+{Tidus} 
+What incredible [40+49?] power~!
+--------------------------------------------------End--
+{Wakka} 
+What did you do!?
+--------------------------------------------------End--
+{Lulu} 
+That just now...?
+--------------------------------------------------End--
+{Yuna} 
+Amazing!
+--------------------------------------------------End--
+{Auron} 
+Not bad.
+--------------------------------------------------End--
+{Kimahri} 
+It's a technique {Kimahri} doesn't know.
+--------------------------------------------------End--
+{Rikku} 
+If you combine items and use them,
+it means you can do things like this too.
+--------------------------------------------------End--
+{Rikku} 
+Well, I'm just doing it casually, though.
+--------------------------------------------------End--
+
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [Treasure [40+48?] appearing in battle]
+--------------------------------------------------End--
+{WINDOW}
+{White} Treasure [40+48?] placed within the battle scene
+{Yellow} They can be opened using the Special {White} command's {Yellow} Steal {White}.
+--------------------------------------------------End--
+{WINDOW}
+If the monsters disappear, the battle will end, so
+If treasure [40+48?] is not opened, you cannot obtain its contents.
+If you attack again, the treasure [40+48?] will break.
+In this case, you also won't obtain what's inside.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【About Blending】
+--------------------------------------------------End--
+{WINDOW}
+Rikku's Overdrive technique {Yellow} 【Blending】{White} is...
+{WINDOW}
+...combining two items you have at the time,
+{WINDOW}
+...a technique that produces various effects.
+{WINDOW}
+However, what effect will occur, without trying it first...
+{WINDOW}
+You won't know.
+--------------------------------------------------End--
+{WINDOW}
+Now, the two Bomb Souls you obtained from the treasure [40+48?],
+{WINDOW}
+please try Blending.
+--------------------------------------------------End--

@@ -1,0 +1,73 @@
+{Cid} 
+Hold on tight!
+--------------------------------------------------End--
+{Cid} 
+Don't fall!
+--------------------------------------------------End--
+{Cid} 
+Alright, charging in!
+--------------------------------------------------End--
+{Tidus} 
+Old man, move away!
+--------------------------------------------------End--
+{Tidus} 
+Old man, come closer!
+--------------------------------------------------End--
+{Rikku} 
+Old man, keep your distance!
+--------------------------------------------------End--
+{Rikku} 
+Come closer!
+--------------------------------------------------End--
+{Cid} 
+Wait a moment!
+--------------------------------------------------End--
+{Cid} 
+Wait a moment!
+--------------------------------------------------End--
+{Cid} 
+At this distance...
+I'll fire based on my judgment!
+--------------------------------------------------End--
+{Cid} 
+Out of ammo~!?
+What a day!
+--------------------------------------------------End--
+{Cid}'s turn: move away from Efraye [40+48?]
+--------------------------------------------------End--
+{Cid}'s turn: approach Efraye
+--------------------------------------------------End--
+Efraye approaching
+--------------------------------------------------End--
+Breath preparation
+--------------------------------------------------End--
+Breath attack misfire
+--------------------------------------------------End--
+Glare
+--------------------------------------------------End--
+Light projectile
+--------------------------------------------------End--
+Serious mode when HP is low.
+--------------------------------------------------End--
+Breath attack that hurts upon hit.
+--------------------------------------------------End--
+Missile: 0 remaining
+--------------------------------------------------End--
+Missile: 1 remaining
+--------------------------------------------------End--
+Missile: 2 remaining
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} [About Airship Movement]
+--------------------------------------------------End--
+{WINDOW}
+{White} The distance between the airship and Evrae is a Trigger Command.
+It can be changed with {Yellow} [Approach]{White} and {Yellow} [Move Away]{White}.
+Only {Tidus} and Rikku can use commands.
+--------------------------------------------------End--
+{WINDOW}
+After giving the order, when it becomes Cid's turn to act,
+The airship will move.
+If it's before Cid acts, with the {Yellow} [Cancel]{White} command,
+you can also cancel it.
+--------------------------------------------------End--

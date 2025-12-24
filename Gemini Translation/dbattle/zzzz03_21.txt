@@ -1,0 +1,7 @@
+{WINDOW}
+{Yellow}
+--------------------------------------------------End--
+{WINDOW}
+{White} has high attack power, so use 'Blind Attack' to...
+...inflict 'Blind' status.
+--------------------------------------------------End--

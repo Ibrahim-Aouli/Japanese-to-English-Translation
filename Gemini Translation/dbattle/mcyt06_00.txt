@@ -1,0 +1,82 @@
+{WINDOW}
+{Tidus} 
+Right from the start, you
+I didn't like.
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+Oh. That is truly [40+48?]し[40+49?]ない.
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+Don't underestimate me!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+Even if my opponent is Master Seymour,
+I... will fight!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+…………
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+Very well.
+That earnest gaze is truly [40+50?]しい.
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+Know my darkness...
+Come forth, Anima!
+--------------------------------------------------End--
+{WINDOW}
+{Seymour} 
+That power that repelled Anima,
+I will obtain by any means necessary.
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Master Seymour! Please stop!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka} 
+Damn it! What's happening...!
+--------------------------------------------------End--
+{WINDOW}
+Guado Guard
+…………
+--------------------------------------------------End--
+{WINDOW}
+Guado Guard
+…………
+--------------------------------------------------End--
+{WINDOW}
+Anima is gathering power.
+--------------------------------------------------End--
+{WINDOW}
+Anima OVERDRIVE!!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus}'s {Yellow} Attack Power {White} Up!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna}'s {Yellow} Magic Defense {White} Up!
+--------------------------------------------------End--
+{WINDOW}
+{Wakka}'s {Yellow} Magic Defense {White} Up!
+--------------------------------------------------End--
+{WINDOW}
+{Yuna} 
+O Revered One, lend me your strength!
+--------------------------------------------------End--
+{WINDOW}
+{Tidus} 
+{Yuna}! It's a new summon!
+--------------------------------------------------End--
+{WINDOW}
+Guado Guard does not respond.
+--------------------------------------------------End--
+{WINDOW}
+Guado Guard does not respond.
+--------------------------------------------------End--
