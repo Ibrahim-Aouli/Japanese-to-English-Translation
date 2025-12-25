@@ -1,0 +1,465 @@
+{WINDOW}
+If you enter the {Yellow} [Sphere Grid]{White} from the menu screen,
+--------------------------------------------------End--
+{WINDOW}
+at the selected character's position,
+a cursor is displayed.
+--------------------------------------------------End--
+{WINDOW}
+In this state, with {Direcional Left} {Direcional Up} {Direcional Down} {Direcional Right},
+you can move the cursor.
+--------------------------------------------------End--
+{WINDOW}
+At this time, if you look at the top of the screen,
+places where you can {Yellow} increase physical defense{White},
+--------------------------------------------------End--
+{WINDOW}
+and where you can {Yellow} learn abilities{White}...
+you will realize that such places exist.
+--------------------------------------------------End--
+{WINDOW}
+These are the {Yellow} [Growth Spheres]{White}.
+--------------------------------------------------End--
+{WINDOW}
+When you {Yellow} activate{White} these Growth Spheres,
+the character will grow.
+--------------------------------------------------End--
+{WINDOW}
+To __P0__ activate__P1__ Growth Spheres,
+you move the character
+to the vicinity of a Growth Sphere.
+--------------------------------------------------End--
+{WINDOW}
+Now, let's try moving.
+--------------------------------------------------End--
+{WINDOW}
+If you press {Button Circle}...
+--------------------------------------------------End--
+{WINDOW}
+the cursor will return to the character's position,
+and commands will be displayed.
+--------------------------------------------------End--
+{WINDOW}
+Here, if you select {Yellow} [Move]{White}...
+--------------------------------------------------End--
+{WINDOW}
+The character can move.
+The area lights up.
+--------------------------------------------------End--
+{WINDOW}
+The movable area is the character's
+It is the same as {Yellow} {S.Lv (Sphere Level)} {White}.
+--------------------------------------------------End--
+{WINDOW}
+S.Lv, by participating in battles,
+and obtaining AP (Ability Points),
+increases.
+--------------------------------------------------End--
+{WINDOW}
+The character accumulates AP in battle to raise S.Lv,
+and uses S.Lv to move on the Sphere Grid.
+If you don't participate in battles, you won't gain AP, so
+you can never grow.
+--------------------------------------------------End--
+{WINDOW}
+Currently, the {Tidus} S.Lv {Yellow} is 4, so
+you can advance {Yellow} 4 {White}.
+--------------------------------------------------End--
+{WINDOW}
+However, if you rush too far ahead,
+you will miss activating the intermediate Growth Spheres,
+and your growth will be delayed.
+--------------------------------------------------End--
+{WINDOW}
+So, advance only one space
+--------------------------------------------------End--
+{WINDOW}
+and learn the "Encourage" ability.
+Even if you don't go to the Growth Sphere's location,
+{Yellow} you can activate it by going next to it {White}.
+--------------------------------------------------End--
+{WINDOW}
+If you choose a destination,
+--------------------------------------------------End--
+{WINDOW}
+Your character's S.Lv will decrease, and
+you will move.
+--------------------------------------------------End--
+{WINDOW}
+When movement ends,
+--------------------------------------------------End--
+{WINDOW}
+You will be asked to confirm whether your destination is correct.
+You will be asked to confirm.
+--------------------------------------------------End--
+{WINDOW}
+If it's alright,
+please select "Yes".
+--------------------------------------------------End--
+{WINDOW}
+Movement has now been confirmed.
+You can no longer redo it.
+--------------------------------------------------End--
+{WINDOW}
+If you want to activate a Growth Sphere
+in a place you passed through after confirming movement,
+please consume S.Lv again and move.
+--------------------------------------------------End--
+{WINDOW}
+If it's a place you've already passed through,
+if you consume 1 S.Lv, you can advance {Yellow} 4{White}.
+However, if you keep backtracking,
+you will waste S.Lv.
+Please think carefully before moving.
+--------------------------------------------------End--
+{WINDOW}
+Now,
+--------------------------------------------------End--
+{WINDOW}
+Once movement ends, it's finally time...
+{Yellow} 【Activate】{White} a Growth Sphere.
+--------------------------------------------------End--
+{WINDOW}
+To __P0__ activate__P1__ Growth Spheres,
+Use a {Yellow} 【Sphere】{White}.
+--------------------------------------------------End--
+{WINDOW}
+Spheres, such as by defeating enemies in battle,
+are items that can be obtained in various ways.
+--------------------------------------------------End--
+{WINDOW}
+Now then, press {Button Circle}...
+--------------------------------------------------End--
+{WINDOW}
+Select {Yellow} 【Use】{White} from the commands.
+--------------------------------------------------End--
+{WINDOW}
+The list of Spheres you have
+has been displayed.
+--------------------------------------------------End--
+{WINDOW}
+Each Sphere, respectively,
+has characteristics.
+--------------------------------------------------End--
+{WINDOW}
+For example, the {Yellow} 【Power Sphere】{White}
+for "Attack Power," "Physical Defense," and "HP"
+can activate Growth Spheres.
+--------------------------------------------------End--
+{WINDOW}
+Also, the {Yellow} 【Ability Sphere】{White}
+for "Ability"
+can activate Growth Spheres.
+--------------------------------------------------End--
+{WINDOW}
+The Growth Spheres that can be activated
+are those at the {Yellow} character's current position{White} and
+those at the {Yellow} next to the current position{White}.
+One space ahead or one space behind the current position.
+Growth Spheres can also be activated.
+--------------------------------------------------End--
+{WINDOW}
+From the current position, what can be activated is...
+...only "Ability" Growth Spheres.
+You can only use "Ability Spheres."
+--------------------------------------------------End--
+{WINDOW}
+When you choose the sphere you want to use,
+--------------------------------------------------End--
+{WINDOW}
+the Growth Spheres that can be activated with the chosen sphere
+will glow.
+--------------------------------------------------End--
+{WINDOW}
+Since you chose the "Ability Sphere" now,
+only "Ability" Growth Spheres will glow.
+--------------------------------------------------End--
+{WINDOW}
+Here, if you choose which Growth Sphere
+to activate,
+--------------------------------------------------End--
+{WINDOW}
+the Growth Sphere will activate, and your character will
+learn an ability.
+In exchange, one "Ability Sphere"
+will be consumed.
+--------------------------------------------------End--
+{WINDOW}
+The method for raising parameters like Attack Power, Magic Power, Max HP, and Max MP
+is also the same.
+--------------------------------------------------End--
+{WINDOW}
+By using "Power Spheres," "Magic Spheres,"
+"Speed Spheres," etc.,
+you can raise each respective parameter.
+--------------------------------------------------End--
+{WINDOW}
+Also, Growth Spheres on the Sphere Grid
+{Yellow} each individual can activate separately{White}
+--------------------------------------------------End--
+{WINDOW}
+Even Growth Spheres activated by other characters
+if you move to that spot and use a sphere again
+you can use it for growth again.
+--------------------------------------------------End--
+{WINDOW}
+Also, {Yellow} 【Sphere Lock】{White} on the Sphere Grid
+cannot be passed through yet.
+We will explain when it becomes passable.
+--------------------------------------------------End--
+{WINDOW}
+That concludes the basic explanation of growth.
+Furthermore, the Sphere Grid has several
+convenient functions.
+--------------------------------------------------End--
+{WINDOW}
+A character's current status
+can be viewed with {Button Triangle}.
+--------------------------------------------------End--
+{WINDOW}
+Look carefully at your current status,
+and consider how to grow from now on.
+Let's think.
+--------------------------------------------------End--
+{WINDOW}
+Also, with {Button L1} or {Button R1},
+--------------------------------------------------End--
+{WINDOW}
+the character you are moving on the Sphere Grid
+can be switched.
+--------------------------------------------------End--
+{WINDOW}
+You can grow them collectively,
+When comparing stats.
+It's useful.
+--------------------------------------------------End--
+{WINDOW}
+Additionally, with {Button SELECT}, the Sphere Grid's
+entirety can be viewed.
+--------------------------------------------------End--
+{WINDOW}
+This concludes the Sphere Grid explanation.
+Let's try developing {Tidus}.
+--------------------------------------------------End--
+{WINDOW}
+On the Sphere Grid, by ordinary methods,
+there are {Yellow} places you cannot pass {White}.
+--------------------------------------------------End--
+{WINDOW}
+Such {Yellow} 【Sphere Locks】{White}...
+--------------------------------------------------End--
+{WINDOW}
+...by using special {Yellow} 【Key Spheres】{White},
+you will be able to pass through.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} 【Lv. 1 Sphere Locks】{White}
+--------------------------------------------------End--
+{WINDOW}
+by using {Yellow} 【Lv. 1 Key Spheres】{White},
+can be passed through.
+--------------------------------------------------End--
+{WINDOW}
+To open Sphere Locks,
+--------------------------------------------------End--
+{WINDOW}
+there are 4 types of Key Spheres.
+With 4 types of Key Spheres,
+--------------------------------------------------End--
+{WINDOW}
+4 types of Sphere Locks
+can be passed through.
+通れるようにできます
+--------------------------------------------------End--
+{WINDOW}
+To equipment such as weapons and armor
+add abilities and strengthen them.
+That is {Yellow} [Modification] {White}.
+--------------------------------------------------End--
+{WINDOW}
+By using items to modify,
+you can {Yellow} add abilities to equipment {White}.
+--------------------------------------------------End--
+{WINDOW}
+First, select the equipment you wish to modify.
+--------------------------------------------------End--
+{WINDOW}
+Among equipment, there are some that can be modified, and
+some that cannot.
+--------------------------------------------------End--
+{WINDOW}
+On the "Abilities" list at the bottom right of the screen,
+if there are {Yellow} empty panels {White} displaying nothing
+on the equipment,
+--------------------------------------------------End--
+{WINDOW}
+it can be modified and strengthened.
+--------------------------------------------------End--
+{WINDOW}
+Conversely, equipment without
+empty panels cannot be modified.
+--------------------------------------------------End--
+{WINDOW}
+Also, there is some equipment
+that cannot be modified no matter what you do.
+--------------------------------------------------End--
+{WINDOW}
+Now,
+--------------------------------------------------End--
+{WINDOW}
+When you select the equipment you wish to modify,
+--------------------------------------------------End--
+{WINDOW}
+a list of abilities that can be added to
+the selected equipment will be displayed.
+--------------------------------------------------End--
+{WINDOW}
+Also, the items consumed for modification.
+It is displayed in the top right.
+--------------------------------------------------End--
+{WINDOW}
+The left side is the current number of items.
+--------------------------------------------------End--
+{WINDOW}
+The right side is the number of items after modification.
+{Yellow} When you modify, items will decrease, {White}.
+--------------------------------------------------End--
+{WINDOW}
+If the necessary items for modification are insufficient,
+abilities will be displayed in {Gray} gray, {White},
+--------------------------------------------------End--
+{WINDOW}
+and you cannot select them.
+--------------------------------------------------End--
+{WINDOW}
+When you select the abilities you want to add to your equipment,
+--------------------------------------------------End--
+{WINDOW}
+you will be asked to confirm if you really want to modify, so
+--------------------------------------------------End--
+{WINDOW}
+if you select "Yes," the modification is complete.
+--------------------------------------------------End--
+{WINDOW}
+When you modify, the weapon's name
+may also change.
+--------------------------------------------------End--
+{WINDOW}
+This concludes the explanation of modification.
+--------------------------------------------------End--
+{WINDOW}
+Since you have obtained {Yellow} 【Summoner's Heart】{White},
+--------------------------------------------------End--
+{WINDOW}
+from now on, by using items,
+{Yellow} teaching abilities to summoned beasts {White}
+is possible.
+--------------------------------------------------End--
+{WINDOW}
+By selecting {Yellow} 【Learn】{White},
+--------------------------------------------------End--
+{WINDOW}
+and the abilities you want to teach,
+when you select a summoned beast...
+--------------------------------------------------End--
+{WINDOW}
+The chosen summon can learn.
+the selected equipment will be displayed.
+--------------------------------------------------End--
+{WINDOW}
+Also, for the summon's growth,
+the items to be consumed as well.
+It is displayed in the top right.
+--------------------------------------------------End--
+{WINDOW}
+The left side is the current number of items.
+--------------------------------------------------End--
+{WINDOW}
+The right side is the number of items after growth.
+{Yellow} Items decrease when you grow summons.{White}
+--------------------------------------------------End--
+{WINDOW}
+Abilities already learned, or
+--------------------------------------------------End--
+{WINDOW}
+if items necessary for growth are insufficient,
+abilities will be displayed in {Gray} gray, {White},
+--------------------------------------------------End--
+{WINDOW}
+and you cannot select them.
+--------------------------------------------------End--
+{WINDOW}
+abilities you want the summon to learn,
+if you choose an ability,
+--------------------------------------------------End--
+{WINDOW}
+so you will be asked to confirm if you truly want to learn.
+--------------------------------------------------End--
+{WINDOW}
+If you select 'Yes', the summon...
+learn an ability.
+--------------------------------------------------End--
+{WINDOW}
+Summons can learn the same abilities as characters,
+however,
+--------------------------------------------------End--
+{WINDOW}
+among them, there are unlearnable
+abilities as well.
+--------------------------------------------------End--
+{WINDOW}
+This concludes the explanation for 'Learn'.
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Since you obtained [Summon's Heart],{White}
+--------------------------------------------------End--
+{WINDOW}
+from now on, by using items,
+{Yellow} you can raise your summon's parameters.{White}
+--------------------------------------------------End--
+{WINDOW}
+{Yellow} Choose [Grow] and{White}
+--------------------------------------------------End--
+{WINDOW}
+choose the summon you want to grow.
+--------------------------------------------------End--
+{WINDOW}
+The parameters of the chosen summon will be displayed.
+Parameters that cannot be raised are in {Gray} gray{White}.
+are displayed.
+--------------------------------------------------End--
+{WINDOW}
+To the right of the parameters,
+the summon's current abilities
+are displayed.
+--------------------------------------------------End--
+{WINDOW}
+Currently{Ixion} its attack power is 20.
+--------------------------------------------------End--
+{WINDOW}
+If you choose the parameter you want to raise,
+the items consumed for that purpose will also
+be displayed in the top right.
+--------------------------------------------------End--
+{WINDOW}
+The number of items consumed
+changes depending on the summon's abilities.
+--------------------------------------------------End--
+{WINDOW}
+An ability that is already high,
+if you try to raise even further,
+many items are needed.
+--------------------------------------------------End--
+{WINDOW}
+Now, if you choose the parameter you want to raise,
+--------------------------------------------------End--
+{WINDOW}
+since you will be asked to confirm if you truly want to raise it,
+--------------------------------------------------End--
+{WINDOW}
+if you choose "Yes", the summon's
+parameters will increase.
+--------------------------------------------------End--
+{WINDOW}
+This concludes the explanation for "Raise."
+--------------------------------------------------End--

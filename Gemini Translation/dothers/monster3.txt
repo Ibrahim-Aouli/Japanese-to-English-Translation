@@ -1,0 +1,2068 @@
+Iron Giant
+--------------------------------------------------End--
+Upon taking a certain amount of damage, it performs "Sweep". Evade with "Bline Buster".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Besides attacking targets with low HP,
+Upon taking a certain amount of damage, it performs an area attack.
+It performs "Sweep".
+It has no elemental weakness. Lightning attribute damage...
+...is halved, so fight with "Piercing" weapons.
+"Bline Buster" is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Wolframiter
+--------------------------------------------------End--
+Two units perform "Symmetry Sweep". Concentrate attacks on one to defeat it.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Upon taking a certain amount of damage, it performs an area attack.
+It performs "Sweep", but at that time...
+If the two left and right units are aligned...
+...great damage from "Symmetry Sweep".
+If one unit absorbs lightning and fire attributes,
+the other unit absorbs water and ice attributes.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Wolframiter
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Wolframiter
+--------------------------------------------------End--
+Two units perform "Symmetry Sweep". Concentrate attacks on one to defeat it.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Upon taking a certain amount of damage, it performs an area attack.
+It performs "Sweep", but at that time...
+If the two left and right units are aligned...
+...great damage from "Symmetry Sweep".
+If one unit absorbs lightning and fire attributes,
+the other unit absorbs water and ice attributes.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Basilisk
+--------------------------------------------------End--
+Watch out for its "petrification" glare.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If you are hit by its "glare" from its third eye,
+You will enter "petrified" status.
+Be careful, as this may occur.
+"Petrification" can be cured with "Esuna" or a "Gold Needle."
+Can be cured.
+{Yellow} Obtainable enemy skill: "Petrification Breath."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Hedge Viper
+--------------------------------------------------End--
+Watch out for its "petrification" glare.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If you are hit by its "glare" from its third eye,
+You will become "petrified" with a high probability.
+If attacked several times, it will unleash from its tail
+An ultrasonic wave, "Tail Sonic," for a party-wide attack.
+{Yellow} Obtainable enemy skill: "Petrification Breath."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Adamantoise
+--------------------------------------------------End--
+It is covered by a hard shell.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It is covered by a hard shell.
+"Breath" is fire-elemental party-wide damage.
+Its party-wide attack "Earthquake," besides damage,
+Has the effect of delaying actions.
+Such as "Armor Break"
+'Mental Break' is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Varuna
+--------------------------------------------------End--
+Magic of all four elements—Fire, Thunder, Water, Ice—is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Casts "Haste" on itself, then magic...
+Since it unleashes it, let's cancel it with "Dispel".
+Once it starts "Magic Focus", next...
+Unleashes "Emblem of Fate".
+You can reduce damage with "Shell", but...
+Sometimes uses "Dispel".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ochu
+--------------------------------------------------End--
+Weak to fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When its HP decreases, with "Ochu Dance"...
+On everyone: "Darkness", "Silence", rarely "Confusion".
+Status ailments such as "Slow"...
+It causes.
+Also be careful of its claws with "Poison" effect.
+Since it is a plant type, fire attribute is its weakness.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mandragora
+--------------------------------------------------End--
+Weak to fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+The more you intervene, the more the area attack "Earthquake's"...
+timing speeds up, and when its HP decreases...
+With "Ochu Dance", "Darkness" on everyone.
+Silence. Rarely Confusion, Slow.
+Causes status ailments like these.
+Also beware of "Poison." Weak to Fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Rock Dragon Type 99.
+--------------------------------------------------End--
+Melee attacks cannot reach. Defeat enemies in front to approach.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+The Yevon Temple has defied its teachings.
+A machine they are secretly using.
+It performs area attacks...
+...only when far away.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Rock Dragon Type 97.
+--------------------------------------------------End--
+Melee attacks cannot reach. Defeat enemies in front to approach.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It performs area attacks...
+...only when far away.
+"Delay" type skills are not effective.
+
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Bomb.
+--------------------------------------------------End--
+It will self-destruct if it takes damage 3 times.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When it takes damage 3 times, a Fire-attribute...
+...it retaliates against the last attacker with "Self-destruct."
+If it doesn't seem possible to defeat it within 3 attacks...
+...let's defend against the Fire attribute with "Bafire."
+Weak to Ice, so "Blizzard" is effective.
+{Yellow} The enemy skill "Self-destruct" can be obtained.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Grenade
+--------------------------------------------------End--
+It will self-destruct if it takes damage 3 times.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It self-destructs after taking damage 3 times...
+...same as a Bomb.
+It's weak to Ice, but its Magic Defense is high, so...
+...in order to defeat it with 3 attacks or less...
+...we want to lower its Magic Defense.
+{Yellow} The enemy skill "Self-destruct" can be obtained.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tekki 63
+--------------------------------------------------End--
+When it's the last one remaining, it unleashes "Roundhouse Kick".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+The Yevon Temple has defied its teachings.
+A machine they are secretly using.
+It unleashes it when it's the last one remaining.
+If you're knocked away by "Roundhouse Kick"...
+...you cannot return to battle.
+{Yellow} The enemy skill "Roundhouse Kick" can be obtained.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tekki 11
+--------------------------------------------------End--
+When it's the last one remaining, it unleashes "Roundhouse Kick".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It unleashes it when it's the last one remaining.
+If you're knocked away by "Roundhouse Kick"...
+...you cannot return to battle.
+"Delay" type skills are not effective.
+{Yellow} The enemy skill "Roundhouse Kick" can be obtained.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Monk Soldier
+--------------------------------------------------End--
+Single-target attack with a rifle
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+A soldier of the Yevon Temple guarding St. Bevelle Palace
+The rifle weapon targets one ally
+Physical damage
+"Sleep" is effective
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tomb Monk Soldier
+--------------------------------------------------End--
+"Zombie" status. Weak to "Recovery."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+A soldier who guards the Yevon Dome even after death
+The rifle weapon targets one ally
+Inflicts physical damage
+Becomes "Zombie" status when attacked
+Be careful, as this may occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Monk Soldier
+--------------------------------------------------End--
+Fire-elemental area attack with a flamethrower
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+A soldier of the Yevon Temple guarding St. Bevelle Palace
+The flamethrower weapon targets all allies
+Inflicts fire-elemental damage
+"Sleep" is effective
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tomb Monk Soldier
+--------------------------------------------------End--
+"Zombie" status. Weak to "Recovery."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+A soldier who guards the Yevon Dome even after death
+The flamethrower weapon targets all allies
+Inflicts fire-elemental damage
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Koyokoyo
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Magic Pot
+--------------------------------------------------End--
+Choose a target and attack. If it's a "hit," you get an item. If it's a "miss," then...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If the target you attacked is a "hit,"
+you get an item, but if it's a "miss,"
+it explodes and the battle ends. You will receive massive damage.
+So, remember to heal.
+There are 8 types of items you can get in total.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Magic Pot
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Magic Pot
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Magic Pot
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Magic Pot
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sabotender?
+--------------------------------------------------End--
+If you defeat it without letting it escape, something good will happen...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+"Harisenbon" will always
+deal 1000 damage, so be careful.
+Attacks are hard to land, and magic is also not very effective.
+The more its HP decreases, the more it "flees," so
+it is very difficult to defeat, but "Threaten" is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sabotender
+--------------------------------------------------End--
+If you defeat it without letting it escape, something good will happen...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+"Harimanbon" will always
+deal 10000 damage, so be careful.
+Attacks are hard to land, and magic is also not very effective.
+The more its HP decreases, the more it "flees," so
+It's very difficult to defeat, but
+if defeated, it yields a large amount of AP.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Larva
+--------------------------------------------------End--
+It casts "Thundara" on itself to recover HP, steadily growing stronger.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When its HP is halved, it recovers with "Thundara."
+And it will further boost its magic power.
+Before then, use "Silence Attack" to
+inflict "Silence" status.
+It is weak to Water, so "Watera" is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Barbatos
+--------------------------------------------------End--
+It is covered in tough armor, but if you use "Armor Break"...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It protects itself with tough armor.
+"Armor Break" is effective, but
+you will suffer a powerful counterattack.
+"Sturmflame," an area-of-effect magic attack.
+...or "Body Press," an area-of-effect physical attack, among others.
+All its attacks deal heavy damage, so be careful.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？？？
+--------------------------------------------------End--
+You might be able to obtain items with "Steal."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Under preparation.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Wendigo
+--------------------------------------------------End--
+It relentlessly uses physical attacks. Its attack power decreases when "Berserk" wears off, but...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Performs only physical attacks.
+When it raises both hands and prepares itself.
+If you use physical attacks, it will perform a powerful counterattack.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Guado Guard
+--------------------------------------------------End--
+It recovers with "Auto-Potion," so do not let it use items.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It recovers with "Auto-Potion," so...
+Let's think of a way to prevent it from using items.
+When it appears with other monsters.
+With magic like "Berserk," it can strengthen monsters.
+It may strengthen monsters with magic like "Berserk."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Fungoongo
+--------------------------------------------------End--
+If attacked, it counterattacks with "Pollen" that has a "Sleep" effect.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It uses "Fire," but "Silence" is effective.
+If attacked, it counterattacks with "Pollen."
+All allies may fall into a "Sleep" state,
+so be careful.
+Let's fight after inflicting "Sleep" status.
+As it is a plant-type monster, its weakness is the fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Thorn
+--------------------------------------------------End--
+If physically attacked, it counterattacks with "Pollen" that has "Sleep" and "Darkness" effects.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It uses "Fira," but "Sleep" is effective.
+Counters with "pollen" when physically attacked.
+All allies become inflicted with "Sleep" and "Blind."
+so be careful.
+As it is a plant-type monster, its weakness is the fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Antesansan
+--------------------------------------------------End--
+Counters with "pollen" that inflicts "Poison," "Blind," and "Silence" when physically attacked.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Uses "Firaga," but "Silence" is effective.
+Counters with "pollen" when physically attacked.
+All allies become inflicted with "Poison," "Blind," and "Silence."
+so be careful.
+As it is a plant-type monster, its weakness is the fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Kooshipos
+--------------------------------------------------End--
+Can rarely inflict "Blind."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Very agile.
+In addition to occasionally inflicting "Darkness"...
+Intimidate is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Pyurobolus
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra-proof (for Omega).
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Spirit
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra-proof (for Omega).
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Wraith
+--------------------------------------------------End--
+Performs 'Death Sentence' at the start of battle.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Each time encountered, its weakness and absorbed elements
+are different, so observe carefully and fight.
+Uses "Death Sentence" in battle.
+If no one is afflicted with "Death Sentence,"
+it may also cast "Death," so be careful.
+{Yellow} Can obtain the enemy skill "Death Sentence".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sand Balsam
+--------------------------------------------------End--
+It absorbs Water-elemental attacks.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+"Seed Machine Gun" damage is
+small, but can sometimes cause "Confusion."
+It's a desert plant, so it absorbs Water-elemental attacks, but...
+Weak to fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Guado Guard
+--------------------------------------------------End--
+It tries to seal Lulu's magic.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It manipulates monsters like Bombs and Chimeras.
+When it spots Lulu, it uses "Silence" or...
+...or "Confuse" to seal her magic, but...
+If you first use "Silence Attack" to seal its magic,
+it won't be able to do anything.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tonberry
+--------------------------------------------------End--
+It approaches over 4 turns. You must defeat it before then...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It slowly "Advances" to get closer.
+After 4 "Advances," it attacks with "Chef's Knife."
+The "Everyone's Grudge" it unleashes as a counterattack...
+If the number of monsters you've defeated so far is high,
+the higher that number, the more damage you receive.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Master Tonberry
+--------------------------------------------------End--
+It approaches over 4 turns. You must defeat it before then...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It slowly "Advances" to get closer.
+After 4 "Advances," it attacks with "Chef's Knife."
+The "Everyone's Grudge" it unleashes as a counterattack...
+If the number of monsters you've defeated so far is high,
+the higher that number, the more damage you receive.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Evil Eye
+--------------------------------------------------End--
+Flies. Magic is not very effective. Beware of 'Confusion'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Its weakness is fire attribute, but its magic defense is also high.
+Receiving 'Gaze' inflicts 'Confusion' status.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Bomb.
+--------------------------------------------------End--
+If attacked 3 times, it will "Self-Destruct."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+After 3 attacks, Fire-elemental.
+...it retaliates against the last attacker with "Self-destruct."
+If it doesn't seem possible to defeat it within 3 attacks...
+...let's defend against the Fire attribute with "Bafire."
+It is weak to Ice-elemental attacks, so "Blizzara" is effective.
+{Yellow} The enemy skill "Self-destruct" can be obtained.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Chimera
+--------------------------------------------------End--
+Blind and Silence are effective. Weak to Intimidate.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Snake uses Thundara. Ox uses Charge.
+Eagle uses Water-elemental area attack 'Aqua Breath'.
+Lion uses Fire-elemental 'Megido Flame'.
+Fight in this order. It is weak to Intimidate.
+Darkness and Silence are effective.
+{Yellow} The enemy skill "Aqua Breath" is obtainable.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dual Horn
+--------------------------------------------------End--
+If it's inflicted with "Darkness," its attacks are easy to dodge.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+"Horn Attack" deals heavy damage, but...
+...if it's in "Darkness" state, it's easy to dodge.
+Inflict "Sleep" status with "Sleep Attack."
+You may also do so.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Guardian War Machine
+--------------------------------------------------End--
+Since it is stone, it is difficult to deal damage with physical attacks.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Since both its Attack and Physical Defense are high
+It is dangerous to fight it head-on.
+The "Blast Punch" it unleashes as a counterattack
+An effect that delays actions and damage.
+"Mighty Guard" and "Slowga"'s
+Also uses magic.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Garuda
+--------------------------------------------------End--
+If it's inflicted with "Darkness," its attacks are easy to dodge.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Has high attack power and HP.
+Watch out for its area-of-effect attack, "Shockwave".
+If "Blinded," its attacks...
+...become easier to dodge.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dingo
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+{Tidus}, defeat it quickly.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Water Prin
+--------------------------------------------------End--
+Water attribute. Can be defeated with magic of the opposite attribute. Physical attacks aren't very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Soft, and difficult to deal damage to with physical attacks.
+A Water-element monster.
+Its weakness is Thunder-element, the opposite of Water-element, so...
+Let's finish it off with Lulu's "Thunder."
+It absorbs Water-element attacks and restores HP,
+so "Water" is forbidden.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Condor
+--------------------------------------------------End--
+Flying. Magic is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Defeat it reliably with Wakka.
+It's weak to the fire attribute, so Lulu's
+'Fire' is also effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Balsam
+--------------------------------------------------End--
+Weak to fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Beware of "Seed Cannon," which deals great damage.
+You could become "Incapacitated" in one hit.
+Plant-type monsters are usually weak to fire attribute.
+Since they are weak, use Lulu's "Fira."
+I'll defeat him.
+{Yellow} The enemy skill "Seed Cannon" can be acquired.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Raldo
+--------------------------------------------------End--
+Covered in a shell. "Piercing" weapons are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in a hard shell, its actions are
+slow, but its physical and magic defenses are high.
+Its weakness is Ice attribute.
+It's also possible to defeat it in one hit with a "Piercing" weapon.
+Aaron can cleave it in two.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Banipp
+--------------------------------------------------End--
+Covered in a shell. "Piercing" weapons are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in a hard shell, its actions are
+slow, but its physical and magic defenses are high.
+Its weaknesses are Ice and Water attributes.
+It's also possible to defeat it in one hit with a "Piercing" weapon.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？？？
+--------------------------------------------------End--
+？？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Under preparation.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Zu
+--------------------------------------------------End--
+If its wings glow, watch out for "Shockwave".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Huge, with high HP.
+It is flying, but it is easy to hit, so
+Let's use high-damage attacks.
+If its wings glow, it will use an all-target attack next turn.
+It will unleash 'Shockwave', so before then,
+Let's defend or restore HP.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Zaurus
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra-proof (for Omega).
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Haaruma
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra-proof (for Omega).
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Aqua Prin
+--------------------------------------------------End--
+Water attribute. Can be defeated with magic of the opposite attribute. Physical attacks aren't very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Soft, and difficult to deal damage to with physical attacks.
+A Water-element monster.
+Its weakness is Thunder-element, the opposite of Water-element, so...
+Let's deal with it using Lightning-elemental magic.
+It absorbs Water-element attacks and restores HP,
+It recovers, so be careful.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Death Float
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra-proof (for Omega).
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Maze Larva
+--------------------------------------------------End--
+It casts "Watera" on itself to recover HP, steadily growing stronger.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When its HP is halved, it recovers with "Watera."
+And it will further boost its magic power.
+Before then, use "Silence Attack" to
+Let's inflict Silence.
+It's weak to Lightning, so "Thundaga" is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mechiie
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra-proof (for Omega).
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Cave Shumeruke
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+Fire and water attribute damage
+is halved.
+
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Swamp Mafuut
+--------------------------------------------------End--
+Covered in a shell. "Piercing" weapons are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in a hard shell, its actions are
+slow, but its physical and magic defenses are high.
+Weaknesses: Lightning and Ice attributes.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Bat Eye
+--------------------------------------------------End--
+Flying. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Its weakness is Fire, but its Magic Defense is high.
+Receiving 'Gaze' inflicts 'Confusion' status.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Isaru
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mayra
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Belgemine
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mimic
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mimic
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mimic
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tsubasa
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Magic Pot
+--------------------------------------------------End--
+Choose a target and attack. If it's a "hit," you get an item. If it's a "miss," then...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If the target you attacked is a "hit,"
+you get an item, but if it's a "miss,"
+it explodes and the battle ends. You will receive massive damage.
+So, remember to heal.
+There are 8 types of items you can get in total.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mimic
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mimic Parts
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Valefor
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ifrit
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mimic Parts
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mimic Parts
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mimic Parts
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Rifle
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Fire Rifle
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Komainu
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+katana
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+kozuka
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+shuriken
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Head
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Arm
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Nishida-san Reservation Complete
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tsurugi
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+The One Who Transcends All
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Catastrophe
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+None
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Earth Eater
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ultima Buster
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Huge Sphere
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Brachioradios
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Shinryu
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Kobushi
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ixion
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Shiva
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tsurugi
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Yojimbo
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dog
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mag
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Rag
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tanket
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Weezalsha
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Fenrir
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Jumbo Pudding
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ornitholestes
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Pteryx
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Hornet
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+One-Eye
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Strato Avis
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Abyss Worm
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Juggernaut
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Fafnir
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Malboro Worst
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Fighting Demon
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Elemental Nega
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Catoblepas
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Chimera Geist
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Coeurl Regina
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ironclad
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Jörmungandr
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Abaddon
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Bomb King
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Cactuar
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Vauban
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sleep Mushroom
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Don Tonberry
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Espada
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Bomb.
+--------------------------------------------------End--
+If attacked 3 times, it self-destructs.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dual Horn
+--------------------------------------------------End--
+While in 'Darkness,' attacks can be nullified.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Vulture
+--------------------------------------------------End--
+When in 'Darkness' status, attacks will miss.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Basilisk
+--------------------------------------------------End--
+Be careful, as you will be 'Petrified' if stared at.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ochu
+--------------------------------------------------End--
+Weak to Fire attacks
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Larva
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Iron Giant
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Chimera
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Monster 84
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sabotender?
+--------------------------------------------------End--
+If you defeat it without letting it escape, something good will happen...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Zu
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sandworm
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ghost
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Malboro
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ashura
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Valefor
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Ifrit
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Ixion
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Shiva
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Bahamut
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Anima
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Yojimbo
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Mag
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Dog
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Heretic Rag
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Der Richter
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Right Hand
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Left Hand
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Unknown
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--

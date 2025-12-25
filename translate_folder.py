@@ -86,7 +86,7 @@ for file_idx in range(start_index, total_files):
     in_path = os.path.join(INPUT_DIR, fname)
     out_path = os.path.join(OUTPUT_DIR, fname)
 
-    with open(in_path, "r", encoding="utf-8") as f:
+    with open(in_path, "r", encoding="utf-8", errors="replace") as f:
         lines = f.readlines()
 
     out_lines = list(lines)  # <-- preserve structure

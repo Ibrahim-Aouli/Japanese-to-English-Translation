@@ -1,0 +1,974 @@
+Tros
+--------------------------------------------------End--
+It performs "Octopus Head" after moving away.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Upon taking a certain amount of damage, it goes behind the pillar...
+...it circles around, and attacks won't reach.
+Performs this on the turn after it circles around.
+The area attack "Octopus Head" deals great damage.
+Skillfully use Trigger Commands...
+...and defeat it so it cannot use "Octopus Head."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sin's Sprout: Gnou
+--------------------------------------------------End--
+Weak to magic.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When it is defending with its hard shell...
+...physical attacks are not very effective.
+Even if you attack with magic, it is absorbed by its tentacles.
+First, after defeating the tentacles, attack with Fire magic...
+...if you deal damage, it will come out of its shell.
+Be careful, as it absorbs Water attacks and recovers.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Gnou's Tentacles
+--------------------------------------------------End--
+Absorbs magic attacks targeting Gnou's main body.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Absorbs magic targeting Gnou's main body.
+Defeat these tentacles before defeating the main body.
+Afterwards, let's attack the main body with magic.
+Since the tentacles themselves have high magic defense,
+physical attacks are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Chocobo Eater
+--------------------------------------------------End--
+Weak to "Blind".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If you deal a certain amount of damage and knock it down,
+even weapons that are not "Kitsuu" will be effective.
+After "You're next," a powerful attack
+will come, so let's focus on healing and defense.
+When its HP gets low, it uses "Blizzard."
+Let's defend with "Bakorud" and fight.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Neslag
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Genko Tenkyoku
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Scraps
+--------------------------------------------------End--
+Even if you defeat them, they keep appearing.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+They fly in one after another from "Sin."
+If its wings glow intensely, in the next turn
+it will release "Spikes," so let's defeat it quickly.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Scraps
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Geosgaeno
+--------------------------------------------------End--
+Covered in hard scales, weak to magic.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Al Bhed Shooter
+--------------------------------------------------End--
+Is weak to Lightning elemental.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When dealt damage, it will gradually become faster.
+So be careful as it starts to act.
+It is weak to Lightning, but if it takes "Thunder,"
+it will counterattack with "Silence Ball."
+Use the surrounding objects to prevent its powerful
+"Blitzball Rush."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Al Bhed Capture
+--------------------------------------------------End--
+It is weak to Lightning. If you attack from below...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+The "Bakurai" it fires after surfacing
+causes area-of-effect damage and "Darkness."
+If you deal a certain amount of damage,
+it will descend, allowing you to prevent "Bakurai."
+Once it surfaces, attack it as many times as possible
+to stop "Bakurai."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+？？？？
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sin
+--------------------------------------------------End--
+You can attack with magic and Wakka's balls.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+At this rate, Kilika will be lost.
+The distance from the ferry is great, so
+use Lulu's magic or Wakka's balls.
+Let's attack.
+Attacks with the summoned beast Valefor are also effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+'Sin's Spawn: Ekyu'
+--------------------------------------------------End--
+If you inflict "Darkness," it's easier to evade attacks.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Its "Drain Touch" drains HP.
+After using it twice in a row, it will use "Screw".
+This performs an area attack.
+If you inflict "Darkness," "Drain Touch" will become...
+...easier to evade. However, "Screw"...
+...cannot be prevented, so be mindful of your remaining HP.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Scraps
+--------------------------------------------------End--
+Even if you defeat them, they keep appearing.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If it uses "Charge," it will disappear, but...
+...they will emerge one after another, so it's endless.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Scraps
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+'Sin's Spawn: Gee'
+--------------------------------------------------End--
+It defends against attacks with its left and right arms.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If you attack its main body, you can defeat it, but...
+...physical attacks are guarded by its tough arms.
+Use "Piercing" weapons to target both arms...
+...defeat them, and then attack its main body.
+If its head makes a suspicious movement, it will unleash "Poison Fluid", so...
+...attack its head to prevent it.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Genko Tenkyoku
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Efrye
+--------------------------------------------------End--
+After inhaling, it unleashes "Breath."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It has high Magic Defense and no elemental weaknesses.
+If you approach and try to defeat it with physical attacks,
+it unleashes "Poison Breath," so be careful.
+When it inhales, ask Cid
+to get away. If you are far away,
+Cid will attack with "Missile."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Efrye Altana
+--------------------------------------------------End--
+It is weak to "Restore."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If hit by "Stone Gaze" underwater and become "Petrified,"
+you cannot return to battle.
+If you attack, it will counterattack. To prevent this,
+open the "Gate Key"......
+Since it is in "Zombie" status, restorative magic and
+items are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Spherimorph
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Al Bhed Gunner
+--------------------------------------------------End--
+It is weak to Thunder-element. When attacked, it seals magic and summons with "Al Bhed Sealer."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It has high Physical Defense and is weak to Thunder-element.
+Performs an area attack with "[Gatling]", but
+If you defeat the Sealer, the "[Magic Beam]"'s
+countdown begins. At this time,
+it counterattacks with a high probability, and furthermore, four times
+if it's hit by magic attacks, it deploys a Sealer.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Al Bhed Sealer
+--------------------------------------------------End--
+Blocks magic and summons. Can be attacked with a ball or an item.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Seymour
+--------------------------------------------------End--
+Magic attacks in the order of Ice, Thunder, Water, Fire.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Uses four elemental magic attacks, but
+since it's always in the order of Ice, Thunder, Water, Fire,
+Yuna's "[Bakold]", "[Basanda]",
+"[Bawota]", "[Bafire]" to defend.
+When cornered, that summon...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+When the gauge fills, Overdrive.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Seymour: Naught
+--------------------------------------------------End--
+Uses four elemental magic, "[Break (Petrify)]", and "[Flare]".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Using four elemental attack magic
+is the same as the battle at Macalania Temple, but
+this time it manipulates consecutive magic.
+When HP is low, "Petrify" magic.
+"Break" or powerful non-elemental magic.
+Casts "Flare."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Phantom Variant
+--------------------------------------------------End--
+Prevent Seymour's combination.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+While 'Petrified', 'Shatter Claw'.
+If received, you are 'Petrify-Shattered' and to battle.
+unable to return.
+The area-of-effect attack, "Desperado,"
+in addition to damage, the effects of support magic
+are nullified, so be careful.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Guardian of the Sacred Land
+--------------------------------------------------End--
+Physical and magic defense are high. Start there.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+"Photon Wing" causes "Confuse,"
+"Sleep," "Silence," "Darkness," "Curse,"
+and other effects.
+For 'Slip Tail', 'Haste'
+is dispelled, and the next action is delayed.
+Uses recovery magic and "Reflect," among others.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Guardian of the Fiend's Sky
+--------------------------------------------------End--
+If you are in front, you will be counterattacked. Evade with the "Move" trigger command.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When attacked, the direction you are facing at that time...
+...you will counterattack in that direction.
+When the circle glows from "Magical Mine"...
+...unless you "Move" with a trigger command...
+...the circle will explode, and you will definitely...
+...be "Incapacitated", so be careful.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Yunalesca
+--------------------------------------------------End--
+Those who manipulate death are weak to holy power.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When you become "Zombie" status, you will take damage from "Curaga" and...
+..."Regen", so...
+...use the item "Holy Water" to recover.
+Counterattacks have the effect of dispelling supportive magic.
+Also, if a summoned beast receives "Mind Blast"...
+...they will become "Cursed" status.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Seymour: Ultimate Form
+--------------------------------------------------End--
+Has obtained the power of the Spiritlight Extremes.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+From the 4 Spiritlight Extremes located behind it...
+...it draws energy to use magic.
+Seymour's actions and attributes are linked to the Spiritlight Extremes'...
+...position.
+
+Genko Tenkyoku rotates left when physically attacked.
+It rotates right when magically attacked.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Braska's Ultimate Summon.
+--------------------------------------------------End--
+If you talk to it with a Trigger Command...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Receiving power from Ju-Pagoda,
+when its gauge fills, it uses a special move.
+By attacking Ju-Pagoda,
+let's seal the special move.
+{Tidus} uses a Trigger Command.
+If they "Talk," the gauge can be lowered only twice.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Crane
+--------------------------------------------------End--
+The power source is electricity.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Biran-Ronso
+--------------------------------------------------End--
+Protects Enke. If they become alone...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+They will prevent attacks on Enke with "Cover", but
+If they "Tackle" and separate from Enke,
+there will be no "Cover".
+If they receive a certain amount of damage, only once,
+they will use "Mighty Guard".
+{Yellow} can acquire multiple "Enemy Skills"!
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Yenke-Ronso
+--------------------------------------------------End--
+Protects Biran. If they become alone...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+They will prevent attacks on Biran with "Cover", but
+If you 'Tackle' and separate from Biran
+there will be no "Cover".
+If they receive a certain amount of damage, only once,
+Use 'White Wind'
+{Yellow} can acquire multiple "Enemy Skills"!
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+'Sin's Left Arm'
+--------------------------------------------------End--
+Gathers energy and unleashes 'Gravija'. Evade with the trigger command 'Get Away'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+The next turn after it gathers energy in its core
+A 'Gravija' that reduces HP to 1/4
+it unleashes, but if you ask Cid and get away
+you can evade. Rarely performs an all-party physical attack.
+Also, with 'Reset Aura,' all
+nullifies support magic, so be careful.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+'Sin's Right Arm'
+--------------------------------------------------End--
+Gathers energy and unleashes 'Gravija'. Evade with the trigger command 'Get Away'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+The next turn after it gathers energy in its core
+A 'Gravija' that reduces HP to 1/4
+it unleashes, but if you ask Cid and get away
+you can evade. Rarely performs an all-party physical attack.
+Also, with 'Reset Aura,' all
+nullifies support magic, so be careful.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sin
+--------------------------------------------------End--
+When Gnai, who controls Sin's power, enters its shell, it starts to gather energy...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When Gnai enters its shell, in the core...
+Energy begins to gather, and HP will be
+Unleashes 'Gravija' which reduces HP to 1/4.
+Nullifies all auxiliary magic.
+Also uses 'Reset Aura'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+'Sin's Fragment: Gnai'
+--------------------------------------------------End--
+Absorbs magic attacks against 'Sin'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When HP falls below half, on the next turn
+Enters its shell. If attacked in that state,
+Uses 'Cura' and recovers HP.
+Then, on the next turn, it exits its shell.
+While in its shell, from 'Gravija'
+It takes no damage, but...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sin
+--------------------------------------------------End--
+Finish it before its mouth opens completely.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+While drawing the airship closer, with its last strength,
+Is trying to unleash gravity magic 'Giga Graviton'
+It is.
+If hit by 'Giga Graviton',
+You will definitely be wiped out. Defeat it before that!
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Guado Guard
+--------------------------------------------------End--
+Guard Seymour.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+'Bon'nouyaku', which inflicts 'Confusion', or
+"Auto-Potion," etc.
+Items are being used for offense and defense.
+Because Seymour's HP also recovers.
+Let's think of a way to block items.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Seymour: Final Form
+--------------------------------------------------End--
+Prevent combinations with the Phantom Prayer Machine.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Next, after the "Lance of Ruin" with the "Zombie" effect.
+The Phantom Prayer Machine might use "Arise."
+"Complete Destruction" unleashed with the Phantom Prayer Machine.
+...etc. Combination attacks are powerful.
+In other words, if you observe Seymour's actions.
+You can also predict the Phantom Prayer Machine's actions.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Phantom Prayer Machine
+--------------------------------------------------End--
+Prevent Seymour's combination.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Beware of combinations with Seymour.
+"Zombie" from Seymour's "Lance of Ruin."
+If in that state, the Phantom Prayer Machine's "Arise" will...
+...cause "KO."
+For the area-of-effect physical attack, "Intersecting Death Blades,"...
+...damage can be reduced with "Protect."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Understood.
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Scraps
+--------------------------------------------------End--
+Defeat only the enemies ahead. When its wings glow intensely, beware of "Thorns".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Circle
+--------------------------------------------------End--
+One person can move to one magic circle.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Scraps
+--------------------------------------------------End--
+Defeat only the enemies ahead. When its wings glow intensely, beware of "Thorns".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Scraps
+--------------------------------------------------End--
+Finish them all off with Auron's Overdrive "Dragon Fang".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Shido
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Genko Tenkyoku
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Wyvern
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Al Bhed Porter
+--------------------------------------------------End--
+Is weak to Lightning elemental.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+The Al Bhed repaired it and are using it.
+Ancient machine.
+It's not for combat, but with its work arm...
+Its attacks are not to be underestimated.
+Since it is weak to Lightning, with "Thunder"...
+Great damage.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Stray Ochu
+--------------------------------------------------End--
+Weak to fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Beware of its "Poison" claws.
+When its HP is low, it sleeps to recover.
+If you attack it while it's sleeping, its eyes...
+...will wake up and counterattack with "Earthquake", so be careful.
+Since it is a plant type, fire attribute is its weakness.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Genko Tenkyoku
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sahagin
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sahagin Chief
+--------------------------------------------------End--
+Is weak to Lightning elemental.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Agile, but its attack power is not high.
+Its HP is also low, so if it's just one...
+...it's not a tough opponent.
+Weak to Thunder.
+Can inflict "Blind" and "Sleep" statuses.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Garuda
+--------------------------------------------------End--
+If it's inflicted with "Darkness," its attacks are easy to dodge.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Has high attack power and HP.
+Watch out for its area-of-effect attack, "Shockwave".
+If "Blinded," its attacks...
+...become easier to dodge.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Click
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sin's Spawn: Emes
+--------------------------------------------------End--
+Unleash 'Gravide' that reduces HP to 3/4.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Head
+--------------------------------------------------End--
+Attack the head to prevent 'Poison Fluid'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If you attack its main body, you can defeat it, but...
+...physical attacks are guarded by its tough arms.
+Put it away by utilizing 'Piercing' weapons.
+Defeat both arms, then attack the main body.
+If its head makes a suspicious movement, it will unleash "Poison Fluid", so...
+...attack its head to prevent it.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Arm
+--------------------------------------------------End--
+It is protecting the main body with hard armor.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If you attack its main body, you can defeat it, but...
+...physical attacks are guarded by its tough arms.
+Use "Piercing" weapons to target both arms...
+...defeat them, and then attack its main body.
+If its head makes a suspicious movement, it will unleash "Poison Fluid", so...
+...attack its head to prevent it.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Gate Key
+--------------------------------------------------End--
+The gate opens, and you can escape.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Valefor
+--------------------------------------------------End--
+Defeat me...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ifrit
+--------------------------------------------------End--
+No need for mercy...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ixion
+--------------------------------------------------End--
+End everything...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Shiva
+--------------------------------------------------End--
+Defeat me...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Bahamut
+--------------------------------------------------End--
+I wish to be put to sleep...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Anima
+--------------------------------------------------End--
+This is atonement...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Yojimbo
+--------------------------------------------------End--
+Destroy me...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tanker truck
+--------------------------------------------------End--
+Is about to fall from the highway.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Gate Key
+--------------------------------------------------End--
+The gate opens, and you can escape.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Monster 172
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ju-Pagoda
+--------------------------------------------------End--
+Inflict damage to stop its movement.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ju-Pagoda
+--------------------------------------------------End--
+Inflict damage to stop its movement.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Tentacle
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ebon-Ju
+--------------------------------------------------End--
+Possesses the summoned beast.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Genko Tenkyoku
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mag
+--------------------------------------------------End--
+Let's end this...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dog
+--------------------------------------------------End--
+Don't shed tears...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Rag
+--------------------------------------------------End--
+I have to say goodbye...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--

@@ -1,0 +1,698 @@
+End Unspecified
+--------------------------------------------------End--
+Zanarkand Stadium
+--------------------------------------------------End--
+Zanarkand Stadium
+--------------------------------------------------End--
+Zanarkand Stadium
+--------------------------------------------------End--
+Zanarkand Harbor
+--------------------------------------------------End--
+Zanarkand Harbor
+--------------------------------------------------End--
+Houseboat Cabin
+--------------------------------------------------End--
+Zanarkand Ruins
+--------------------------------------------------End--
+Zanarkand Harbor
+--------------------------------------------------End--
+Sea Ruins
+--------------------------------------------------End--
+Sea Ruins - Sunken Hall
+--------------------------------------------------End--
+Sea Ruins - Passage
+--------------------------------------------------End--
+Sea Ruins - Hall
+--------------------------------------------------End--
+Sea Ruins - Hall
+--------------------------------------------------End--
+Sea Ruins - Stairs
+--------------------------------------------------End--
+Sea Ruins - Small Room
+--------------------------------------------------End--
+Sea Ruins - Antechamber
+--------------------------------------------------End--
+Drifting
+--------------------------------------------------End--
+Sea Ruins - Fayth Chamber
+--------------------------------------------------End--
+Salvage Ship - Deck
+--------------------------------------------------End--
+Salvage Ship - Sea Surface
+--------------------------------------------------End--
+Salvage Ship
+--------------------------------------------------End--
+Underwater Ruins
+--------------------------------------------------End--
+Underwater Ruins
+--------------------------------------------------End--
+Underwater Ruins
+--------------------------------------------------End--
+Besaid Island - Dock
+--------------------------------------------------End--
+Besaid Island - Beach
+--------------------------------------------------End--
+Besaid Island - Dock
+--------------------------------------------------End--
+Besaid Island - Beach
+--------------------------------------------------End--
+Besaid Island - Fork in the Road
+--------------------------------------------------End--
+Besaid Island - Sunken Valley
+--------------------------------------------------End--
+Besaid Island - Road to the Ruins
+--------------------------------------------------End--
+Besaid Island - Road to the Waterfall
+--------------------------------------------------End--
+Besaid Island - Mountain Pass
+--------------------------------------------------End--
+Besaid Island - Slope to the Village
+--------------------------------------------------End--
+Besaid Village
+--------------------------------------------------End--
+Besaid Village
+--------------------------------------------------End--
+Besaid Village - Extermination Squad Quarters
+--------------------------------------------------End--
+Besaid Village - Extermination Squad Quarters
+--------------------------------------------------End--
+Besaid Village - House
+--------------------------------------------------End--
+Besaid Village - House
+--------------------------------------------------End--
+Besaid Village - Shop
+--------------------------------------------------End--
+Besaid Village - House
+--------------------------------------------------End--
+Besaid Temple - Great Hall
+--------------------------------------------------End--
+Besaid Temple - Chamber of Trials
+--------------------------------------------------End--
+Besaid Temple - Cleric's Chamber
+--------------------------------------------------End--
+Besaid Temple - Cleric's Chamber
+--------------------------------------------------End--
+Besaid Temple - Antechamber
+--------------------------------------------------End--
+Besaid Temple - Chamber of the Fayth
+--------------------------------------------------End--
+Ferry Riki - Deck
+--------------------------------------------------End--
+Kilika-Besaid Ferry
+--------------------------------------------------End--
+Ferry Riki - Deck
+--------------------------------------------------End--
+Ferry Riki - Pilothouse
+--------------------------------------------------End--
+Ferry Riki - Corridor
+--------------------------------------------------End--
+Ferry Riki - Cabin
+--------------------------------------------------End--
+Ferry Riki - Engine Room
+--------------------------------------------------End--
+Ferry Riki - Deck
+--------------------------------------------------End--
+Ferry Riki - Deck
+--------------------------------------------------End--
+Kilika Coastal Waters - Underwater
+--------------------------------------------------End--
+Port Kilika
+--------------------------------------------------End--
+Port Kilika - Dock
+--------------------------------------------------End--
+Port Kilika - Dock
+--------------------------------------------------End--
+Port Kilika - Dock
+--------------------------------------------------End--
+Porto Kilika: Tavern
+--------------------------------------------------End--
+Porto Kilika: Plaza Remains
+--------------------------------------------------End--
+Porto Kilika: Residential Area
+--------------------------------------------------End--
+Porto Kilika: Inn
+--------------------------------------------------End--
+Porto Kilika: Residential Area
+--------------------------------------------------End--
+Porto Kilika: House
+--------------------------------------------------End--
+Porto Kilika: House
+--------------------------------------------------End--
+Kilika Forest
+--------------------------------------------------End--
+Kilika Forest
+--------------------------------------------------End--
+Kilika Forest
+--------------------------------------------------End--
+Kilika Temple: Approach
+--------------------------------------------------End--
+Kilika Temple
+--------------------------------------------------End--
+Kilika Temple
+--------------------------------------------------End--
+Kilika Temple: Great Hall
+--------------------------------------------------End--
+Kilika Temple: Cleric's Chamber
+--------------------------------------------------End--
+Kilika Temple: Cleric's Chamber
+--------------------------------------------------End--
+Kilika Temple: Lift
+--------------------------------------------------End--
+Kilika Temple: Chamber of Trials
+--------------------------------------------------End--
+Kilika Temple: Antechamber
+--------------------------------------------------End--
+Kilika Temple: Fayth's Chamber
+--------------------------------------------------End--
+Ferry Uino - Deck
+--------------------------------------------------End--
+Luca-Kilika Ferry
+--------------------------------------------------End--
+Ferry Uino - Deck
+--------------------------------------------------End--
+Ferry Uino - Bridge
+--------------------------------------------------End--
+Ferry Uino - Corridor
+--------------------------------------------------End--
+Ferry Uino - Corridor
+--------------------------------------------------End--
+Ferry Uino - Corridor
+--------------------------------------------------End--
+Ferry Uino - Passenger Cabin
+--------------------------------------------------End--
+Ferry Uino - Engine Room
+--------------------------------------------------End--
+Ferry Uino - Bridge
+--------------------------------------------------End--
+Luca Stadium - Main Gate
+--------------------------------------------------End--
+Luca Port - Port 1
+--------------------------------------------------End--
+Luca Port - Port 2
+--------------------------------------------------End--
+Luca Port - Port 3
+--------------------------------------------------End--
+Luca Port - Port 4
+--------------------------------------------------End--
+Luca Port - Port 5
+--------------------------------------------------End--
+Luca Stadium - Audience Seating
+--------------------------------------------------End--
+Luca Stadium - VIP Seating
+--------------------------------------------------End--
+Luca Stadium - Pool
+--------------------------------------------------End--
+Luca Theater
+--------------------------------------------------End--
+Luca Theater - Entrance
+--------------------------------------------------End--
+Luca Theater - Reception
+--------------------------------------------------End--
+Luca Theater - Main Hall
+--------------------------------------------------End--
+Luca Stadium - Underground Floor A
+--------------------------------------------------End--
+Luca Stadium - Aurochs Locker Room
+--------------------------------------------------End--
+Luca Stadium - Underground Floor B
+--------------------------------------------------End--
+Luca Port - Port 4
+--------------------------------------------------End--
+Luca Port - Connecting Bridge
+--------------------------------------------------End--
+Luca Stadium
+--------------------------------------------------End--
+Port Town Luca - Central Plaza
+--------------------------------------------------End--
+Port Town Luca - Cafe
+--------------------------------------------------End--
+Port Town Luca - Cafe
+--------------------------------------------------End--
+Port Town Luca - Outskirts
+--------------------------------------------------End--
+Port Town Luca - Cafe
+--------------------------------------------------End--
+Mihen Road - South End
+--------------------------------------------------End--
+Mihen Road - In front of Travel Agency
+--------------------------------------------------End--
+Mihen Road - In front of Travel Agency
+--------------------------------------------------End--
+Mihen Road - Travel Agency
+--------------------------------------------------End--
+Mihen Road - New Road South
+--------------------------------------------------End--
+Mihen Road - Old Road South
+--------------------------------------------------End--
+Mihen Road - New Road North
+--------------------------------------------------End--
+Mi'ihen Highroad - Old Road North
+--------------------------------------------------End--
+Mi'ihen Highroad - North End
+--------------------------------------------------End--
+Mi'ihen Highroad - South
+--------------------------------------------------End--
+Mi'ihen Highroad - Central
+--------------------------------------------------End--
+Mushroom Rock Road
+--------------------------------------------------End--
+Mushroom Rock Road - Valley
+--------------------------------------------------End--
+Mushroom Rock Road - Command Center Vicinity
+--------------------------------------------------End--
+Mushroom Rock Road - Command Center Vicinity
+--------------------------------------------------End--
+Djose Highroad
+--------------------------------------------------End--
+Mushroom Rock Road - Cliff
+--------------------------------------------------End--
+Chasing "Sin" Underwater
+--------------------------------------------------End--
+Mushroom Rock Road - Al Bhed Weapon Ruins
+--------------------------------------------------End--
+Mushroom Rock Road - Beach
+--------------------------------------------------End--
+Mushroom Rock Road - Beach
+--------------------------------------------------End--
+Djose Temple - Sea Approach
+--------------------------------------------------End--
+Djose Temple
+--------------------------------------------------End--
+Djose Temple - Supply Facility
+--------------------------------------------------End--
+Djose Temple - Great Hall
+--------------------------------------------------End--
+Djose Temple - Clerics' Chamber
+--------------------------------------------------End--
+Djose Temple - Clerics' Chamber
+--------------------------------------------------End--
+Djose Temple - Chamber of Trials
+--------------------------------------------------End--
+Djose Temple: Antechamber
+--------------------------------------------------End--
+Djose Temple: Antechamber
+--------------------------------------------------End--
+Djose Temple: Chamber of the Fayth
+--------------------------------------------------End--
+Moonflow: South Bank Path
+--------------------------------------------------End--
+Moonflow: South Bank
+--------------------------------------------------End--
+Moonflow: South Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: South Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: South Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: South Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: South Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: South Bank Shoopuf Landing
+--------------------------------------------------End--
+Illusory Light River
+--------------------------------------------------End--
+On the Shoopuf's Back
+--------------------------------------------------End--
+Moonflow: North Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: North Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: North Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: North Bank Shoopuf Landing
+--------------------------------------------------End--
+Moonflow: North Bank
+--------------------------------------------------End--
+Moonflow: North Bank Path
+--------------------------------------------------End--
+Guadosalam
+--------------------------------------------------End--
+Guadosalam: Inn
+--------------------------------------------------End--
+Guadosalam: Shop
+--------------------------------------------------End--
+Guadosalam - House
+--------------------------------------------------End--
+Guadosalam - House
+--------------------------------------------------End--
+Seymour's Manor - Entrance
+--------------------------------------------------End--
+Seymour's Manor - Great Hall
+--------------------------------------------------End--
+Zanarkand - Yunalesca's Chamber
+--------------------------------------------------End--
+Path to the Farplane
+--------------------------------------------------End--
+Farplane Gate
+--------------------------------------------------End--
+Farplane Gate
+--------------------------------------------------End--
+Farplane Gate
+--------------------------------------------------End--
+Farplane Gate
+--------------------------------------------------End--
+Farplane Gate
+--------------------------------------------------End--
+The Farplane
+--------------------------------------------------End--
+Thunder Plains - South
+--------------------------------------------------End--
+Thunder Plains - Travel Agency
+--------------------------------------------------End--
+Thunder Plains - Travel Agency Private Room
+--------------------------------------------------End--
+Thunder Plains - North
+--------------------------------------------------End--
+Thunder Plains - Outside Travel Agency
+--------------------------------------------------End--
+Thunder Plains - Travel Agency Hallway
+--------------------------------------------------End--
+Thunder Plains - Travel Agency
+--------------------------------------------------End--
+Thunder Plains - Travel Agency Private Room
+--------------------------------------------------End--
+Thunder Plains - Outside Travel Agency
+--------------------------------------------------End--
+Macalania Forest - South
+--------------------------------------------------End--
+Macalania Forest - Central
+--------------------------------------------------End--
+Macalania Forest - North
+--------------------------------------------------End--
+Macalania Forest - Sphere Spring
+--------------------------------------------------End--
+Macalania Forest - Road to the Lake
+--------------------------------------------------End--
+Macalania Forest - Road to Bevelle
+--------------------------------------------------End--
+Macalania Forest - Road to Bevelle
+--------------------------------------------------End--
+Macalania Forest - Road to the Plains
+--------------------------------------------------End--
+Macalania Forest - Road to the Plains
+--------------------------------------------------End--
+Macalania Forest - Campsite
+--------------------------------------------------End--
+Macalania Forest - Campsite
+--------------------------------------------------End--
+Macalania Forest - Campsite
+--------------------------------------------------End--
+Macalania Forest - Sacred Spring
+--------------------------------------------------End--
+Macalania Forest - Sacred Spring
+--------------------------------------------------End--
+Macalania Lake - Travel Agency Front
+--------------------------------------------------End--
+Macalania Lake - Travel Agency
+--------------------------------------------------End--
+Macalania Lake
+--------------------------------------------------End--
+Macalania Lake - Crevasse
+--------------------------------------------------End--
+Macalania Lake - Lakebed
+--------------------------------------------------End--
+Macalania Temple - Ice Path
+--------------------------------------------------End--
+Macalania Temple - Great Hall
+--------------------------------------------------End--
+Macalania Temple - Priests' Chamber
+--------------------------------------------------End--
+Macalania Temple - Priests' Chamber
+--------------------------------------------------End--
+Macalania Temple - Cloister of Trials
+--------------------------------------------------End--
+Macalania Temple - Antechamber
+--------------------------------------------------End--
+Macalania Temple - Chamber of the Fayth
+--------------------------------------------------End--
+Oasis
+--------------------------------------------------End--
+Sanubia Desert - East
+--------------------------------------------------End--
+Sanubia Desert - Central
+--------------------------------------------------End--
+Sanubia Desert - West
+--------------------------------------------------End--
+Al Bhed Home
+--------------------------------------------------End--
+Al Bhed Home - Entrance
+--------------------------------------------------End--
+Al Bhed Home - Entrance
+--------------------------------------------------End--
+Al Bhed Home - Entrance
+--------------------------------------------------End--
+Al Bhed Home - Main Corridor
+--------------------------------------------------End--
+Al Bhed Home - Air Conditioning Facility
+--------------------------------------------------End--
+Al Bhed Home - Airship Dock
+--------------------------------------------------End--
+Al Bhed Home - Residential Area
+--------------------------------------------------End--
+Al Bhed Home - Residential Area
+--------------------------------------------------End--
+Airship - Cabin
+--------------------------------------------------End--
+Airship - In front of the Lift
+--------------------------------------------------End--
+Airship - Passage
+--------------------------------------------------End--
+Airship - In front of the Storeroom
+--------------------------------------------------End--
+Airship - Storeroom
+--------------------------------------------------End--
+Airship - Passage
+--------------------------------------------------End--
+Airship - Passage
+--------------------------------------------------End--
+Airship - In front of the Bridge
+--------------------------------------------------End--
+Airship - Bridge
+--------------------------------------------------End--
+Airship - Passage
+--------------------------------------------------End--
+Airship - Hold
+--------------------------------------------------End--
+Airship - Passage
+--------------------------------------------------End--
+Airship
+--------------------------------------------------End--
+Airship - Elevator
+--------------------------------------------------End--
+Airship - Deck
+--------------------------------------------------End--
+Airship - Bridge
+--------------------------------------------------End--
+Airship - Bridge
+--------------------------------------------------End--
+Holy Bevelle Palace - Waterway of Cleansing
+--------------------------------------------------End--
+Holy Bevelle Palace - Waterway of Cleansing
+--------------------------------------------------End--
+Holy Bevelle Palace - Main Gate
+--------------------------------------------------End--
+Great Bridge
+--------------------------------------------------End--
+Holy Bevelle Palace - Holy Tower
+--------------------------------------------------End--
+Holy Bevelle Palace - Clear Stream Passage
+--------------------------------------------------End--
+Holy Bevelle Palace - Cleric Exclusive Passage
+--------------------------------------------------End--
+Holy Bevelle Palace - Cleric Exclusive Passage
+--------------------------------------------------End--
+Holy Bevelle Palace - Cleric Exclusive Passage
+--------------------------------------------------End--
+Holy Bevelle Palace - Chamber of Judgment
+--------------------------------------------------End--
+Holy Bevelle Palace - Underground Prison
+--------------------------------------------------End--
+Holy Bevelle Palace - Underground Prison
+--------------------------------------------------End--
+Holy Bevelle Palace - Underground Prison
+--------------------------------------------------End--
+Holy Bevelle Palace - Path of Purgation
+--------------------------------------------------End--
+Holy Bevelle Palace - Gate of Sinners
+--------------------------------------------------End--
+Holy Bevelle Palace - Chamber of Trials
+--------------------------------------------------End--
+Holy Bevelle Palace - Chamber of Trials
+--------------------------------------------------End--
+Holy Bevelle Palace - Chamber of Trials
+--------------------------------------------------End--
+Holy Bevelle Palace - Antechamber
+--------------------------------------------------End--
+Holy Bevelle Palace - Chamber of the Fayth
+--------------------------------------------------End--
+Holy Bevelle Palace - Cleric Exclusive Passage
+--------------------------------------------------End--
+Calm Lands - South
+--------------------------------------------------End--
+Calm Lands - North
+--------------------------------------------------End--
+Calm Lands - Central
+--------------------------------------------------End--
+Calm Lands - Bridge Vicinity
+--------------------------------------------------End--
+Calm Lands - Bridge Vicinity
+--------------------------------------------------End--
+Calm Lands - Valley Bottom
+--------------------------------------------------End--
+Calm Lands - Valley Bottom Cave
+--------------------------------------------------End--
+Calm Lands - Valley Bottom
+--------------------------------------------------End--
+Calm Lands - Valley Bottom Cave
+--------------------------------------------------End--
+Stolen Fayth Cavern
+--------------------------------------------------End--
+Chamber of the Stolen Fayth
+--------------------------------------------------End--
+Remiam Temple.
+--------------------------------------------------End--
+Remiem Temple - Great Hall
+--------------------------------------------------End--
+Mt. Gagazet - Mountain Gate
+--------------------------------------------------End--
+Mt. Gagazet - Mountain Path
+--------------------------------------------------End--
+Mt. Gagazet - Mountain Pass
+--------------------------------------------------End--
+Mt. Gagazet - Fayth Cluster
+--------------------------------------------------End--
+Mt. Gagazet - Fayth Cluster
+--------------------------------------------------End--
+Mt. Gagazet - Fayth Cluster
+--------------------------------------------------End--
+Mt. Gagazet - Ascent Cave
+--------------------------------------------------End--
+Mt. Gagazet - Submerged Cave
+--------------------------------------------------End--
+Mt. Gagazet - Summit Vicinity
+--------------------------------------------------End--
+Road to Zanarkand Ruins
+--------------------------------------------------End--
+Zanarkand Ruins
+--------------------------------------------------End--
+Zanarkand Ruins
+--------------------------------------------------End--
+Zanarkand Ruins - Freeway Remains
+--------------------------------------------------End--
+Ebon Dome
+--------------------------------------------------End--
+Ebon Dome - Main Gate
+--------------------------------------------------End--
+Ebon Dome - Main Gate
+--------------------------------------------------End--
+Ebon Dome - Main Gate
+--------------------------------------------------End--
+Ebon Dome - Interior
+--------------------------------------------------End--
+Ebon Dome - Corridor
+--------------------------------------------------End--
+Ebon Dome - Chamber of Trials
+--------------------------------------------------End--
+Ebon Dome - Chamber of the Fayth
+--------------------------------------------------End--
+Ebon Dome - Great Hall
+--------------------------------------------------End--
+Ebon Dome - Great Hall
+--------------------------------------------------End--
+Ebon Dome - The Heavens
+--------------------------------------------------End--
+Airship - Deck
+--------------------------------------------------End--
+Airship - Deck
+--------------------------------------------------End--
+Airship - Deck
+--------------------------------------------------End--
+Airship - Deck
+--------------------------------------------------End--
+Sin's Phantom Light Cloud
+--------------------------------------------------End--
+Inside Sin - Airship's Vicinity
+--------------------------------------------------End--
+Inside Sin - Airship's Vicinity
+--------------------------------------------------End--
+Inside Sin - Sea of Sadness
+--------------------------------------------------End--
+Inside Sin - Garden of Lament
+--------------------------------------------------End--
+Inside Sin - City of Dead Dreams
+--------------------------------------------------End--
+Inside Sin - Core of the Blessed Dream
+--------------------------------------------------End--
+Inside Sin - End of the Dream
+--------------------------------------------------End--
+Inside Sin - End of the Dream
+--------------------------------------------------End--
+Inside Sin - End of the Dream
+--------------------------------------------------End--
+Inside Sin - Tower of the Dead
+--------------------------------------------------End--
+Omega Ruins
+--------------------------------------------------End--
+Omega Ruins
+--------------------------------------------------End--
+Mushroom Rock Road - High Ground
+--------------------------------------------------End--
+Calm Lands - Training Ground
+--------------------------------------------------End--
+Sea Ruins - Sunken Passage
+--------------------------------------------------End--
+Salvage Ship - Underwater
+--------------------------------------------------End--
+Ebon Dome - Chamber of Trials
+--------------------------------------------------End--
+Holy Bevelle Palace - Cleric Exclusive Passage
+--------------------------------------------------End--
+Mt. Gagazet - Summit Vicinity
+--------------------------------------------------End--
+Road to Zanarkand Ruins
+--------------------------------------------------End--
+Unknown Sea
+--------------------------------------------------End--
+Soon, Luca
+--------------------------------------------------End--
+Luca - Just Before the Match
+--------------------------------------------------End--
+Luca - Journey Resumes
+--------------------------------------------------End--
+Macalania Lake - Crevasse
+--------------------------------------------------End--
+Zanarkand - Freeway
+--------------------------------------------------End--
+Zanarkand - Freeway
+--------------------------------------------------End--
+Luca - Stadium After the Finals
+--------------------------------------------------End--
+Bevelle - Captivity
+--------------------------------------------------End--
+Macalania Forest - North End
+--------------------------------------------------End--
+Zanarkand Harbor
+--------------------------------------------------End--
+Zanarkand Harbor
+--------------------------------------------------End--
+Zanarkand Stadium
+--------------------------------------------------End--
+Zanarkand Stadium
+--------------------------------------------------End--
+Remiem Temple - Fayth Chamber
+--------------------------------------------------End--
+Airship - Bridge
+--------------------------------------------------End--
+Airship - Cabin
+--------------------------------------------------End--
+Zanarkand - Freeway
+--------------------------------------------------End--
+The Farplane
+--------------------------------------------------End--
+Port Town Luca - Cafe
+--------------------------------------------------End--
+Zanarkand - First Battle
+--------------------------------------------------End--
+Mushroom Rock Road - Valley Floor
+--------------------------------------------------End--

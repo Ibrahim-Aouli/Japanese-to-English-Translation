@@ -1,0 +1,1392 @@
+Monster 0
+--------------------------------------------------End--
+Information Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra Window Message
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Raldo
+--------------------------------------------------End--
+Covered in a shell. "Piercing" weapons are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in a hard shell, its actions are
+slow, but its physical and magic defenses are high.
+Its weakness is Ice attribute.
+It's also possible to defeat it in one hit with a "Piercing" weapon.
+Aaron can cleave it in two.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Banipp
+--------------------------------------------------End--
+Covered in a shell. "Piercing" weapons are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in a hard shell, its actions are
+slow, but its physical and magic defenses are high.
+Its weaknesses are Ice and Water attributes.
+It's also possible to defeat it in one hit with a "Piercing" weapon.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Murufush
+--------------------------------------------------End--
+Covered in a shell. "Piercing" weapons are effective. Beware of "Slow".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in a hard shell, its actions are
+slow, but its physical and magic defenses are high.
+Weaknesses: Lightning and Fire attributes.
+Getting hit by "Body Slam" causes a status ailment.
+May become "Slow."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mahoot
+--------------------------------------------------End--
+Covered in a shell. "Piercing" weapons are effective. Beware of "Slow".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in a hard shell, its actions are
+slow, but its physical and magic defenses are high.
+Weaknesses: Lightning and Ice attributes.
+Getting hit by "Body Slam" causes a status ailment.
+May become "Slow."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Shred
+--------------------------------------------------End--
+Covered in a shell. "Piercing" weapons are effective. Beware of "Slow".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in a hard shell, its actions are
+slow, but its physical and magic defenses are high.
+Weakness is Fire attribute. As for the other three attributes,
+Damage is halved.
+Getting hit by "Body Slam" causes a status ailment.
+May become "Slow."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Gandharva
+--------------------------------------------------End--
+Flying. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Uses "Thunder."
+Flying, so attacks are difficult to land.
+Weakness is Water attribute, but magic defense is also high.
+Take it down with Wakka's ball.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Eilouj
+--------------------------------------------------End--
+Flying. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Weakness is Water attribute, but magic defense is also high.
+Since its only attack is "Thundara,"
+If you inflict "Silence" status, it's powerless.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Galkimasela
+--------------------------------------------------End--
+Flying. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Weakness is Water attribute, but magic defense is also high.
+Since its only attack is "Thundaga,"
+If you inflict "Silence" status, it's powerless.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dingo
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+{Tidus}, defeat it quickly.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mihenfang
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Since its weaknesses are Fire and Water elements,
+an elemental weapon will deal great damage
+and can Overkill it.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Garm
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Weak against Lightning and Fire.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Snow Wolf
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Weak against Fire.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sand Wolf
+--------------------------------------------------End--
+Moves very quickly. Magic isn't very effective. Beware of "Sleep" and "Silence".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Weak against Fire and Ice.
+When attacked, into "Sleep" and "Silence" status.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sköll
+--------------------------------------------------End--
+Moves very quickly. Magic isn't very effective. Beware of "Sleep" and "Silence".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Weak against Fire and Lightning.
+When attacked, into "Sleep" and "Silence" status.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Bandersnatch
+--------------------------------------------------End--
+Moves very quickly. Magic isn't very effective. Beware of "Sleep" and "Silence".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Weak against Fire.
+When attacked, into "Sleep" and "Silence" status.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Water Prin
+--------------------------------------------------End--
+Water attribute. Can be defeated with magic of the opposite attribute. Physical attacks aren't very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Soft, and difficult to deal damage to with physical attacks.
+A Water-element monster.
+Its weakness is Thunder-element, the opposite of Water-element, so...
+Let's finish it off with Lulu's "Thunder."
+It absorbs Water-element attacks and restores HP,
+so "Water" is forbidden.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Thunder Pudding
+--------------------------------------------------End--
+Thunder-element. Can be defeated with magic of the opposite element. Physical attacks are not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Soft, and difficult to deal damage to with physical attacks.
+A Thunder-element monster.
+It absorbs Thunder-element attacks and restores HP, but
+is weak to Water-element, the opposite of Thunder-element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Snow Pudding
+--------------------------------------------------End--
+Ice-element. Can be defeated with magic of the opposite element. Physical attacks are not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Soft, and difficult to deal damage to with physical attacks.
+An Ice-element monster.
+It absorbs Ice-element attacks and restores HP, but
+is weak to Fire-element, the opposite of Ice-element.
+Use "Blizzard."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ice Pudding
+--------------------------------------------------End--
+Ice-element. Can be defeated with magic of the opposite element. Physical attacks are not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Soft, and difficult to deal damage to with physical attacks.
+An Ice-element monster.
+It absorbs Ice-element attacks and restores HP, but
+is weak to Fire-element, the opposite of Ice-element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flame Flan
+--------------------------------------------------End--
+Fire element. Can be defeated with magic of the opposing element. Physical attacks are not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Uses "Firaga"
+Soft, and difficult to deal damage to with physical attacks.
+A Fire element monster that is difficult to damage.
+Absorbs the Fire element to recover HP, but
+Weak against the Ice element, which is the opposite of the Fire element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dark Flan
+--------------------------------------------------End--
+Has no elemental weakness. Physical attacks are not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Physical attacks are not very effective, and all
+Reduces elemental attack damage by half.
+"Graviga", "Bio", "Flare"
+"Aspir", "Drain", etc.
+Uses magic other than the four elements.
+{Yellow} Can obtain the enemy ability "White Wind".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Deinonychus
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Since it is weak against the Ice element, if you exploit its weakness,
+You can deal great damage.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ipiria
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Reduces Fire element damage by half, but
+Is weak against the Ice element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Rapturu
+--------------------------------------------------End--
+It moves very quickly. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+If not defeated quickly, you'll take damage.
+Fire and thunder attribute damage
+is halved, but weak to ice attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Meryujinu
+--------------------------------------------------End--
+Movement is swift. Magic is not very effective. Beware of "Petrification" and "Silence".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+Fire and thunder attribute damage
+is halved.
+When attacked, enters "Petrification" and "Silence" states.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Shumeruke
+--------------------------------------------------End--
+Movement is swift. Magic is not very effective. Beware of "Petrification" and "Silence".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+Fire and water attribute damage
+is halved.
+When attacked, enters "Petrification" and "Silence" states.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Yoowii
+--------------------------------------------------End--
+Movement is swift. Magic is not very effective. Beware of "Petrification" and "Silence".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's quick, making attacks difficult to land.
+Its magic defense is also high.
+Fire, thunder, and water attribute
+damage is halved.
+When attacked, enters "Petrification" and "Silence" states.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Condor
+--------------------------------------------------End--
+Flying. Magic is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Defeat it reliably with Wakka.
+It's weak to the fire attribute, so Lulu's
+'Fire' is also effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Simurgh
+--------------------------------------------------End--
+Flying. Magic is effective. Watch out for 'Darkness'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Magic is effective. It's weak to the fire attribute, so...
+Aim for overkill with 'Fira'.
+When attacked, 'Darkness' status is inflicted.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Alcyone
+--------------------------------------------------End--
+Flying. Magic is effective. Watch out for 'Darkness'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Magic is effective. It's weak to the fire attribute, so...
+Aim for overkill with 'Fira'.
+When attacked, 'Darkness' status is inflicted.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Killer Bee
+--------------------------------------------------End--
+Flying. Weak to the ice attribute. Watch out for 'Poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Defeat it promptly with Wakka.
+It's weak to the ice attribute, so Lulu's
+'Blizzard' is also effective.
+Attacks inflict 'Poison' status.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Bite Bug
+--------------------------------------------------End--
+Flying. Weak to the ice attribute. Watch out for 'Poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Magic is effective. Weak to Ice-element.
+Aim for Overkill with 'Blizzard'.
+Attacks inflict 'Poison' status.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Wasp
+--------------------------------------------------End--
+Flying. Weak to the ice attribute. Watch out for 'Poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Magic is effective. Weak to Ice-element.
+Aim for Overkill with 'Blizzara'.
+Attacks inflict 'Poison' status.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Nebiros
+--------------------------------------------------End--
+Flying. Weak to the ice attribute. Watch out for 'Poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Magic is effective. Weak to Ice-element.
+Aim for Overkill with 'Blizzaga'.
+Attacks inflict 'Poison' status.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Float Eye
+--------------------------------------------------End--
+Flying. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Weak to Thunder-element, but also has high Magic Defense.
+Defeat it reliably with Wakka.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Buer
+--------------------------------------------------End--
+Flying. Magic is not very effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Weakness is Water attribute, but magic defense is also high.
+Receiving 'Gaze' inflicts 'Confusion' status.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Evil Eye
+--------------------------------------------------End--
+Flies. Magic is not very effective. Beware of 'Confusion'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+Its weakness is fire attribute, but its magic defense is also high.
+Receiving 'Gaze' inflicts 'Confusion' status.
+May occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ahriman
+--------------------------------------------------End--
+Flies. Magic is not very effective. Beware of 'Confusion'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Flying, so attacks are difficult to land.
+It has no elemental weakness, and its magic defense is also high.
+Receiving 'Gaze' inflicts 'Confusion' status.
+May occur.
+Furthermore, it unleashes the area attack "Supersonic Wave".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Balsam
+--------------------------------------------------End--
+Weak to fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Beware of "Seed Cannon," which deals great damage.
+You could become "Incapacitated" in one hit.
+Plant-type monsters are usually weak to fire attribute.
+Since they are weak, use Lulu's "Fira."
+I'll defeat him.
+{Yellow} The enemy skill "Seed Cannon" can be acquired.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Grat
+--------------------------------------------------End--
+Weak to fire attribute.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+"Seed Cannon" deals great damage.
+"Seed Machine Gun" damage is
+small, but can sometimes cause "Confusion."
+Weak against Fire.
+{Yellow} The enemy skill "Seed Cannon" can be acquired.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sahagin
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sahagin
+--------------------------------------------------End--
+Weak to Thunder. Slow on land.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Agile, but its attack power is not high.
+Its HP is also low, so if it's just one...
+...it's not a tough opponent.
+Weak to Thunder.
+Can inflict "Blind" and "Sleep" statuses.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sahagin
+--------------------------------------------------End--
+Weak to Thunder. Slow on land.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It's on land, so its movements are slow, but...
+...it fires "Water Gun".
+Weak to Thunder.
+Can inflict "Blind" and "Sleep" statuses.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Garuda
+--------------------------------------------------End--
+Weak to "Blind".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Has high attack power and HP.
+Watch out for its area-of-effect attack, "Shockwave".
+If "Blinded," its attacks...
+...become easier to dodge.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Zu
+--------------------------------------------------End--
+If its wings glow, watch out for "Shockwave".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Huge, with high HP.
+It is flying, but it is easy to hit, so
+Let's use high-damage attacks.
+If its wings glow, it will use an all-target attack next turn.
+It will unleash 'Shockwave', so before then,
+Let's defend or restore HP.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Sandworm
+--------------------------------------------------End--
+Beware of the all-target attack 'Earthquake'. If you inflict 'Darkness', 'Headbutt' will be easy to evade.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It unleashes it the turn after it uses 'Earthquake Preparation'.
+Beware of the high-damage all-target attack 'Earthquake'.
+Also, allies who are counterattacked by 'Inhale'
+until the Sandworm 'Spits Out' them
+cannot participate in battle.
+'Darkness' and 'Sleep' are sometimes effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Landworm
+--------------------------------------------------End--
+Beware of the all-target attack 'Earthquake'. It will be a long battle, so watch your remaining HP carefully and fight.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It unleashes it the turn after it uses 'Earthquake Preparation'.
+Beware of the high-damage all-target attack 'Earthquake'.
+'Darkness' and 'Sleep' are effective.
+Its physical and magic defenses are high, so
+For a long battle, use 'Armor Break'.
+Use 'Mental Break'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Guardian Knight
+--------------------------------------------------End--
+Magic Defense is low.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Attack Power and Physical Defense are high.
+With a 1/2 chance, deals great damage,
+and unleashes 'Double Attack', so...
+Prepare your defenses and fight.
+Magic Defense is low, so magic attacks are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Type Zero Guardian Knight
+--------------------------------------------------End--
+'Mental Break' is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Attack Power, Physical Defense, and Magic Defense are high.
+Great damage 'Double Attack'.
+Unleashes with a 1/2 chance; when HP decreases,
+the 'Blast Punch' it unleashes causes actions to be...
+...delayed and deals damage.
+'Mental Break' is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ghost
+--------------------------------------------------End--
+Performs 'Death Sentence' at the start of battle.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Performs 'Death Sentence' at the start of battle.
+If you don't defeat it before the count reaches 0,
+Becomes incapacitated.
+Because its elemental weakness differs with each encounter.
+To avoid wasteful attacks.
+{Yellow} Can obtain the enemy skill "Death Sentence".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Frezias
+--------------------------------------------------End--
+Pay attention when it starts glowing. If it glows up to the 3rd stage, it will unleash "Sonic Wave".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Begins glowing when attacked. 3 stages.
+After glowing up to [that point], with "Sonic Wave".
+It deals damage to all allies, so.
+Inflict "Sleep" status to prevent it from glowing.
+Halves Water elemental damage, but.
+Is weak to Lightning elemental.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Akeolos
+--------------------------------------------------End--
+Pay attention when it starts glowing. If it glows up to the 3rd stage, it will unleash "Sonic Wave".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Begins glowing when attacked. 3 stages.
+After glowing up to [that point], with "Sonic Wave".
+It deals damage to all allies, so.
+Inflict "Sleep" status to prevent it from glowing.
+Nullifies Water elemental damage, but.
+Is weak to Lightning elemental.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Remora
+--------------------------------------------------End--
+Watch out for the area attack "El Niño."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Before it uses the area attack "El Niño."
+We want to defeat it quickly, but the more we attack...
+...the timing of "El Niño" will hasten.
+Let's defeat it with a small number of attacks.
+Halves Water elemental damage, but.
+It's weak to lightning, and "Darkness" and "Poison" are also effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Raging Spike
+--------------------------------------------------End--
+Watch out for the area attack "El Niño."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Before it uses the area attack "El Niño."
+We want to defeat it quickly, but the more we attack...
+...the timing of "El Niño" will hasten.
+Let's defeat it with a small number of attacks.
+Nullifies Water elemental damage, but.
+It's weak to lightning, and "Darkness" and "Poison" are also effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dual Horn
+--------------------------------------------------End--
+If it's inflicted with "Darkness," its attacks are easy to dodge.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+"Horn Attack" deals heavy damage, but...
+...if it's in "Darkness" state, it's easy to dodge.
+Inflict "Sleep" status with "Sleep Attack."
+You may also do so.
+{Yellow} The enemy skill 'Flame' can be acquired.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Varaha
+--------------------------------------------------End--
+If it's inflicted with "Darkness," its attacks are easy to dodge.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If it's afflicted with 'Darkness' status, its attacks can be dodged.
+'Flame Ball' is a fire-attribute area
+attack that deals high damage, but 1 turn
+before it 'Charges', so don't overlook it.
+{Yellow} The enemy skill 'Flame' can be acquired.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Grendel
+--------------------------------------------------End--
+If afflicted with 'Darkness', its attacks are easy to dodge. 'Piercing' weapons are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+If it's afflicted with 'Darkness' status, its attacks can be dodged.
+'Flame Ball' is a fire-attribute area
+attack that deals high damage, but 1 turn
+before it 'Charges', so don't overlook it.
+If it can be afflicted with 'Poison' status, it's easier to defeat.
+{Yellow} The enemy skill 'Flame' can be acquired.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Octopus
+--------------------------------------------------End--
+Its head is covered with a hard shell.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Because it's covered with a hard shell,
+unless using 'Piercing' weapons, damage
+is difficult to deal.
+Magic defense is low, and it is weak to the Lightning attribute.
+When attacked, sometimes "Slow".
+There is a chance it will enter this state, so be careful.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Wyvern
+--------------------------------------------------End--
+Covered in hard scales, "Piercing" weapons are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in hard scales, its actions include:
+slow, but its physical and magic defenses are high.
+Its weakness is Ice attribute.
+It's also possible to defeat it in one hit with a "Piercing" weapon.
+In addition to normal attacks, all allies take damage.
+It unleashes a "Breath" attack.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ramashtu
+--------------------------------------------------End--
+Covered in hard scales, "Piercing" weapons are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in hard scales, its actions include:
+slow, but its physical and magic defenses are high.
+Weak to the Fire attribute.
+When hit by normal attacks, it may become afflicted with a status ailment.
+May become "Slow."
+Also unleashes an Ice attribute area-of-effect "Breath" attack.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Khsarik
+--------------------------------------------------End--
+Covered in hard scales, "Piercing" weapons are effective. Beware of "Slow."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in hard scales, its actions include:
+slow, but its physical and magic defenses are high.
+Weak to the Water attribute.
+When hit by normal attacks, it may become afflicted with a status ailment.
+May become "Slow."
+Also unleashes a Lightning attribute area-of-effect "Breath" attack.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Mushussu
+--------------------------------------------------End--
+Covered in hard scales, "Piercing" weapons are effective. Beware of "Slow."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in hard scales, its actions include:
+slow, but its physical and magic defenses are high.
+Fire element attacks are halved, but it is weak to Ice element.
+When hit by normal attacks, it may become afflicted with a status ailment.
+May become "Slow."
+It also unleashes the Fire element area attack "Breath".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Nidhogg
+--------------------------------------------------End--
+Covered in hard scales, "Piercing" weapons are effective. Beware of "Slow."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Covered in hard scales, its actions include:
+slow, but its physical and magic defenses are high.
+Fire element attacks are halved, but it is weak to Ice element.
+When hit by normal attacks, it may become afflicted with a status ailment.
+May become "Slow."
+It also unleashes the Fire element area attack "Breath".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Malboro
+--------------------------------------------------End--
+If hit by "Bad Breath," you will suffer status ailments. Defeat it before it uses it.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+An area attack that causes multiple status ailments.
+Beware of "Bad Breath": "Poison" and "Confuse".
+If "Berserk" occurs simultaneously, recovery
+will not be possible, and you might become "Incapacitated".
+Defend with armor and attack with Fire element.
+{Yellow} You can obtain the enemy skill "Bad Breath".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Malboro Great
+--------------------------------------------------End--
+It uses "Bad Breath" with a 1/3 probability. Prepare your armor and fight.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It uses "Bad Breath" with a 1/3 probability.
+If hit by a preemptive attack, without being able to do anything,
+there are cases where your party is wiped out, so
+prepare armor that prevents status ailments.
+Since it is a plant type, fire attribute is its weakness.
+{Yellow} You can obtain the enemy skill "Bad Breath".
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ogre
+--------------------------------------------------End--
+If it raises both hands and assumes a stance...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When it raises both hands and braces itself,
+Against physical attacks, it always performs a powerful
+counterattack.
+Fire attribute attacks are effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ashura
+--------------------------------------------------End--
+If it raises both hands and assumes a stance...
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When it raises both hands and braces itself,
+Against physical attacks, it always performs a powerful
+counterattack.
+If you attack with magic or inflict "Poison" status,
+it will be easier to fight.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Piranha
+--------------------------------------------------End--
+Both its Attack Power and HP are low.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It attacks by biting.
+Since both its Attack Power and HP are low,
+it is not a formidable enemy.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Piranha
+--------------------------------------------------End--
+Two units act as a group.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It attacks by biting.
+When two units act as a group,
+Both attack power and HP increase.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Piranha
+--------------------------------------------------End--
+Three units act as a group.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+It attacks by biting.
+When three units act as a group,
+Both attack power and HP increase.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Splasher
+--------------------------------------------------End--
+Beware of 'self-destruction'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When defeated, it self-destructs toward the attacker.
+It may also deal damage.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Splasher
+--------------------------------------------------End--
+Beware of 'poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Two units are acting as a group.
+If bitten, you will become 'poisoned'.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Splasher
+--------------------------------------------------End--
+Beware of 'poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Three units are acting as a group.
+If bitten, you will become 'poisoned'.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Vepar
+--------------------------------------------------End--
+Beware of 'self-destruction'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+When defeated, it self-destructs toward the attacker.
+It may also deal damage.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Vepar
+--------------------------------------------------End--
+Beware of 'poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Two units are acting as a group.
+If bitten, you will become 'poisoned'.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Vepar
+--------------------------------------------------End--
+Beware of 'poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Three units are acting as a group.
+If bitten, you will become 'poisoned'.
+It can occur.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Yellow Element
+--------------------------------------------------End--
+Lightning element. Can be defeated with magic of the opposite element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Uses "Thunder."
+Difficult to deal damage with physical attacks.
+It absorbs Thunder-element attacks and restores HP, but
+Weak to Water element, the opposite of Lightning element.
+"Water" is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+White Element
+--------------------------------------------------End--
+Ice element. Can be defeated with magic of the opposite element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Use "Blizzard."
+Difficult to deal damage with physical attacks.
+It absorbs Ice-element attacks and restores HP, but
+Weak to Fire element, the opposite of Ice element.
+"Fire" is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Red Element
+--------------------------------------------------End--
+Fire element. Can be defeated with magic of the opposite element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Uses "Fire".
+Difficult to deal damage with physical attacks.
+Absorbs the Fire element to recover HP, but
+Weak to Ice element, the opposite of Fire element.
+"Blizzard" is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Gold Element
+--------------------------------------------------End--
+Lightning element. Can be defeated with magic of the opposite element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Uses "Thunder."
+Difficult to deal damage with physical attacks.
+It absorbs Thunder-element attacks and restores HP, but
+Weak to Water element, the opposite of Lightning element.
+"Wotara" can overkill it.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Blue Element
+--------------------------------------------------End--
+Water elemental. Can be defeated with opposing elemental magic.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Uses "Wotara."
+Difficult to deal damage with physical attacks.
+Absorbs Water elemental attacks to recover HP, but...
+...so it is weak to Lightning elemental attacks, which are the opposite of Water elemental.
+"Sandara" is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Dark Element
+--------------------------------------------------End--
+Has no elemental weakness. Casts "Reflect" on itself.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Difficult to deal damage with physical attacks...
+...and has no particular weakness to any of the four elements.
+Casts "Reflect" on itself, and reflects the four elemental...
+...spells to attack. If "Reflect" is...
+...removed with "Dispel," it will use "Bio,"...
+..."Aspir," "Drain," and so on.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Black Element
+--------------------------------------------------End--
+Cannot be analyzed.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Under preparation.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Epeju
+--------------------------------------------------End--
+Beware of 'poison'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Its movements are swift. Its claws have a "Poison" effect.
+In addition to occasionally inflicting "Darkness"...
+Intimidate is effective.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Behemoth
+--------------------------------------------------End--
+Watch out for Rising Attack.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Together with claw attacks and Thundara,
+the Rising Attack it performs deals great damage.
+You could become "Incapacitated" in one hit.
+{P0} The enemy skill 'Mighty Guard' can be acquired.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+King Behemoth
+--------------------------------------------------End--
+Upon defeat, it retaliates with Meteor.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Together with claw attacks and Lightning-elemental magic,
+the Rising Attack it performs deals great damage.
+Also watch out for the Meteor it unleashes just before death.
+Since Meteor is physical damage,
+defending with Protect or {P0} is effective.
+{P0} The enemy skill 'Mighty Guard' can be acquired.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Chimera
+--------------------------------------------------End--
+Blind and Silence are effective. Weak to Intimidate.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Snake uses Thundara. Ox uses Charge.
+Eagle uses Water-elemental area attack 'Aqua Breath'.
+Lion uses Fire-elemental 'Megido Flame'.
+Fight in this order. It is weak to Intimidate.
+Darkness and Silence are effective.
+{Yellow} The enemy skill "Aqua Breath" is obtainable.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Chimera Brain
+--------------------------------------------------End--
+Blind and Silence are effective. Weak to Intimidate.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Snakes use lightning magic, cows use "Charge."
+Eagle uses Water-elemental area attack 'Aqua Breath'.
+Lion uses Fire-elemental 'Megido Flame'.
+Fight in this order. It is weak to Intimidate.
+Darkness and Silence are effective.
+{Yellow} The enemy skill "Aqua Breath" is obtainable.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Coeurl
+--------------------------------------------------End--
+When HP is low, it uses "Drain" and "Blaster."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Its Magic and Magic Defense are high, and it uses "Thundara" and...
+... "Blizzara." When its HP decreases...
+... it also uses "Drain." These spells...
+... can be prevented by "Silence Buster," but...
+... only "Blaster" with its "Petrify" effect...
+... cannot be prevented.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Master Coeurl
+--------------------------------------------------End--
+When HP is low, it uses "Drain," "Confuse," and "Blaster."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Its Magic and Magic Defense are high.
+It uses "Blizzaga." When its HP decreases...
+... it also uses "Drain" and the "Confusion" effect...
+... spell "Confuse."
+Only 'Blaster' with the 'Death' effect
+Cannot be blocked even by 'Silence Buster'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Auto-Guarder
+--------------------------------------------------End--
+Can be defeated in one hit with 'Steal'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Same as the Al Bhed Porter fought in Luca.
+Ancient machine. Somewhat repaired.
+By 'Stealing' to remove its parts, in one hit,
+It can be defeated, so let's leave it to Rikku.
+Also weak to the Lightning element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Auto-Scouter
+--------------------------------------------------End--
+Can be defeated in one hit with 'Steal'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+More than the machine fought in the Sanubia Desert,
+Less damaged, therefore its HP and attack power are high.
+By 'Stealing' to remove its parts,
+It can be defeated in one hit.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Auto-Scouter
+--------------------------------------------------End--
+Can be defeated in one hit with 'Steal'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+More than the machine fought in the Sanubia Desert,
+Less damaged, therefore its HP and attack power are high.
+By 'Stealing' to remove its parts,
+It can be defeated in one hit.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Auto Commander
+--------------------------------------------------End--
+Can be defeated in one hit with 'Steal'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+From 1000 years ago on Mt. Gagazet
+A machine left abandoned.
+"Thunderbolt" is a lightning-element high-damage attack.
+It's also quick to act, so defeat it quickly.
+By 'Stealing' to remove its parts,
+It can be defeated in one hit.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Devil Monolith
+--------------------------------------------------End--
+Watch out for the area-of-effect attack "Breath." Use armor to prevent "Petrify."
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+"Pharaoh's Curse," performed as a counterattack, inflicts...
+...the effects of "Poison," "Silence," "Blind," and "Curse."
+If attacked while "Petrified," you will be shattered and...
+...there are cases where you cannot return to battle.
+Even if not "Petrified," also "Zombie."
+There is a chance it will enter this state, so be careful.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Auto Gunner
+--------------------------------------------------End--
+Can be defeated in one hit with 'Steal'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ancient machine. Somewhat repaired.
+Has high HP compared to Auto Guarder.
+By 'Stealing' to remove its parts, in one hit,
+It can be defeated, so let's leave it to Rikku.
+Also weak to the Lightning element.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Auto Hunter
+--------------------------------------------------End--
+Can be defeated in one hit with 'Steal'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+More than the machine fought in the Sanubia Desert,
+Its HP is high to compensate for its low damage.
+It acts slower than Auto Scouter, but...
+...its attack power is high, so be careful.
+By 'Stealing' to remove its parts,
+It can be defeated in one hit.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Auto Armor
+--------------------------------------------------End--
+Can be defeated in one hit with 'Steal'.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Left abandoned on Mt. Gagazet from 1000 years ago.
+Regarding the machine that was the Auto Commander,
+In comparison, HP and physical defense are high.
+By 'Stealing' to remove its parts,
+Can be defeated in one hit, and moreover, recovery-use.
+Items can be obtained.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Ultima Weapon
+--------------------------------------------------End--
+Fight with all your might.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Omega Weapon
+--------------------------------------------------End--
+Fight with all your might.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
+Libra not possible.
+--------------------------------------------------End--
+ 
+--------------------------------------------------End--
